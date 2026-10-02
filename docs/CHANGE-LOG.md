@@ -29,6 +29,43 @@ All 36 pages were checked at 360, 390 and 414px for zoom-out, elements past the 
 - The home rating seal had gold stars on a gold circle, invisible at every width, with the first one poking out of the circle on phones. They are now navy and centred.
 - On phones, care-card and eyewear-hub photos are 4:3, and the doctor portrait is capped at 300px.
 
+## 2026-10-02 — interior pages modernised
+
+Operator: "modernize the internal pages as well". Styling only; the copy, its order and its headings are unchanged (parity recall still 0.9896).
+- Pages without section headings are a centred reading column instead of a column pinned left.
+- Section headings are smaller, with an azure accent bar, and each section's copy sits on a soft card.
+- Lists use check marks in azure circles; lists of 4 or more short items (6 words or fewer) flow in two columns.
+- Photos and the map are rounded and softly lifted; photos are capped at 460px tall.
+
+## 2026-10-02 — mega menus could not be used with a mouse
+
+Operator: "why can't I click the dropdowns". Hovering opened a menu, and the click then toggled it shut, so the links were unreachable (reproduced with real mouse events).
+- Now a click on a hover-opened menu pins it open. A second click, Escape or a click outside closes it.
+- Leaving a hover-opened menu closes it after 280 ms, so moving from the button down into the panel no longer shuts it.
+- Tested with real input: hover, then click, then click a link navigates (Services and Eyewear); a slow glide into the panel stays open; keyboard Enter opens and closes.
+
+## 2026-10-02 — header balance, card arrows
+
+- **Care cards.** Operator: "remove the arrow button here class=care-grid". The round arrow is gone; linked cards stay clickable over the whole card.
+- **Header.** Operator: "make the nav bar much more clean, it looks cramped to the right".
+  - The menu now takes equal free space on both sides (logo-to-menu = menu-to-button: 64–70px at 1366–1920, 51px at 1280; it was 189px vs 20px).
+  - Items are 7–10px apart (was 2px), and labels never wrap.
+  - Below 1280px the menu button takes over, because at 1200px the full menu wrapped "About Us", "Visit Us" and the button onto two lines.
+
+## 2026-10-02 — soft photos enhanced
+
+Operator: "use this key to enhance any images needed" (Higgsfield). There is no plain upscaler in the API, so `src/tools/enhance-images.mjs` uses the marketing-studio/image editor at 4K with the closest allowed frame. Every result is scaled back to the original's size and compared: mean difference must be ≤ 14/255, with ≤ 3% shape drift. A side-by-side check was also done by eye.
+- **Which photos.** 23 images measured softer than their pixels on a high-density screen. Excluded: the doctor's photo (a real person), brand logos (trademarks) and the Nightstar equipment photo (may be the practice's own).
+- **Accepted (4).** Family on couch (intro) and family reading: 1200×509 → 2400×1018. Schoolboy: 1000×667 → 2400×1601. Sunglasses by the pool: 1200×1200 → 2400×2400.
+- **Rejected by the fidelity check (4).** Schoolgirl, picnic group, eye close-up, optometrist. The editor changed them too much; originals kept.
+- **Skipped (3).** The 1280×480 banners: no output frame within 3% of their 2.67:1 shape.
+- **Caveat.** The accepted copies are re-rendered, not mathematically upscaled. The two family photos are slightly reframed.
+
+## 2026-10-02 — hero badge and hero edge
+
+- **Rating badge.** Operator: "the rating in the hero section does not match the circular shape". The label wraps to two centred lines, the star row sizes to its stars, and the badge is 118px (104px on phones, with 10px stars). Measured: every text line and star sits inside the circle with a 4px margin at 360–1905px.
+- **Hero edge.** Operator: "the gradient of the hero to the next looks abrupt". A white fade now sits over the lower part of the hero glows, the gold glow sits higher, and the interior hero hairline is gone. On stacked phone heroes the photo shadow is tighter, with room under it. Measured colour jump across the hero's bottom edge, before → after: home 47→0 (desktop) and 50→0 (phone); interior 45→0.
+
 ## 2026-10-02 — modern look
 
 Operator: "work with what we got and make it have a modern feel and look to it". Content, structure and brand colours are unchanged; the visual layer is new. See docs/BRAND-SYSTEM.md for the list. Every text colour pair was re-checked (lowest: 4.91:1, white on azure). The hero still fits and stays alone on the first screen at 1024×600 through 1905×940; in the 901–1180px range the headline is capped by width, because the bolder sans wraps sooner.

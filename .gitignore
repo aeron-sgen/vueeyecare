@@ -22,6 +22,9 @@ _site/
 /structure-eyetrends/assets/
 # The downloaded source-image library (144 MB). dist/assets/ carries every image the site uses.
 # Re-download with sr-assets.mjs (see docs/CRAWL-NOTES.md for the preload).
-/assets/
+/assets/*
+# ...except the four accepted AI-upscaled photos the build swaps in (audit/upscaled.json); rejected outputs stay out
+!/assets/enhanced/
+/assets/enhanced/REJECTED-*
 # the handoff zip is a build output
 *.zip

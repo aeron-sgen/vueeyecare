@@ -50,19 +50,20 @@ svg { width: 1.15em; height: 1.15em; flex: none; }
 .utility a:first-child { margin-right: auto; }
 .site-header { position: sticky; top: 0; z-index: 50; background: color-mix(in srgb, var(--paper) 92%, transparent); backdrop-filter: saturate(140%) blur(10px); border-bottom: 1px solid var(--line); transition: box-shadow var(--t-med) var(--ease); }
 .is-scrolled .site-header { box-shadow: 0 10px 30px -24px var(--ink); }
-.bar { display: flex; align-items: center; gap: 20px; min-height: var(--header-h); }
+.bar { display: flex; align-items: center; gap: 24px; min-height: var(--header-h); }
 .brand { display: inline-flex; align-items: center; gap: 12px; text-decoration: none; color: var(--ink); min-height: var(--tap); }
 .brand-mark { width: var(--s); height: var(--s); border-radius: 50%; overflow: hidden; background: var(--white); box-shadow: 0 0 0 1px var(--line); flex: none; display: grid; place-items: center; }
 .brand-mark img { width: 100%; height: 100%; object-fit: contain; }
 .brand-name { font: 500 1.375rem/1 var(--f-display); letter-spacing: -0.01em; font-variation-settings: 'opsz' 36; white-space: nowrap; }
-.nav { margin-left: auto; }
-.nav > ul { display: flex; align-items: center; gap: 2px; list-style: none; margin: 0; padding: 0; }
+/* the menu takes equal free space on both sides, so it sits balanced between the logo and the button */
+.nav { margin-inline: auto; }
+.nav > ul { display: flex; align-items: center; gap: clamp(2px, 0.6vw, 10px); list-style: none; margin: 0; padding: 0; }
 .nav > ul > li { position: relative; }
 /* the wide mega menus anchor to the header bar, centred under it, so they never run off-screen */
 .site-header .bar { position: relative; }
 .nav > ul > li.has-mega { position: static; }
 .mega.mega-wide { top: calc(100% - 6px); }
-.nav > ul > li > a, .nav > ul > li > button { display: inline-flex; align-items: center; gap: 4px; min-height: var(--tap); padding: 0 12px; border: 0; background: none; font: 500 var(--fs-sm)/1 var(--f-body); color: var(--ink); text-decoration: none; cursor: pointer; border-radius: var(--r-pill); }
+.nav > ul > li > a, .nav > ul > li > button { display: inline-flex; align-items: center; gap: 4px; min-height: var(--tap); padding: 0 14px; border: 0; background: none; font: 500 var(--fs-sm)/1 var(--f-body); color: var(--ink); letter-spacing: 0.005em; white-space: nowrap; text-decoration: none; cursor: pointer; border-radius: var(--r-pill); }
 .nav > ul > li > a:hover, .nav > ul > li > button:hover, .nav .open > button { background: var(--paper-2); }
 .nav [aria-current="page"] { box-shadow: inset 0 -2px 0 var(--gold); border-radius: 0; }
 .nav button svg { width: 14px; height: 14px; transition: transform var(--t-fast) var(--ease); }
@@ -74,7 +75,7 @@ svg { width: 1.15em; height: 1.15em; flex: none; }
 .mega li a:hover { color: var(--azure-deep); }
 .mega-foot { grid-column: 1 / -1; margin: 6px 0 0; padding-top: 12px; border-top: 1px solid var(--line); }
 .mega-foot a { display: inline-flex; align-items: center; gap: 8px; min-height: var(--tap); font-weight: 600; text-decoration: none; }
-.header-cta { display: flex; align-items: center; gap: 8px; }
+.header-cta { display: flex; align-items: center; gap: 8px; white-space: nowrap; }
 .menu-toggle, .menu-close { display: none; width: var(--tap); height: var(--tap); border-radius: 50%; border: 1px solid var(--line-strong); background: var(--white); color: var(--ink); cursor: pointer; align-items: center; justify-content: center; }
 
 /* drawer */
@@ -125,9 +126,12 @@ svg { width: 1.15em; height: 1.15em; flex: none; }
 .photo { display: block; overflow: hidden; border-radius: var(--photo-r); background: var(--paper-2); }
 .photo img { width: 100%; height: 100%; object-fit: cover; }
 .hero-media .photo { height: clamp(300px, calc(100svh - var(--hero-offset) - 128px), calc(622px * var(--hero-scale))); box-shadow: var(--shadow-lift); position: relative; z-index: 1; }
-.seal { position: absolute; z-index: 2; left: -2%; bottom: 12%; width: calc(132px * var(--hero-scale)); aspect-ratio: 1; border-radius: 50%; background: var(--gold); color: var(--ink); display: grid; place-content: center; text-align: center; gap: 2px; text-decoration: none; box-shadow: var(--shadow); font-size: var(--fs-xs); line-height: 1.2; }
+.seal { position: absolute; z-index: 2; left: -2%; bottom: 12%; width: 118px; aspect-ratio: 1; border-radius: 50%; background: var(--gold); color: var(--ink); display: grid; place-content: center; text-align: center; gap: 2px; text-decoration: none; box-shadow: var(--shadow); font-size: var(--fs-xs); line-height: 1.2; }
 .seal b { font: 500 calc(2.1rem * var(--hero-scale))/1 var(--f-display); }
-.seal span:last-child { font-size: 0.75rem; }
+/* everything in the round badge stays inside the circle: the star row sizes to its stars, the label wraps to two
+   centred lines, and the badge is a touch bigger than the 80% hero scale gave it (measured by corner distance) */
+.seal span:last-child { font-size: 0.75rem; max-width: 9ch; margin-inline: auto; line-height: 1.15; }
+.seal .stars { width: max-content; margin-inline: auto; }
 .seal .stars { justify-content: center; color: var(--ink); }
 .seal .stars svg { width: 12px; height: 12px; }
 .seal:hover { color: var(--ink); transform: rotate(-4deg); transition: transform var(--t-med) var(--ease); }
@@ -159,8 +163,6 @@ svg { width: 1.15em; height: 1.15em; flex: none; }
 .care-card h3 a { color: var(--ink); text-decoration: none; }
 .care-card h3 a::after { content: ''; position: absolute; inset: 0; }
 .care-card p { color: var(--muted); }
-.cc-go { margin-top: auto; width: var(--tap); height: var(--tap); border-radius: 50%; border: 1px solid var(--line-strong); display: grid; place-items: center; color: var(--ink); transition: background var(--t-fast) var(--ease), color var(--t-fast) var(--ease); }
-.care-card:hover .cc-go { background: var(--ink); color: var(--on-ink); }
 
 /* doctor (navy) */
 .doc-grid { display: grid; grid-template-columns: minmax(0, 0.8fr) minmax(0, 1.2fr); gap: var(--gap-lg); align-items: center; position: relative; }
@@ -456,8 +458,10 @@ h3 { letter-spacing: -0.02em; }
 .site-header { background: color-mix(in srgb, var(--white) 82%, transparent); backdrop-filter: saturate(160%) blur(14px); }
 .nav [aria-current="page"] { box-shadow: none; background: var(--azure-pale); color: var(--azure-ink); border-radius: var(--r-pill); }
 /* hero: soft azure + gold glow behind the copy and photo */
-.home-hero, .page-hero { background: radial-gradient(55% 70% at 88% 18%, var(--glow-azure), transparent 70%), radial-gradient(40% 55% at 6% 96%, var(--glow-gold), transparent 70%), var(--paper); }
-.page-hero { border-bottom: 1px solid var(--line); }
+/* the glows fade out before the hero ends: a white fade sits on top of them over the lower part, and the gold
+   glow sits higher, so the hero meets the next (white) section with no visible edge */
+.home-hero, .page-hero { background: linear-gradient(to bottom, transparent 45%, var(--paper) 96%), radial-gradient(55% 70% at 88% 18%, var(--glow-azure), transparent 70%), radial-gradient(42% 50% at 4% 62%, var(--glow-gold), transparent 72%), var(--paper); }
+.page-hero { border-bottom: 0; }
 .home-hero h1 { font-weight: 700; }
 .seal { background: var(--white); border: 1px solid var(--line); box-shadow: var(--shadow-lift); }
 .seal .stars { color: var(--gold); }
@@ -475,7 +479,6 @@ h3 { letter-spacing: -0.02em; }
 .care-card:hover { transform: translateY(-4px); box-shadow: var(--shadow-lift); }
 .care-card > :not(.photo) { margin-inline: 12px; }
 .care-card .photo { border-radius: calc(var(--r-lg) - 8px); }
-.cc-go { margin-left: 12px; }
 .feature-copy h3, .care-card h3 { letter-spacing: -0.02em; }
 /* navy sections: gentle gradient */
 .section.ink, .site-footer { background: linear-gradient(160deg, var(--navy) 0%, var(--ink-2) 100%); }
@@ -517,6 +520,37 @@ details.more summary { color: var(--sky); }
 .mega-promo .kicker { align-self: flex-start; }
 .home-hero h1 { letter-spacing: -0.03em; }
 
+/* ── interior pages, modern pass (2026-10-02, operator: "modernize the internal pages as well") ──────────
+   Styling only: the copy, its order and its headings are untouched. */
+/* single-column pages read as a centred article instead of a column pinned to the left */
+.band-grid.solo { justify-items: center; }
+.band-grid.solo .band-body { width: 100%; max-width: 780px; }
+/* section bands: a modest heading with an azure accent bar, the copy on a soft card */
+.band { padding-block: clamp(40px, 5vw, 72px); }
+.band-head h2 { font-size: var(--fs-xl); font-weight: 700; letter-spacing: -0.02em; line-height: 1.15; }
+.band-head h2::before { content: ''; display: block; width: 44px; height: 4px; border-radius: 4px; background: var(--azure); margin-bottom: 18px; }
+.band-grid:not(.solo) .band-body { background: var(--white); border: 1px solid var(--line); border-radius: var(--r-lg); padding: clamp(22px, 3vw, 36px); box-shadow: var(--shadow); }
+.band:not(.alt) .band-grid:not(.solo) .band-body { background: var(--paper-2); border-color: transparent; box-shadow: none; }
+.band-body h3 { font-size: var(--fs-lg); font-weight: 650; margin-top: 1.4em; }
+.band-body h3:first-child { margin-top: 0; }
+/* opening paragraph of a page reads as a lead */
+.band-open .band-body > p:first-child { font-size: var(--fs-md); line-height: 1.65; color: var(--text); }
+/* lists: check marks in soft azure circles; short lists flow in two columns */
+.band-body ul:not(.link-cards):not(.review-cards) { list-style: none; padding: 0 !important; margin: 0 0 1.4em; display: grid; gap: 10px 28px; }
+.band-body ul:not(.link-cards):not(.review-cards) > li { position: relative; padding-left: 34px; margin: 0; line-height: 1.55; }
+.band-body ul:not(.link-cards):not(.review-cards) > li::before { content: ''; position: absolute; left: 0; top: 0.1em; width: 22px; height: 22px; border-radius: 50%; background: var(--azure-pale); }
+.band-body ul:not(.link-cards):not(.review-cards) > li::after { content: ''; position: absolute; left: 8px; top: calc(0.1em + 5px); width: 5px; height: 10px; border: solid var(--azure-deep); border-width: 0 2px 2px 0; transform: rotate(45deg); }
+@media (min-width: 761px) { .band-body ul.short-list { grid-template-columns: repeat(2, minmax(0, 1fr)); } }
+.band-body ol { padding-left: 1.4em; }
+/* photos and embeds inside the copy: rounded, softly lifted, never taller than a screen-friendly height */
+.band-body figure:not(.logo):not(.small) { border-radius: var(--r-lg); overflow: hidden; box-shadow: var(--shadow-lift); }
+.band-body figure:not(.logo):not(.small) img { width: 100%; max-height: 460px; object-fit: cover; }
+.band-body .embed { border-radius: var(--r-lg); box-shadow: var(--shadow-lift); border: 1px solid var(--line); }
+.band-body .quick-links { margin-top: 1.6em; }
+/* interior hero: the label, a tighter heading, and the lead given room */
+.page-hero h1 { font-weight: 700; letter-spacing: -0.03em; }
+.page-hero .lead { font-size: var(--fs-md); }
+
 /* ── touch targets: 44px on touch-sized screens ─────────────────────── */
 @media (max-width: 834px) {
   .foot-credit a, .rel-grid a { min-height: var(--tap); }
@@ -535,10 +569,13 @@ details.more summary { color: var(--sky); }
 }
 
 /* ── responsive ───────────────────────────────────────────────────────── */
-@media (max-width: 1180px) {
+/* below 1280px the seven items plus the button no longer fit with clean spacing: the menu button takes over */
+@media (max-width: 1279px) {
   .nav { display: none; }
   .menu-toggle { display: inline-flex; }
   .header-cta { margin-left: auto; }
+}
+@media (max-width: 1180px) {
   .foot-cols { grid-template-columns: repeat(2, minmax(0, 1fr)); }
 }
 @media (min-width: 901px) and (max-width: 1180px) {
@@ -551,6 +588,10 @@ details.more summary { color: var(--sky); }
   .hero-grid { grid-template-columns: minmax(0, 1fr); }
   .hero-media { max-width: 440px; width: 100%; margin-inline: auto; }
   .hero-media .photo { height: auto; aspect-ratio: 4 / 5; }
+  /* stacked hero: the photo sits near the hero's bottom edge, so its shadow is tighter and the hero keeps room under
+     it; otherwise the edge cuts the shadow off (measured as a seam on phones) */
+  .hero-media .photo { box-shadow: var(--shadow); }
+  .home-hero { padding-bottom: clamp(48px, 9vw, 72px); }
   .care-grid { grid-template-columns: minmax(0, 1fr) minmax(0, 1fr); }
   .doc-grid { grid-template-columns: minmax(0, 1fr); }
   .doc-photo { max-width: 360px; }
@@ -579,7 +620,8 @@ details.more summary { color: var(--sky); }
   .header-cta > .btn { display: none; }
   .brand-name { font-size: 1.2rem; }
   .care-grid { grid-template-columns: minmax(0, 1fr); }
-  .seal { width: 92px; left: -2%; bottom: 16%; }
+  .seal { width: 104px; left: -2%; bottom: 16%; }
+  .seal .stars svg { width: 10px; height: 10px; }
   .seal b { font-size: 1.45rem; }
   .doc-chip { right: 2%; padding-right: 14px; }
   .foot-cols { grid-template-columns: minmax(0, 1fr); }

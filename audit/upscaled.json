@@ -1,0 +1,203 @@
+{
+ "note": "Source stock photos upscaled with Higgsfield marketing-studio/image (operator, 2026-10-02: \"use this key to enhance any images needed\"). Each passed a fidelity check against the original (scaled back to the original size: mean difference <= 14, aspect drift <= 0.03). Rejected results are listed under rejected.",
+ "images": {
+  "6f361b99-family-sitting-on-beige-couch.jpg-w_1200.webp": {
+   "file": "assets/enhanced/6f361b99-family-sitting-on-beige-couch.jpg-w_1200.webp",
+   "to": [
+    2400,
+    1018
+   ],
+   "model": "marketing-studio/image",
+   "request_id": "3527fa20-0709-4d97-b45d-005a1440768e",
+   "aspect": "21:9",
+   "from": [
+    1200,
+    509
+   ],
+   "returned": [
+    3840,
+    1648
+   ],
+   "cropped": [
+    3840,
+    1629
+   ],
+   "meanDiff": 9.94,
+   "aspectDrift": 0.0117,
+   "at": "2026-10-02T02:13:09.532Z"
+  },
+  "c5494c19-a-family-sitting-on-a-couch-reading-a-book.jpg-w_1200.webp": {
+   "file": "assets/enhanced/c5494c19-a-family-sitting-on-a-couch-reading-a-book.jpg-w_1200.webp",
+   "to": [
+    2400,
+    1018
+   ],
+   "model": "marketing-studio/image",
+   "request_id": "e85cb4b4-f92c-49f7-bb79-da93da0c3e87",
+   "aspect": "21:9",
+   "from": [
+    1200,
+    509
+   ],
+   "returned": [
+    3840,
+    1648
+   ],
+   "cropped": [
+    3840,
+    1629
+   ],
+   "meanDiff": 13.2,
+   "aspectDrift": 0.0117,
+   "at": "2026-10-02T02:15:18.293Z"
+  },
+  "6250ffb0-shutterstock_2489701361.jpg-w_1000.webp": {
+   "file": "assets/enhanced/6250ffb0-shutterstock_2489701361.jpg-w_1000.webp",
+   "to": [
+    2400,
+    1601
+   ],
+   "model": "marketing-studio/image",
+   "request_id": "c8b4f99e-30d2-4421-907c-58b2cd2e06be",
+   "aspect": "3:2",
+   "from": [
+    1000,
+    667
+   ],
+   "returned": [
+    3504,
+    2336
+   ],
+   "cropped": [
+    3502,
+    2336
+   ],
+   "meanDiff": 5.57,
+   "aspectDrift": 0.0005,
+   "at": "2026-10-02T02:20:57.971Z"
+  },
+  "3eb03080-blue-glasses-with-gold-details-near-a-pool.jpg-w_1200.webp": {
+   "file": "assets/enhanced/3eb03080-blue-glasses-with-gold-details-near-a-pool.jpg-w_1200.webp",
+   "to": [
+    2400,
+    2400
+   ],
+   "model": "marketing-studio/image",
+   "request_id": "6423ea5b-64e2-4f32-98b7-6a450309e768",
+   "aspect": "1:1",
+   "from": [
+    1200,
+    1200
+   ],
+   "returned": [
+    2880,
+    2880
+   ],
+   "cropped": [
+    2880,
+    2880
+   ],
+   "meanDiff": 4.14,
+   "aspectDrift": 0,
+   "at": "2026-10-02T02:24:25.892Z"
+  }
+ },
+ "rejected": {
+  "1c3e12f3-Man20Smiling20Field201280x480_preview1.jpeg-w_1200.webp": {
+   "why": "no allowed output frame within 3% of its 1200x450 shape (closest 21:9)",
+   "at": "2026-10-02T02:14:02.338Z"
+  },
+  "c07fa539-Woman-Something-in-Eye-1280x480.jpg-w_1200.webp": {
+   "why": "no allowed output frame within 3% of its 1200x450 shape (closest 21:9)",
+   "at": "2026-10-02T02:14:02.347Z"
+  },
+  "f3d18460-Happy20Parents20with20Child201280x480_preview1.jpeg-w_1200.webp": {
+   "why": "no allowed output frame within 3% of its 1200x450 shape (closest 21:9)",
+   "at": "2026-10-02T02:14:02.356Z"
+  },
+  "e00efcef-girl-with-schoolbag-eyeglasses.jpg-w_600.webp": {
+   "model": "marketing-studio/image",
+   "request_id": "c8a70e03-54b1-4b59-8c52-cfa58669a639",
+   "aspect": "1:1",
+   "from": [
+    600,
+    600
+   ],
+   "returned": [
+    2880,
+    2880
+   ],
+   "cropped": [
+    2880,
+    2880
+   ],
+   "meanDiff": 30.14,
+   "aspectDrift": 0,
+   "at": "2026-10-02T02:17:35.167Z",
+   "why": "too different from the original"
+  },
+  "f25df0a1-group-people-sitting-blanket-grassy-field-dog.jpg-w_1200.webp": {
+   "model": "marketing-studio/image",
+   "request_id": "321e8730-e0b2-4a0d-863e-76a25373dbbc",
+   "aspect": "16:9",
+   "from": [
+    1200,
+    655
+   ],
+   "returned": [
+    3840,
+    2160
+   ],
+   "cropped": [
+    3840,
+    2096
+   ],
+   "meanDiff": 29.27,
+   "aspectDrift": 0.0296,
+   "at": "2026-10-02T02:19:12.421Z",
+   "why": "too different from the original"
+  },
+  "8e1017ab-close-up-of-an-eye-with-a-crosshair-overlay.jpg-w_1200.webp": {
+   "model": "marketing-studio/image",
+   "request_id": "20c5a1ca-dcfd-48ca-8953-42a121dd5202",
+   "aspect": "21:9",
+   "from": [
+    1200,
+    509
+   ],
+   "returned": [
+    3840,
+    1648
+   ],
+   "cropped": [
+    3840,
+    1629
+   ],
+   "meanDiff": 15.01,
+   "aspectDrift": 0.0117,
+   "at": "2026-10-02T02:22:13.302Z",
+   "why": "too different from the original"
+  },
+  "d9fc7763-optometrist-using-ophthalmoscope.jpg-w_1200.webp": {
+   "model": "marketing-studio/image",
+   "request_id": "f083f5f7-f8ae-403c-89b6-21ac6abdc672",
+   "aspect": "16:9",
+   "from": [
+    1200,
+    655
+   ],
+   "returned": [
+    3840,
+    2160
+   ],
+   "cropped": [
+    3840,
+    2096
+   ],
+   "meanDiff": 18.45,
+   "aspectDrift": 0.0296,
+   "at": "2026-10-02T02:25:54.055Z",
+   "why": "too different from the original"
+  }
+ }
+}

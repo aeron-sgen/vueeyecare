@@ -122,7 +122,7 @@ export function renderHome(page, k) {
   const card = (c, i) => '<li class="care-card reveal" style="--d:' + i + '">'
     + (c.img ? '<span class="photo">' + img(c.img, SZ.card, { alt: c.alt }) + '</span>' : '')
     + '<h3>' + (c.href ? '<a href="' + c.href + '">' + esc(c.title) + '</a>' : esc(c.title)) + '</h3>'
-    + P(c.body) + (c.href ? '<span class="cc-go" aria-hidden="true">' + ICON.arrow + '</span>' : '') + '</li>';
+    + P(c.body) + '</li>';
 
   const body = `
 <section class="home-hero" aria-labelledby="hero-h1"><div class="wrap hero-grid">

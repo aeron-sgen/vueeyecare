@@ -1,6 +1,6 @@
 {
   "schema": "site-reforge/sweep-findings@1",
-  "generated": "2026-10-02T00:14:00.711Z",
+  "generated": "2026-10-02T04:25:44.858Z",
   "sweeps": 144,
   "widths": [
     390,
@@ -502,7 +502,7 @@
           "title": "Image far larger than its display size",
           "detail": "",
           "location": "#main > section.band:nth-of-type(4) > div.wrap.band-grid > div.band-body.prose:nth-of-type(2) > figure > img @ 1024px",
-          "value": "1600px natural vs 586px displayed",
+          "value": "1600px natural vs 523px displayed",
           "inherited": false
         },
         {
@@ -600,7 +600,7 @@
           "title": "Image far larger than its display size",
           "detail": "",
           "location": "#main > section.band:nth-of-type(4) > div.wrap.band-grid > div.band-body.prose:nth-of-type(2) > figure > img @ 390px",
-          "value": "1600px natural vs 358px displayed",
+          "value": "1600px natural vs 312px displayed",
           "inherited": false
         },
         {
@@ -902,14 +902,14 @@
           "title": "Image far larger than its display size",
           "detail": "",
           "location": "#main > section.intro:nth-of-type(2) > div.wrap > div.intro-grid > figure.intro-photo.reveal > span.photo > img @ 1024px",
-          "value": "1200px natural vs 337px displayed",
+          "value": "2400px natural vs 337px displayed",
           "inherited": false
         },
         {
           "severity": "minor",
           "title": "Image far larger than its display size",
           "detail": "",
-          "location": "#main > section.section:nth-of-type(3) > div.wrap > ul.care-grid > li.care-card.reveal:nth-of-type(2) > span.photo:nth-of-type(1) > img @ 1024px",
+          "location": "#main > section.section:nth-of-type(3) > div.wrap > ul.care-grid > li.care-card.reveal:nth-of-type(2) > span.photo > img @ 1024px",
           "value": "1600px natural vs 272px displayed",
           "inherited": false
         },
@@ -1075,14 +1075,14 @@
           "title": "Image far larger than its display size",
           "detail": "",
           "location": "#main > section.intro:nth-of-type(2) > div.wrap > div.intro-grid > figure.intro-photo.reveal > span.photo > img @ 1440px",
-          "value": "1200px natural vs 441px displayed",
+          "value": "2400px natural vs 441px displayed",
           "inherited": false
         },
         {
           "severity": "minor",
           "title": "Image far larger than its display size",
           "detail": "",
-          "location": "#main > section.section:nth-of-type(3) > div.wrap > ul.care-grid > li.care-card.reveal:nth-of-type(2) > span.photo:nth-of-type(1) > img @ 1440px",
+          "location": "#main > section.section:nth-of-type(3) > div.wrap > ul.care-grid > li.care-card.reveal:nth-of-type(2) > span.photo > img @ 1440px",
           "value": "1600px natural vs 369px displayed",
           "inherited": false
         },
@@ -1248,14 +1248,14 @@
           "title": "Image far larger than its display size",
           "detail": "",
           "location": "#main > section.intro:nth-of-type(2) > div.wrap > div.intro-grid > figure.intro-photo.reveal > span.photo > img @ 390px",
-          "value": "1200px natural vs 358px displayed",
+          "value": "2400px natural vs 358px displayed",
           "inherited": false
         },
         {
           "severity": "minor",
           "title": "Image far larger than its display size",
           "detail": "",
-          "location": "#main > section.section:nth-of-type(3) > div.wrap > ul.care-grid > li.care-card.reveal:nth-of-type(2) > span.photo:nth-of-type(1) > img @ 390px",
+          "location": "#main > section.section:nth-of-type(3) > div.wrap > ul.care-grid > li.care-card.reveal:nth-of-type(2) > span.photo > img @ 390px",
           "value": "1600px natural vs 332px displayed",
           "inherited": false
         },
@@ -1429,14 +1429,14 @@
           "title": "Image far larger than its display size",
           "detail": "",
           "location": "#main > section.intro:nth-of-type(2) > div.wrap > div.intro-grid > figure.intro-photo.reveal > span.photo > img @ 768px",
-          "value": "1200px natural vs 440px displayed",
+          "value": "2400px natural vs 440px displayed",
           "inherited": false
         },
         {
           "severity": "minor",
           "title": "Image far larger than its display size",
           "detail": "",
-          "location": "#main > section.section:nth-of-type(3) > div.wrap > ul.care-grid > li.care-card.reveal:nth-of-type(2) > span.photo:nth-of-type(1) > img @ 768px",
+          "location": "#main > section.section:nth-of-type(3) > div.wrap > ul.care-grid > li.care-card.reveal:nth-of-type(2) > span.photo > img @ 768px",
           "value": "1600px natural vs 318px displayed",
           "inherited": false
         },
@@ -3264,7 +3264,7 @@
           "title": "Image far larger than its display size",
           "detail": "",
           "location": "#main > section.band.alt:nth-of-type(3) > div.wrap.band-grid > div.band-body.prose:nth-of-type(2) > figure > img @ 390px",
-          "value": "1200px natural vs 358px displayed",
+          "value": "1200px natural vs 312px displayed",
           "inherited": false
         },
         {
@@ -3990,7 +3990,7 @@
           "title": "Image far larger than its display size",
           "detail": "",
           "location": "#main > section.band:nth-of-type(4) > div.wrap.band-grid > div.band-body.prose:nth-of-type(2) > figure > img @ 1024px",
-          "value": "1600px natural vs 586px displayed",
+          "value": "1600px natural vs 523px displayed",
           "inherited": false
         },
         {
@@ -4014,7 +4014,7 @@
           "title": "Image far larger than its display size",
           "detail": "",
           "location": "#main > section.band.alt:nth-of-type(5) > div.wrap.band-grid > div.band-body.prose:nth-of-type(2) > figure:nth-of-type(5) > img @ 1024px",
-          "value": "1600px natural vs 586px displayed",
+          "value": "1600px natural vs 523px displayed",
           "inherited": false
         },
         {
@@ -4022,7 +4022,7 @@
           "title": "Image far larger than its display size",
           "detail": "",
           "location": "#main > section.band.alt:nth-of-type(7) > div.wrap.band-grid > div.band-body.prose:nth-of-type(2) > figure > img @ 1024px",
-          "value": "1600px natural vs 586px displayed",
+          "value": "1600px natural vs 523px displayed",
           "inherited": false
         },
         {
@@ -4176,7 +4176,7 @@
           "title": "Image far larger than its display size",
           "detail": "",
           "location": "#main > section.band:nth-of-type(4) > div.wrap.band-grid > div.band-body.prose:nth-of-type(2) > figure > img @ 390px",
-          "value": "1600px natural vs 358px displayed",
+          "value": "1600px natural vs 312px displayed",
           "inherited": false
         },
         {
@@ -4200,7 +4200,7 @@
           "title": "Image far larger than its display size",
           "detail": "",
           "location": "#main > section.band.alt:nth-of-type(5) > div.wrap.band-grid > div.band-body.prose:nth-of-type(2) > figure:nth-of-type(5) > img @ 390px",
-          "value": "1600px natural vs 358px displayed",
+          "value": "1600px natural vs 312px displayed",
           "inherited": false
         },
         {
@@ -4208,7 +4208,7 @@
           "title": "Image far larger than its display size",
           "detail": "",
           "location": "#main > section.band.alt:nth-of-type(7) > div.wrap.band-grid > div.band-body.prose:nth-of-type(2) > figure > img @ 390px",
-          "value": "1600px natural vs 358px displayed",
+          "value": "1600px natural vs 312px displayed",
           "inherited": false
         },
         {
@@ -4369,6 +4369,14 @@
           "severity": "minor",
           "title": "Image far larger than its display size",
           "detail": "",
+          "location": "#main > section.band.alt:nth-of-type(3) > div.wrap.band-grid > div.band-body.prose:nth-of-type(2) > figure > img @ 1024px",
+          "value": "2400px natural vs 523px displayed",
+          "inherited": false
+        },
+        {
+          "severity": "minor",
+          "title": "Image far larger than its display size",
+          "detail": "",
           "location": "#main > section.band:nth-of-type(4) > div.wrap.band-grid > div.band-body.prose:nth-of-type(2) > figure.logo.small:nth-of-type(1) > img @ 1024px",
           "value": "400px natural vs 109px displayed",
           "inherited": false
@@ -4456,17 +4464,9 @@
         {
           "severity": "minor",
           "title": "Image far larger than its display size",
-          "detail": "",
-          "location": "#main > section.band:nth-of-type(4) > div.wrap.band-grid > div.band-body.prose:nth-of-type(2) > figure.logo.small:nth-of-type(12) > img @ 1024px",
-          "value": "400px natural vs 109px displayed",
-          "inherited": false
-        },
-        {
-          "severity": "minor",
-          "title": "Image far larger than its display size",
-          "detail": "32 more not listed",
+          "detail": "33 more not listed",
           "location": "(page) @ 1024px",
-          "value": "47",
+          "value": "48",
           "inherited": false
         },
         {
@@ -4520,6 +4520,14 @@
           "detail": "",
           "location": "#main > section.page-hero:nth-of-type(1) > div.wrap.ph-grid > figure.ph-media > span.photo > img @ 1440px",
           "value": "1600px natural vs 414px displayed",
+          "inherited": false
+        },
+        {
+          "severity": "minor",
+          "title": "Image far larger than its display size",
+          "detail": "",
+          "location": "#main > section.band.alt:nth-of-type(3) > div.wrap.band-grid > div.band-body.prose:nth-of-type(2) > figure > img @ 1440px",
+          "value": "2400px natural vs 694px displayed",
           "inherited": false
         },
         {
@@ -4613,17 +4621,9 @@
         {
           "severity": "minor",
           "title": "Image far larger than its display size",
-          "detail": "",
-          "location": "#main > section.band:nth-of-type(4) > div.wrap.band-grid > div.band-body.prose:nth-of-type(2) > figure.logo.small:nth-of-type(12) > img @ 1440px",
-          "value": "400px natural vs 109px displayed",
-          "inherited": false
-        },
-        {
-          "severity": "minor",
-          "title": "Image far larger than its display size",
-          "detail": "30 more not listed",
+          "detail": "31 more not listed",
           "location": "(page) @ 1440px",
-          "value": "45",
+          "value": "46",
           "inherited": false
         },
         {
@@ -4692,7 +4692,7 @@
           "title": "Image far larger than its display size",
           "detail": "",
           "location": "#main > section.band.alt:nth-of-type(3) > div.wrap.band-grid > div.band-body.prose:nth-of-type(2) > figure > img @ 390px",
-          "value": "1200px natural vs 358px displayed",
+          "value": "2400px natural vs 312px displayed",
           "inherited": false
         },
         {
@@ -4840,6 +4840,14 @@
           "severity": "minor",
           "title": "Image far larger than its display size",
           "detail": "",
+          "location": "#main > section.band.alt:nth-of-type(3) > div.wrap.band-grid > div.band-body.prose:nth-of-type(2) > figure > img @ 768px",
+          "value": "2400px natural vs 658px displayed",
+          "inherited": false
+        },
+        {
+          "severity": "minor",
+          "title": "Image far larger than its display size",
+          "detail": "",
           "location": "#main > section.band:nth-of-type(4) > div.wrap.band-grid > div.band-body.prose:nth-of-type(2) > figure.logo.small:nth-of-type(1) > img @ 768px",
           "value": "400px natural vs 109px displayed",
           "inherited": false
@@ -4927,17 +4935,9 @@
         {
           "severity": "minor",
           "title": "Image far larger than its display size",
-          "detail": "",
-          "location": "#main > section.band:nth-of-type(4) > div.wrap.band-grid > div.band-body.prose:nth-of-type(2) > figure.logo.small:nth-of-type(12) > img @ 768px",
-          "value": "400px natural vs 109px displayed",
-          "inherited": false
-        },
-        {
-          "severity": "minor",
-          "title": "Image far larger than its display size",
-          "detail": "30 more not listed",
+          "detail": "31 more not listed",
           "location": "(page) @ 768px",
-          "value": "45",
+          "value": "46",
           "inherited": false
         },
         {
@@ -6050,7 +6050,15 @@
           "title": "Image far larger than its display size",
           "detail": "",
           "location": "#main > section.page-hero:nth-of-type(1) > div.wrap.ph-grid > figure.ph-media > span.photo > img @ 1024px",
-          "value": "1200px natural vs 316px displayed",
+          "value": "2400px natural vs 316px displayed",
+          "inherited": false
+        },
+        {
+          "severity": "minor",
+          "title": "Image far larger than its display size",
+          "detail": "",
+          "location": "#main > section.band.alt:nth-of-type(3) > div.wrap.band-grid > div.band-body.prose:nth-of-type(2) > figure > img @ 1024px",
+          "value": "2400px natural vs 523px displayed",
           "inherited": false
         },
         {
@@ -6095,7 +6103,15 @@
           "title": "Image far larger than its display size",
           "detail": "",
           "location": "#main > section.page-hero:nth-of-type(1) > div.wrap.ph-grid > figure.ph-media > span.photo > img @ 1440px",
-          "value": "1200px natural vs 414px displayed",
+          "value": "2400px natural vs 414px displayed",
+          "inherited": false
+        },
+        {
+          "severity": "minor",
+          "title": "Image far larger than its display size",
+          "detail": "",
+          "location": "#main > section.band.alt:nth-of-type(3) > div.wrap.band-grid > div.band-body.prose:nth-of-type(2) > figure > img @ 1440px",
+          "value": "2400px natural vs 694px displayed",
           "inherited": false
         },
         {
@@ -6140,7 +6156,7 @@
           "title": "Image far larger than its display size",
           "detail": "",
           "location": "#main > section.page-hero:nth-of-type(1) > div.wrap.ph-grid > figure.ph-media > span.photo > img @ 390px",
-          "value": "1200px natural vs 315px displayed",
+          "value": "2400px natural vs 315px displayed",
           "inherited": false
         },
         {
@@ -6148,7 +6164,7 @@
           "title": "Image far larger than its display size",
           "detail": "",
           "location": "#main > section.band.alt:nth-of-type(3) > div.wrap.band-grid > div.band-body.prose:nth-of-type(2) > figure > img @ 390px",
-          "value": "1200px natural vs 358px displayed",
+          "value": "2400px natural vs 312px displayed",
           "inherited": false
         },
         {
@@ -6201,7 +6217,15 @@
           "title": "Image far larger than its display size",
           "detail": "",
           "location": "#main > section.page-hero:nth-of-type(1) > div.wrap.ph-grid > figure.ph-media > span.photo > img @ 768px",
-          "value": "1200px natural vs 355px displayed",
+          "value": "2400px natural vs 355px displayed",
+          "inherited": false
+        },
+        {
+          "severity": "minor",
+          "title": "Image far larger than its display size",
+          "detail": "",
+          "location": "#main > section.band.alt:nth-of-type(3) > div.wrap.band-grid > div.band-body.prose:nth-of-type(2) > figure > img @ 768px",
+          "value": "2400px natural vs 658px displayed",
           "inherited": false
         },
         {
@@ -6352,7 +6376,7 @@
           "title": "Image far larger than its display size",
           "detail": "",
           "location": "#main > section.band:nth-of-type(4) > div.wrap.band-grid > div.band-body.prose:nth-of-type(2) > figure > img @ 390px",
-          "value": "1200px natural vs 358px displayed",
+          "value": "1200px natural vs 312px displayed",
           "inherited": false
         },
         {
@@ -8578,7 +8602,7 @@
           "title": "Image far larger than its display size",
           "detail": "",
           "location": "#main > section.band:nth-of-type(6) > div.wrap.band-grid > div.band-body.prose:nth-of-type(2) > figure > img @ 1024px",
-          "value": "1600px natural vs 586px displayed",
+          "value": "1600px natural vs 523px displayed",
           "inherited": false
         },
         {
@@ -8676,7 +8700,7 @@
           "title": "Image far larger than its display size",
           "detail": "",
           "location": "#main > section.band:nth-of-type(6) > div.wrap.band-grid > div.band-body.prose:nth-of-type(2) > figure > img @ 390px",
-          "value": "1600px natural vs 358px displayed",
+          "value": "1600px natural vs 312px displayed",
           "inherited": false
         },
         {
@@ -9149,8 +9173,16 @@
           "severity": "minor",
           "title": "Image far larger than its display size",
           "detail": "",
+          "location": "#main > section.band:nth-of-type(4) > div.wrap.band-grid > div.band-body.prose:nth-of-type(2) > figure:nth-of-type(1) > img @ 1024px",
+          "value": "2400px natural vs 523px displayed",
+          "inherited": false
+        },
+        {
+          "severity": "minor",
+          "title": "Image far larger than its display size",
+          "detail": "",
           "location": "#main > section.band:nth-of-type(4) > div.wrap.band-grid > div.band-body.prose:nth-of-type(2) > figure:nth-of-type(2) > img @ 1024px",
-          "value": "1600px natural vs 586px displayed",
+          "value": "1600px natural vs 523px displayed",
           "inherited": false
         },
         {
@@ -9158,7 +9190,7 @@
           "title": "Image far larger than its display size",
           "detail": "",
           "location": "#main > section.band:nth-of-type(6) > div.wrap.band-grid > div.band-body.prose:nth-of-type(2) > figure:nth-of-type(1) > img @ 1024px",
-          "value": "1600px natural vs 586px displayed",
+          "value": "1600px natural vs 523px displayed",
           "inherited": false
         },
         {
@@ -9166,7 +9198,7 @@
           "title": "Image far larger than its display size",
           "detail": "",
           "location": "#main > section.band:nth-of-type(6) > div.wrap.band-grid > div.band-body.prose:nth-of-type(2) > figure:nth-of-type(2) > img @ 1024px",
-          "value": "1600px natural vs 586px displayed",
+          "value": "1600px natural vs 523px displayed",
           "inherited": false
         },
         {
@@ -9212,6 +9244,14 @@
           "detail": "",
           "location": "#main > section.page-hero:nth-of-type(1) > div.wrap.ph-grid > figure.ph-media > span.photo > img @ 1440px",
           "value": "1600px natural vs 414px displayed",
+          "inherited": false
+        },
+        {
+          "severity": "minor",
+          "title": "Image far larger than its display size",
+          "detail": "",
+          "location": "#main > section.band:nth-of-type(4) > div.wrap.band-grid > div.band-body.prose:nth-of-type(2) > figure:nth-of-type(1) > img @ 1440px",
+          "value": "2400px natural vs 694px displayed",
           "inherited": false
         },
         {
@@ -9272,7 +9312,7 @@
           "title": "Image far larger than its display size",
           "detail": "",
           "location": "#main > section.band:nth-of-type(4) > div.wrap.band-grid > div.band-body.prose:nth-of-type(2) > figure:nth-of-type(1) > img @ 390px",
-          "value": "1000px natural vs 358px displayed",
+          "value": "2400px natural vs 312px displayed",
           "inherited": false
         },
         {
@@ -9280,7 +9320,7 @@
           "title": "Image far larger than its display size",
           "detail": "",
           "location": "#main > section.band:nth-of-type(4) > div.wrap.band-grid > div.band-body.prose:nth-of-type(2) > figure:nth-of-type(2) > img @ 390px",
-          "value": "1600px natural vs 358px displayed",
+          "value": "1600px natural vs 312px displayed",
           "inherited": false
         },
         {
@@ -9288,7 +9328,7 @@
           "title": "Image far larger than its display size",
           "detail": "",
           "location": "#main > section.band:nth-of-type(6) > div.wrap.band-grid > div.band-body.prose:nth-of-type(2) > figure:nth-of-type(1) > img @ 390px",
-          "value": "1600px natural vs 358px displayed",
+          "value": "1600px natural vs 312px displayed",
           "inherited": false
         },
         {
@@ -9296,7 +9336,7 @@
           "title": "Image far larger than its display size",
           "detail": "",
           "location": "#main > section.band:nth-of-type(6) > div.wrap.band-grid > div.band-body.prose:nth-of-type(2) > figure:nth-of-type(2) > img @ 390px",
-          "value": "1600px natural vs 358px displayed",
+          "value": "1600px natural vs 312px displayed",
           "inherited": false
         },
         {
@@ -9350,6 +9390,14 @@
           "detail": "",
           "location": "#main > section.page-hero:nth-of-type(1) > div.wrap.ph-grid > figure.ph-media > span.photo > img @ 768px",
           "value": "1600px natural vs 355px displayed",
+          "inherited": false
+        },
+        {
+          "severity": "minor",
+          "title": "Image far larger than its display size",
+          "detail": "",
+          "location": "#main > section.band:nth-of-type(4) > div.wrap.band-grid > div.band-body.prose:nth-of-type(2) > figure:nth-of-type(1) > img @ 768px",
+          "value": "2400px natural vs 658px displayed",
           "inherited": false
         },
         {

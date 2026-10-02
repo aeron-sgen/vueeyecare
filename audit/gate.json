@@ -1,6 +1,6 @@
 {
   "schema": "site-reforge/gate@1",
-  "generated": "2026-10-02T00:14:01.324Z",
+  "generated": "2026-10-02T04:25:45.846Z",
   "project": "vueeyecare-com",
   "target": "https://www.vueeyecare.com/",
   "verdict": "NOT-READY",
@@ -163,7 +163,7 @@
       "label": "Design matches the source pixel-for-pixel at every breakpoint",
       "stage": "pixeldiff",
       "status": "FAIL",
-      "evidence": "worst drift 95.941% on services.768.png"
+      "evidence": "worst drift 93.755% on services.390.png"
     },
     {
       "id": "C23",

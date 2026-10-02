@@ -13,20 +13,27 @@
   function closeAll(except) {
     items.forEach(function (li) {
       if (li === except) return;
-      li.classList.remove('open');
+      li.classList.remove('open'); li.pinned = false;
       var b = li.querySelector('button'); if (b) b.setAttribute('aria-expanded', 'false');
     });
   }
+  // Hover opens a menu on mouse devices; a click must not then close it (the old toggle did exactly that, so a
+  // hover-then-click user never reached the links). A click pins the menu open; only a click on a pinned menu,
+  // Escape or a click outside closes it. Leaving the menu closes it after a short delay, so crossing the gap
+  // between the button and the panel does not shut it.
+  var canHover = function () { return matchMedia('(hover: hover)').matches; };
   items.forEach(function (li) {
     var btn = li.querySelector('button');
+    var timer = null;
+    function setOpen(open) { if (open) closeAll(li); li.classList.toggle('open', open); btn.setAttribute('aria-expanded', String(open)); if (!open) li.pinned = false; }
     btn.addEventListener('click', function () {
+      clearTimeout(timer);
+      if (li.classList.contains('open') && !li.pinned && canHover()) { li.pinned = true; return; }   // opened by hover: keep it
       var open = !li.classList.contains('open');
-      closeAll(li);
-      li.classList.toggle('open', open);
-      btn.setAttribute('aria-expanded', String(open));
+      setOpen(open); li.pinned = open;
     });
-    li.addEventListener('mouseenter', function () { if (matchMedia('(hover: hover)').matches) { closeAll(li); li.classList.add('open'); btn.setAttribute('aria-expanded', 'true'); } });
-    li.addEventListener('mouseleave', function () { if (matchMedia('(hover: hover)').matches) { li.classList.remove('open'); btn.setAttribute('aria-expanded', 'false'); } });
+    li.addEventListener('mouseenter', function () { if (!canHover()) return; clearTimeout(timer); if (!li.classList.contains('open')) setOpen(true); });
+    li.addEventListener('mouseleave', function () { if (!canHover() || li.pinned) return; clearTimeout(timer); timer = setTimeout(function () { setOpen(false); }, 280); });
   });
   doc.addEventListener('click', function (e) { if (!e.target.closest('.has-mega')) closeAll(); });
 

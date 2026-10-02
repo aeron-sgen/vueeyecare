@@ -187,6 +187,12 @@ const pageKicker = (label, esc) => (label ? '<p class="kicker">' + ICON.iris + '
 // the booking band. No sidebar and no breadcrumbs, as on Eye Trends. Legal pages stay one continuous band.
 export function interior({ page, title, lead, heroImg, eyebrow, prose, splitBands = true, related }, k) {
   const { esc, BOOK, EXT, PHONE_CALL, tel } = k;
+  // lists of short items (4 or more, at most 6 words each) are marked so they can flow in two columns
+  prose = prose.replace(/<ul>((?:<li>[\s\S]*?<\/li>)+)<\/ul>/g, (m, inner) => {
+    const items = inner.match(/<li>[\s\S]*?<\/li>/g) || [];
+    const short = items.length >= 4 && items.every((li) => li.replace(/<[^>]+>/g, '').trim().split(/\s+/).length <= 6);
+    return short ? '<ul class="short-list">' + inner + '</ul>' : m;
+  });
   const chunks = splitBands ? prose.split(/(?=<h2[\s>])/) : [prose];
   let n = 0;
   const bands = chunks.map((c) => c.trim()).filter(Boolean).map((c) => {

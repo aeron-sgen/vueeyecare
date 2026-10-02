@@ -7,7 +7,7 @@ A complete static rebuild of www.vueeyecare.com. The pages follow the Eye Trends
 | **Content** | Vue Eyecare only. Copy, facts, photography, logos and reviews are read from the browser-rendered capture of www.vueeyecare.com (`audit/rendered`, `audit/content-blocks`). `facts/client-facts.json` cites the source of every value. |
 | **Structure** | The Eye Trends information architecture, from a fresh 43-page crawl in `structure-eyetrends/`. Primary nav: Home · About Us · Services (mega menu) · Eyewear (`/products` hub, four cards) · Insurance · Reviews · Visit Us · Schedule. The mega menus open with promo panels and the phone menu drills down, as on Eye Trends. Interior pages are Eye Trends-style full-width bands (no sidebar or breadcrumbs), closing with a related-pages band and the booking band with map. The footer has a brand row and four columns (Eye Care Services · Eyewear · Practice · Visit). The home sections follow Eye Trends' order, each with a label. |
 | **Design** | "Iris Editorial": warm paper grounds, Vue's navy as ink, azure links, gold accents, Fraunces over Instrument Sans, photos in plain rounded frames, and an iris-ring motif. See `docs/BRAND-SYSTEM.md`. |
-| **Imagery** | The source's own photographs and logos only. Nothing is generated. |
+| **Imagery** | The source's own photographs and logos. Four soft stock photos are AI-upscaled copies of the source's own photo (Higgsfield marketing-studio/image, 2026-10-02), each fidelity-checked against its original; see audit/upscaled.json. The doctor's photo, brand logos and possible premises photos are never re-rendered. |
 
 ## Layout
 
