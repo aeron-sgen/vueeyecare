@@ -185,8 +185,9 @@ const pageKicker = (label, esc) => (label ? '<p class="kicker">' + ICON.iris + '
 // Interior page, Eye Trends' band layout: a hero (label, H1, lead, actions, photo), then the page's own copy as
 // full-width bands, one per source H2 (the copy before the first H2 opens the page), a related-pages band, and
 // the booking band. No sidebar and no breadcrumbs, as on Eye Trends. Legal pages stay one continuous band.
-export function interior({ page, title, lead, heroImg, eyebrow, prose, splitBands = true, related, visit = null, reviews = null }, k) {
-  const { esc, BOOK, EXT, PHONE_CALL, PHONE_NAP, tel, A, facts } = k;
+export function interior({ page, title, lead, heroImg, eyebrow, prose, splitBands = true, related, visit = null, reviews = null, variant = null, sectionArt = [] }, k) {
+  const { esc, BOOK, EXT, PHONE_CALL, PHONE_NAP, tel, A, facts, NAV } = k;
+  const eyewear = variant === 'eyewear';
   // lists of short items (4 or more, at most 6 words each) are marked so they can flow in two columns
   prose = prose.replace(/<ul>((?:<li>[\s\S]*?<\/li>)+)<\/ul>/g, (m, inner) => {
     const items = inner.match(/<li>[\s\S]*?<\/li>/g) || [];
@@ -209,7 +210,13 @@ export function interior({ page, title, lead, heroImg, eyebrow, prose, splitBand
     if (count >= 2) { merged.push({ cards: items.slice(titleOnly ? i + 1 : i, j), title: titleOnly ? items[i] : null }); i = j; }
     else { merged.push(items[i]); i++; }
   }
-  let n = 0;
+  let n = 0, flip = 0;
+  // Eyewear pages: a section with a photo becomes a split row (copy beside the photo, alternating sides). The photo is
+  // the section's own first photo, or the section art supplied for its heading; logo walls and card rows are unchanged.
+  const FIG = /<figure class="">[\s\S]*?<\/figure>/;
+  const artFor = (h2) => { const t = h2.replace(/<[^>]+>/g, '').replace(/\s+/g, ' ').trim(); const hit = sectionArt.find(([p]) => t.startsWith(p)); return hit ? hit[1] : null; };
+  const artFig = (a) => '<figure class=""><img src="' + a.src + '" alt="' + esc(a.alt) + '" width="' + a.w + '" height="' + a.h + '" loading="lazy" decoding="async" sizes="(max-width: 900px) calc(100vw - 32px), 600px"></figure>';
+  const featureRow = (head, body, fig, alt) => '<section class="band feature-band' + alt + (flip++ % 2 ? ' flip' : '') + '"><div class="wrap fr-grid"><div class="fr-copy">' + head + '<div class="prose">' + body + '</div></div><div class="fr-media">' + fig + '</div></div></section>';
   const bands = merged.map((c) => {
     const alt = n++ % 2 ? ' alt' : '';
     if (typeof c === 'object') {
@@ -217,6 +224,12 @@ export function interior({ page, title, lead, heroImg, eyebrow, prose, splitBand
         + '<div class="card-row">' + c.cards.map((x) => { const m = x.match(H2); return '<article class="note-card">' + m[0] + '<div class="prose">' + x.slice(m[0].length).trim() + '</div></article>'; }).join('') + '</div></div></section>';
     }
     const m = c.match(/^<h2[^>]*>[\s\S]*?<\/h2>/);
+    if (eyewear && !/<div class="logo-wall">/.test(c)) {
+      const head = m ? m[0] : ''; const rest = m ? c.slice(m[0].length).trim() : c;
+      const own = rest.match(FIG); const art = m ? artFor(m[0]) : null;
+      if (own && plainLen(rest) > 0) return featureRow(head, rest.replace(own[0], '').trim(), own[0], alt);
+      if (art) return featureRow(head, rest, artFig(art), alt);
+    }
     if (!m) return '<section class="band band-open' + alt + '"><div class="wrap band-grid solo"><div class="band-body prose">' + c + '</div></div></section>';
     const body = c.slice(m[0].length).trim();
     // a section that is mostly a logo wall takes the full width: heading on top, tiles below
@@ -249,6 +262,7 @@ export function interior({ page, title, lead, heroImg, eyebrow, prose, splitBand
 <div class="hero-actions"><a class="btn btn-ink" href="${BOOK}"${EXT}>${ICON.calendar} Schedule Appointment</a><a class="btn btn-line" href="${tel(PHONE_CALL)}">${ICON.phone} ${esc(PHONE_CALL)}</a></div></div>
 ${heroFigure(heroImg, esc, '(max-width: 900px) calc(100vw - 32px), 460px')}
 </div></section>
+${eyewear ? '<nav class="ey-tabs" aria-label="Eyewear"><div class="wrap"><ul>' + NAV.eyewear.map(([h, t]) => '<li><a href="' + h + '/"' + (page.to === h ? ' aria-current="page"' : '') + '>' + esc(t) + '</a></li>').join('') + '</ul></div></nav>' : ''}
 ${visitHtml}
 ${bands}
 ${reviewsHtml}

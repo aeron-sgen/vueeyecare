@@ -531,8 +531,17 @@ function interior(page, data) {
   // section's other pages; each card carries the page's own source H1 and meta description. Legal pages get none.
   const relPool = [...pages.filter((p) => p !== page && p.group === page.group && p.to !== '/'), ...list.filter((p) => p !== page)];
   const related = page.group === 'legal' ? [] : [...new Set(relPool)].slice(0, 6);
+  // Eyewear pages: section photos for sections the source left without one (generated, src/tools/generate-art.mjs;
+  // objects and generic lifestyle only, recorded in audit/generated-art.json), keyed by the section's own heading.
+  const SECTION_ART = {
+    '/products/contact-lenses': [['Visit us For a Simple', 'g-cl-cases', 'Open contact lens cases and a bottle of lens solution'], ['Bifocal and Multifocal', 'g-cl-reader', 'A smiling woman with silver hair reading a book at home'], ['Gas Permeable', 'g-cl-rigid', 'A small rigid contact lens on a fingertip']],
+    '/products/contact-lenses/hard-to-fit': [['Dry Eyes and Contact', 'g-cl-drops', 'A bottle of eye drops beside an open contact lens case'], ['Toric Lenses', 'g-cl-toric', 'A soft contact lens on a fingertip']],
+    '/products/contact-lenses/eye-exams-for-contacts': [['The Importance of a Compre', 'g-cl-mirror', 'A smiling young woman holding a contact lens case at her bathroom mirror'], ['The Contact Lens Consultation', 'g-cl-consult', 'A smiling young man holding a contact lens case at home']],
+  };
+  const sectionArt = page.group === 'eyewear' ? (SECTION_ART[page.to] || []).filter(([, slot]) => ART[slot]).map(([h, slot, alt]) => [h, { ...ART[slot], alt }]) : [];
   const body = D.interior({
     page, title, lead, heroImg, eyebrow: labelOf(page),
+    variant: page.group === 'eyewear' ? 'eyewear' : null, sectionArt,
     prose: proseHtml + formBlock, splitBands: page.group !== 'legal',
     visit: visit ? { hours: facts.hoursStructured, mapQuery: facts.brand + ', ' + ADDRESS_LINE } : null,
     reviews: reviewsBand ? { heading: 'Patient Reviews', agg: facts.aggregateRating, cards: reviews().map((r) => reviewCard(r, { clamp: true })).join(''), more: facts.links.reviewsGoogle } : null,

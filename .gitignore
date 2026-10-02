@@ -25,6 +25,9 @@ _site/
 /assets/*
 # ...except the four accepted AI-upscaled photos the build swaps in (audit/upscaled.json); rejected outputs stay out
 !/assets/enhanced/
+# ...and the generated eyewear section photos (audit/generated-art.json records every prompt)
+!/assets/generated/
+/assets/generated/*.raw
 /assets/enhanced/REJECTED-*
 # the handoff zip is a build output
 *.zip

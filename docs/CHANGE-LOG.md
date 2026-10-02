@@ -29,6 +29,13 @@ All 36 pages were checked at 360, 390 and 414px for zoom-out, elements past the 
 - The home rating seal had gold stars on a gold circle, invisible at every width, with the first one poking out of the circle on phones. They are now navy and centred.
 - On phones, care-card and eyewear-hub photos are 4:3, and the doctor portrait is capped at 300px.
 
+## 2026-10-02 — Eyewear pages redone, with generated section photos
+
+Operator: "redo the pages in relation to the eyewear menu" and "use higgsfield api … to further enhance it".
+- **Layout.** A sticky tab bar under each eyewear hero (Eyeglasses · Contact Lenses · Hard-to-Fit · Promotions). Sections with a photo become split rows (copy beside photo, alternating sides). The hub uses large two-column photo cards. Logo walls and offer cards are unchanged; copy unchanged.
+- **Generated photos.** 7 section photos generated with Higgsfield Soul (src/tools/generate-art.mjs; prompts in audit/generated-art.json) for sections the source left without one: lens cases, eye drops, soft and rigid lenses on a fingertip, a reader, a man and a woman with lens cases. They are objects and generic lifestyle only, never a clinician, clinic or result.
+- **QA.** Every image was checked by eye. Rejected and regenerated: a "rigid lens" that came out as a pen, a "toric lens" that looked like a glass bead, and an eye-drops shelf with stray colour bars. Dropped after two matte-trim rejects: an exam-instrument macro.
+
 ## 2026-10-02 — Eyewear pages audited and fixed
 
 Operator: "do the eyewear drop down, do an audit and fix the designs". All six pages were audited (hub, Designer Frames, Contact Lenses, Hard-to-Fit, Eye Exams for Contacts, Promotions) at desktop and phone.

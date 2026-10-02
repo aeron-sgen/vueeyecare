@@ -1,7 +1,7 @@
 {
   "schema": "site-reforge/change-control@1",
   "generated": "2026-10-01T04:48:37.618Z",
-  "updated": "2026-10-02T06:27:17.124Z",
+  "updated": "2026-10-02T08:22:14.236Z",
   "legend": {
     "PRESERVE": "kept as-is; content and function unchanged",
     "IMPROVE": "same content and meaning, better structure/hierarchy/design",

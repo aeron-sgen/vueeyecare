@@ -1,0 +1,83 @@
+{
+ "images": {
+  "g-cl-rigid": {
+   "file": "assets/generated/g-cl-rigid.jpg",
+   "group": "shared",
+   "prompt": "close-up real photograph of a fingertip holding one small clear rigid gas permeable contact lens, a tiny transparent hard lens much smaller than the fingertip, soft daylight, blurred home background, natural realistic macro photograph, shallow depth of field, no text, no lettering, no words, no logos, no watermark, no border, full-bleed photograph filling the whole frame",
+   "model": "higgsfield-ai/soul/standard",
+   "aspect": "4:3",
+   "request_id": "88d2c08b-bf79-49b9-b005-2bcaca583e96",
+   "width": 1800,
+   "height": 1350,
+   "generated": "2026-10-02T08:18:44.315Z"
+  },
+  "g-cl-drops": {
+   "file": "assets/generated/g-cl-drops.jpg",
+   "group": "shared",
+   "prompt": "real photograph of a white plastic bottle of lubricating eye drops and an open white contact lens case lying on a light wooden bathroom counter, soft morning window light, realistic everyday scene, natural realistic photograph, shallow depth of field, no text, no lettering, no words, no logos, no watermark, no border, full-bleed photograph filling the whole frame",
+   "model": "higgsfield-ai/soul/standard",
+   "aspect": "4:3",
+   "request_id": "9c13f638-bfa1-4e77-b963-d6402571f727",
+   "width": 1800,
+   "height": 1350,
+   "generated": "2026-10-02T08:18:44.149Z"
+  },
+  "g-cl-cases": {
+   "file": "assets/generated/g-cl-cases.jpg",
+   "group": "shared",
+   "prompt": "three open contact lens cases in white, navy and azure arranged neatly on a pale linen surface beside a small bottle of lens solution, minimal editorial product still-life photograph, soft natural daylight, clean pale surfaces, colour accents of navy, azure and warm gold, crisp focus on the subject, no people, no hands unless stated, no text, no lettering, no words, no logos, no watermark, no border, full-bleed photograph filling the whole frame",
+   "model": "higgsfield-ai/soul/standard",
+   "aspect": "4:3",
+   "request_id": "4ab5ebcf-4d73-419b-8d10-0c7bc199e0cc",
+   "width": 1157,
+   "height": 868,
+   "generated": "2026-10-02T08:16:16.887Z"
+  },
+  "g-cl-reader": {
+   "file": "assets/generated/g-cl-reader.jpg",
+   "group": "shared",
+   "prompt": "a woman in her fifties with short silver hair reading a book on a sofa in a bright living room, relaxed smile, candid editorial lifestyle photograph of one single natural everyday scene, the whole head in frame, soft natural daylight, an ordinary bright home or outdoor setting, a cool airy palette with touches of blue and warm gold in the surroundings, casual everyday clothing, shallow depth of field, the person centred with space around the head, natural relaxed expression, no text, no lettering, no words, no logos, no watermark, no border, full-bleed photograph filling the whole frame",
+   "model": "higgsfield-ai/soul/standard",
+   "aspect": "4:3",
+   "request_id": "2a5abd83-7301-4ba4-91b7-e34356552636",
+   "width": 1800,
+   "height": 1350,
+   "generated": "2026-10-02T08:16:16.985Z"
+  },
+  "g-cl-consult": {
+   "file": "assets/generated/g-cl-consult.jpg",
+   "group": "shared",
+   "prompt": "a young man in a grey knit sweater at home smiling and holding a small contact lens case in his hand, candid editorial lifestyle photograph of one single natural everyday scene, the whole head in frame, soft natural daylight, an ordinary bright home or outdoor setting, a cool airy palette with touches of blue and warm gold in the surroundings, casual everyday clothing, shallow depth of field, the person centred with space around the head, natural relaxed expression, no text, no lettering, no words, no logos, no watermark, no border, full-bleed photograph filling the whole frame",
+   "model": "higgsfield-ai/soul/standard",
+   "aspect": "4:3",
+   "request_id": "5653e98b-68ad-401d-a018-ec1916d55581",
+   "width": 1368,
+   "height": 1026,
+   "generated": "2026-10-02T08:16:17.059Z"
+  },
+  "g-cl-mirror": {
+   "file": "assets/generated/g-cl-mirror.jpg",
+   "group": "shared",
+   "prompt": "a young woman with curly hair at a bright bathroom mirror in her home, smiling, holding a contact lens case, candid editorial lifestyle photograph of one single natural everyday scene, the whole head in frame, soft natural daylight, an ordinary bright home or outdoor setting, a cool airy palette with touches of blue and warm gold in the surroundings, casual everyday clothing, shallow depth of field, the person centred with space around the head, natural relaxed expression, no text, no lettering, no words, no logos, no watermark, no border, full-bleed photograph filling the whole frame",
+   "model": "higgsfield-ai/soul/standard",
+   "aspect": "4:3",
+   "request_id": "e8a56fc3-3fa7-4de1-b794-4e6f0e663c6f",
+   "width": 1454,
+   "height": 1091,
+   "generated": "2026-10-02T08:16:17.133Z"
+  },
+  "g-cl-toric": {
+   "file": "assets/generated/g-cl-toric.jpg",
+   "group": "shared",
+   "prompt": "close-up real photograph of an index finger holding up one thin transparent soft contact lens, the lens is a thin clear flexible bowl shape the size of a fingertip, soft daylight by a window, blurred home background, natural realistic macro photograph, shallow depth of field, no text, no lettering, no words, no logos, no watermark, no border, full-bleed photograph filling the whole frame",
+   "model": "higgsfield-ai/soul/standard",
+   "aspect": "4:3",
+   "request_id": "08df13ba-692a-4dfb-8b71-8a490caaaee4",
+   "width": 1800,
+   "height": 1350,
+   "generated": "2026-10-02T08:18:44.232Z"
+  }
+ },
+ "policy": "replaces generic stock photos only; lifestyle photographs of people in everyday settings, product still lifes, abstract light; never a clinic room, exam, procedure, result, medical staff, white coat or scrubs; clinical subjects become equipment macros with no people; no text or logos",
+ "model": "higgsfield-ai/soul/standard"
+}

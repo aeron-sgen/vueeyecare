@@ -1,6 +1,6 @@
 {
   "schema": "site-reforge/seo-changes@1",
-  "generated": "2026-10-02T06:27:16.117Z",
+  "generated": "2026-10-02T08:22:13.256Z",
   "note": "Every field written into the build by sr-seo --apply. Each carries where its value came from. A field the source already filled is never rewritten here.",
   "siteUrl": "https://www.vueeyecare.com",
   "siteName": "Vue Eyecare",
@@ -1859,21 +1859,21 @@
       "page": "https://www.vueeyecare.com/products/contact-lenses/eye-exams-for-contacts/index.html",
       "field": "alt",
       "from": null,
-      "to": "4 images",
+      "to": "6 images",
       "source": "present-from-an-earlier-seo-pass"
     },
     {
       "page": "https://www.vueeyecare.com/products/contact-lenses/eye-exams-for-contacts/index.html",
       "field": "img-dimensions",
       "from": null,
-      "to": "4 images",
+      "to": "6 images",
       "source": "present-from-an-earlier-seo-pass"
     },
     {
       "page": "https://www.vueeyecare.com/products/contact-lenses/eye-exams-for-contacts/index.html",
       "field": "img-lazy",
       "from": null,
-      "to": "2 images",
+      "to": "4 images",
       "source": "derived:below-fold-position"
     },
     {
@@ -1992,21 +1992,21 @@
       "page": "https://www.vueeyecare.com/products/contact-lenses/hard-to-fit/index.html",
       "field": "alt",
       "from": null,
-      "to": "4 images",
+      "to": "6 images",
       "source": "present-from-an-earlier-seo-pass"
     },
     {
       "page": "https://www.vueeyecare.com/products/contact-lenses/hard-to-fit/index.html",
       "field": "img-dimensions",
       "from": null,
-      "to": "4 images",
+      "to": "6 images",
       "source": "present-from-an-earlier-seo-pass"
     },
     {
       "page": "https://www.vueeyecare.com/products/contact-lenses/hard-to-fit/index.html",
       "field": "img-lazy",
       "from": null,
-      "to": "2 images",
+      "to": "4 images",
       "source": "derived:below-fold-position"
     },
     {
@@ -2125,21 +2125,21 @@
       "page": "https://www.vueeyecare.com/products/contact-lenses/index.html",
       "field": "alt",
       "from": null,
-      "to": "12 images",
+      "to": "15 images",
       "source": "present-from-an-earlier-seo-pass"
     },
     {
       "page": "https://www.vueeyecare.com/products/contact-lenses/index.html",
       "field": "img-dimensions",
       "from": null,
-      "to": "12 images",
+      "to": "15 images",
       "source": "present-from-an-earlier-seo-pass"
     },
     {
       "page": "https://www.vueeyecare.com/products/contact-lenses/index.html",
       "field": "img-lazy",
       "from": null,
-      "to": "10 images",
+      "to": "13 images",
       "source": "derived:below-fold-position"
     },
     {

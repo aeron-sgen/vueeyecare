@@ -1,6 +1,6 @@
 {
   "schema": "site-reforge/parity-report@1",
-  "generated": "2026-10-02T06:27:16.391Z",
+  "generated": "2026-10-02T08:22:13.523Z",
   "sourcePages": 33,
   "rebuiltFiles": 37,
   "mappedPages": 33,
@@ -75,7 +75,7 @@
       "missingWords": 0,
       "longestMissingRun": 0,
       "sourceWords": 681,
-      "rebuiltWords": 807,
+      "rebuiltWords": 813,
       "sourceH1": [
         "Contact Lenses in Baton Rouge, Louisiana"
       ],
@@ -83,7 +83,7 @@
         "Contact Lenses in Baton Rouge, Louisiana"
       ],
       "sourceLinks": 7,
-      "rebuiltLinks": 105,
+      "rebuiltLinks": 109,
       "findings": [
         {
           "severity": "minor",
@@ -108,7 +108,7 @@
       "missingWords": 0,
       "longestMissingRun": 0,
       "sourceWords": 1097,
-      "rebuiltWords": 1221,
+      "rebuiltWords": 1227,
       "sourceH1": [
         "Contact Lenses for the “Hard-to-Fit” Patient"
       ],
@@ -116,7 +116,7 @@
         "Contact Lenses for the “Hard-to-Fit” Patient"
       ],
       "sourceLinks": 5,
-      "rebuiltLinks": 103,
+      "rebuiltLinks": 107,
       "findings": [
         {
           "severity": "minor",
@@ -141,7 +141,7 @@
       "missingWords": 0,
       "longestMissingRun": 0,
       "sourceWords": 992,
-      "rebuiltWords": 1120,
+      "rebuiltWords": 1126,
       "sourceH1": [
         "Eye Exams for Contact Lenses"
       ],
@@ -149,7 +149,7 @@
         "Eye Exams for Contact Lenses"
       ],
       "sourceLinks": 5,
-      "rebuiltLinks": 103,
+      "rebuiltLinks": 107,
       "findings": [
         {
           "severity": "minor",
@@ -735,7 +735,7 @@
       "missingWords": 2,
       "longestMissingRun": 1,
       "sourceWords": 480,
-      "rebuiltWords": 601,
+      "rebuiltWords": 607,
       "sourceH1": [
         "Eyeglasses at Vue Eyecare"
       ],
@@ -743,7 +743,7 @@
         "Eyeglasses at Vue Eyecare"
       ],
       "sourceLinks": 6,
-      "rebuiltLinks": 103,
+      "rebuiltLinks": 107,
       "findings": [
         {
           "severity": "minor",
@@ -1044,7 +1044,7 @@
       "missingWords": 0,
       "longestMissingRun": 0,
       "sourceWords": 42,
-      "rebuiltWords": 191,
+      "rebuiltWords": 197,
       "sourceH1": [
         "Promotions"
       ],
@@ -1052,7 +1052,7 @@
         "Promotions"
       ],
       "sourceLinks": 5,
-      "rebuiltLinks": 102,
+      "rebuiltLinks": 106,
       "findings": [
         {
           "severity": "minor",
