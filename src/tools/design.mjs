@@ -185,8 +185,8 @@ const pageKicker = (label, esc) => (label ? '<p class="kicker">' + ICON.iris + '
 // Interior page, Eye Trends' band layout: a hero (label, H1, lead, actions, photo), then the page's own copy as
 // full-width bands, one per source H2 (the copy before the first H2 opens the page), a related-pages band, and
 // the booking band. No sidebar and no breadcrumbs, as on Eye Trends. Legal pages stay one continuous band.
-export function interior({ page, title, lead, heroImg, eyebrow, prose, splitBands = true, related }, k) {
-  const { esc, BOOK, EXT, PHONE_CALL, tel } = k;
+export function interior({ page, title, lead, heroImg, eyebrow, prose, splitBands = true, related, visit = null, reviews = null }, k) {
+  const { esc, BOOK, EXT, PHONE_CALL, PHONE_NAP, tel, A, facts } = k;
   // lists of short items (4 or more, at most 6 words each) are marked so they can flow in two columns
   prose = prose.replace(/<ul>((?:<li>[\s\S]*?<\/li>)+)<\/ul>/g, (m, inner) => {
     const items = inner.match(/<li>[\s\S]*?<\/li>/g) || [];
@@ -194,17 +194,54 @@ export function interior({ page, title, lead, heroImg, eyebrow, prose, splitBand
     return short ? '<ul class="short-list">' + inner + '</ul>' : m;
   });
   const chunks = splitBands ? prose.split(/(?=<h2[\s>])/) : [prose];
+  // Consecutive sections that are only a heading and a sentence or two (offers, short notes) read as one row of
+  // cards instead of a stack of near-empty bands; a heading-only section right before them titles the row.
+  const H2 = /^<h2[^>]*>[\s\S]*?<\/h2>/;
+  const plainLen = (h) => h.replace(/<[^>]+>/g, '').replace(/\s+/g, ' ').trim().length;
+  const isShort = (c) => { const m = c.match(H2); if (!m) return false; const body = c.slice(m[0].length); return plainLen(body) > 0 && plainLen(body) <= 320 && !/<(figure|ul|ol|table|iframe|div class="logo-wall")/.test(body); };
+  const items = chunks.map((c) => c.trim()).filter(Boolean);
+  const merged = [];
+  for (let i = 0; i < items.length;) {
+    const titleOnly = H2.test(items[i]) && !plainLen(items[i].slice(items[i].match(H2)[0].length));
+    let j = titleOnly ? i + 1 : i;
+    while (j < items.length && isShort(items[j])) j++;
+    const count = j - (titleOnly ? i + 1 : i);
+    if (count >= 2) { merged.push({ cards: items.slice(titleOnly ? i + 1 : i, j), title: titleOnly ? items[i] : null }); i = j; }
+    else { merged.push(items[i]); i++; }
+  }
   let n = 0;
-  const bands = chunks.map((c) => c.trim()).filter(Boolean).map((c) => {
-    const m = c.match(/^<h2[^>]*>[\s\S]*?<\/h2>/);
+  const bands = merged.map((c) => {
     const alt = n++ % 2 ? ' alt' : '';
+    if (typeof c === 'object') {
+      return '<section class="band card-band' + alt + '"><div class="wrap">' + (c.title ? '<div class="card-band-head">' + c.title + '</div>' : '')
+        + '<div class="card-row">' + c.cards.map((x) => { const m = x.match(H2); return '<article class="note-card">' + m[0] + '<div class="prose">' + x.slice(m[0].length).trim() + '</div></article>'; }).join('') + '</div></div></section>';
+    }
+    const m = c.match(/^<h2[^>]*>[\s\S]*?<\/h2>/);
     if (!m) return '<section class="band band-open' + alt + '"><div class="wrap band-grid solo"><div class="band-body prose">' + c + '</div></div></section>';
     const body = c.slice(m[0].length).trim();
-    return '<section class="band' + alt + '"><div class="wrap band-grid' + (body ? '' : ' solo') + '"><div class="band-head">' + m[0] + '</div>' + (body ? '<div class="band-body prose">' + body + '</div>' : '') + '</div></section>';
+    // a section that is mostly a logo wall takes the full width: heading on top, tiles below
+    const stack = /^(<p>[\s\S]*?<\/p>\s*)?<div class="logo-wall">/.test(body) ? ' stack' : '';
+    return '<section class="band' + alt + '"><div class="wrap band-grid' + (body ? '' : ' solo') + stack + '"><div class="band-head">' + m[0] + '</div>' + (body ? '<div class="band-body prose">' + body + '</div>' : '') + '</div></section>';
   }).join('\n');
   const rel = related.links.length ? `<section class="band related" aria-labelledby="rel-h"><div class="wrap">
 <div class="rel-head"><h2 id="rel-h">${esc(related.heading)}</h2>${related.hub ? '<a class="link-arrow" href="' + related.hub + '">' + esc(HUB_LINK[related.hub] || related.heading) + ' ' + ICON.arrow + '</a>' : ''}</div>
 <ul class="rel-grid">${related.links.map(([h, t, d]) => '<li><a href="' + h + '"><b>' + esc(t) + '</b>' + (d ? '<span>' + esc(d) + '</span>' : '') + '<i aria-hidden="true">' + ICON.arrow + '</i></a></li>').join('')}</ul>
+</div></section>` : '';
+  // location panel (Visit Us / Hours): every day of the week, the NAP, actions, and the map beside it
+  const visitHtml = visit ? `<section class="band visit-panel" aria-labelledby="vp-h"><div class="wrap vp-grid">
+<div class="vp-card"><p class="kicker">${ICON.clock}<span>Hours &amp; Location</span></p><h2 id="vp-h">${esc(facts.brand)}</h2>
+<p class="vp-addr">${ICON.pin}<span>${esc(A.street)}<br>${esc(A.city)}, ${esc(A.region)} ${esc(A.postal)}</span></p>
+<p class="vp-phone"><a href="${tel(PHONE_NAP)}">${ICON.phone}<span>${esc(PHONE_NAP)}</span></a></p>
+<table class="vp-hours"><caption class="sr-only">Office hours by day</caption><tbody>${visit.hours.map((d) => '<tr' + (d.slots.length ? '' : ' class="closed"') + '><th scope="row">' + esc(d.day) + '</th><td>' + (d.slots.length ? d.slots.map(esc).join('<br>') : 'Closed') + '</td></tr>').join('')}</tbody></table>
+<p class="actions"><a class="btn btn-ink" href="${BOOK}"${EXT}>${ICON.calendar} Schedule Appointment</a><a class="btn btn-line" href="${facts.links.directions}"${EXT}>${ICON.pin} Directions</a></p></div>
+<div class="vp-map"><iframe src="https://maps.google.com/maps?q=${encodeURIComponent(visit.mapQuery)}&amp;output=embed" title="Map to ${esc(facts.brand)}" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></div>
+</div></section>` : '';
+  // the source location page's review widget, rebuilt as cards (text once, rating, author)
+  const reviewsHtml = reviews ? `<section class="section ink reviews" aria-labelledby="vr-h"><div class="wrap">
+<div class="section-head"><div><p class="kicker">${ICON.star}<span>Reviews</span></p><h2 id="vr-h">${esc(reviews.heading)}</h2><p class="agg"><span class="stars" aria-hidden="true">${ICON.star.repeat(5)}</span><span><b>${esc(reviews.agg.ratingValue)}</b> out of 5 · ${esc(reviews.agg.reviewCount)} reviews</span></p></div>
+<div class="head-actions"><div class="carousel-nav" data-carousel-nav="vr-track" hidden><button type="button" class="carousel-btn" data-dir="-1" aria-controls="vr-track" aria-label="Previous reviews">${ICON.arrowL}</button><button type="button" class="carousel-btn" data-dir="1" aria-controls="vr-track" aria-label="Next reviews">${ICON.arrowR}</button></div><a class="btn btn-line-light" href="${esc(reviews.more)}"${EXT}>Read More Reviews</a></div></div>
+<div class="carousel" role="region" aria-roledescription="carousel" aria-labelledby="vr-h"><ul class="review-track carousel-track" id="vr-track" tabindex="0">${reviews.cards}</ul></div>
+<p class="more-link"><a class="link-arrow" href="/reviews/">All ${esc(reviews.agg.reviewCount)} patient reviews ${ICON.arrow}</a></p>
 </div></section>` : '';
   return `
 <section class="page-hero${heroImg ? '' : ' no-media'}"><div class="wrap ph-grid">
@@ -212,7 +249,9 @@ export function interior({ page, title, lead, heroImg, eyebrow, prose, splitBand
 <div class="hero-actions"><a class="btn btn-ink" href="${BOOK}"${EXT}>${ICON.calendar} Schedule Appointment</a><a class="btn btn-line" href="${tel(PHONE_CALL)}">${ICON.phone} ${esc(PHONE_CALL)}</a></div></div>
 ${heroFigure(heroImg, esc, '(max-width: 900px) calc(100vw - 32px), 460px')}
 </div></section>
+${visitHtml}
 ${bands}
+${reviewsHtml}
 ${rel}
 ${ctaBand(k)}`;
 }

@@ -1,6 +1,6 @@
 {
   "schema": "site-reforge/parity-report@1",
-  "generated": "2026-10-02T04:21:53.554Z",
+  "generated": "2026-10-02T06:27:16.391Z",
   "sourcePages": 33,
   "rebuiltFiles": 37,
   "mappedPages": 33,
@@ -13,11 +13,11 @@
   ],
   "recallFloor": 0.95,
   "contentRunFloor": 12,
-  "meanRecall": 0.9896,
+  "meanRecall": 0.9828,
   "counts": {
-    "major": 2,
+    "major": 3,
     "minor": 33,
-    "blocker": 33
+    "blocker": 34
   },
   "verdict": "DRIFT",
   "rows": [
@@ -764,11 +764,11 @@
       "file": "eye-doctor-baton-rouge/hours/index.html",
       "pageType": "page",
       "status": "DIFFERS",
-      "recall": 0.9561,
-      "missingWords": 10,
-      "longestMissingRun": 2,
+      "recall": 1,
+      "missingWords": 0,
+      "longestMissingRun": 0,
       "sourceWords": 222,
-      "rebuiltWords": 296,
+      "rebuiltWords": 325,
       "sourceH1": [
         "Vue Eyecare"
       ],
@@ -776,7 +776,7 @@
         "Vue Eyecare"
       ],
       "sourceLinks": 7,
-      "rebuiltLinks": 105,
+      "rebuiltLinks": 108,
       "findings": [
         {
           "severity": "minor",
@@ -929,11 +929,11 @@
       "file": "eye-doctor-baton-rouge/index.html",
       "pageType": "page",
       "status": "DIFFERS",
-      "recall": 0.988,
-      "missingWords": 10,
-      "longestMissingRun": 2,
+      "recall": 0.7186,
+      "missingWords": 235,
+      "longestMissingRun": 13,
       "sourceWords": 828,
-      "rebuiltWords": 912,
+      "rebuiltWords": 820,
       "sourceH1": [
         "Vue Eyecare"
       ],
@@ -941,8 +941,20 @@
         "Vue Eyecare"
       ],
       "sourceLinks": 5,
-      "rebuiltLinks": 102,
+      "rebuiltLinks": 107,
       "findings": [
+        {
+          "severity": "blocker",
+          "code": "content-loss",
+          "title": "Body content recall 71.9% (floor 95%)",
+          "detail": "missing words: show remarkable experiences front desk assist look lil red house went explained keep eyes more what doing sure understand process visits during they accommodated arrived"
+        },
+        {
+          "severity": "major",
+          "code": "content-block-missing",
+          "title": "13 consecutive source words absent from the rebuild (limit 12)",
+          "detail": "\"respectful i had cataract procedure under dr dinh recommending it and i truly\""
+        },
         {
           "severity": "minor",
           "code": "alt-missing",

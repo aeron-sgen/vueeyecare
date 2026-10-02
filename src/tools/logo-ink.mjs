@@ -17,9 +17,12 @@ if (!cdpPath || !base) { console.error('usage: node src/tools/logo-ink.mjs <cdp.
 const { launch, newPage } = await import(pathToFileURL(cdpPath).href);
 const b = await launch(9441); const p = await newPage(b.port);
 await p.viewport(1440);
-await p.goto(base.replace(/\/$/, '') + '/', { idle: 600 });
-const out = await p.eval(`(async () => {
-  const srcs = [...new Set([...document.querySelectorAll('.logo-grid img')].map((i) => i.getAttribute('src')))];
+// the home logo grids plus every interior logo wall
+const out = {};
+for (const page of ['/', '/insurance/', '/products/designer-frames/', '/products/contact-lenses/']) {
+await p.goto(base.replace(/\/$/, '') + page, { idle: 600 });
+Object.assign(out, await p.eval(`(async () => {
+  const srcs = [...new Set([...document.querySelectorAll('.logo-grid img, .logo-wall img')].map((i) => i.getAttribute('src')))];
   const res = {};
   for (const src of srcs) {
     const im = new Image(); im.src = src; await im.decode();
@@ -40,7 +43,8 @@ const out = await p.eval(`(async () => {
     res[src.split('/').pop()] = x1 < 0 ? { w, h, x: 0, y: 0, iw: w, ih: h, empty: true } : { w, h, x: x0, y: y0, iw: x1 - x0 + 1, ih: y1 - y0 + 1 };
   }
   return res;
-})()`);
+})()`));
+}
 p.close(); b.close();
 fs.writeFileSync(path.join(ROOT, 'audit/logo-ink.json'), JSON.stringify({ generated: new Date().toISOString(), rule: 'opaque canvas: RGB delta > 96 from the corner colour; transparent canvas: alpha/255 x (765 - R - G - B) > 96', logos: out }, null, 1));
 const n = Object.keys(out).length, empty = Object.values(out).filter((v) => v.empty).length;

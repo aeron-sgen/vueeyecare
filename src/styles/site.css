@@ -551,6 +551,54 @@ details.more summary { color: var(--sky); }
 .page-hero h1 { font-weight: 700; letter-spacing: -0.03em; }
 .page-hero .lead { font-size: var(--fs-md); }
 
+/* ── location panel (Visit Us / Hours): hours card beside the map ── */
+.visit-panel { background: var(--paper-2); }
+.vp-grid { display: grid; grid-template-columns: minmax(0, 0.85fr) minmax(0, 1.15fr); gap: var(--gap); align-items: stretch; }
+.vp-card { background: var(--white); border: 1px solid var(--line); border-radius: var(--r-lg); padding: clamp(24px, 3vw, 36px); box-shadow: var(--shadow); }
+.vp-card h2 { font-size: var(--fs-xl); font-weight: 700; margin: 14px 0 16px; }
+.vp-addr, .vp-phone { display: flex; gap: 10px; align-items: flex-start; margin: 0 0 10px; }
+.vp-addr svg, .vp-phone svg { color: var(--azure-deep); margin-top: 3px; }
+.vp-phone a { display: inline-flex; gap: 10px; align-items: center; min-height: var(--tap); font-weight: 650; color: var(--ink); text-decoration: none; }
+.vp-hours { width: 100%; border-collapse: collapse; margin: 14px 0 22px; font-size: var(--fs-sm); }
+.vp-hours th, .vp-hours td { text-align: left; padding: 10px 0; border-bottom: 1px solid var(--line); }
+.vp-hours th { font-weight: 600; color: var(--ink); }
+.vp-hours td { text-align: right; color: var(--text); }
+.vp-hours tr.closed th, .vp-hours tr.closed td { color: var(--muted); }
+.vp-map { min-height: 420px; border-radius: var(--r-lg); overflow: hidden; border: 1px solid var(--line); box-shadow: var(--shadow-lift); background: var(--paper-3); }
+.vp-map iframe { display: block; width: 100%; height: 100%; min-height: 420px; border: 0; }
+@media (max-width: 900px) { .vp-grid { grid-template-columns: minmax(0, 1fr); } .vp-map, .vp-map iframe { min-height: 320px; } }
+
+/* logo walls on interior pages (insurance plans, designer brands) */
+.band-grid.stack { grid-template-columns: minmax(0, 1fr); }
+.band-grid.stack .band-head h2 { margin-bottom: 4px; }
+.band-grid.stack .band-head { position: static; }
+/* the ink crop must beat the plain-logo sizing above (which is more specific than .logo-ink img) */
+.prose .logo-wall figure.logo .logo-ink img, .logo-wall figure.logo .logo-ink img { position: absolute; width: var(--sw); height: var(--sh); left: var(--sx); top: var(--sy); max-width: none; max-height: none; object-fit: fill; }
+.band-grid.stack .band-body, .band:not(.alt) .band-grid.stack .band-body { background: transparent; border: 0; box-shadow: none; padding: 0; }
+/* centred, wrapping rows of equal tiles: full rows span the width, a short last row (or a short wall) sits centred */
+.logo-wall { display: flex; flex-wrap: wrap; justify-content: center; gap: var(--logo-gap); margin: 0 0 1.4em; }
+.logo-wall > figure { flex: 0 0 calc((100% - 6 * var(--logo-gap)) / 7); }
+.logo-wall figure.logo, .prose .logo-wall figure.logo { margin: 0; max-width: none; display: grid; place-items: center; min-height: 104px; padding: 18px 16px; background: var(--white); border: 1px solid var(--line); border-radius: var(--r-md); transition: border-color var(--t-fast) var(--ease), box-shadow var(--t-fast) var(--ease); }
+.logo-wall figure.logo:hover { border-color: var(--line-strong); box-shadow: var(--shadow); }
+.logo-wall figure.logo img, .prose .logo-wall figure.logo img { width: auto; max-width: 100%; max-height: 56px; object-fit: contain; }
+/* 3 per row below 1000px: 11, 17 and 41 logos all end on a row of 2, never a lone tile */
+@media (max-width: 1000px) { .logo-wall > figure { flex-basis: calc((100% - 2 * var(--logo-gap)) / 3); } }
+/* a wall of exactly four (contact lens brands) splits 2 + 2 there, not 3 + 1 */
+@media (max-width: 1000px) { .logo-wall:has(> figure:nth-child(4):last-child) > figure { flex-basis: calc((100% - var(--logo-gap)) / 2); } }
+@media (max-width: 640px) { .logo-wall figure.logo { min-height: 84px; padding: 14px 10px; } }
+
+/* rows of short sections (offers, short notes) as cards */
+.card-band-head h2 { font-size: var(--fs-2xl); font-weight: 700; letter-spacing: -0.025em; margin: 0 0 24px; }
+.card-band-head h2::before { content: ''; display: block; width: 44px; height: 4px; border-radius: 4px; background: var(--azure); margin-bottom: 18px; }
+.card-row { display: grid; grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); gap: var(--gap); }
+.note-card { display: flex; flex-direction: column; gap: 10px; padding: clamp(22px, 2.6vw, 32px); background: var(--white); border: 1px solid var(--line); border-radius: var(--r-lg); box-shadow: var(--shadow); position: relative; overflow: hidden; }
+.note-card::before { content: ''; position: absolute; inset: 0 0 auto 0; height: 4px; background: linear-gradient(90deg, var(--azure), var(--sky)); }
+.note-card h2 { font-size: var(--fs-lg); font-weight: 700; letter-spacing: -0.015em; margin: 4px 0 0; }
+.note-card .prose { color: var(--text); }
+.note-card .prose > :last-child { margin-bottom: 0; }
+/* a photo after a full-width logo wall stays a sensible size */
+.band-grid.stack figure:not(.logo) { max-width: 880px; margin-inline: auto; }
+
 /* ── touch targets: 44px on touch-sized screens ─────────────────────── */
 @media (max-width: 834px) {
   .foot-credit a, .rel-grid a { min-height: var(--tap); }

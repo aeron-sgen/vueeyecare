@@ -159,6 +159,7 @@ const GROUP_ART = {
 };
 const PAGE_ART = {
   '/our-doctor/dr-pt-dinh': 'doctor', '/contact': 'outdoors', '/products/promotions': 'frames', '/eye-doctor-baton-rouge/hours': 'outdoors',
+  '/products/contact-lenses/hard-to-fit': 'contact-finger', '/products/contact-lenses/eye-exams-for-contacts': 'contact-exam',
   '/eye-doctor-baton-rouge': 'outdoors', '/services/dry-eye-treatment': 'screen', '/services/lasik-co-management': 'man-glasses',
   '/services/toric-contacts': 'contact-finger', '/products/contact-lenses': 'contacts', '/insurance/carecredit': 'hug',
 };
@@ -166,6 +167,10 @@ for (const [to, key] of Object.entries(PAGE_ART)) if (!ART[key]) throw new Error
 for (const to of Object.keys(PAGE_ART)) if (!pages.some((p) => p.to === to)) throw new Error('PAGE_ART ' + to + ': no such page');
 for (const [g, key] of Object.entries(GROUP_ART)) if (key && !ART[key]) throw new Error('GROUP_ART ' + g + ': no art slot ' + key);
 export function articleArt() { return 'family'; }
+
+// logo ink boxes (audit/logo-ink.json from src/tools/logo-ink.mjs): used to balance logo walls
+const LOGO_INK = fs.existsSync(path.join(ROOT, 'audit/logo-ink.json')) ? JSON.parse(fs.readFileSync(path.join(ROOT, 'audit/logo-ink.json'), 'utf8')).logos : {};
+const r3 = (x) => Math.round(x * 1000) / 1000;
 
 // ── inline markup from the extractor ─────────────────────────────────────────
 export function inline(s) {
@@ -329,7 +334,11 @@ function blocksHtml(blocks, page) {
       const small = (lw && lw <= 420) || (b.shownW && b.shownW <= 320);
       const isLogo = /logo/i.test(b.src + b.alt) || li.role === 'LOGO/BRAND';
       const sizes = isLogo || small ? '(max-width: 640px) calc(100vw - 48px), 260px' : '(max-width: 760px) calc(100vw - 48px), 720px';
-      out.push('<figure class="' + (isLogo ? 'logo small' : small ? 'small' : '') + '"><img src="' + li.src + '" alt="' + esc(li.reimaged ? li.alt : (b.alt || li.alt)) + '"' + (li.w ? ' width="' + li.w + '" height="' + li.h + '"' : '') + ' loading="lazy" decoding="async" sizes="' + sizes + '"></figure>');
+      const imgTag = '<img src="' + li.src + '" alt="' + esc(li.reimaged ? li.alt : (b.alt || li.alt)) + '"' + (li.w ? ' width="' + li.w + '" height="' + li.h + '"' : '') + ' loading="lazy" decoding="async" sizes="' + sizes + '">';
+      // logos measured by src/tools/logo-ink.mjs are cropped to their ink and sized to equal visual area (as on home)
+      const ink = (isLogo || small) && LOGO_INK[path.basename(li.src)];   // only logo files are in LOGO_INK
+      const inner = ink ? '<span class="logo-ink" style="--ar:' + r3(ink.iw / ink.ih) + ';--lw:' + Math.min(140, Math.round(62 * Math.sqrt(ink.iw / ink.ih))) + ';--sw:' + r3(ink.w / ink.iw * 100) + '%;--sh:' + r3(ink.h / ink.ih * 100) + '%;--sx:' + r3(-ink.x / ink.iw * 100) + '%;--sy:' + r3(-ink.y / ink.ih * 100) + '%">' + imgTag + '</span>' : imgTag;
+      out.push('<figure class="' + (isLogo ? 'logo small' : small ? 'small' : '') + '">' + inner + '</figure>');
     }
   }
   const grouped = [];
@@ -337,6 +346,11 @@ function blocksHtml(blocks, page) {
     let j = i;
     while (j < out.length && out[j].startsWith('<a class="btn') && out[j].includes(' quick"')) j++;
     if (j > i) { grouped.push('<div class="quick-links">' + out.slice(i, j).join('') + '</div>'); i = j; continue; }
+    // a run of brand / insurance logos becomes one tile wall (each logo was its own full-width block before)
+    // small PNG figures sitting in a run with real logos are brand marks too (Acuvue, CooperVision)
+    while (j < out.length && (out[j].startsWith('<figure class="logo small">') || (out[j].startsWith('<figure class="small">') && /.png/i.test(out[j])))) j++;
+    if (j - i >= 3 && out.slice(i, j).some((x) => x.startsWith('<figure class="logo small">'))) { grouped.push('<div class="logo-wall">' + out.slice(i, j).join('').replace(/<figure class="small">/g, '<figure class="logo small">').replace(/ sizes="[^"]*"/g, ' sizes="160px"') + '</div>'); i = j; continue; }
+    j = i;
     while (j < out.length && out[j].startsWith('<figure class="">')) j++;
     if (j - i >= 3) { grouped.push('<div class="gallery">' + out.slice(i, j).join('').replace(/ sizes="[^"]*"/g, ' sizes="(max-width: 640px) calc(50vw - 30px), 240px"') + '</div>'); i = j; }
     else { grouped.push(out[i]); i++; }
@@ -459,6 +473,23 @@ function interior(page, data) {
   // H1 text from the static source DOM: the rendered innerText carries the old theme's CSS uppercase
   const h1 = (c.h1 && c.h1[0]) || (h1i >= 0 ? blocks[h1i].text : data.title.split('|')[0].trim());
   if (h1i >= 0) blocks.splice(h1i, 1);
+  // Location pages (Visit Us + Hours): the source's hours widget arrives as one run-together line ("monday: 8:00 am
+  // - 4:30 pmtuesday: …") and its reviews widget as loose paragraphs (each long review twice: teaser + full, star
+  // rows as separate lines, no names). Both are rebuilt from the same source data: the hours as a full day-by-day
+  // table beside the map, the reviews as cards (text once, rating, author) from the source JSON-LD.
+  let visit = null, reviewsBand = false;
+  if (/^\/eye-doctor-baton-rouge(\/|$)/.test(page.to)) {
+    const plain = (b) => (b.html || '').replace(/\[\[[^\]]*\]\]/g, '').replace(/\s+/g, ' ').trim();
+    const squash = (t) => t.toLowerCase().replace(/[^a-z0-9]+/g, '');
+    const revKeys = facts.testimonials.map((t) => squash(t.text));
+    const isStars = (b) => b.t === 'p' && /^(⭐️?)+$/u.test(plain(b));
+    const isReview = (b) => b.t === 'p' && plain(b).length > 3 && revKeys.some((k) => k.startsWith(squash(plain(b)).replace(/\.+$/, '').slice(0, 60)));
+    const hi = blocks.findIndex((b) => b.t === 'p' && /^monday:\s*\d/i.test(plain(b)));
+    const mi = blocks.findIndex((b) => b.t === 'embed' && /google\.com\/maps/.test(b.src));
+    if (hi >= 0 || mi >= 0) { visit = true; for (const i of [hi, mi].filter((x) => x >= 0).sort((a, b) => b - a)) blocks.splice(i, 1); }
+    const revIdx = blocks.map((b, i) => (isStars(b) || isReview(b) ? i : -1)).filter((i) => i >= 0);
+    if (revIdx.length >= 6) { reviewsBand = true; for (const i of revIdx.reverse()) blocks.splice(i, 1); }
+  }
   const isTestimonial = page.from.startsWith('/testimonial/');
   const isReviews = page.to === '/reviews';
   let lead = '';
@@ -469,6 +500,8 @@ function interior(page, data) {
   if (hi >= 0 && hi <= 4) { const l = localImage(blocks[hi].src); if (l && (l.layoutW || l.w) >= 380) { heroImg = { ...l, alt: l.reimaged ? l.alt : (blocks[hi].alt || l.alt), contain: (l.w < 700 && /\.(png|gif|svg)$/i.test(l.src)) || /diagram|icon/i.test(l.src) }; blocks.splice(hi, 1); imageUse.push({ page: page.to, src: l.src }); } }
   const artKey = PAGE_ART[page.to] || (page.group === 'article' ? articleArt(page.url + ' ' + h1) : GROUP_ART[page.group]);
   if (!heroImg && artKey) heroImg = { ...ART[artKey], alt: '' };
+  // the source sometimes places the same photo twice near the top; once it is the hero, a repeat in the copy is dropped
+  if (heroImg) for (let i = blocks.length - 1; i >= 0; i--) if (blocks[i].t === 'img') { const l = localImage(blocks[i].src); if (l && l.src === heroImg.src) blocks.splice(i, 1); }
   const kind = page.to === '/patient-forms' ? 'registration' : page.to === '/contact/email-us' ? 'contact' : null;
   const formBlock = kind && data.forms && data.forms[0] ? formHtml(data.forms[0], kind) : '';
   const { hubPage, list } = siblings(page);
@@ -501,6 +534,8 @@ function interior(page, data) {
   const body = D.interior({
     page, title, lead, heroImg, eyebrow: labelOf(page),
     prose: proseHtml + formBlock, splitBands: page.group !== 'legal',
+    visit: visit ? { hours: facts.hoursStructured, mapQuery: facts.brand + ', ' + ADDRESS_LINE } : null,
+    reviews: reviewsBand ? { heading: 'Patient Reviews', agg: facts.aggregateRating, cards: reviews().map((r) => reviewCard(r, { clamp: true })).join(''), more: facts.links.reviewsGoogle } : null,
     related: { heading: hubPage && hubPage.to !== '/' ? fullTitle(hubPage.h1) : 'In this section', hub: hubPage && hubPage.to !== '/' ? hubPage.to + '/' : null, links: related.map((p) => [p.to + '/', p.h1 ? fullTitle(p.h1) : p.to, metaOf(p.to)]) },
   }, K());
   return layout({
@@ -578,7 +613,7 @@ fs.mkdirSync(path.join(DIST, 'products'), { recursive: true });
 const eyewearCards = NAV.eyewear.map(([href, label, art]) => {
   const p = pages.find((x) => x.to === href);
   if (!p) throw new Error('/products hub: no built page ' + href);
-  const d = (seo.pages.find((x) => x.url === p.url) || {}).metaDescription || '';
+  const d = metaOf(href);   // empty when the source meta is only the brand name
   return { href: href + '/', title: fullTitle(p.h1), label, desc: d, img: ART[art] };
 });
 fs.writeFileSync(path.join(DIST, 'products/index.html'), layout({

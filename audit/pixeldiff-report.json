@@ -1,6 +1,6 @@
 {
   "schema": "site-reforge/pixeldiff-report@1",
-  "generated": "2026-10-02T04:23:34.553Z",
+  "generated": "2026-10-02T06:29:00.180Z",
   "threshold": 0.02,
   "tolerance": 8,
   "pairCount": 32,
@@ -13,17 +13,17 @@
     },
     {
       "file": "services.768.png",
-      "ratio": 0.933694,
+      "ratio": 0.93371,
+      "verdict": "SIZE-MISMATCH"
+    },
+    {
+      "file": "products-designer-frames.768.png",
+      "ratio": 0.918576,
       "verdict": "SIZE-MISMATCH"
     },
     {
       "file": "index.1024.png",
       "ratio": 0.915819,
-      "verdict": "SIZE-MISMATCH"
-    },
-    {
-      "file": "products-designer-frames.768.png",
-      "ratio": 0.915704,
       "verdict": "SIZE-MISMATCH"
     },
     {
@@ -40,16 +40,16 @@
       "slug": "eye-doctor-baton-rouge-hours",
       "width": 1024,
       "verdict": "SIZE-MISMATCH",
-      "differing": 1885849,
+      "differing": 1872016,
       "compared": 2662400,
-      "ratio": 0.708327,
+      "ratio": 0.703131,
       "baselineSize": [
         1024,
         2600
       ],
       "rebuildSize": [
         1024,
-        4772
+        4843
       ],
       "sizeMismatch": true,
       "diffImage": "audit/screens/diff/eye-doctor-baton-rouge-hours.1024.png"
@@ -59,16 +59,16 @@
       "slug": "eye-doctor-baton-rouge-hours",
       "width": 1440,
       "verdict": "SIZE-MISMATCH",
-      "differing": 2502005,
+      "differing": 2611685,
       "compared": 3745440,
-      "ratio": 0.668014,
+      "ratio": 0.697297,
       "baselineSize": [
         1440,
         2601
       ],
       "rebuildSize": [
         1440,
-        4839
+        4938
       ],
       "sizeMismatch": true,
       "diffImage": "audit/screens/diff/eye-doctor-baton-rouge-hours.1440.png"
@@ -78,16 +78,16 @@
       "slug": "eye-doctor-baton-rouge-hours",
       "width": 390,
       "verdict": "SIZE-MISMATCH",
-      "differing": 1046229,
+      "differing": 1103095,
       "compared": 1311570,
-      "ratio": 0.797692,
+      "ratio": 0.841049,
       "baselineSize": [
         390,
         3363
       ],
       "rebuildSize": [
         390,
-        6236
+        6901
       ],
       "sizeMismatch": true,
       "diffImage": "audit/screens/diff/eye-doctor-baton-rouge-hours.390.png"
@@ -97,16 +97,16 @@
       "slug": "eye-doctor-baton-rouge-hours",
       "width": 768,
       "verdict": "SIZE-MISMATCH",
-      "differing": 1964020,
+      "differing": 2132258,
       "compared": 2382336,
-      "ratio": 0.824409,
+      "ratio": 0.895028,
       "baselineSize": [
         768,
         3102
       ],
       "rebuildSize": [
         768,
-        5362
+        5794
       ],
       "sizeMismatch": true,
       "diffImage": "audit/screens/diff/eye-doctor-baton-rouge-hours.768.png"
@@ -192,16 +192,16 @@
       "slug": "insurance",
       "width": 1024,
       "verdict": "SIZE-MISMATCH",
-      "differing": 2449930,
+      "differing": 2431815,
       "compared": 3581952,
-      "ratio": 0.683965,
+      "ratio": 0.678908,
       "baselineSize": [
         1024,
         3498
       ],
       "rebuildSize": [
         1024,
-        8667
+        4527
       ],
       "sizeMismatch": true,
       "diffImage": "audit/screens/diff/insurance.1024.png"
@@ -211,16 +211,16 @@
       "slug": "insurance",
       "width": 1440,
       "verdict": "SIZE-MISMATCH",
-      "differing": 2782164,
+      "differing": 2411705,
       "compared": 4132800,
-      "ratio": 0.673191,
+      "ratio": 0.583552,
       "baselineSize": [
         1440,
         2870
       ],
       "rebuildSize": [
         1440,
-        8499
+        4676
       ],
       "sizeMismatch": true,
       "diffImage": "audit/screens/diff/insurance.1440.png"
@@ -230,16 +230,16 @@
       "slug": "insurance",
       "width": 390,
       "verdict": "SIZE-MISMATCH",
-      "differing": 1072417,
+      "differing": 1097273,
       "compared": 1698450,
-      "ratio": 0.631409,
+      "ratio": 0.646044,
       "baselineSize": [
         390,
         4355
       ],
       "rebuildSize": [
         390,
-        10471
+        7211
       ],
       "sizeMismatch": true,
       "diffImage": "audit/screens/diff/insurance.390.png"
@@ -249,16 +249,16 @@
       "slug": "insurance",
       "width": 768,
       "verdict": "SIZE-MISMATCH",
-      "differing": 1680725,
+      "differing": 1601161,
       "compared": 2647296,
-      "ratio": 0.634884,
+      "ratio": 0.604829,
       "baselineSize": [
         768,
         3447
       ],
       "rebuildSize": [
         768,
-        9018
+        5775
       ],
       "sizeMismatch": true,
       "diffImage": "audit/screens/diff/insurance.768.png"
@@ -268,9 +268,9 @@
       "slug": "our-doctor",
       "width": 1024,
       "verdict": "SIZE-MISMATCH",
-      "differing": 3018650,
+      "differing": 3018916,
       "compared": 3536896,
-      "ratio": 0.853474,
+      "ratio": 0.85355,
       "baselineSize": [
         1024,
         3454
@@ -344,16 +344,16 @@
       "slug": "products-contact-lenses",
       "width": 1024,
       "verdict": "SIZE-MISMATCH",
-      "differing": 4641494,
+      "differing": 4854792,
       "compared": 6056960,
-      "ratio": 0.766308,
+      "ratio": 0.801523,
       "baselineSize": [
         1024,
         5915
       ],
       "rebuildSize": [
         1024,
-        8778
+        8248
       ],
       "sizeMismatch": true,
       "diffImage": "audit/screens/diff/products-contact-lenses.1024.png"
@@ -363,16 +363,16 @@
       "slug": "products-contact-lenses",
       "width": 1440,
       "verdict": "SIZE-MISMATCH",
-      "differing": 6198386,
+      "differing": 6149860,
       "compared": 7583040,
-      "ratio": 0.817401,
+      "ratio": 0.811002,
       "baselineSize": [
         1440,
         5266
       ],
       "rebuildSize": [
         1440,
-        8928
+        8279
       ],
       "sizeMismatch": true,
       "diffImage": "audit/screens/diff/products-contact-lenses.1440.png"
@@ -382,16 +382,16 @@
       "slug": "products-contact-lenses",
       "width": 390,
       "verdict": "SIZE-MISMATCH",
-      "differing": 2677943,
+      "differing": 2743690,
       "compared": 3247530,
-      "ratio": 0.824609,
+      "ratio": 0.844854,
       "baselineSize": [
         390,
         8327
       ],
       "rebuildSize": [
         390,
-        11351
+        10800
       ],
       "sizeMismatch": true,
       "diffImage": "audit/screens/diff/products-contact-lenses.390.png"
@@ -401,16 +401,16 @@
       "slug": "products-contact-lenses",
       "width": 768,
       "verdict": "SIZE-MISMATCH",
-      "differing": 5013144,
+      "differing": 4918405,
       "compared": 5677056,
-      "ratio": 0.883053,
+      "ratio": 0.866365,
       "baselineSize": [
         768,
         7392
       ],
       "rebuildSize": [
         768,
-        9479
+        8917
       ],
       "sizeMismatch": true,
       "diffImage": "audit/screens/diff/products-contact-lenses.768.png"
@@ -420,16 +420,16 @@
       "slug": "products-designer-frames",
       "width": 1024,
       "verdict": "SIZE-MISMATCH",
-      "differing": 4903325,
+      "differing": 5049481,
       "compared": 5871616,
-      "ratio": 0.83509,
+      "ratio": 0.859981,
       "baselineSize": [
         1024,
         5734
       ],
       "rebuildSize": [
         1024,
-        13317
+        7737
       ],
       "sizeMismatch": true,
       "diffImage": "audit/screens/diff/products-designer-frames.1024.png"
@@ -439,16 +439,16 @@
       "slug": "products-designer-frames",
       "width": 1440,
       "verdict": "SIZE-MISMATCH",
-      "differing": 6680193,
+      "differing": 6942714,
       "compared": 7935840,
-      "ratio": 0.841775,
+      "ratio": 0.874856,
       "baselineSize": [
         1440,
         5511
       ],
       "rebuildSize": [
         1440,
-        13383
+        7664
       ],
       "sizeMismatch": true,
       "diffImage": "audit/screens/diff/products-designer-frames.1440.png"
@@ -458,16 +458,16 @@
       "slug": "products-designer-frames",
       "width": 390,
       "verdict": "SIZE-MISMATCH",
-      "differing": 2594918,
+      "differing": 2565406,
       "compared": 2986620,
-      "ratio": 0.868848,
+      "ratio": 0.858966,
       "baselineSize": [
         390,
         7658
       ],
       "rebuildSize": [
         390,
-        15312
+        10621
       ],
       "sizeMismatch": true,
       "diffImage": "audit/screens/diff/products-designer-frames.390.png"
@@ -477,16 +477,16 @@
       "slug": "products-designer-frames",
       "width": 768,
       "verdict": "SIZE-MISMATCH",
-      "differing": 5479106,
+      "differing": 5496290,
       "compared": 5983488,
-      "ratio": 0.915704,
+      "ratio": 0.918576,
       "baselineSize": [
         768,
         7791
       ],
       "rebuildSize": [
         768,
-        13819
+        9063
       ],
       "sizeMismatch": true,
       "diffImage": "audit/screens/diff/products-designer-frames.768.png"
@@ -629,9 +629,9 @@
       "slug": "services",
       "width": 768,
       "verdict": "SIZE-MISMATCH",
-      "differing": 5614713,
+      "differing": 5614808,
       "compared": 6013440,
-      "ratio": 0.933694,
+      "ratio": 0.93371,
       "baselineSize": [
         768,
         7830

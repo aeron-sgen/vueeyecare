@@ -29,6 +29,30 @@ All 36 pages were checked at 360, 390 and 414px for zoom-out, elements past the 
 - The home rating seal had gold stars on a gold circle, invisible at every width, with the first one poking out of the circle on phones. They are now navy and centred.
 - On phones, care-card and eyewear-hub photos are 4:3, and the doctor portrait is capped at 300px.
 
+## 2026-10-02 — Eyewear pages audited and fixed
+
+Operator: "do the eyewear drop down, do an audit and fix the designs". All six pages were audited (hub, Designer Frames, Contact Lenses, Hard-to-Fit, Eye Exams for Contacts, Promotions) at desktop and phone.
+- **Hero photos.** Hard-to-Fit and Eye Exams for Contacts showed the eyeglasses still-life; they now use contact-lens photos.
+- **Duplicate photo.** The Contact Lenses hero photo repeated as the first photo in the copy; repeats of the hero are now dropped.
+- **Brand logos.** Contact Lenses' Acuvue and CooperVision weren't recognised as logos (no "logo" in their names), so its four brands never formed a wall. Small PNGs in a run with real logos now count as logos. logo-ink.mjs now measures every interior logo wall too (72 logos), so all four are balanced.
+- **Card rows.** Promotions: each offer was its own near-empty band under a lone "Summer is a Big Deal!". Consecutive sections of one or two sentences (≤320 characters, no media or lists) now form a card row, titled by a heading-only section before them. The same applies to Transitions® Lenses / Lens Treatments on Designer Frames.
+- **Photo size.** On Designer Frames the photo after the logo wall ran the full 1240px; it is now capped at 880px.
+- **Hub description.** The Promotions card on the Eyewear hub showed "Vue Eyecare" as its description (the source meta is only the brand name); it now has none.
+
+## 2026-10-02 — logo walls on Insurance and Designer Frames
+
+Operator: "what happened to this page, it looks wack" (/insurance/). Logos were rendered one per row as full-width blocks: 28 stacked tiles on Insurance and 41 on Designer Frames. Fixes:
+- A run of 3 or more logos becomes a tile wall.
+- Sections that are mostly logos take the full width, with the heading on top (not sticky).
+- Each logo is cropped to its measured ink and sized to equal visual area, as on the home page.
+
+## 2026-10-02 — Visit Us redone
+
+Operator: "redo the visit us tab, the reviews under the map look off". The source location page's widgets had reached the rebuild as raw text: hours run together on one line ("…4:30 pmtuesday: …"), and the reviews as loose paragraphs, each long review twice (teaser + full), star rows as separate lines, no names.
+- **Location panel.** Visit Us and Hours now open with a panel: a full Monday–Sunday hours table, the address, phone, Schedule and Directions, with the map beside it.
+- **Reviews.** Visit Us shows its reviews as 20 cards (text once, 5-star rating, author) from the source JSON-LD, in a scrolling row.
+- **Parity.** Hours page recall is 1.0. Visit Us token recall fell to 0.72 only because the duplicated teasers are gone; every distinct source word is still on the page except the widget's "Show More" label. The ledger records this as IMPROVE (social-proof) with that reason.
+
 ## 2026-10-02 — interior pages modernised
 
 Operator: "modernize the internal pages as well". Styling only; the copy, its order and its headings are unchanged (parity recall still 0.9896).

@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-01T05:54:45.144Z",
+ "generated": "2026-10-02T06:13:42.060Z",
  "rule": "opaque canvas: RGB delta > 96 from the corner colour; transparent canvas: alpha/255 x (765 - R - G - B) > 96",
  "logos": {
   "094adefd-rayban-color.png-w_400.webp": {
@@ -545,6 +545,38 @@
    "y": 71,
    "iw": 350,
    "ih": 180
+  },
+  "0b241084-Acuvue.png-w_300.webp": {
+   "w": 300,
+   "h": 248,
+   "x": 0,
+   "y": 72,
+   "iw": 300,
+   "ih": 87
+  },
+  "849960fc-alcon-novartis-company-logo.png-w_1600.webp": {
+   "w": 1600,
+   "h": 1600,
+   "x": 143,
+   "y": 516,
+   "iw": 1313,
+   "ih": 568
+  },
+  "637c3f74-BandL.png-w_300.webp": {
+   "w": 300,
+   "h": 248,
+   "x": 3,
+   "y": 55,
+   "iw": 290,
+   "ih": 116
+  },
+  "612d6121-CooperVision.png-w_300.webp": {
+   "w": 300,
+   "h": 248,
+   "x": 0,
+   "y": 54,
+   "iw": 300,
+   "ih": 124
   }
  }
 }

@@ -4,7 +4,7 @@
   "targetUrl": "https://www.vueeyecare.com/",
   "origin": "https://www.vueeyecare.com",
   "createdAt": "2026-10-01T04:33:34.111Z",
-  "updatedAt": "2026-10-02T04:25:45.848Z",
+  "updatedAt": "2026-10-02T06:31:22.867Z",
   "config": {
     "maxPages": 300,
     "concurrency": 4,
@@ -93,7 +93,7 @@
     },
     "responsive": {
       "status": "done",
-      "at": "2026-10-02T04:25:44.862Z",
+      "at": "2026-10-02T06:31:21.909Z",
       "note": "144 sweeps at 1024/1440/390/768"
     },
     "seo": {
@@ -108,22 +108,22 @@
     },
     "decontaminate": {
       "status": "done",
-      "at": "2026-10-02T04:21:54.086Z",
+      "at": "2026-10-02T06:27:16.942Z",
       "note": "CLEAN (0 traces)"
     },
     "parity": {
       "status": "fail",
-      "at": "2026-10-02T04:21:53.555Z",
-      "note": "DRIFT — 68 findings"
+      "at": "2026-10-02T06:27:16.393Z",
+      "note": "DRIFT — 70 findings"
     },
     "fabrication": {
       "status": "done",
-      "at": "2026-10-02T04:21:53.828Z",
+      "at": "2026-10-02T06:27:16.685Z",
       "note": "SOURCED — 0 findings"
     },
     "pixeldiff": {
       "status": "fail",
-      "at": "2026-10-02T04:23:34.555Z",
+      "at": "2026-10-02T06:29:00.182Z",
       "note": "DRIFT — 32/32 pairs over threshold"
     },
     "sweep": {
@@ -138,7 +138,7 @@
     },
     "gate": {
       "status": "fail",
-      "at": "2026-10-02T04:25:45.848Z",
+      "at": "2026-10-02T06:31:22.867Z",
       "note": "NOT-READY — 24/29 passing"
     },
     "package": {

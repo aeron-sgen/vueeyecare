@@ -1,6 +1,6 @@
 {
   "schema": "site-reforge/seo-changes@1",
-  "generated": "2026-10-02T04:21:53.299Z",
+  "generated": "2026-10-02T06:27:16.117Z",
   "note": "Every field written into the build by sr-seo --apply. Each carries where its value came from. A field the source already filled is never rewritten here.",
   "siteUrl": "https://www.vueeyecare.com",
   "siteName": "Vue Eyecare",
@@ -1845,7 +1845,7 @@
       "page": "https://www.vueeyecare.com/products/contact-lenses/eye-exams-for-contacts/index.html",
       "field": "twitter:image",
       "from": null,
-      "to": "https://www.vueeyecare.com/assets/img/3bb5c79f-shutterstock_2283445965.jpg-w_2000.webp",
+      "to": "https://www.vueeyecare.com/assets/img/a7637103-shutterstock_1565916823.jpg-w_2000.webp",
       "source": "derived:og-image"
     },
     {
@@ -1929,7 +1929,7 @@
       "page": "https://www.vueeyecare.com/products/contact-lenses/eye-exams-for-contacts/index.html",
       "field": "og:image",
       "from": null,
-      "to": "https://www.vueeyecare.com/assets/img/3bb5c79f-shutterstock_2283445965.jpg-w_2000.webp",
+      "to": "https://www.vueeyecare.com/assets/img/a7637103-shutterstock_1565916823.jpg-w_2000.webp",
       "source": "present-from-an-earlier-seo-pass"
     },
     {
@@ -1978,7 +1978,7 @@
       "page": "https://www.vueeyecare.com/products/contact-lenses/hard-to-fit/index.html",
       "field": "twitter:image",
       "from": null,
-      "to": "https://www.vueeyecare.com/assets/img/3bb5c79f-shutterstock_2283445965.jpg-w_2000.webp",
+      "to": "https://www.vueeyecare.com/assets/img/84d95eb1-shutterstock_2430481643.jpg-w_2000.webp",
       "source": "derived:og-image"
     },
     {
@@ -2062,7 +2062,7 @@
       "page": "https://www.vueeyecare.com/products/contact-lenses/hard-to-fit/index.html",
       "field": "og:image",
       "from": null,
-      "to": "https://www.vueeyecare.com/assets/img/3bb5c79f-shutterstock_2283445965.jpg-w_2000.webp",
+      "to": "https://www.vueeyecare.com/assets/img/84d95eb1-shutterstock_2430481643.jpg-w_2000.webp",
       "source": "present-from-an-earlier-seo-pass"
     },
     {

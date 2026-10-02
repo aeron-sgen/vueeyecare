@@ -1,7 +1,7 @@
 {
   "schema": "site-reforge/change-control@1",
   "generated": "2026-10-01T04:48:37.618Z",
-  "updated": "2026-10-02T04:21:54.261Z",
+  "updated": "2026-10-02T06:27:17.124Z",
   "legend": {
     "PRESERVE": "kept as-is; content and function unchanged",
     "IMPROVE": "same content and meaning, better structure/hierarchy/design",
@@ -2088,8 +2088,8 @@
       "sourceTag": "section",
       "sourceClass": "cpt cpt--id-k9GZrXYAOf cpt--type-section section",
       "decision": "IMPROVE",
-      "why": "Section copy carried into dist/eye-doctor-baton-rouge/index.html at 99.4% token recall of its 835 words (section located in audit/raw by cpt--id-k9GZrXYAOf)",
-      "narrativeSlot": "footer",
+      "why": "Reviews widget rebuilt as cards in dist/eye-doctor-baton-rouge/index.html (one card per review with rating and author, from the source JSON-LD): the source printed each long review twice (teaser + full) with star rows as separate lines, so the token recall is 75.0%, but every distinct word of the section is on the page except the widget's \"Show More\" toggle label",
+      "narrativeSlot": "social-proof",
       "presetId": "",
       "rebuiltAs": "eye-doctor-baton-rouge/index.html"
     },
