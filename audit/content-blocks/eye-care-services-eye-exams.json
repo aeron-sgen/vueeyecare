@@ -1,0 +1,104 @@
+{
+ "title": "Eye Exam Near You | Optometrist",
+ "description": "Vue Eyecare",
+ "canonical": "https://www.vueeyecare.com/eye-care-services/eye-exams/",
+ "ogImage": "https://cdn.patientengage.cloud/sites/1ae885ad-ada7-41da-a3f2-c99458a5469b/live/media/019cc11a-8658-722a-9de4-45c0bc10169d/Thumbnail-phoropter.jpg",
+ "blocks": [
+  {
+   "t": "h",
+   "level": 1,
+   "text": "Comprehensive Eye Exams",
+   "html": "Comprehensive Eye Exams"
+  },
+  {
+   "t": "p",
+   "html": "[[b]]Eye Exams For the Whole Family:[[/b]] Routine eye exams are important, regardless of your age or physical health. During a complete eye exam, your eye doctor will not only determine your prescription for eyeglasses or contact lenses, but will also check your eyes for common eye diseases, assess how your eyes work together as a team and evaluate your eyes as an indicator of your overall health."
+  },
+  {
+   "t": "img",
+   "src": "https://cdn.patientengage.cloud/sites/1ae885ad-ada7-41da-a3f2-c99458a5469b/live/media/019df9b4-154e-7723-bd63-43c8b7fbadd2/a-family-sitting-on-a-couch-reading-a-book.jpg@w_1200.webp",
+   "alt": "A family sitting on a couch, reading a book",
+   "w": 0,
+   "h": 0,
+   "shownW": 720
+  },
+  {
+   "t": "h",
+   "level": 2,
+   "text": "Need an Eye Exam to Update Your Prescription?",
+   "html": "Need an [[b]]Eye Exam[[/b]] to Update Your Prescription?"
+  },
+  {
+   "t": "p",
+   "html": "A comprehensive eye exam includes a number of tests and procedures to examine and evaluate the health of your eyes and the quality of your vision. These tests range from simple ones, like having you read an eye chart, to complex tests, such as using digital retinal imaging technology to evaluate retinal health."
+  },
+  {
+   "t": "p",
+   "html": "Eye care experts recommend you have a complete eye exam every year to assess your risk for potentially damaging eye conditions, as well as to keep on top of any changes in vision you may be experiencing."
+  },
+  {
+   "t": "h",
+   "level": 2,
+   "text": "Eye Care for Everyone",
+   "html": "Eye Care for [[b]]Everyone[[/b]]"
+  },
+  {
+   "t": "h",
+   "level": 3,
+   "text": "How Often Do You Need to See the Optometrist, Based on Age?",
+   "html": "How Often Do You Need to See the Optometrist, Based on Age?"
+  },
+  {
+   "t": "p",
+   "html": "The AOA recommends an annual eye exam for any patient who wears eyeglasses or contacts. If you don’t normally need vision correction, you still need an eye exam every year. Doctors often recommend more frequent eye examinations for people with diabetes, high blood pressure and other disorders, because many diseases can have an impact on vision and eye health."
+  },
+  {
+   "t": "p",
+   "html": "Since the risk of eye disease continues to increase with advancing age, everyone over the age of 60 should be examined annually."
+  },
+  {
+   "t": "p",
+   "html": "If you are over 40, it’s a good idea to have your eyes examined every one to two years to check for common age-related eye problems such as presbyopia, cataracts and macular degeneration."
+  },
+  {
+   "t": "img",
+   "src": "https://cdn.patientengage.cloud/sites/1ae885ad-ada7-41da-a3f2-c99458a5469b/live/media/019df9ae-ed95-7685-9775-3a01bfd8bbf9/family-sitting-on-beige-couch.jpg@w_1200.webp",
+   "alt": "Family of three sitting on a couch in a modern living room. The family is smiling and looking at the camera. The couch is beige with blue cushions. The room has white walls, wooden floors, and various pieces of furniture including a coffee table, chairs, and shelves with picture frames.",
+   "w": 0,
+   "h": 0,
+   "shownW": 558
+  },
+  {
+   "t": "h",
+   "level": 3,
+   "text": "Eye Exams for Children",
+   "html": "Eye Exams for Children"
+  },
+  {
+   "t": "p",
+   "html": "Some experts estimate that approximately 5% to 10% of pre-schoolers and 25% of school-aged children have vision problems. According to the American Optometric Association (AOA), all children should have their eyes examined at 6 months of age, at age 3 and again at the start of school. Children without vision problems or risk factors for eye or vision problems should then continue to have their eyes examined at every year throughout school."
+  },
+  {
+   "t": "p",
+   "html": "Children with existing vision problems or risk factors should have their eyes examined more frequently. Common risk factors for vision problems include:"
+  },
+  {
+   "t": "list",
+   "ordered": false,
+   "items": [
+    "premature birth",
+    "developmental delays",
+    "turned or crossed eyes",
+    "family history of eye disease",
+    "history of eye injury",
+    "other physical illness or disease"
+   ]
+  },
+  {
+   "t": "p",
+   "html": "The AOA recommends that children who wear eyeglasses or contact lenses should have their eyes examined at least every 12 months or according to their optometrist’s instructions. Read more about Pediatric Eye Exams."
+  }
+ ],
+ "forms": [],
+ "url": "https://www.vueeyecare.com/eye-care-services/eye-exams/"
+}

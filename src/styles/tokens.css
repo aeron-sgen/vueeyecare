@@ -1,0 +1,92 @@
+/* tokens.css — design C, modern refresh (2026-10-02, operator: "make it have a modern feel and look").
+   Brand colours are Vue Eyecare's own, measured by sr-tokens from the live site (audit/source-tokens.css,
+   audit/design-baseline.json): navy #001b3a, azure #0878aa, gold #eaaf2f, white. Everything else is derived
+   from them. Change values HERE, never at a call site. */
+@font-face { font-family: 'Inter Tight'; src: url('../assets/fonts/intertight-latin-var.woff2') format('woff2'); font-weight: 400 800; font-style: normal; font-display: swap; }
+@font-face { font-family: 'Instrument Sans'; src: url('../assets/fonts/instrument-latin-var.woff2') format('woff2'); font-weight: 400 700; font-style: normal; font-display: swap; }
+@font-face { font-family: 'Instrument Sans'; src: url('../assets/fonts/instrument-latin-italic-var.woff2') format('woff2'); font-weight: 400 700; font-style: italic; font-display: swap; }
+
+:root {
+  /* --- brand (measured on the source) -------------------------------- */
+  --navy: #001b3a;
+  --azure: #0878aa;
+  --gold: #eaaf2f;
+  --white: #ffffff;
+
+  /* --- derived ------------------------------------------------------- */
+  --ink: var(--navy);
+  --ink-2: #0b2c55;           /* raised navy surface */
+  --ink-3: #163a66;           /* navy hairline / hover */
+  --azure-deep: #066590;      /* links + primary buttons: 6.42:1 on white, 5.92:1 on --paper-2; white on it 6.42:1 (never azure text on navy: 3.51:1) */
+  --azure-ink: #055a80;       /* pill-label text on --azure-pale: 6.50:1 */
+  --sky: #7cc6ea;             /* accent text on navy: 9.13:1 */
+  --azure-pale: #e3f0f7;
+  --gold-pale: #f8e7bf;
+  --gold-ink: #7a5300;        /* gold-family text on paper: 6.30:1 */
+  --paper: #ffffff;
+  --paper-2: #f3f6fa;
+  --paper-3: #e8eef5;
+  --text: #0f1b2d;            /* 17.28:1 on white */
+  --muted: #4b5a6e;           /* 7.03:1 on white, 6.49:1 on --paper-2, 6.02:1 on --paper-3 */
+  --on-ink: #f8f5ef;
+  --on-ink-muted: #b9c6d8;    /* 9.96:1 on navy, 8.06:1 on ink-2 */
+  --line: rgba(15, 27, 45, 0.10);
+  --line-strong: rgba(15, 27, 45, 0.20);
+  --line-ink: rgba(248, 245, 239, 0.18);
+  --line-on-gold: rgba(0, 27, 58, 0.45);
+  --scrim: rgba(0, 27, 58, 0.45);
+
+  /* --- type ---------------------------------------------------------- */
+  --f-display: 'Inter Tight', 'Instrument Sans', 'Segoe UI', system-ui, -apple-system, sans-serif;
+  --f-body: 'Instrument Sans', 'Segoe UI', system-ui, -apple-system, sans-serif;
+  --fs-xs: 0.8125rem;
+  --fs-sm: 0.9375rem;
+  --fs-base: 1.0625rem;
+  --fs-md: 1.1875rem;
+  --fs-lg: clamp(1.25rem, 1.1rem + 0.5vw, 1.5rem);
+  --fs-xl: clamp(1.5rem, 1.2rem + 1.1vw, 2.125rem);
+  --fs-2xl: clamp(1.875rem, 1.35rem + 2vw, 3rem);
+  --fs-3xl: clamp(2.375rem, 1.5rem + 3.4vw, 4.5rem);
+  --fs-hero: clamp(2.6rem, 1.4rem + 4.6vw, 5.75rem);
+  --lh-tight: 1.04;
+  --lh-head: 1.14;
+  --lh-body: 1.65;
+
+  /* --- space --------------------------------------------------------- */
+  --gutter: clamp(16px, 4vw, 40px);
+  --wrap: 1240px;
+  --wrap-narrow: 760px;
+  --section-y: clamp(56px, 8vw, 120px);
+  --gap: clamp(16px, 2.4vw, 28px);
+  --gap-lg: clamp(28px, 4.5vw, 64px);
+
+  /* --- shape --------------------------------------------------------- */
+  --r-sm: 6px;
+  --r-md: 18px;
+  --r-lg: 28px;
+  --r-pill: 999px;
+  --photo-r: var(--r-lg);     /* every photo frame: one plain rounded rectangle */
+  --shadow: 0 1px 2px rgba(15, 27, 45, 0.04), 0 12px 32px -12px rgba(15, 40, 80, 0.18);
+  --shadow-lift: 0 2px 6px rgba(15, 27, 45, 0.05), 0 30px 60px -24px rgba(15, 40, 80, 0.28);
+  --glow-azure: rgba(8, 120, 170, 0.14);
+  --glow-gold: rgba(234, 175, 47, 0.16);
+  --sky-glow: rgba(124, 198, 234, 0.18);
+  --glass-ink: rgba(255, 255, 255, 0.08);      /* translucent surfaces on navy */
+  --glass-ink-soft: rgba(255, 255, 255, 0.05);
+  --glass-ink-faint: rgba(255, 255, 255, 0.04);
+  --ring-w: 1px;
+
+  /* --- layout -------------------------------------------------------- */
+  --header-h: 76px;
+  --hero-offset: 121px;       /* measured: utility bar 44 + header 77 above the home hero (109 on phones) */
+  --hero-scale: 0.8;          /* operator, 2026-10-01: home hero scaled down 20% to fit the first screen */
+  --tap: 44px;
+  --feature-min: 260px;
+  --logo-gap: 12px;
+
+  /* --- motion -------------------------------------------------------- */
+  --ease: cubic-bezier(0.22, 0.61, 0.36, 1);
+  --t-fast: 160ms;
+  --t-med: 320ms;
+  --t-reveal: 700ms;
+}

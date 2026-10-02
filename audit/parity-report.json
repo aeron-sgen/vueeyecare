@@ -1,0 +1,1126 @@
+{
+  "schema": "site-reforge/parity-report@1",
+  "generated": "2026-10-02T00:10:07.802Z",
+  "sourcePages": 33,
+  "rebuiltFiles": 37,
+  "mappedPages": 33,
+  "missingPages": [],
+  "extraFiles": [
+    "404.html",
+    "products/index.html",
+    "reviews/index.html",
+    "search/index.html"
+  ],
+  "recallFloor": 0.95,
+  "contentRunFloor": 12,
+  "meanRecall": 0.9896,
+  "counts": {
+    "major": 2,
+    "minor": 33,
+    "blocker": 33
+  },
+  "verdict": "DRIFT",
+  "rows": [
+    {
+      "url": "https://www.vueeyecare.com/",
+      "file": "index.html",
+      "pageType": "home",
+      "status": "DIFFERS",
+      "recall": 0.8329,
+      "missingWords": 278,
+      "longestMissingRun": 15,
+      "sourceWords": 1675,
+      "rebuiltWords": 1602,
+      "sourceH1": [
+        "Your Family Optometrist in Baton Rouge"
+      ],
+      "rebuiltH1": [
+        "Your Family Optometrist in Baton Rouge"
+      ],
+      "sourceLinks": 8,
+      "rebuiltLinks": 123,
+      "findings": [
+        {
+          "severity": "major",
+          "code": "content-loss",
+          "title": "Body content recall 83.3% (floor 95%)",
+          "detail": "missing words: phuong experienced skilled proudly community moved united states parents older sister 1974 following vietnam war later graduated catholic high school continued education louisiana state university"
+        },
+        {
+          "severity": "major",
+          "code": "content-block-missing",
+          "title": "15 consecutive source words absent from the rebuild (limit 12)",
+          "detail": "\"and show more staff is professional kind and courteous examiners goes the extra mile on\""
+        },
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "5 image(s) without alt",
+          "detail": "index.html"
+        },
+        {
+          "severity": "blocker",
+          "code": "contact-lost",
+          "title": "Phone number missing from rebuild",
+          "detail": "(303) 979-4505"
+        }
+      ]
+    },
+    {
+      "url": "https://www.vueeyecare.com/contact-lenses",
+      "file": "products/contact-lenses/index.html",
+      "pageType": "page",
+      "status": "DIFFERS",
+      "recall": 1,
+      "missingWords": 0,
+      "longestMissingRun": 0,
+      "sourceWords": 681,
+      "rebuiltWords": 807,
+      "sourceH1": [
+        "Contact Lenses in Baton Rouge, Louisiana"
+      ],
+      "rebuiltH1": [
+        "Contact Lenses in Baton Rouge, Louisiana"
+      ],
+      "sourceLinks": 7,
+      "rebuiltLinks": 105,
+      "findings": [
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "3 image(s) without alt",
+          "detail": "products/contact-lenses/index.html"
+        },
+        {
+          "severity": "blocker",
+          "code": "contact-lost",
+          "title": "Phone number missing from rebuild",
+          "detail": "(303) 979-4505"
+        }
+      ]
+    },
+    {
+      "url": "https://www.vueeyecare.com/contact-lenses/contact-lenses-for-the-hard-to-fit-patient",
+      "file": "products/contact-lenses/hard-to-fit/index.html",
+      "pageType": "page",
+      "status": "DIFFERS",
+      "recall": 1,
+      "missingWords": 0,
+      "longestMissingRun": 0,
+      "sourceWords": 1097,
+      "rebuiltWords": 1221,
+      "sourceH1": [
+        "Contact Lenses for the “Hard-to-Fit” Patient"
+      ],
+      "rebuiltH1": [
+        "Contact Lenses for the “Hard-to-Fit” Patient"
+      ],
+      "sourceLinks": 5,
+      "rebuiltLinks": 103,
+      "findings": [
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "4 image(s) without alt",
+          "detail": "products/contact-lenses/hard-to-fit/index.html"
+        },
+        {
+          "severity": "blocker",
+          "code": "contact-lost",
+          "title": "Phone number missing from rebuild",
+          "detail": "(303) 979-4505"
+        }
+      ]
+    },
+    {
+      "url": "https://www.vueeyecare.com/contact-lenses/eye-exams-for-contact-lenses",
+      "file": "products/contact-lenses/eye-exams-for-contacts/index.html",
+      "pageType": "page",
+      "status": "DIFFERS",
+      "recall": 1,
+      "missingWords": 0,
+      "longestMissingRun": 0,
+      "sourceWords": 992,
+      "rebuiltWords": 1120,
+      "sourceH1": [
+        "Eye Exams for Contact Lenses"
+      ],
+      "rebuiltH1": [
+        "Eye Exams for Contact Lenses"
+      ],
+      "sourceLinks": 5,
+      "rebuiltLinks": 103,
+      "findings": [
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "4 image(s) without alt",
+          "detail": "products/contact-lenses/eye-exams-for-contacts/index.html"
+        },
+        {
+          "severity": "blocker",
+          "code": "contact-lost",
+          "title": "Phone number missing from rebuild",
+          "detail": "(303) 979-4505"
+        }
+      ]
+    },
+    {
+      "url": "https://www.vueeyecare.com/contact-lenses/toric-contact-lenses-for-astigmatism",
+      "file": "services/toric-contacts/index.html",
+      "pageType": "page",
+      "status": "DIFFERS",
+      "recall": 1,
+      "missingWords": 0,
+      "longestMissingRun": 0,
+      "sourceWords": 393,
+      "rebuiltWords": 465,
+      "sourceH1": [
+        "Toric Contact Lenses for Astigmatism"
+      ],
+      "rebuiltH1": [
+        "Toric Contact Lenses for Astigmatism"
+      ],
+      "sourceLinks": 5,
+      "rebuiltLinks": 105,
+      "findings": [
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "4 image(s) without alt",
+          "detail": "services/toric-contacts/index.html"
+        },
+        {
+          "severity": "blocker",
+          "code": "contact-lost",
+          "title": "Phone number missing from rebuild",
+          "detail": "(303) 979-4505"
+        }
+      ]
+    },
+    {
+      "url": "https://www.vueeyecare.com/contact-us",
+      "file": "contact/index.html",
+      "pageType": "page",
+      "status": "DIFFERS",
+      "recall": 1,
+      "missingWords": 0,
+      "longestMissingRun": 0,
+      "sourceWords": 16,
+      "rebuiltWords": 80,
+      "sourceH1": [
+        "Contact Us"
+      ],
+      "rebuiltH1": [
+        "Contact Us"
+      ],
+      "sourceLinks": 5,
+      "rebuiltLinks": 102,
+      "findings": [
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "5 image(s) without alt",
+          "detail": "contact/index.html"
+        },
+        {
+          "severity": "blocker",
+          "code": "contact-lost",
+          "title": "Phone number missing from rebuild",
+          "detail": "(303) 979-4505"
+        }
+      ]
+    },
+    {
+      "url": "https://www.vueeyecare.com/disclaimer",
+      "file": "disclaimer/index.html",
+      "pageType": "legal",
+      "status": "DIFFERS",
+      "recall": 1,
+      "missingWords": 0,
+      "longestMissingRun": 0,
+      "sourceWords": 379,
+      "rebuiltWords": 417,
+      "sourceH1": [
+        "Disclaimer"
+      ],
+      "rebuiltH1": [
+        "Disclaimer"
+      ],
+      "sourceLinks": 5,
+      "rebuiltLinks": 98,
+      "findings": [
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "3 image(s) without alt",
+          "detail": "disclaimer/index.html"
+        },
+        {
+          "severity": "blocker",
+          "code": "contact-lost",
+          "title": "Phone number missing from rebuild",
+          "detail": "(303) 979-4505"
+        }
+      ]
+    },
+    {
+      "url": "https://www.vueeyecare.com/eye-care-services",
+      "file": "services/index.html",
+      "pageType": "page",
+      "status": "DIFFERS",
+      "recall": 1,
+      "missingWords": 0,
+      "longestMissingRun": 0,
+      "sourceWords": 568,
+      "rebuiltWords": 661,
+      "sourceH1": [
+        "Eye Care Services in Baton Rouge"
+      ],
+      "rebuiltH1": [
+        "Eye Care Services in Baton Rouge"
+      ],
+      "sourceLinks": 8,
+      "rebuiltLinks": 111,
+      "findings": [
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "3 image(s) without alt",
+          "detail": "services/index.html"
+        },
+        {
+          "severity": "blocker",
+          "code": "contact-lost",
+          "title": "Phone number missing from rebuild",
+          "detail": "(303) 979-4505"
+        }
+      ]
+    },
+    {
+      "url": "https://www.vueeyecare.com/eye-care-services/contact-lens-exams",
+      "file": "services/contact-lens-exams/index.html",
+      "pageType": "page",
+      "status": "DIFFERS",
+      "recall": 1,
+      "missingWords": 0,
+      "longestMissingRun": 0,
+      "sourceWords": 1065,
+      "rebuiltWords": 1167,
+      "sourceH1": [
+        "Contact Lens Exams"
+      ],
+      "rebuiltH1": [
+        "Contact Lens Exams"
+      ],
+      "sourceLinks": 5,
+      "rebuiltLinks": 107,
+      "findings": [
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "3 image(s) without alt",
+          "detail": "services/contact-lens-exams/index.html"
+        },
+        {
+          "severity": "blocker",
+          "code": "contact-lost",
+          "title": "Phone number missing from rebuild",
+          "detail": "(303) 979-4505"
+        }
+      ]
+    },
+    {
+      "url": "https://www.vueeyecare.com/eye-care-services/contact-lens-exams/hard-to-fit",
+      "file": "services/specialty-contacts/index.html",
+      "pageType": "page",
+      "status": "DIFFERS",
+      "recall": 1,
+      "missingWords": 0,
+      "longestMissingRun": 0,
+      "sourceWords": 1119,
+      "rebuiltWords": 1216,
+      "sourceH1": [
+        "Contact Lenses for the Hard to Fit Patient"
+      ],
+      "rebuiltH1": [
+        "Contact Lenses for the Hard to Fit Patient"
+      ],
+      "sourceLinks": 5,
+      "rebuiltLinks": 105,
+      "findings": [
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "4 image(s) without alt",
+          "detail": "services/specialty-contacts/index.html"
+        },
+        {
+          "severity": "blocker",
+          "code": "contact-lost",
+          "title": "Phone number missing from rebuild",
+          "detail": "(303) 979-4505"
+        }
+      ]
+    },
+    {
+      "url": "https://www.vueeyecare.com/eye-care-services/eye-conditions",
+      "file": "services/eye-conditions/index.html",
+      "pageType": "page",
+      "status": "DIFFERS",
+      "recall": 1,
+      "missingWords": 0,
+      "longestMissingRun": 0,
+      "sourceWords": 153,
+      "rebuiltWords": 320,
+      "sourceH1": [
+        "Eye Condition Treatment"
+      ],
+      "rebuiltH1": [
+        "Eye Condition Treatment"
+      ],
+      "sourceLinks": 5,
+      "rebuiltLinks": 106,
+      "findings": [
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "3 image(s) without alt",
+          "detail": "services/eye-conditions/index.html"
+        },
+        {
+          "severity": "blocker",
+          "code": "contact-lost",
+          "title": "Phone number missing from rebuild",
+          "detail": "(303) 979-4505"
+        }
+      ]
+    },
+    {
+      "url": "https://www.vueeyecare.com/eye-care-services/eye-conditions/dry-eye-disease-and-treatment",
+      "file": "services/dry-eye-treatment/index.html",
+      "pageType": "page",
+      "status": "DIFFERS",
+      "recall": 1,
+      "missingWords": 0,
+      "longestMissingRun": 0,
+      "sourceWords": 1017,
+      "rebuiltWords": 1184,
+      "sourceH1": [
+        "Dry Eyes"
+      ],
+      "rebuiltH1": [
+        "Dry Eyes"
+      ],
+      "sourceLinks": 5,
+      "rebuiltLinks": 105,
+      "findings": [
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "3 image(s) without alt",
+          "detail": "services/dry-eye-treatment/index.html"
+        },
+        {
+          "severity": "blocker",
+          "code": "contact-lost",
+          "title": "Phone number missing from rebuild",
+          "detail": "(303) 979-4505"
+        }
+      ]
+    },
+    {
+      "url": "https://www.vueeyecare.com/eye-care-services/eye-emergencies-pinkred-eyes",
+      "file": "services/emergency-eye-care/index.html",
+      "pageType": "page",
+      "status": "DIFFERS",
+      "recall": 1,
+      "missingWords": 0,
+      "longestMissingRun": 0,
+      "sourceWords": 577,
+      "rebuiltWords": 678,
+      "sourceH1": [
+        "Eye Emergencies (Pink/Red Eyes)"
+      ],
+      "rebuiltH1": [
+        "Eye Emergencies (Pink/Red Eyes)"
+      ],
+      "sourceLinks": 5,
+      "rebuiltLinks": 105,
+      "findings": [
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "3 image(s) without alt",
+          "detail": "services/emergency-eye-care/index.html"
+        },
+        {
+          "severity": "blocker",
+          "code": "contact-lost",
+          "title": "Phone number missing from rebuild",
+          "detail": "(303) 979-4505"
+        }
+      ]
+    },
+    {
+      "url": "https://www.vueeyecare.com/eye-care-services/eye-exams",
+      "file": "services/comprehensive-eye-exams/index.html",
+      "pageType": "page",
+      "status": "DIFFERS",
+      "recall": 1,
+      "missingWords": 0,
+      "longestMissingRun": 0,
+      "sourceWords": 451,
+      "rebuiltWords": 553,
+      "sourceH1": [
+        "Comprehensive Eye Exams"
+      ],
+      "rebuiltH1": [
+        "Comprehensive Eye Exams"
+      ],
+      "sourceLinks": 5,
+      "rebuiltLinks": 105,
+      "findings": [
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "3 image(s) without alt",
+          "detail": "services/comprehensive-eye-exams/index.html"
+        },
+        {
+          "severity": "blocker",
+          "code": "contact-lost",
+          "title": "Phone number missing from rebuild",
+          "detail": "(303) 979-4505"
+        }
+      ]
+    },
+    {
+      "url": "https://www.vueeyecare.com/eye-care-services/lasik-refractive-surgery-co-management",
+      "file": "services/lasik-co-management/index.html",
+      "pageType": "page",
+      "status": "DIFFERS",
+      "recall": 1,
+      "missingWords": 0,
+      "longestMissingRun": 0,
+      "sourceWords": 1149,
+      "rebuiltWords": 1291,
+      "sourceH1": [
+        "LASIK & Refractive Surgery Co-Management"
+      ],
+      "rebuiltH1": [
+        "LASIK & Refractive Surgery Co-Management"
+      ],
+      "sourceLinks": 5,
+      "rebuiltLinks": 105,
+      "findings": [
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "3 image(s) without alt",
+          "detail": "services/lasik-co-management/index.html"
+        },
+        {
+          "severity": "blocker",
+          "code": "contact-lost",
+          "title": "Phone number missing from rebuild",
+          "detail": "(303) 979-4505"
+        }
+      ]
+    },
+    {
+      "url": "https://www.vueeyecare.com/eye-care-services/management-of-ocular-diseases",
+      "file": "services/medical-eye-care/index.html",
+      "pageType": "page",
+      "status": "DIFFERS",
+      "recall": 0.9928,
+      "missingWords": 2,
+      "longestMissingRun": 2,
+      "sourceWords": 281,
+      "rebuiltWords": 432,
+      "sourceH1": [
+        "Eye Disease Management"
+      ],
+      "rebuiltH1": [
+        "Eye Disease Management"
+      ],
+      "sourceLinks": 5,
+      "rebuiltLinks": 106,
+      "findings": [
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "3 image(s) without alt",
+          "detail": "services/medical-eye-care/index.html"
+        },
+        {
+          "severity": "blocker",
+          "code": "contact-lost",
+          "title": "Phone number missing from rebuild",
+          "detail": "(303) 979-4505"
+        }
+      ]
+    },
+    {
+      "url": "https://www.vueeyecare.com/eye-care-services/management-of-ocular-diseases/cataract-surgery-co-management",
+      "file": "services/cataract-co-management/index.html",
+      "pageType": "page",
+      "status": "DIFFERS",
+      "recall": 1,
+      "missingWords": 0,
+      "longestMissingRun": 0,
+      "sourceWords": 350,
+      "rebuiltWords": 492,
+      "sourceH1": [
+        "Cataract Surgery Co-Management"
+      ],
+      "rebuiltH1": [
+        "Cataract Surgery Co-Management"
+      ],
+      "sourceLinks": 5,
+      "rebuiltLinks": 106,
+      "findings": [
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "4 image(s) without alt",
+          "detail": "services/cataract-co-management/index.html"
+        },
+        {
+          "severity": "blocker",
+          "code": "contact-lost",
+          "title": "Phone number missing from rebuild",
+          "detail": "(303) 979-4505"
+        }
+      ]
+    },
+    {
+      "url": "https://www.vueeyecare.com/eye-care-services/management-of-ocular-diseases/glaucoma-testing-treatment",
+      "file": "services/glaucoma-management/index.html",
+      "pageType": "page",
+      "status": "DIFFERS",
+      "recall": 1,
+      "missingWords": 0,
+      "longestMissingRun": 0,
+      "sourceWords": 1315,
+      "rebuiltWords": 1457,
+      "sourceH1": [
+        "Glaucoma Testing & Treatment"
+      ],
+      "rebuiltH1": [
+        "Glaucoma Testing & Treatment"
+      ],
+      "sourceLinks": 5,
+      "rebuiltLinks": 106,
+      "findings": [
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "4 image(s) without alt",
+          "detail": "services/glaucoma-management/index.html"
+        },
+        {
+          "severity": "blocker",
+          "code": "contact-lost",
+          "title": "Phone number missing from rebuild",
+          "detail": "(303) 979-4505"
+        }
+      ]
+    },
+    {
+      "url": "https://www.vueeyecare.com/eye-care-services/management-of-ocular-diseases/treating-diabetic-retinopathy",
+      "file": "services/diabetic-eye-exams/index.html",
+      "pageType": "page",
+      "status": "DIFFERS",
+      "recall": 1,
+      "missingWords": 0,
+      "longestMissingRun": 0,
+      "sourceWords": 247,
+      "rebuiltWords": 388,
+      "sourceH1": [
+        "Diabetic Eye Disease"
+      ],
+      "rebuiltH1": [
+        "Diabetic Eye Disease"
+      ],
+      "sourceLinks": 5,
+      "rebuiltLinks": 106,
+      "findings": [
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "4 image(s) without alt",
+          "detail": "services/diabetic-eye-exams/index.html"
+        },
+        {
+          "severity": "blocker",
+          "code": "contact-lost",
+          "title": "Phone number missing from rebuild",
+          "detail": "(303) 979-4505"
+        }
+      ]
+    },
+    {
+      "url": "https://www.vueeyecare.com/eye-care-services/management-of-ocular-diseases/treating-macular-degeneration",
+      "file": "services/macular-degeneration/index.html",
+      "pageType": "page",
+      "status": "DIFFERS",
+      "recall": 1,
+      "missingWords": 0,
+      "longestMissingRun": 0,
+      "sourceWords": 306,
+      "rebuiltWords": 447,
+      "sourceH1": [
+        "Macular Degeneration"
+      ],
+      "rebuiltH1": [
+        "Macular Degeneration"
+      ],
+      "sourceLinks": 5,
+      "rebuiltLinks": 106,
+      "findings": [
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "4 image(s) without alt",
+          "detail": "services/macular-degeneration/index.html"
+        },
+        {
+          "severity": "blocker",
+          "code": "contact-lost",
+          "title": "Phone number missing from rebuild",
+          "detail": "(303) 979-4505"
+        }
+      ]
+    },
+    {
+      "url": "https://www.vueeyecare.com/eye-care-services/myopia-management",
+      "file": "services/myopia-management/index.html",
+      "pageType": "page",
+      "status": "DIFFERS",
+      "recall": 1,
+      "missingWords": 0,
+      "longestMissingRun": 0,
+      "sourceWords": 767,
+      "rebuiltWords": 869,
+      "sourceH1": [
+        "Myopia Management"
+      ],
+      "rebuiltH1": [
+        "Myopia Management"
+      ],
+      "sourceLinks": 5,
+      "rebuiltLinks": 105,
+      "findings": [
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "3 image(s) without alt",
+          "detail": "services/myopia-management/index.html"
+        },
+        {
+          "severity": "blocker",
+          "code": "contact-lost",
+          "title": "Phone number missing from rebuild",
+          "detail": "(303) 979-4505"
+        }
+      ]
+    },
+    {
+      "url": "https://www.vueeyecare.com/eyeglasses",
+      "file": "products/designer-frames/index.html",
+      "pageType": "page",
+      "status": "DIFFERS",
+      "recall": 0.9959,
+      "missingWords": 2,
+      "longestMissingRun": 1,
+      "sourceWords": 480,
+      "rebuiltWords": 601,
+      "sourceH1": [
+        "Eyeglasses at Vue Eyecare"
+      ],
+      "rebuiltH1": [
+        "Eyeglasses at Vue Eyecare"
+      ],
+      "sourceLinks": 6,
+      "rebuiltLinks": 103,
+      "findings": [
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "3 image(s) without alt",
+          "detail": "products/designer-frames/index.html"
+        },
+        {
+          "severity": "blocker",
+          "code": "contact-lost",
+          "title": "Phone number missing from rebuild",
+          "detail": "(303) 979-4505"
+        }
+      ]
+    },
+    {
+      "url": "https://www.vueeyecare.com/hours-location",
+      "file": "eye-doctor-baton-rouge/hours/index.html",
+      "pageType": "page",
+      "status": "DIFFERS",
+      "recall": 0.9561,
+      "missingWords": 10,
+      "longestMissingRun": 2,
+      "sourceWords": 222,
+      "rebuiltWords": 296,
+      "sourceH1": [
+        "Vue Eyecare"
+      ],
+      "rebuiltH1": [
+        "Vue Eyecare"
+      ],
+      "sourceLinks": 7,
+      "rebuiltLinks": 105,
+      "findings": [
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "4 image(s) without alt",
+          "detail": "eye-doctor-baton-rouge/hours/index.html"
+        },
+        {
+          "severity": "blocker",
+          "code": "contact-lost",
+          "title": "Phone number missing from rebuild",
+          "detail": "(303) 979-4505"
+        }
+      ]
+    },
+    {
+      "url": "https://www.vueeyecare.com/insurance",
+      "file": "insurance/index.html",
+      "pageType": "page",
+      "status": "DIFFERS",
+      "recall": 0.9877,
+      "missingWords": 4,
+      "longestMissingRun": 2,
+      "sourceWords": 322,
+      "rebuiltWords": 435,
+      "sourceH1": [
+        "Our Vue Eyecare Insurance Benefits"
+      ],
+      "rebuiltH1": [
+        "Our Vue Eyecare Insurance Benefits"
+      ],
+      "sourceLinks": 6,
+      "rebuiltLinks": 105,
+      "findings": [
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "3 image(s) without alt",
+          "detail": "insurance/index.html"
+        },
+        {
+          "severity": "blocker",
+          "code": "contact-lost",
+          "title": "Phone number missing from rebuild",
+          "detail": "(303) 979-4505"
+        }
+      ]
+    },
+    {
+      "url": "https://www.vueeyecare.com/insurance/carecredit",
+      "file": "insurance/carecredit/index.html",
+      "pageType": "page",
+      "status": "DIFFERS",
+      "recall": 0.9612,
+      "missingWords": 8,
+      "longestMissingRun": 4,
+      "sourceWords": 196,
+      "rebuiltWords": 303,
+      "sourceH1": [
+        "CareCredit"
+      ],
+      "rebuiltH1": [
+        "CareCredit"
+      ],
+      "sourceLinks": 6,
+      "rebuiltLinks": 102,
+      "findings": [
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "4 image(s) without alt",
+          "detail": "insurance/carecredit/index.html"
+        },
+        {
+          "severity": "blocker",
+          "code": "contact-lost",
+          "title": "Phone number missing from rebuild",
+          "detail": "(303) 979-4505"
+        }
+      ]
+    },
+    {
+      "url": "https://www.vueeyecare.com/insurance/faqs-of-vision-insurance-plans",
+      "file": "insurance/vision-insurance-faqs/index.html",
+      "pageType": "page",
+      "status": "DIFFERS",
+      "recall": 0.967,
+      "missingWords": 14,
+      "longestMissingRun": 3,
+      "sourceWords": 420,
+      "rebuiltWords": 510,
+      "sourceH1": [
+        "FAQs of Vision Insurance Plans"
+      ],
+      "rebuiltH1": [
+        "FAQs of Vision Insurance Plans"
+      ],
+      "sourceLinks": 5,
+      "rebuiltLinks": 102,
+      "findings": [
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "4 image(s) without alt",
+          "detail": "insurance/vision-insurance-faqs/index.html"
+        },
+        {
+          "severity": "blocker",
+          "code": "contact-lost",
+          "title": "Phone number missing from rebuild",
+          "detail": "(303) 979-4505"
+        }
+      ]
+    },
+    {
+      "url": "https://www.vueeyecare.com/insurance/whats-in-your-vision-insurance-plan",
+      "file": "insurance/whats-in-your-vision-plan/index.html",
+      "pageType": "page",
+      "status": "DIFFERS",
+      "recall": 1,
+      "missingWords": 0,
+      "longestMissingRun": 0,
+      "sourceWords": 709,
+      "rebuiltWords": 832,
+      "sourceH1": [
+        "What’s in Your Vision Insurance Plan"
+      ],
+      "rebuiltH1": [
+        "What’s in Your Vision Insurance Plan"
+      ],
+      "sourceLinks": 5,
+      "rebuiltLinks": 102,
+      "findings": [
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "4 image(s) without alt",
+          "detail": "insurance/whats-in-your-vision-plan/index.html"
+        },
+        {
+          "severity": "blocker",
+          "code": "contact-lost",
+          "title": "Phone number missing from rebuild",
+          "detail": "(303) 979-4505"
+        }
+      ]
+    },
+    {
+      "url": "https://www.vueeyecare.com/location/vue-eyecare",
+      "file": "eye-doctor-baton-rouge/index.html",
+      "pageType": "page",
+      "status": "DIFFERS",
+      "recall": 0.988,
+      "missingWords": 10,
+      "longestMissingRun": 2,
+      "sourceWords": 828,
+      "rebuiltWords": 912,
+      "sourceH1": [
+        "Vue Eyecare"
+      ],
+      "rebuiltH1": [
+        "Vue Eyecare"
+      ],
+      "sourceLinks": 5,
+      "rebuiltLinks": 102,
+      "findings": [
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "4 image(s) without alt",
+          "detail": "eye-doctor-baton-rouge/index.html"
+        },
+        {
+          "severity": "blocker",
+          "code": "contact-lost",
+          "title": "Phone number missing from rebuild",
+          "detail": "(303) 979-4505"
+        }
+      ]
+    },
+    {
+      "url": "https://www.vueeyecare.com/our-eye-doctors",
+      "file": "our-doctor/index.html",
+      "pageType": "page",
+      "status": "DIFFERS",
+      "recall": 1,
+      "missingWords": 0,
+      "longestMissingRun": 0,
+      "sourceWords": 455,
+      "rebuiltWords": 536,
+      "sourceH1": [
+        "Our Eye Doctor"
+      ],
+      "rebuiltH1": [
+        "Our Eye Doctor"
+      ],
+      "sourceLinks": 6,
+      "rebuiltLinks": 106,
+      "findings": [
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "3 image(s) without alt",
+          "detail": "our-doctor/index.html"
+        },
+        {
+          "severity": "blocker",
+          "code": "contact-lost",
+          "title": "Phone number missing from rebuild",
+          "detail": "(303) 979-4505"
+        }
+      ]
+    },
+    {
+      "url": "https://www.vueeyecare.com/privacy-policy",
+      "file": "privacy-policy/index.html",
+      "pageType": "page",
+      "status": "DIFFERS",
+      "recall": 1,
+      "missingWords": 0,
+      "longestMissingRun": 0,
+      "sourceWords": 2162,
+      "rebuiltWords": 2200,
+      "sourceH1": [
+        "Privacy Policy"
+      ],
+      "rebuiltH1": [
+        "Privacy Policy"
+      ],
+      "sourceLinks": 5,
+      "rebuiltLinks": 98,
+      "findings": [
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "3 image(s) without alt",
+          "detail": "privacy-policy/index.html"
+        },
+        {
+          "severity": "blocker",
+          "code": "contact-lost",
+          "title": "Phone number missing from rebuild",
+          "detail": "(303) 979-4505"
+        }
+      ]
+    },
+    {
+      "url": "https://www.vueeyecare.com/promotions",
+      "file": "products/promotions/index.html",
+      "pageType": "page",
+      "status": "DIFFERS",
+      "recall": 1,
+      "missingWords": 0,
+      "longestMissingRun": 0,
+      "sourceWords": 42,
+      "rebuiltWords": 191,
+      "sourceH1": [
+        "Promotions"
+      ],
+      "rebuiltH1": [
+        "Promotions"
+      ],
+      "sourceLinks": 5,
+      "rebuiltLinks": 102,
+      "findings": [
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "4 image(s) without alt",
+          "detail": "products/promotions/index.html"
+        },
+        {
+          "severity": "blocker",
+          "code": "contact-lost",
+          "title": "Phone number missing from rebuild",
+          "detail": "(303) 979-4505"
+        }
+      ]
+    },
+    {
+      "url": "https://www.vueeyecare.com/team/pt-dinh-od-ms-iacmm",
+      "file": "our-doctor/dr-pt-dinh/index.html",
+      "pageType": "about",
+      "status": "DIFFERS",
+      "recall": 1,
+      "missingWords": 0,
+      "longestMissingRun": 0,
+      "sourceWords": 287,
+      "rebuiltWords": 389,
+      "sourceH1": [
+        "P.T. Dinh, OD, MS, IACMM"
+      ],
+      "rebuiltH1": [
+        "P.T. Dinh, OD, MS, IACMM"
+      ],
+      "sourceLinks": 5,
+      "rebuiltLinks": 103,
+      "findings": [
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "3 image(s) without alt",
+          "detail": "our-doctor/dr-pt-dinh/index.html"
+        },
+        {
+          "severity": "blocker",
+          "code": "contact-lost",
+          "title": "Phone number missing from rebuild",
+          "detail": "(303) 979-4505"
+        }
+      ]
+    },
+    {
+      "url": "https://www.vueeyecare.com/website-accessibility-policy",
+      "file": "accessibility/index.html",
+      "pageType": "page",
+      "status": "DIFFERS",
+      "recall": 0.9761,
+      "missingWords": 27,
+      "longestMissingRun": 3,
+      "sourceWords": 1137,
+      "rebuiltWords": 1148,
+      "sourceH1": [
+        "Website Accessibility Policy"
+      ],
+      "rebuiltH1": [
+        "Website Accessibility Policy"
+      ],
+      "sourceLinks": 6,
+      "rebuiltLinks": 101,
+      "findings": [
+        {
+          "severity": "minor",
+          "code": "alt-missing",
+          "title": "3 image(s) without alt",
+          "detail": "accessibility/index.html"
+        },
+        {
+          "severity": "blocker",
+          "code": "contact-lost",
+          "title": "Phone number missing from rebuild",
+          "detail": "(303) 979-4505"
+        }
+      ]
+    }
+  ]
+}

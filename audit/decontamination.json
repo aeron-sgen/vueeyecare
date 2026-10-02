@@ -1,0 +1,12 @@
+{
+  "schema": "site-reforge/decontamination@1",
+  "generated": "2026-10-02T00:10:08.277Z",
+  "target": "C:\\Users\\c1oud\\Documents\\Sgen\\reforge\\vue-eyecare-v3\\dist",
+  "filesFound": 44,
+  "filesScanned": 44,
+  "filesSkipped": 0,
+  "counts": {},
+  "clean": true,
+  "verdict": "CLEAN",
+  "findings": []
+}

@@ -1,0 +1,27 @@
+node_modules/
+.DS_Store
+Thumbs.db
+.tmp/
+# the subfolder preview is built in CI by src/tools/preview.mjs (.github/workflows/pages.yml)
+_site/
+# Evidence stays on the build machine and out of git, as it does out of the handoff zip:
+# audit/raw is the untouched live-site capture, audit/rendered the browser-rendered DOM,
+# audit/css + capture the style harvest, audit/screens the pixel-diff shots (139 MB).
+# audit/content-blocks and the inventories ARE committed: build.mjs reads them.
+/audit/raw/
+/audit/rendered/
+/audit/css/
+/audit/capture/
+/audit/screens/
+# the Eye Trends structure crawl: its inventories are committed, its raw HTML is not
+/structure-eyetrends/audit/raw/
+/structure-eyetrends/audit/rendered/
+/structure-eyetrends/audit/css/
+/structure-eyetrends/audit/capture/
+/structure-eyetrends/audit/screens/
+/structure-eyetrends/assets/
+# The downloaded source-image library (144 MB). dist/assets/ carries every image the site uses.
+# Re-download with sr-assets.mjs (see docs/CRAWL-NOTES.md for the preload).
+/assets/
+# the handoff zip is a build output
+*.zip

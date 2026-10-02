@@ -1,0 +1,165 @@
+{
+ "title": "Eye Care Services",
+ "description": "Comprehensive eye exams and so much more. Our eye doctors provide complete family eye care services for clients of all ages. Now accepting new patients!",
+ "canonical": "https://www.vueeyecare.com/eye-care-services/",
+ "ogImage": "",
+ "blocks": [
+  {
+   "t": "h",
+   "level": 1,
+   "text": "Eye Care Services in Baton Rouge",
+   "html": "[[b]]Eye Care Services[[/b]] in Baton Rouge"
+  },
+  {
+   "t": "p",
+   "html": "Our practice is committed to offering a full spectrum of eye care services tailored to accommodate every aspect of your vision and eye health. From routine eye exams and personalized eye condition care to the latest in disease management, we are here to ensure your eyesight is at its best."
+  },
+  {
+   "t": "p",
+   "html": "[[b]]We also provide emergency eye care services[[/b]], ensuring that immediate attention is available for those unexpected eye health issues. Trust us to be your all-encompassing partner in maintaining optimal eye health and vision clarity."
+  },
+  {
+   "t": "btn",
+   "href": "https://p.adit.com/Rx8cZ",
+   "text": "Schedule an Appointment"
+  },
+  {
+   "t": "img",
+   "src": "https://cdn.patientengage.cloud/sites/1ae885ad-ada7-41da-a3f2-c99458a5469b/live/media/019cc4d0-1ce6-77bb-b2a7-8798ff459d55/AdobeStock_768053586.jpeg@w_1600.webp",
+   "alt": "Young girl in new frames",
+   "w": 0,
+   "h": 0,
+   "shownW": 672
+  },
+  {
+   "t": "img",
+   "src": "https://cdn.patientengage.cloud/sites/1ae885ad-ada7-41da-a3f2-c99458a5469b/live/media/019cc4d0-1d02-714a-892d-5c5785f599c3/Nightstar-About-Us-Tech.jpg@w_1200.webp",
+   "alt": "eyecare technology",
+   "w": 0,
+   "h": 0,
+   "shownW": 568
+  },
+  {
+   "t": "h",
+   "level": 2,
+   "text": "Thorough Eye Exams at Vue Eyecare",
+   "html": "Thorough [[b]]Eye Exams[[/b]] at [[b]]Vue[[/b]] Eyecare"
+  },
+  {
+   "t": "p",
+   "html": "Our eye exams go beyond simply determining your prescription. They are a critical part of maintaining overall eye health, designed to detect early signs of eye conditions and other health issues. Utilizing the latest in eye care technology, our experienced team conducts thorough examinations, assessing your vision and the health of your eyes inside and out."
+  },
+  {
+   "t": "p",
+   "html": "Whether you’re experiencing vision changes, need an update to your glasses or contact lens prescription, or it’s just time for your regular check-up, our comprehensive eye exams are tailored to meet your individual needs. Prioritize your vision and eye health with our expert care."
+  },
+  {
+   "t": "btn",
+   "href": "/eye-care-services/eye-exams/",
+   "text": "Comprehensive Eye Exams"
+  },
+  {
+   "t": "btn",
+   "href": "/eye-care-services/contact-lens-exams/",
+   "text": "Contact Lens Exams"
+  },
+  {
+   "t": "h",
+   "level": 2,
+   "text": "Myopia Control",
+   "html": "[[b]]Myopia[[/b]] Control"
+  },
+  {
+   "t": "p",
+   "html": "Myopia (nearsightedness) in children is more than just a need for stronger glasses—it is a progressive condition that can increase the risk of serious eye diseases later in life. At [[b]]Vue Eyecare[[/b]], we specialize in proactive [[b]]Myopia Management[[/b]] to slow the progression of nearsightedness in young patients. Through advanced solutions like [[b]]Orthokeratology (Ortho-K)[[/b]]—specially designed lenses worn only at night—we can provide clear vision throughout the day without the need for daytime glasses or contacts. Protect your child’s future sight with the specialized expertise of a certified myopia management clinic."
+  },
+  {
+   "t": "btn",
+   "href": "/eye-care-services/myopia-management/",
+   "text": "More About Myopia Management"
+  },
+  {
+   "t": "img",
+   "src": "https://cdn.patientengage.cloud/sites/1ae885ad-ada7-41da-a3f2-c99458a5469b/live/media/019dfe78-2fe0-7089-9d25-39c398c02076/shutterstock_2489701361.jpg@w_1000.webp",
+   "alt": "boy wearing glasses and a backpack smiling in a classroom",
+   "w": 0,
+   "h": 0,
+   "shownW": 568
+  },
+  {
+   "t": "img",
+   "src": "https://cdn.patientengage.cloud/sites/1ae885ad-ada7-41da-a3f2-c99458a5469b/live/media/019cc122-3b7b-738a-9b79-34872854aaf2/AdobeStock_676298672.jpeg@w_1600.webp",
+   "alt": "Middle aged woman",
+   "w": 0,
+   "h": 0,
+   "shownW": 568
+  },
+  {
+   "t": "h",
+   "level": 2,
+   "text": "LASIK & Refractive Surgery Co-Management",
+   "html": "LASIK & [[b]]Refractive Surgery[[/b]] Co-Management"
+  },
+  {
+   "t": "p",
+   "html": "Are you ready to experience the freedom of clear vision without the daily dependence on glasses or contact lenses? At [[b]]Vue Eyecare[[/b]], we provide comprehensive co-management for LASIK and other refractive surgeries. [[b]]Dr. Dinh[[/b]] performs meticulous pre-operative evaluations to determine if you are an ideal candidate and provides essential post-operative care to ensure your eyes heal perfectly. From your initial consultation to your final follow-up, we are with you every step of the way to ensure your journey to better vision is safe, informed, and successful."
+  },
+  {
+   "t": "btn",
+   "href": "/eye-care-services/lasik-refractive-surgery-co-management/",
+   "text": "LASIK & Refractive Surgery Co-Management"
+  },
+  {
+   "t": "h",
+   "level": 2,
+   "text": "Dry Eye Diagnosis and Treatment",
+   "html": "[[b]]Dry Eye[[/b]] Diagnosis and Treatment"
+  },
+  {
+   "t": "p",
+   "html": "Chronic dry eye is more than just a minor irritation; it is a complex condition that can affect your comfort and clarity every single day. At [[b]]Vue Eyecare[[/b]], we go beyond temporary relief to identify the root cause of your symptoms—whether it’s environmental, hormonal, or related to digital eye strain. Using advanced diagnostic tools like [[b]]Tear Break Up Time (TBUT)[[/b]] testing, [[b]]Dr. Dinh[[/b]] creates customized treatment plans ranging from prescription therapies and specialty eyelid care to punctal plugs. Don't let stinging, itching, or blurred vision slow you down—experience lasting comfort through our professional dry eye management."
+  },
+  {
+   "t": "btn",
+   "href": "/eye-care-services/eye-conditions/dry-eye-disease-and-treatment/",
+   "text": "Learn More About Dry Eye"
+  },
+  {
+   "t": "img",
+   "src": "https://cdn.patientengage.cloud/sites/1ae885ad-ada7-41da-a3f2-c99458a5469b/live/media/019dfe74-08b7-70df-bae9-dea9d7164580/shutterstock-1859216560.jpg@w_1600.webp",
+   "alt": "A man is sitting in front of a computer screen and is probably doing some work. He is holding a pair of glasses in his left hand and is wearing a headset. He seems to be frustrated and is holding his face with his right hand. He is wearing a long-sleeved shirt with a checkered pattern. Behind him, there is a wooden cabinet with some stuff on top.",
+   "w": 0,
+   "h": 0,
+   "shownW": 568
+  },
+  {
+   "t": "img",
+   "src": "https://cdn.patientengage.cloud/sites/1ae885ad-ada7-41da-a3f2-c99458a5469b/live/media/019dfe86-ba14-7159-84f5-66303a7c0fdc/shutterstock-1989220913.jpg@w_1600.webp",
+   "alt": "A man with gray hair and a beard is sitting on a couch with a smiling woman standing behind him. The woman is placing her hands on the man's shoulders. They are both looking at something with a smile on their faces. Behind them is a wooden cabinet with a potted plant on top. There is a picture frame on the wall near the window. ",
+   "w": 0,
+   "h": 0,
+   "shownW": 568
+  },
+  {
+   "t": "h",
+   "level": 2,
+   "text": "Eye Disease Detection and Treatment",
+   "html": "Eye Disease [[b]]Detection[[/b]] and [[b]]Treatment[[/b]]"
+  },
+  {
+   "t": "p",
+   "html": "We diagnose and manage ocular diseases such as Glaucoma, Macular Degeneration, Diabetic Retinopathy and Cataracts."
+  },
+  {
+   "t": "p",
+   "html": "Eye conditions can range from mild to severe. While some are chronic, others may resolve on their own. Here's a short list of common eye conditions we treat, such as astigmatism, dry eye syndrome and presbyopia."
+  },
+  {
+   "t": "btn",
+   "href": "/eye-care-services/management-of-ocular-diseases/",
+   "text": "More on Eye Disease Management"
+  }
+ ],
+ "forms": [],
+ "url": "https://www.vueeyecare.com/eye-care-services/"
+}

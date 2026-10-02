@@ -1,0 +1,295 @@
+{
+  "schema": "site-reforge/architecture@1",
+  "generated": "2026-10-01T04:34:27.511Z",
+  "origin": "https://eyetrendsclearlake.com",
+  "pageTypes": {
+    "home": 1,
+    "legal": 3,
+    "page": 7,
+    "commerce": 5,
+    "service": 27
+  },
+  "urlDepthHistogram": {
+    "0": 1,
+    "1": 12,
+    "2": 30
+  },
+  "primaryNav": [
+    {
+      "label": "Home",
+      "onPages": 43
+    },
+    {
+      "label": "About Us",
+      "onPages": 43
+    },
+    {
+      "label": "Services",
+      "onPages": 43
+    },
+    {
+      "label": "Book an Eye Exam",
+      "onPages": 43
+    },
+    {
+      "label": "Comprehensive Exams",
+      "onPages": 43
+    },
+    {
+      "label": "Adult Eye Exams",
+      "onPages": 43
+    },
+    {
+      "label": "Senior Eye Exams",
+      "onPages": 43
+    },
+    {
+      "label": "Children's Eye Care",
+      "onPages": 43
+    },
+    {
+      "label": "Pediatric Eye Exams",
+      "onPages": 43
+    },
+    {
+      "label": "Children's Contact Lenses",
+      "onPages": 43
+    },
+    {
+      "label": "Back-to-School Eye Exams",
+      "onPages": 43
+    },
+    {
+      "label": "Myopia Management",
+      "onPages": 43
+    },
+    {
+      "label": "Medical Eye Care",
+      "onPages": 43
+    },
+    {
+      "label": "Dry Eye Treatment",
+      "onPages": 43
+    },
+    {
+      "label": "Glaucoma Management",
+      "onPages": 43
+    },
+    {
+      "label": "Diabetic Eye Exams",
+      "onPages": 43
+    },
+    {
+      "label": "Macular Degeneration",
+      "onPages": 43
+    },
+    {
+      "label": "Cataract Co-Management",
+      "onPages": 43
+    },
+    {
+      "label": "LASIK Co-Management",
+      "onPages": 43
+    },
+    {
+      "label": "Emergency Eye Care",
+      "onPages": 43
+    },
+    {
+      "label": "Pink Eye Treatment",
+      "onPages": 43
+    },
+    {
+      "label": "Foreign Body Removal",
+      "onPages": 43
+    },
+    {
+      "label": "Red / Sore Eye Treatment",
+      "onPages": 43
+    },
+    {
+      "label": "Flashes & Floaters",
+      "onPages": 43
+    },
+    {
+      "label": "Contact Lens Exams",
+      "onPages": 43
+    },
+    {
+      "label": "Same-Day Contacts",
+      "onPages": 43
+    },
+    {
+      "label": "Specialty Contacts",
+      "onPages": 43
+    },
+    {
+      "label": "Toric Contacts",
+      "onPages": 43
+    },
+    {
+      "label": "Gas Permeable Contacts",
+      "onPages": 43
+    },
+    {
+      "label": "Multifocal Contacts",
+      "onPages": 43
+    },
+    {
+      "label": "Eyewear",
+      "onPages": 43
+    },
+    {
+      "label": "Schedule an Eye Exam",
+      "onPages": 43
+    },
+    {
+      "label": "Designer Frames Independent-optical and designer brands, measured and adjusted in house. Learn more",
+      "onPages": 43
+    },
+    {
+      "label": "Sunglasses Prescription and designer tints for the Texas sun. Learn more",
+      "onPages": 43
+    },
+    {
+      "label": "Kids' Eyewear Durable frames sized and fitted for children. Learn more",
+      "onPages": 43
+    },
+    {
+      "label": "Contact Lenses Fittings for soft, toric, multifocal and gas-permeable lenses. Learn more",
+      "onPages": 43
+    },
+    {
+      "label": "Insurance",
+      "onPages": 43
+    },
+    {
+      "label": "Reviews",
+      "onPages": 43
+    },
+    {
+      "label": "Visit Us",
+      "onPages": 43
+    }
+  ],
+  "globalFooterCandidates": [
+    {
+      "onPages": 43,
+      "sample": "Ready when you are Book your eye exam in Clear Lake Book online in a minute, or call and talk to a real person. We'll find a time that works, and most vision and medical plans are accepted. Book an Eye Exam Call (281) 488-0066 515 Bay Area Blvd #300, Houston TX 77058 · Mon/Tue/Thu/Fri 9:30 AM–6:30 PM · Sat 9 AM–1 PM Eye Trends Vision & Glasses Center. Dr. Jerry Hyder, OD , a licensed therapeutic o"
+    }
+  ],
+  "formsByAction": [
+    {
+      "action": "https://eyetrendsclearlake.com/do_actions/do_form_submit [post]",
+      "pages": [
+        "https://eyetrendsclearlake.com/",
+        "https://eyetrendsclearlake.com/accessibility",
+        "https://eyetrendsclearlake.com/disclaimer",
+        "https://eyetrendsclearlake.com/eye-doctor-clear-lake",
+        "https://eyetrendsclearlake.com/eye-health",
+        "https://eyetrendsclearlake.com/insurance",
+        "https://eyetrendsclearlake.com/our-doctor",
+        "https://eyetrendsclearlake.com/patient-forms",
+        "https://eyetrendsclearlake.com/privacy-policy",
+        "https://eyetrendsclearlake.com/products",
+        "https://eyetrendsclearlake.com/products/contact-lenses",
+        "https://eyetrendsclearlake.com/products/designer-frames",
+        "https://eyetrendsclearlake.com/products/kids-eyewear",
+        "https://eyetrendsclearlake.com/products/sunglasses",
+        "https://eyetrendsclearlake.com/reviews",
+        "https://eyetrendsclearlake.com/services",
+        "https://eyetrendsclearlake.com/services/adult-eye-exams",
+        "https://eyetrendsclearlake.com/services/back-to-school-eye-exams",
+        "https://eyetrendsclearlake.com/services/cataract-co-management",
+        "https://eyetrendsclearlake.com/services/childrens-contact-lenses",
+        "https://eyetrendsclearlake.com/services/childrens-eye-care",
+        "https://eyetrendsclearlake.com/services/comprehensive-eye-exams",
+        "https://eyetrendsclearlake.com/services/contact-lens-exams",
+        "https://eyetrendsclearlake.com/services/diabetic-eye-exams",
+        "https://eyetrendsclearlake.com/services/dry-eye-treatment",
+        "https://eyetrendsclearlake.com/services/emergency-eye-care",
+        "https://eyetrendsclearlake.com/services/flashes-floaters",
+        "https://eyetrendsclearlake.com/services/foreign-body-removal",
+        "https://eyetrendsclearlake.com/services/gas-permeable-contacts",
+        "https://eyetrendsclearlake.com/services/glaucoma-management",
+        "https://eyetrendsclearlake.com/services/lasik-co-management",
+        "https://eyetrendsclearlake.com/services/macular-degeneration",
+        "https://eyetrendsclearlake.com/services/medical-eye-care",
+        "https://eyetrendsclearlake.com/services/multifocal-contacts",
+        "https://eyetrendsclearlake.com/services/myopia-management",
+        "https://eyetrendsclearlake.com/services/pediatric-eye-exams",
+        "https://eyetrendsclearlake.com/services/pink-eye-conjunctivitis",
+        "https://eyetrendsclearlake.com/services/red-eye-treatment",
+        "https://eyetrendsclearlake.com/services/same-day-contacts",
+        "https://eyetrendsclearlake.com/services/senior-eye-exams",
+        "https://eyetrendsclearlake.com/services/specialty-contacts",
+        "https://eyetrendsclearlake.com/services/toric-contacts",
+        "https://eyetrendsclearlake.com/terms"
+      ],
+      "fields": [
+        "name",
+        "phone",
+        "email",
+        "daytime",
+        "insurance",
+        "hp",
+        "hpc",
+        "notes",
+        "patient",
+        "reason"
+      ]
+    },
+    {
+      "action": "https://eyetrendsclearlake.com/search [get]",
+      "pages": [
+        "https://eyetrendsclearlake.com/",
+        "https://eyetrendsclearlake.com/accessibility",
+        "https://eyetrendsclearlake.com/disclaimer",
+        "https://eyetrendsclearlake.com/eye-doctor-clear-lake",
+        "https://eyetrendsclearlake.com/eye-health",
+        "https://eyetrendsclearlake.com/insurance",
+        "https://eyetrendsclearlake.com/our-doctor",
+        "https://eyetrendsclearlake.com/patient-forms",
+        "https://eyetrendsclearlake.com/privacy-policy",
+        "https://eyetrendsclearlake.com/products",
+        "https://eyetrendsclearlake.com/products/contact-lenses",
+        "https://eyetrendsclearlake.com/products/designer-frames",
+        "https://eyetrendsclearlake.com/products/kids-eyewear",
+        "https://eyetrendsclearlake.com/products/sunglasses",
+        "https://eyetrendsclearlake.com/reviews",
+        "https://eyetrendsclearlake.com/services",
+        "https://eyetrendsclearlake.com/services/adult-eye-exams",
+        "https://eyetrendsclearlake.com/services/back-to-school-eye-exams",
+        "https://eyetrendsclearlake.com/services/cataract-co-management",
+        "https://eyetrendsclearlake.com/services/childrens-contact-lenses",
+        "https://eyetrendsclearlake.com/services/childrens-eye-care",
+        "https://eyetrendsclearlake.com/services/comprehensive-eye-exams",
+        "https://eyetrendsclearlake.com/services/contact-lens-exams",
+        "https://eyetrendsclearlake.com/services/diabetic-eye-exams",
+        "https://eyetrendsclearlake.com/services/dry-eye-treatment",
+        "https://eyetrendsclearlake.com/services/emergency-eye-care",
+        "https://eyetrendsclearlake.com/services/flashes-floaters",
+        "https://eyetrendsclearlake.com/services/foreign-body-removal",
+        "https://eyetrendsclearlake.com/services/gas-permeable-contacts",
+        "https://eyetrendsclearlake.com/services/glaucoma-management",
+        "https://eyetrendsclearlake.com/services/lasik-co-management",
+        "https://eyetrendsclearlake.com/services/macular-degeneration",
+        "https://eyetrendsclearlake.com/services/medical-eye-care",
+        "https://eyetrendsclearlake.com/services/multifocal-contacts",
+        "https://eyetrendsclearlake.com/services/myopia-management",
+        "https://eyetrendsclearlake.com/services/pediatric-eye-exams",
+        "https://eyetrendsclearlake.com/services/pink-eye-conjunctivitis",
+        "https://eyetrendsclearlake.com/services/red-eye-treatment",
+        "https://eyetrendsclearlake.com/services/same-day-contacts",
+        "https://eyetrendsclearlake.com/services/senior-eye-exams",
+        "https://eyetrendsclearlake.com/services/specialty-contacts",
+        "https://eyetrendsclearlake.com/services/toric-contacts",
+        "https://eyetrendsclearlake.com/terms"
+      ],
+      "fields": [
+        "s"
+      ]
+    }
+  ],
+  "orphanPages": []
+}

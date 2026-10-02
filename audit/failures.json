@@ -1,0 +1,286 @@
+{
+ "schema": "site-reforge/failures@1",
+ "items": [
+  {
+   "stage": "crawl:page",
+   "target": "https://www.vueeyecare.com/sitemap",
+   "reason": "status 404",
+   "extra": {
+    "chain": [
+     {
+      "from": "https://www.vueeyecare.com/sitemap",
+      "status": 301,
+      "to": "https://www.vueeyecare.com/sitemap/"
+     }
+    ]
+   },
+   "at": "2026-10-01T04:34:18.533Z",
+   "accepted": true,
+   "acceptedReason": "Source defect: the footer \"Sitemap\" link points at a page the source never had (404). Not content; the rebuild ships sitemap.xml and 301s /sitemap to / (dist/_redirects)."
+  },
+  {
+   "stage": "assets:data",
+   "target": "https://www.vueeyecare.com/_blank",
+   "reason": "status 404",
+   "at": "2026-10-01T04:34:40.676Z",
+   "accepted": true,
+   "acceptedReason": "Parser artefact, not an asset: the string literal \"_blank\" in the platform inline script was read as a relative data URL. Nothing references a file named _blank."
+  },
+  {
+   "stage": "assets:data",
+   "target": "https://www.vueeyecare.com/contact-lenses/contact-lenses-for-the-hard-to-fit-patient/_blank",
+   "reason": "status 404",
+   "at": "2026-10-01T04:34:41.110Z",
+   "accepted": true,
+   "acceptedReason": "Parser artefact, not an asset: the string literal \"_blank\" in the platform inline script was read as a relative data URL. Nothing references a file named _blank."
+  },
+  {
+   "stage": "assets:data",
+   "target": "https://www.vueeyecare.com/contact-lenses/_blank",
+   "reason": "status 404",
+   "at": "2026-10-01T04:34:41.462Z",
+   "accepted": true,
+   "acceptedReason": "Parser artefact, not an asset: the string literal \"_blank\" in the platform inline script was read as a relative data URL. Nothing references a file named _blank."
+  },
+  {
+   "stage": "assets:data",
+   "target": "https://www.vueeyecare.com/contact-lenses/eye-exams-for-contact-lenses/_blank",
+   "reason": "status 404",
+   "at": "2026-10-01T04:34:41.926Z",
+   "accepted": true,
+   "acceptedReason": "Parser artefact, not an asset: the string literal \"_blank\" in the platform inline script was read as a relative data URL. Nothing references a file named _blank."
+  },
+  {
+   "stage": "assets:data",
+   "target": "https://www.vueeyecare.com/contact-lenses/toric-contact-lenses-for-astigmatism/_blank",
+   "reason": "status 404",
+   "at": "2026-10-01T04:34:43.869Z",
+   "accepted": true,
+   "acceptedReason": "Parser artefact, not an asset: the string literal \"_blank\" in the platform inline script was read as a relative data URL. Nothing references a file named _blank."
+  },
+  {
+   "stage": "assets:data",
+   "target": "https://www.vueeyecare.com/contact-us/_blank",
+   "reason": "status 404",
+   "at": "2026-10-01T04:34:44.304Z",
+   "accepted": true,
+   "acceptedReason": "Parser artefact, not an asset: the string literal \"_blank\" in the platform inline script was read as a relative data URL. Nothing references a file named _blank."
+  },
+  {
+   "stage": "assets:data",
+   "target": "https://www.vueeyecare.com/disclaimer/_blank",
+   "reason": "status 404",
+   "at": "2026-10-01T04:34:44.647Z",
+   "accepted": true,
+   "acceptedReason": "Parser artefact, not an asset: the string literal \"_blank\" in the platform inline script was read as a relative data URL. Nothing references a file named _blank."
+  },
+  {
+   "stage": "assets:data",
+   "target": "https://www.vueeyecare.com/eye-care-services/_blank",
+   "reason": "status 404",
+   "at": "2026-10-01T04:34:45.060Z",
+   "accepted": true,
+   "acceptedReason": "Parser artefact, not an asset: the string literal \"_blank\" in the platform inline script was read as a relative data URL. Nothing references a file named _blank."
+  },
+  {
+   "stage": "assets:data",
+   "target": "https://www.vueeyecare.com/eye-care-services/contact-lens-exams/_blank",
+   "reason": "status 404",
+   "at": "2026-10-01T04:34:47.354Z",
+   "accepted": true,
+   "acceptedReason": "Parser artefact, not an asset: the string literal \"_blank\" in the platform inline script was read as a relative data URL. Nothing references a file named _blank."
+  },
+  {
+   "stage": "assets:data",
+   "target": "https://www.vueeyecare.com/eye-care-services/contact-lens-exams/hard-to-fit/_blank",
+   "reason": "status 404",
+   "at": "2026-10-01T04:34:47.487Z",
+   "accepted": true,
+   "acceptedReason": "Parser artefact, not an asset: the string literal \"_blank\" in the platform inline script was read as a relative data URL. Nothing references a file named _blank."
+  },
+  {
+   "stage": "assets:data",
+   "target": "https://www.vueeyecare.com/eye-care-services/eye-conditions/_blank",
+   "reason": "status 404",
+   "at": "2026-10-01T04:34:47.966Z",
+   "accepted": true,
+   "acceptedReason": "Parser artefact, not an asset: the string literal \"_blank\" in the platform inline script was read as a relative data URL. Nothing references a file named _blank."
+  },
+  {
+   "stage": "assets:data",
+   "target": "https://www.vueeyecare.com/eye-care-services/eye-conditions/dry-eye-disease-and-treatment/_blank",
+   "reason": "status 404",
+   "at": "2026-10-01T04:34:48.254Z",
+   "accepted": true,
+   "acceptedReason": "Parser artefact, not an asset: the string literal \"_blank\" in the platform inline script was read as a relative data URL. Nothing references a file named _blank."
+  },
+  {
+   "stage": "assets:data",
+   "target": "https://www.vueeyecare.com/eye-care-services/eye-emergencies-pinkred-eyes/_blank",
+   "reason": "status 404",
+   "at": "2026-10-01T04:34:50.400Z",
+   "accepted": true,
+   "acceptedReason": "Parser artefact, not an asset: the string literal \"_blank\" in the platform inline script was read as a relative data URL. Nothing references a file named _blank."
+  },
+  {
+   "stage": "assets:data",
+   "target": "https://www.vueeyecare.com/eye-care-services/eye-exams/_blank",
+   "reason": "status 404",
+   "at": "2026-10-01T04:34:50.694Z",
+   "accepted": true,
+   "acceptedReason": "Parser artefact, not an asset: the string literal \"_blank\" in the platform inline script was read as a relative data URL. Nothing references a file named _blank."
+  },
+  {
+   "stage": "assets:data",
+   "target": "https://www.vueeyecare.com/eye-care-services/lasik-refractive-surgery-co-management/_blank",
+   "reason": "status 404",
+   "at": "2026-10-01T04:34:51.105Z",
+   "accepted": true,
+   "acceptedReason": "Parser artefact, not an asset: the string literal \"_blank\" in the platform inline script was read as a relative data URL. Nothing references a file named _blank."
+  },
+  {
+   "stage": "assets:data",
+   "target": "https://www.vueeyecare.com/eye-care-services/management-of-ocular-diseases/_blank",
+   "reason": "status 404",
+   "at": "2026-10-01T04:34:51.514Z",
+   "accepted": true,
+   "acceptedReason": "Parser artefact, not an asset: the string literal \"_blank\" in the platform inline script was read as a relative data URL. Nothing references a file named _blank."
+  },
+  {
+   "stage": "assets:data",
+   "target": "https://www.vueeyecare.com/eye-care-services/management-of-ocular-diseases/cataract-surgery-co-management/_blank",
+   "reason": "status 404",
+   "at": "2026-10-01T04:34:53.449Z",
+   "accepted": true,
+   "acceptedReason": "Parser artefact, not an asset: the string literal \"_blank\" in the platform inline script was read as a relative data URL. Nothing references a file named _blank."
+  },
+  {
+   "stage": "assets:data",
+   "target": "https://www.vueeyecare.com/eye-care-services/management-of-ocular-diseases/treating-diabetic-retinopathy/_blank",
+   "reason": "status 404",
+   "at": "2026-10-01T04:34:54.287Z",
+   "accepted": true,
+   "acceptedReason": "Parser artefact, not an asset: the string literal \"_blank\" in the platform inline script was read as a relative data URL. Nothing references a file named _blank."
+  },
+  {
+   "stage": "assets:data",
+   "target": "https://www.vueeyecare.com/eye-care-services/management-of-ocular-diseases/glaucoma-testing-treatment/_blank",
+   "reason": "status 404",
+   "at": "2026-10-01T04:34:54.463Z",
+   "accepted": true,
+   "acceptedReason": "Parser artefact, not an asset: the string literal \"_blank\" in the platform inline script was read as a relative data URL. Nothing references a file named _blank."
+  },
+  {
+   "stage": "assets:data",
+   "target": "https://www.vueeyecare.com/eye-care-services/management-of-ocular-diseases/treating-macular-degeneration/_blank",
+   "reason": "status 404",
+   "at": "2026-10-01T04:34:55.951Z",
+   "accepted": true,
+   "acceptedReason": "Parser artefact, not an asset: the string literal \"_blank\" in the platform inline script was read as a relative data URL. Nothing references a file named _blank."
+  },
+  {
+   "stage": "assets:data",
+   "target": "https://www.vueeyecare.com/eye-care-services/myopia-management/_blank",
+   "reason": "status 404",
+   "at": "2026-10-01T04:34:56.875Z",
+   "accepted": true,
+   "acceptedReason": "Parser artefact, not an asset: the string literal \"_blank\" in the platform inline script was read as a relative data URL. Nothing references a file named _blank."
+  },
+  {
+   "stage": "assets:data",
+   "target": "https://www.vueeyecare.com/eyeglasses/_blank",
+   "reason": "status 404",
+   "at": "2026-10-01T04:34:57.859Z",
+   "accepted": true,
+   "acceptedReason": "Parser artefact, not an asset: the string literal \"_blank\" in the platform inline script was read as a relative data URL. Nothing references a file named _blank."
+  },
+  {
+   "stage": "assets:data",
+   "target": "https://www.vueeyecare.com/hours-location/_blank",
+   "reason": "status 404",
+   "at": "2026-10-01T04:34:58.095Z",
+   "accepted": true,
+   "acceptedReason": "Parser artefact, not an asset: the string literal \"_blank\" in the platform inline script was read as a relative data URL. Nothing references a file named _blank."
+  },
+  {
+   "stage": "assets:data",
+   "target": "https://www.vueeyecare.com/insurance/_blank",
+   "reason": "status 404",
+   "at": "2026-10-01T04:34:58.843Z",
+   "accepted": true,
+   "acceptedReason": "Parser artefact, not an asset: the string literal \"_blank\" in the platform inline script was read as a relative data URL. Nothing references a file named _blank."
+  },
+  {
+   "stage": "assets:data",
+   "target": "https://www.vueeyecare.com/insurance/carecredit/_blank",
+   "reason": "status 404",
+   "at": "2026-10-01T04:35:00.211Z",
+   "accepted": true,
+   "acceptedReason": "Parser artefact, not an asset: the string literal \"_blank\" in the platform inline script was read as a relative data URL. Nothing references a file named _blank."
+  },
+  {
+   "stage": "assets:data",
+   "target": "https://www.vueeyecare.com/insurance/faqs-of-vision-insurance-plans/_blank",
+   "reason": "status 404",
+   "at": "2026-10-01T04:35:00.857Z",
+   "accepted": true,
+   "acceptedReason": "Parser artefact, not an asset: the string literal \"_blank\" in the platform inline script was read as a relative data URL. Nothing references a file named _blank."
+  },
+  {
+   "stage": "assets:data",
+   "target": "https://www.vueeyecare.com/insurance/whats-in-your-vision-insurance-plan/_blank",
+   "reason": "status 404",
+   "at": "2026-10-01T04:35:01.323Z",
+   "accepted": true,
+   "acceptedReason": "Parser artefact, not an asset: the string literal \"_blank\" in the platform inline script was read as a relative data URL. Nothing references a file named _blank."
+  },
+  {
+   "stage": "assets:data",
+   "target": "https://www.vueeyecare.com/location/vue-eyecare/_blank",
+   "reason": "status 404",
+   "at": "2026-10-01T04:35:02.340Z",
+   "accepted": true,
+   "acceptedReason": "Parser artefact, not an asset: the string literal \"_blank\" in the platform inline script was read as a relative data URL. Nothing references a file named _blank."
+  },
+  {
+   "stage": "assets:data",
+   "target": "https://www.vueeyecare.com/our-eye-doctors/_blank",
+   "reason": "status 404",
+   "at": "2026-10-01T04:35:03.542Z",
+   "accepted": true,
+   "acceptedReason": "Parser artefact, not an asset: the string literal \"_blank\" in the platform inline script was read as a relative data URL. Nothing references a file named _blank."
+  },
+  {
+   "stage": "assets:data",
+   "target": "https://www.vueeyecare.com/privacy-policy/_blank",
+   "reason": "status 404",
+   "at": "2026-10-01T04:35:03.654Z",
+   "accepted": true,
+   "acceptedReason": "Parser artefact, not an asset: the string literal \"_blank\" in the platform inline script was read as a relative data URL. Nothing references a file named _blank."
+  },
+  {
+   "stage": "assets:data",
+   "target": "https://www.vueeyecare.com/promotions/_blank",
+   "reason": "status 404",
+   "at": "2026-10-01T04:35:04.502Z",
+   "accepted": true,
+   "acceptedReason": "Parser artefact, not an asset: the string literal \"_blank\" in the platform inline script was read as a relative data URL. Nothing references a file named _blank."
+  },
+  {
+   "stage": "assets:data",
+   "target": "https://www.vueeyecare.com/team/pt-dinh-od-ms-iacmm/_blank",
+   "reason": "status 404",
+   "at": "2026-10-01T04:35:05.319Z",
+   "accepted": true,
+   "acceptedReason": "Parser artefact, not an asset: the string literal \"_blank\" in the platform inline script was read as a relative data URL. Nothing references a file named _blank."
+  },
+  {
+   "stage": "assets:data",
+   "target": "https://www.vueeyecare.com/website-accessibility-policy/_blank",
+   "reason": "status 404",
+   "at": "2026-10-01T04:35:05.658Z",
+   "accepted": true,
+   "acceptedReason": "Parser artefact, not an asset: the string literal \"_blank\" in the platform inline script was read as a relative data URL. Nothing references a file named _blank."
+  }
+ ]
+}

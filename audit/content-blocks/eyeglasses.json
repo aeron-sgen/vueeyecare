@@ -1,0 +1,471 @@
+{
+ "title": "Eyeglasses - Vue Eyecare",
+ "description": "We carry a wide selection of eyewear at our optical including fashionable eyeglasses, a variety of contact, sunglasses, and specialty eyewear. Stop by!",
+ "canonical": "https://www.vueeyecare.com/eyeglasses/",
+ "ogImage": "",
+ "blocks": [
+  {
+   "t": "h",
+   "level": 1,
+   "text": "Eyeglasses at Vue Eyecare",
+   "html": "Eyeglasses at [[b]]Vue[[/b]] Eyecare"
+  },
+  {
+   "t": "p",
+   "html": "Welcome to our Eyeglasses page, where clarity meets style in every pair. We understand that eyeglasses are more than just a vision correction tool; they are an expression of your personality and style. That's why we offer an extensive collection of eyewear to suit every taste, lifestyle, and vision need. From the latest trends to classic designs, our range ensures that you'll find the perfect frames to enhance your look and improve your vision."
+  },
+  {
+   "t": "btn",
+   "href": "https://p.adit.com/Rx8cZ",
+   "text": "Schedule an Appointment"
+  },
+  {
+   "t": "img",
+   "src": "https://cdn.patientengage.cloud/sites/1ae885ad-ada7-41da-a3f2-c99458a5469b/live/media/019df9c3-60a5-7199-9576-249f89696aa1/shutterstock_2283445965.jpg@w_1600.webp",
+   "alt": "A pair of black glasses with golden frames on a white surface",
+   "w": 0,
+   "h": 0,
+   "shownW": 672
+  },
+  {
+   "t": "img",
+   "src": "https://cdn.patientengage.cloud/sites/1ae885ad-ada7-41da-a3f2-c99458a5469b/live/media/019dfefd-dd94-70a0-aa3a-8d91e392398e/shutterstock-334374272.jpg@w_1600.webp",
+   "alt": "A smiling young man with glasses wearing a light blue button up shirt sits at a table.",
+   "w": 0,
+   "h": 0,
+   "shownW": 568
+  },
+  {
+   "t": "h",
+   "level": 2,
+   "text": "See Clearly With Our Prescription Eyeglasses",
+   "html": "See Clearly With Our [[b]]Prescription Eyeglasses[[/b]]"
+  },
+  {
+   "t": "p",
+   "html": "Our selection of prescription eyeglasses combines functionality with fashion. We believe that everyone deserves to enjoy clear vision without compromising on style. Our expert team is here to guide you through our diverse range of frame styles and lens options, ensuring your new glasses perfectly fit your vision requirements and aesthetic preferences."
+  },
+  {
+   "t": "p",
+   "html": "Using advanced lens technology, we provide solutions for various vision corrections, including single vision, bifocals, and progressives, tailored to your individual needs."
+  },
+  {
+   "t": "h",
+   "level": 3,
+   "text": "Prescription And Non-Prescription Sunglasses",
+   "html": "Prescription And Non-Prescription [[b]]Sunglasses[[/b]]"
+  },
+  {
+   "t": "p",
+   "html": "Protect your eyes in style with our collection of prescription and non-prescription sunglasses. Offering 100% UV protection, our sunglasses ensure your eyes are shielded from harmful rays while keeping you at the forefront of fashion."
+  },
+  {
+   "t": "p",
+   "html": "Available in various shapes, colors, and styles, our sunglasses range caters to every preference, whether you're looking for the ultimate fashion accessory or functional sportswear. Let us help you find your next pair of sunglasses that combines the best of vision protection and style."
+  },
+  {
+   "t": "img",
+   "src": "https://cdn.patientengage.cloud/sites/1ae885ad-ada7-41da-a3f2-c99458a5469b/live/media/019dfefc-ae31-75aa-a358-cbdfd108169e/blue-glasses-with-gold-details-near-a-pool.jpg@w_1200.webp",
+   "alt": "Blue glasses with gold details rest on a marble surface near a pool.",
+   "w": 0,
+   "h": 0,
+   "shownW": 568
+  },
+  {
+   "t": "h",
+   "level": 2,
+   "text": "Featured Designer Eyeglasses",
+   "html": "Featured [[b]]Designer[[/b]] Eyeglasses"
+  },
+  {
+   "t": "img",
+   "src": "https://cdn.patientengage.cloud/global/logos/designer-frames/rayban-color.png@w_400.webp",
+   "alt": "Ray-Ban",
+   "w": 0,
+   "h": 0,
+   "shownW": 20
+  },
+  {
+   "t": "img",
+   "src": "https://cdn.patientengage.cloud/global/logos/designer-frames/JIIKTYAC1TcGHhyE.png@w_400.webp",
+   "alt": "Kate Spade",
+   "w": 0,
+   "h": 0,
+   "shownW": 20
+  },
+  {
+   "t": "img",
+   "src": "https://cdn.patientengage.cloud/global/logos/designer-frames/coach.png@w_400.webp",
+   "alt": "Coach",
+   "w": 0,
+   "h": 0,
+   "shownW": 20
+  },
+  {
+   "t": "img",
+   "src": "https://cdn.patientengage.cloud/global/logos/designer-frames/calvin-klein.png@w_400.webp",
+   "alt": "Calvin Klein",
+   "w": 0,
+   "h": 0,
+   "shownW": 20
+  },
+  {
+   "t": "img",
+   "src": "https://cdn.patientengage.cloud/global/logos/designer-frames/michael-kors.png@w_400.webp",
+   "alt": "Michael Kors",
+   "w": 0,
+   "h": 0,
+   "shownW": 20
+  },
+  {
+   "t": "img",
+   "src": "https://cdn.patientengage.cloud/global/logos/designer-frames/LTHqXk5VpQJ9e7qx.png@w_400.webp",
+   "alt": "Wiley X",
+   "w": 0,
+   "h": 0,
+   "shownW": 20
+  },
+  {
+   "t": "img",
+   "src": "https://cdn.patientengage.cloud/global/logos/designer-frames/versace.png@w_400.webp",
+   "alt": "Versace",
+   "w": 0,
+   "h": 0,
+   "shownW": 20
+  },
+  {
+   "t": "img",
+   "src": "https://cdn.patientengage.cloud/global/logos/designer-frames/hugoboss.png@w_400.webp",
+   "alt": "Boss",
+   "w": 0,
+   "h": 0,
+   "shownW": 20
+  },
+  {
+   "t": "img",
+   "src": "https://cdn.patientengage.cloud/global/logos/designer-frames/nine-west.png@w_400.webp",
+   "alt": "Nine West",
+   "w": 0,
+   "h": 0,
+   "shownW": 20
+  },
+  {
+   "t": "img",
+   "src": "https://cdn.patientengage.cloud/global/logos/designer-frames/lacoste.png@w_400.webp",
+   "alt": "Lacoste",
+   "w": 0,
+   "h": 0,
+   "shownW": 20
+  },
+  {
+   "t": "img",
+   "src": "https://cdn.patientengage.cloud/global/logos/designer-frames/V9NA5EHZe0bKvpkO.png@w_400.webp",
+   "alt": "Nike",
+   "w": 0,
+   "h": 0,
+   "shownW": 20
+  },
+  {
+   "t": "img",
+   "src": "https://cdn.patientengage.cloud/global/logos/designer-frames/3mou5jS0u8LsxRaf.png@w_400.webp",
+   "alt": "DKNY",
+   "w": 0,
+   "h": 0,
+   "shownW": 20
+  },
+  {
+   "t": "img",
+   "src": "https://cdn.patientengage.cloud/global/logos/designer-frames/ted-baker.png@w_400.webp",
+   "alt": "Ted Baker",
+   "w": 0,
+   "h": 0,
+   "shownW": 20
+  },
+  {
+   "t": "img",
+   "src": "https://cdn.patientengage.cloud/global/logos/designer-frames/nautica.png@w_400.webp",
+   "alt": "Nautica",
+   "w": 0,
+   "h": 0,
+   "shownW": 20
+  },
+  {
+   "t": "img",
+   "src": "https://cdn.patientengage.cloud/global/logos/designer-frames/swarovski.png@w_400.webp",
+   "alt": "Swarovski",
+   "w": 0,
+   "h": 0,
+   "shownW": 0
+  },
+  {
+   "t": "img",
+   "src": "https://cdn.patientengage.cloud/global/logos/designer-frames/dragon.png@w_400.webp",
+   "alt": "Dragon",
+   "w": 0,
+   "h": 0,
+   "shownW": 0
+  },
+  {
+   "t": "img",
+   "src": "https://cdn.patientengage.cloud/global/logos/designer-frames/7WsKPcHnHM9Wloki.png@w_400.webp",
+   "alt": "BCBG",
+   "w": 0,
+   "h": 0,
+   "shownW": 0
+  },
+  {
+   "t": "img",
+   "src": "https://cdn.patientengage.cloud/global/logos/designer-frames/dolce-and-gabbana.png@w_400.webp",
+   "alt": "Dolce And Gabbana",
+   "w": 0,
+   "h": 0,
+   "shownW": 0
+  },
+  {
+   "t": "img",
+   "src": "https://cdn.patientengage.cloud/global/logos/designer-frames/vogue.png@w_400.webp",
+   "alt": "Vogue",
+   "w": 0,
+   "h": 0,
+   "shownW": 0
+  },
+  {
+   "t": "img",
+   "src": "https://cdn.patientengage.cloud/global/logos/designer-frames/steve-madden.png@w_400.webp",
+   "alt": "Steve Madden",
+   "w": 0,
+   "h": 0,
+   "shownW": 0
+  },
+  {
+   "t": "img",
+   "src": "https://cdn.patientengage.cloud/global/logos/designer-frames/gag3xagJDgAzZShd.png@w_400.webp",
+   "alt": "Marchon",
+   "w": 0,
+   "h": 0,
+   "shownW": 0
+  },
+  {
+   "t": "img",
+   "src": "https://cdn.patientengage.cloud/global/logos/designer-frames/chesterfield.png@w_400.webp",
+   "alt": "Chesterfield",
+   "w": 0,
+   "h": 0,
+   "shownW": 0
+  },
+  {
+   "t": "img",
+   "src": "https://cdn.patientengage.cloud/global/logos/designer-frames/polo.png@w_400.webp",
+   "alt": "Polo",
+   "w": 0,
+   "h": 0,
+   "shownW": 0
+  },
+  {
+   "t": "img",
+   "src": "https://cdn.patientengage.cloud/global/logos/designer-frames/salvatore-ferragamo.png@w_400.webp",
+   "alt": "Salvatore Ferragamo",
+   "w": 0,
+   "h": 0,
+   "shownW": 0
+  },
+  {
+   "t": "img",
+   "src": "https://cdn.patientengage.cloud/global/logos/designer-frames/PukGlLhZ54qX8D5V.png@w_400.webp",
+   "alt": "ECO",
+   "w": 0,
+   "h": 0,
+   "shownW": 0
+  },
+  {
+   "t": "img",
+   "src": "https://cdn.patientengage.cloud/global/logos/designer-frames/jkloaIYkIA1DnXvQ.png@w_400.webp",
+   "alt": "Fossil",
+   "w": 0,
+   "h": 0,
+   "shownW": 0
+  },
+  {
+   "t": "img",
+   "src": "https://cdn.patientengage.cloud/global/logos/designer-frames/fHhHmERKb42nM7Ap.png@w_400.webp",
+   "alt": "Columbia",
+   "w": 0,
+   "h": 0,
+   "shownW": 0
+  },
+  {
+   "t": "img",
+   "src": "https://cdn.patientengage.cloud/global/logos/designer-frames/tommyhilfiger.png@w_400.webp",
+   "alt": "Tommy Hilfiger",
+   "w": 0,
+   "h": 0,
+   "shownW": 0
+  },
+  {
+   "t": "img",
+   "src": "https://cdn.patientengage.cloud/global/logos/designer-frames/emporio-armani.png@w_400.webp",
+   "alt": "Emporio Armani",
+   "w": 0,
+   "h": 0,
+   "shownW": 0
+  },
+  {
+   "t": "img",
+   "src": "https://cdn.patientengage.cloud/global/logos/designer-frames/lAIDvoJbqarjQHfI.png@w_400.webp",
+   "alt": "Ralph Lauren",
+   "w": 0,
+   "h": 0,
+   "shownW": 0
+  },
+  {
+   "t": "img",
+   "src": "https://cdn.patientengage.cloud/global/logos/designer-frames/vx3yosPyyziIcfXH.png@w_400.webp",
+   "alt": "Izod",
+   "w": 0,
+   "h": 0,
+   "shownW": 0
+  },
+  {
+   "t": "img",
+   "src": "https://cdn.patientengage.cloud/global/logos/designer-frames/armani-exchange.png@w_400.webp",
+   "alt": "Armani Exchange",
+   "w": 0,
+   "h": 0,
+   "shownW": 0
+  },
+  {
+   "t": "img",
+   "src": "https://cdn.patientengage.cloud/global/logos/designer-frames/j5r88Rr0GdfLDTfC.png@w_400.webp",
+   "alt": "Pure",
+   "w": 0,
+   "h": 0,
+   "shownW": 0
+  },
+  {
+   "t": "img",
+   "src": "https://cdn.patientengage.cloud/global/logos/designer-frames/brooks-brothers.png@w_400.webp",
+   "alt": "Brooks Brothers",
+   "w": 0,
+   "h": 0,
+   "shownW": 0
+  },
+  {
+   "t": "img",
+   "src": "https://cdn.patientengage.cloud/global/logos/designer-frames/marc-by-mark-jacobs.png@w_400.webp",
+   "alt": "Marc By Mark Jacobs",
+   "w": 0,
+   "h": 0,
+   "shownW": 0
+  },
+  {
+   "t": "img",
+   "src": "https://cdn.patientengage.cloud/global/logos/designer-frames/hello-kitty.png@w_400.webp",
+   "alt": "Hello Kitty",
+   "w": 0,
+   "h": 0,
+   "shownW": 0
+  },
+  {
+   "t": "img",
+   "src": "https://cdn.patientengage.cloud/global/logos/designer-frames/PP5NlZE0WZlDuDJQ.png@w_400.webp",
+   "alt": "CVO Eyewear",
+   "w": 0,
+   "h": 0,
+   "shownW": 0
+  },
+  {
+   "t": "img",
+   "src": "https://cdn.patientengage.cloud/global/logos/designer-frames/new-balance.png@w_400.webp",
+   "alt": "New Balance",
+   "w": 0,
+   "h": 0,
+   "shownW": 0
+  },
+  {
+   "t": "img",
+   "src": "https://cdn.patientengage.cloud/global/logos/designer-frames/4Ra5B7SWhukhbuQO.png@w_400.webp",
+   "alt": "Psycho Bunny",
+   "w": 0,
+   "h": 0,
+   "shownW": 0
+  },
+  {
+   "t": "img",
+   "src": "https://cdn.patientengage.cloud/global/logos/designer-frames/oBDbiHNADsCXc7jY.png@w_400.webp",
+   "alt": "Donna Karan",
+   "w": 0,
+   "h": 0,
+   "shownW": 0
+  },
+  {
+   "t": "img",
+   "src": "https://cdn.patientengage.cloud/global/logos/designer-frames/BxC5JwAqF0RqbsaO.png@w_400.webp",
+   "alt": "K'nex",
+   "w": 0,
+   "h": 0,
+   "shownW": 0
+  },
+  {
+   "t": "img",
+   "src": "https://cdn.patientengage.cloud/sites/1ae885ad-ada7-41da-a3f2-c99458a5469b/live/media/019dfd9b-014f-70b3-8697-760d3e93dba7/shutterstock_1582814518.jpg@w_1600.webp",
+   "alt": "Young boy in glasses and patterned shirt smiling",
+   "w": 0,
+   "h": 0,
+   "shownW": 568
+  },
+  {
+   "t": "h",
+   "level": 2,
+   "text": "Glasses For Kids",
+   "html": "Glasses For [[b]]Kids[[/b]]"
+  },
+  {
+   "t": "p",
+   "html": "We haven't forgotten about our younger wearers. About 1 in 5 children needs prescription glasses to correct their vision. Our glasses for kids are designed with durability, comfort, and style in mind. Understanding the active lifestyle of children, we offer a wide selection of fun and sturdy frames that can keep up with their energy. From vibrant colors to frames featuring beloved characters, our kids' glasses are sure to delight and provide the vision support they need for their daily adventures."
+  },
+  {
+   "t": "h",
+   "level": 3,
+   "text": "Special Eyewear For Specialty Needs",
+   "html": "[[b]]Special Eyewear[[/b]] For Specialty Needs"
+  },
+  {
+   "t": "p",
+   "html": "For those with specific vision needs, our specialty eyewear provides the perfect solution. Whether you require computer glasses to reduce digital eye strain, sports eyewear for superior performance and protection, or glasses designed for hobby-specific requirements, we have you covered."
+  },
+  {
+   "t": "p",
+   "html": "Our specialty eyewear is designed to enhance your vision where you need it most, combining function with comfort and style."
+  },
+  {
+   "t": "img",
+   "src": "https://cdn.patientengage.cloud/sites/1ae885ad-ada7-41da-a3f2-c99458a5469b/live/media/019cc4e4-8120-7107-b2e5-959d1c26d579/AdobeStock_718280553.jpeg@w_1600.webp",
+   "alt": "Woman with ski googles",
+   "w": 0,
+   "h": 0,
+   "shownW": 568
+  },
+  {
+   "t": "h",
+   "level": 2,
+   "text": "Transitions® Lenses",
+   "html": "Transitions® Lenses"
+  },
+  {
+   "t": "p",
+   "html": "Transitions® Lenses Optical, Inc. has developed the world's most advanced photochromic lens technology—the ability of a lens to darken in the presence of invisible UV light. Transitions® Lenses are the #1 brand of photochromic lenses recommended by eye care professionals worldwide."
+  },
+  {
+   "t": "h",
+   "level": 2,
+   "text": "Lens Treatments",
+   "html": "Lens Treatments"
+  },
+  {
+   "t": "p",
+   "html": "Today’s eyeglass lens treatments make a real difference in what you see, and what you don’t see. Scratches, glare, ultraviolet rays—all are potential hazards to healthy sight that can be minimized or eliminated by a lens treatment."
+  }
+ ],
+ "forms": [],
+ "url": "https://www.vueeyecare.com/eyeglasses/"
+}

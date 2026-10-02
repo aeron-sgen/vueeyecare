@@ -1,0 +1,78 @@
+{
+  "schema": "site-reforge/architecture@1",
+  "generated": "2026-10-01T04:34:26.122Z",
+  "origin": "https://www.vueeyecare.com",
+  "pageTypes": {
+    "home": 1,
+    "page": 30,
+    "legal": 1,
+    "about": 1
+  },
+  "urlDepthHistogram": {
+    "0": 1,
+    "1": 11,
+    "2": 15,
+    "3": 6
+  },
+  "primaryNav": [
+    {
+      "label": "Home",
+      "onPages": 33
+    },
+    {
+      "label": "Hours & Location",
+      "onPages": 33
+    },
+    {
+      "label": "Our Eye Doctor",
+      "onPages": 33
+    },
+    {
+      "label": "Eye Care Services",
+      "onPages": 33
+    },
+    {
+      "label": "Comprehensive Eye Exams",
+      "onPages": 33
+    },
+    {
+      "label": "Contact Lens Exams",
+      "onPages": 33
+    },
+    {
+      "label": "Eye Disease Management",
+      "onPages": 33
+    },
+    {
+      "label": "Eyeglasses",
+      "onPages": 33
+    },
+    {
+      "label": "Contact Lenses",
+      "onPages": 33
+    },
+    {
+      "label": "Insurance",
+      "onPages": 33
+    },
+    {
+      "label": "Promotions",
+      "onPages": 33
+    }
+  ],
+  "globalFooterCandidates": [
+    {
+      "onPages": 33,
+      "sample": "Vue Eyecare (225) 752-2419 2515 O'Neal Ln Suite #5, Baton Rouge, LA 70816 » Schedule an Appointment © 2026 Powered by Accessibility Sitemap Privacy Disclaimer"
+    }
+  ],
+  "formsByAction": [],
+  "orphanPages": [
+    "https://www.vueeyecare.com/contact-lenses/contact-lenses-for-the-hard-to-fit-patient",
+    "https://www.vueeyecare.com/contact-lenses/eye-exams-for-contact-lenses",
+    "https://www.vueeyecare.com/contact-lenses/toric-contact-lenses-for-astigmatism",
+    "https://www.vueeyecare.com/contact-us",
+    "https://www.vueeyecare.com/eye-care-services/eye-conditions",
+    "https://www.vueeyecare.com/location/vue-eyecare"
+  ]
+}

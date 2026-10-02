@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Disallow: /register
+Disallow: /login
+Disallow: /sg-admin/
+
+Sitemap: https://eyetrendsclearlake.com/sitemap.xml

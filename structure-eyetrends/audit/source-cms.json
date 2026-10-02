@@ -1,0 +1,18 @@
+{
+  "schema": "site-reforge/source-cms@1",
+  "generated": "2026-10-01T04:34:27.532Z",
+  "detected": [
+    {
+      "id": "sgen",
+      "label": "SGEN",
+      "matchedPatterns": 4,
+      "evidence": [
+        "/<meta[^>]+name=[\"']sgen_version[\"']/i",
+        "/window\\.__SG_TRACK__\\s*=/",
+        "/\\/assets\\/front\\/js\\/sgbuilder(?:\\.min)?\\.js/i"
+      ],
+      "pages": 43
+    }
+  ],
+  "note": "Every id listed here MUST be absent from dist/ before packaging. sr-decontaminate.mjs enforces it."
+}

@@ -1,0 +1,416 @@
+{
+  "schema": "site-reforge/seo-report@1",
+  "generated": "2026-10-02T01:05:11.331Z",
+  "origin": "https://www.vueeyecare.com",
+  "buildDir": "dist",
+  "siteUrl": "https://www.vueeyecare.com",
+  "mode": "standing (clone served elsewhere)",
+  "limits": {
+    "titleMax": 60,
+    "titleMin": 15,
+    "descMax": 160,
+    "descMin": 50
+  },
+  "pages": 33,
+  "emitted": {
+    "wrote": [
+      {
+        "file": "robots.txt",
+        "from": "source robots.txt, Sitemap: lines dropped",
+        "droppedRules": [
+          "Allow: /"
+        ]
+      },
+      {
+        "file": "robots.txt",
+        "from": "rule dropped, path not served here: Allow: /"
+      },
+      {
+        "file": "sitemap.xml",
+        "from": "37 pages the build actually serves"
+      },
+      {
+        "file": "llms.txt",
+        "from": "37 pages"
+      }
+    ],
+    "skipped": [],
+    "pages": 37
+  },
+  "externalLinks": null,
+  "repaired": {
+    "pagesTouched": 37,
+    "fieldsWritten": 697
+  },
+  "counts": {
+    "source": {
+      "minor": 44,
+      "major": 6
+    },
+    "migration": {},
+    "byCode": {
+      "description-too-short": 14,
+      "og-image-missing": 23,
+      "alt-missing": 3,
+      "title-too-long": 7,
+      "description-duplicate": 1,
+      "noindex-present": 2
+    }
+  },
+  "findings": {
+    "source": [
+      {
+        "severity": "minor",
+        "code": "description-too-short",
+        "page": "https://www.vueeyecare.com/",
+        "field": "description",
+        "detail": "11 chars"
+      },
+      {
+        "severity": "minor",
+        "code": "og-image-missing",
+        "page": "https://www.vueeyecare.com/",
+        "field": "og:image",
+        "detail": "no social preview image"
+      },
+      {
+        "severity": "minor",
+        "code": "og-image-missing",
+        "page": "https://www.vueeyecare.com/contact-us",
+        "field": "og:image",
+        "detail": "no social preview image"
+      },
+      {
+        "severity": "major",
+        "code": "alt-missing",
+        "page": "https://www.vueeyecare.com/contact-us",
+        "field": "alt",
+        "detail": "1 of 4 images have no alt"
+      },
+      {
+        "severity": "minor",
+        "code": "og-image-missing",
+        "page": "https://www.vueeyecare.com/disclaimer",
+        "field": "og:image",
+        "detail": "no social preview image"
+      },
+      {
+        "severity": "minor",
+        "code": "og-image-missing",
+        "page": "https://www.vueeyecare.com/eye-care-services",
+        "field": "og:image",
+        "detail": "no social preview image"
+      },
+      {
+        "severity": "minor",
+        "code": "description-too-short",
+        "page": "https://www.vueeyecare.com/eye-care-services/contact-lens-exams",
+        "field": "description",
+        "detail": "11 chars"
+      },
+      {
+        "severity": "minor",
+        "code": "title-too-long",
+        "page": "https://www.vueeyecare.com/eye-care-services/contact-lens-exams/hard-to-fit",
+        "field": "title",
+        "detail": "70 chars (limit 60)"
+      },
+      {
+        "severity": "minor",
+        "code": "description-too-short",
+        "page": "https://www.vueeyecare.com/eye-care-services/contact-lens-exams/hard-to-fit",
+        "field": "description",
+        "detail": "11 chars"
+      },
+      {
+        "severity": "minor",
+        "code": "og-image-missing",
+        "page": "https://www.vueeyecare.com/eye-care-services/contact-lens-exams/hard-to-fit",
+        "field": "og:image",
+        "detail": "no social preview image"
+      },
+      {
+        "severity": "minor",
+        "code": "description-too-short",
+        "page": "https://www.vueeyecare.com/eye-care-services/eye-conditions",
+        "field": "description",
+        "detail": "11 chars"
+      },
+      {
+        "severity": "minor",
+        "code": "title-too-long",
+        "page": "https://www.vueeyecare.com/eye-care-services/eye-conditions/dry-eye-disease-and-treatment",
+        "field": "title",
+        "detail": "61 chars (limit 60)"
+      },
+      {
+        "severity": "minor",
+        "code": "description-too-short",
+        "page": "https://www.vueeyecare.com/eye-care-services/eye-conditions/dry-eye-disease-and-treatment",
+        "field": "description",
+        "detail": "11 chars"
+      },
+      {
+        "severity": "minor",
+        "code": "og-image-missing",
+        "page": "https://www.vueeyecare.com/eye-care-services/eye-conditions/dry-eye-disease-and-treatment",
+        "field": "og:image",
+        "detail": "no social preview image"
+      },
+      {
+        "severity": "minor",
+        "code": "title-too-long",
+        "page": "https://www.vueeyecare.com/eye-care-services/eye-emergencies-pinkred-eyes",
+        "field": "title",
+        "detail": "73 chars (limit 60)"
+      },
+      {
+        "severity": "minor",
+        "code": "description-too-short",
+        "page": "https://www.vueeyecare.com/eye-care-services/eye-emergencies-pinkred-eyes",
+        "field": "description",
+        "detail": "11 chars"
+      },
+      {
+        "severity": "minor",
+        "code": "description-too-short",
+        "page": "https://www.vueeyecare.com/eye-care-services/eye-exams",
+        "field": "description",
+        "detail": "11 chars"
+      },
+      {
+        "severity": "minor",
+        "code": "title-too-long",
+        "page": "https://www.vueeyecare.com/eye-care-services/lasik-refractive-surgery-co-management",
+        "field": "title",
+        "detail": "64 chars (limit 60)"
+      },
+      {
+        "severity": "minor",
+        "code": "description-too-short",
+        "page": "https://www.vueeyecare.com/eye-care-services/management-of-ocular-diseases",
+        "field": "description",
+        "detail": "11 chars"
+      },
+      {
+        "severity": "minor",
+        "code": "title-too-long",
+        "page": "https://www.vueeyecare.com/eye-care-services/management-of-ocular-diseases/cataract-surgery-co-management",
+        "field": "title",
+        "detail": "68 chars (limit 60)"
+      },
+      {
+        "severity": "minor",
+        "code": "og-image-missing",
+        "page": "https://www.vueeyecare.com/eye-care-services/management-of-ocular-diseases/cataract-surgery-co-management",
+        "field": "og:image",
+        "detail": "no social preview image"
+      },
+      {
+        "severity": "minor",
+        "code": "og-image-missing",
+        "page": "https://www.vueeyecare.com/eye-care-services/management-of-ocular-diseases/glaucoma-testing-treatment",
+        "field": "og:image",
+        "detail": "no social preview image"
+      },
+      {
+        "severity": "minor",
+        "code": "title-too-long",
+        "page": "https://www.vueeyecare.com/eye-care-services/management-of-ocular-diseases/treating-diabetic-retinopathy",
+        "field": "title",
+        "detail": "63 chars (limit 60)"
+      },
+      {
+        "severity": "minor",
+        "code": "og-image-missing",
+        "page": "https://www.vueeyecare.com/eye-care-services/management-of-ocular-diseases/treating-diabetic-retinopathy",
+        "field": "og:image",
+        "detail": "no social preview image"
+      },
+      {
+        "severity": "minor",
+        "code": "title-too-long",
+        "page": "https://www.vueeyecare.com/eye-care-services/management-of-ocular-diseases/treating-macular-degeneration",
+        "field": "title",
+        "detail": "62 chars (limit 60)"
+      },
+      {
+        "severity": "minor",
+        "code": "description-too-short",
+        "page": "https://www.vueeyecare.com/eye-care-services/management-of-ocular-diseases/treating-macular-degeneration",
+        "field": "description",
+        "detail": "11 chars"
+      },
+      {
+        "severity": "minor",
+        "code": "og-image-missing",
+        "page": "https://www.vueeyecare.com/eye-care-services/management-of-ocular-diseases/treating-macular-degeneration",
+        "field": "og:image",
+        "detail": "no social preview image"
+      },
+      {
+        "severity": "minor",
+        "code": "description-too-short",
+        "page": "https://www.vueeyecare.com/eye-care-services/myopia-management",
+        "field": "description",
+        "detail": "11 chars"
+      },
+      {
+        "severity": "minor",
+        "code": "og-image-missing",
+        "page": "https://www.vueeyecare.com/eye-care-services/myopia-management",
+        "field": "og:image",
+        "detail": "no social preview image"
+      },
+      {
+        "severity": "minor",
+        "code": "og-image-missing",
+        "page": "https://www.vueeyecare.com/eyeglasses",
+        "field": "og:image",
+        "detail": "no social preview image"
+      },
+      {
+        "severity": "major",
+        "code": "alt-missing",
+        "page": "https://www.vueeyecare.com/eyeglasses",
+        "field": "alt",
+        "detail": "41 of 90 images have no alt"
+      },
+      {
+        "severity": "minor",
+        "code": "og-image-missing",
+        "page": "https://www.vueeyecare.com/hours-location",
+        "field": "og:image",
+        "detail": "no social preview image"
+      },
+      {
+        "severity": "minor",
+        "code": "og-image-missing",
+        "page": "https://www.vueeyecare.com/insurance",
+        "field": "og:image",
+        "detail": "no social preview image"
+      },
+      {
+        "severity": "major",
+        "code": "alt-missing",
+        "page": "https://www.vueeyecare.com/insurance",
+        "field": "alt",
+        "detail": "28 of 60 images have no alt"
+      },
+      {
+        "severity": "minor",
+        "code": "og-image-missing",
+        "page": "https://www.vueeyecare.com/insurance/carecredit",
+        "field": "og:image",
+        "detail": "no social preview image"
+      },
+      {
+        "severity": "minor",
+        "code": "og-image-missing",
+        "page": "https://www.vueeyecare.com/insurance/faqs-of-vision-insurance-plans",
+        "field": "og:image",
+        "detail": "no social preview image"
+      },
+      {
+        "severity": "minor",
+        "code": "og-image-missing",
+        "page": "https://www.vueeyecare.com/insurance/whats-in-your-vision-insurance-plan",
+        "field": "og:image",
+        "detail": "no social preview image"
+      },
+      {
+        "severity": "minor",
+        "code": "description-too-short",
+        "page": "https://www.vueeyecare.com/location/vue-eyecare",
+        "field": "description",
+        "detail": "11 chars"
+      },
+      {
+        "severity": "minor",
+        "code": "og-image-missing",
+        "page": "https://www.vueeyecare.com/location/vue-eyecare",
+        "field": "og:image",
+        "detail": "no social preview image"
+      },
+      {
+        "severity": "minor",
+        "code": "og-image-missing",
+        "page": "https://www.vueeyecare.com/our-eye-doctors",
+        "field": "og:image",
+        "detail": "no social preview image"
+      },
+      {
+        "severity": "minor",
+        "code": "og-image-missing",
+        "page": "https://www.vueeyecare.com/privacy-policy",
+        "field": "og:image",
+        "detail": "no social preview image"
+      },
+      {
+        "severity": "minor",
+        "code": "description-too-short",
+        "page": "https://www.vueeyecare.com/promotions",
+        "field": "description",
+        "detail": "11 chars"
+      },
+      {
+        "severity": "minor",
+        "code": "og-image-missing",
+        "page": "https://www.vueeyecare.com/promotions",
+        "field": "og:image",
+        "detail": "no social preview image"
+      },
+      {
+        "severity": "minor",
+        "code": "description-too-short",
+        "page": "https://www.vueeyecare.com/team/pt-dinh-od-ms-iacmm",
+        "field": "description",
+        "detail": "11 chars"
+      },
+      {
+        "severity": "minor",
+        "code": "og-image-missing",
+        "page": "https://www.vueeyecare.com/team/pt-dinh-od-ms-iacmm",
+        "field": "og:image",
+        "detail": "no social preview image"
+      },
+      {
+        "severity": "minor",
+        "code": "description-too-short",
+        "page": "https://www.vueeyecare.com/website-accessibility-policy",
+        "field": "description",
+        "detail": "11 chars"
+      },
+      {
+        "severity": "minor",
+        "code": "og-image-missing",
+        "page": "https://www.vueeyecare.com/website-accessibility-policy",
+        "field": "og:image",
+        "detail": "no social preview image"
+      },
+      {
+        "severity": "major",
+        "code": "description-duplicate",
+        "page": "https://www.vueeyecare.com/",
+        "field": "description",
+        "detail": "14 pages share a description and do NOT share one canonical — e.g. https://www.vueeyecare.com/ , https://www.vueeyecare.com/eye-care-services/contact-lens-exams , https://www.vueeyecare.com/eye-care-services/contact-lens-exams/hard-to-fit"
+      },
+      {
+        "severity": "major",
+        "code": "noindex-present",
+        "page": "https://www.vueeyecare.com/contact-lenses/eye-exams-for-contact-lenses",
+        "field": "robots",
+        "detail": "page asks not to be indexed: \"noindex nofollow\""
+      },
+      {
+        "severity": "major",
+        "code": "noindex-present",
+        "page": "https://www.vueeyecare.com/contact-lenses/toric-contact-lenses-for-astigmatism",
+        "field": "robots",
+        "detail": "page asks not to be indexed: \"noindex nofollow\""
+      }
+    ],
+    "migration": []
+  },
+  "note": "APPLIED. This run wrote into the build: 697 field(s) on 37 page(s), each recorded in audit/seo-changes.json with its source. SOURCE findings are the live site's own defects and repairing them is an improvement, not a preservation. MIGRATION findings are damage the rebuild created and did not exist on the source."
+}

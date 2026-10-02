@@ -1,0 +1,6 @@
+{
+  "schema": "site-reforge/source-cms@1",
+  "generated": "2026-10-01T04:34:26.132Z",
+  "detected": [],
+  "note": "Every id listed here MUST be absent from dist/ before packaging. sr-decontaminate.mjs enforces it."
+}

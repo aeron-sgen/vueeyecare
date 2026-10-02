@@ -1,0 +1,550 @@
+{
+ "generated": "2026-10-01T05:54:45.144Z",
+ "rule": "opaque canvas: RGB delta > 96 from the corner colour; transparent canvas: alpha/255 x (765 - R - G - B) > 96",
+ "logos": {
+  "094adefd-rayban-color.png-w_400.webp": {
+   "w": 400,
+   "h": 331,
+   "x": 5,
+   "y": 30,
+   "iw": 390,
+   "ih": 271
+  },
+  "281e7735-JIIKTYAC1TcGHhyE.png-w_400.webp": {
+   "w": 400,
+   "h": 331,
+   "x": 23,
+   "y": 70,
+   "iw": 355,
+   "ih": 183
+  },
+  "4df41be6-coach.png-w_400.webp": {
+   "w": 400,
+   "h": 331,
+   "x": 11,
+   "y": 70,
+   "iw": 379,
+   "ih": 205
+  },
+  "26c230f3-calvin-klein.png-w_400.webp": {
+   "w": 400,
+   "h": 331,
+   "x": 86,
+   "y": 44,
+   "iw": 228,
+   "ih": 244
+  },
+  "fe13306a-michael-kors.png-w_400.webp": {
+   "w": 400,
+   "h": 331,
+   "x": 11,
+   "y": 137,
+   "iw": 378,
+   "ih": 56
+  },
+  "a6069bce-LTHqXk5VpQJ9e7qx.png-w_400.webp": {
+   "w": 400,
+   "h": 331,
+   "x": 25,
+   "y": 134,
+   "iw": 349,
+   "ih": 63
+  },
+  "15896361-versace.png-w_400.webp": {
+   "w": 400,
+   "h": 331,
+   "x": 91,
+   "y": 32,
+   "iw": 213,
+   "ih": 260
+  },
+  "cbb36a90-hugoboss.png-w_400.webp": {
+   "w": 400,
+   "h": 331,
+   "x": 30,
+   "y": 97,
+   "iw": 342,
+   "ih": 136
+  },
+  "2e106c45-nine-west.png-w_400.webp": {
+   "w": 400,
+   "h": 331,
+   "x": 29,
+   "y": 138,
+   "iw": 342,
+   "ih": 55
+  },
+  "ac22c890-lacoste.png-w_400.webp": {
+   "w": 400,
+   "h": 331,
+   "x": 18,
+   "y": 58,
+   "iw": 355,
+   "ih": 178
+  },
+  "97904578-V9NA5EHZe0bKvpkO.png-w_400.webp": {
+   "w": 400,
+   "h": 331,
+   "x": 69,
+   "y": 104,
+   "iw": 278,
+   "ih": 154
+  },
+  "073b8ebd-3mou5jS0u8LsxRaf.png-w_400.webp": {
+   "w": 400,
+   "h": 331,
+   "x": 19,
+   "y": 112,
+   "iw": 363,
+   "ih": 112
+  },
+  "aeb54a75-ted-baker.png-w_400.webp": {
+   "w": 400,
+   "h": 331,
+   "x": 22,
+   "y": 98,
+   "iw": 356,
+   "ih": 140
+  },
+  "ad77f9a4-nautica.png-w_400.webp": {
+   "w": 400,
+   "h": 331,
+   "x": 23,
+   "y": 57,
+   "iw": 354,
+   "ih": 170
+  },
+  "dfe623a1-swarovski.png-w_400.webp": {
+   "w": 400,
+   "h": 331,
+   "x": 14,
+   "y": 31,
+   "iw": 374,
+   "ih": 276
+  },
+  "cd04441c-dragon.png-w_400.webp": {
+   "w": 400,
+   "h": 331,
+   "x": 32,
+   "y": 128,
+   "iw": 334,
+   "ih": 76
+  },
+  "cbbb7903-7WsKPcHnHM9Wloki.png-w_400.webp": {
+   "w": 400,
+   "h": 331,
+   "x": 24,
+   "y": 142,
+   "iw": 353,
+   "ih": 47
+  },
+  "31b74ddd-dolce-and-gabbana.png-w_400.webp": {
+   "w": 400,
+   "h": 331,
+   "x": 28,
+   "y": 140,
+   "iw": 344,
+   "ih": 51
+  },
+  "c7777aee-vogue.png-w_400.webp": {
+   "w": 400,
+   "h": 331,
+   "x": 12,
+   "y": 111,
+   "iw": 376,
+   "ih": 109
+  },
+  "71c1d4f4-steve-madden.png-w_400.webp": {
+   "w": 400,
+   "h": 331,
+   "x": 9,
+   "y": 125,
+   "iw": 382,
+   "ih": 81
+  },
+  "f83ed85f-gag3xagJDgAzZShd.png-w_400.webp": {
+   "w": 400,
+   "h": 331,
+   "x": 20,
+   "y": 126,
+   "iw": 359,
+   "ih": 79
+  },
+  "669fe026-chesterfield.png-w_400.webp": {
+   "w": 400,
+   "h": 331,
+   "x": 7,
+   "y": 52,
+   "iw": 386,
+   "ih": 159
+  },
+  "86d55745-polo.png-w_400.webp": {
+   "w": 400,
+   "h": 331,
+   "x": 11,
+   "y": 66,
+   "iw": 375,
+   "ih": 160
+  },
+  "e09e5892-salvatore-ferragamo.png-w_400.webp": {
+   "w": 400,
+   "h": 331,
+   "x": 27,
+   "y": 123,
+   "iw": 354,
+   "ih": 85
+  },
+  "b00df048-PukGlLhZ54qX8D5V.png-w_400.webp": {
+   "w": 400,
+   "h": 331,
+   "x": 40,
+   "y": 115,
+   "iw": 319,
+   "ih": 101
+  },
+  "6b2ed867-jkloaIYkIA1DnXvQ.png-w_400.webp": {
+   "w": 400,
+   "h": 331,
+   "x": 16,
+   "y": 120,
+   "iw": 368,
+   "ih": 92
+  },
+  "27fa42f8-fHhHmERKb42nM7Ap.png-w_400.webp": {
+   "w": 400,
+   "h": 331,
+   "x": 25,
+   "y": 124,
+   "iw": 350,
+   "ih": 83
+  },
+  "019abc0a-tommyhilfiger.png-w_400.webp": {
+   "w": 400,
+   "h": 331,
+   "x": 27,
+   "y": 137,
+   "iw": 348,
+   "ih": 61
+  },
+  "5a07d032-emporio-armani.png-w_400.webp": {
+   "w": 400,
+   "h": 331,
+   "x": 13,
+   "y": 139,
+   "iw": 368,
+   "ih": 53
+  },
+  "89d281f1-lAIDvoJbqarjQHfI.png-w_400.webp": {
+   "w": 400,
+   "h": 331,
+   "x": 11,
+   "y": 95,
+   "iw": 378,
+   "ih": 126
+  },
+  "d20a7c28-vx3yosPyyziIcfXH.png-w_400.webp": {
+   "w": 400,
+   "h": 331,
+   "x": 29,
+   "y": 118,
+   "iw": 342,
+   "ih": 95
+  },
+  "6533bab2-armani-exchange.png-w_400.webp": {
+   "w": 400,
+   "h": 331,
+   "x": 50,
+   "y": 39,
+   "iw": 300,
+   "ih": 240
+  },
+  "434820d8-j5r88Rr0GdfLDTfC.png-w_400.webp": {
+   "w": 400,
+   "h": 331,
+   "x": 53,
+   "y": 99,
+   "iw": 298,
+   "ih": 133
+  },
+  "ea8bd03f-brooks-brothers.png-w_400.webp": {
+   "w": 400,
+   "h": 331,
+   "x": 7,
+   "y": 73,
+   "iw": 386,
+   "ih": 172
+  },
+  "ac2d757e-marc-by-mark-jacobs.png-w_400.webp": {
+   "w": 400,
+   "h": 331,
+   "x": 21,
+   "y": 148,
+   "iw": 358,
+   "ih": 35
+  },
+  "38839abd-hello-kitty.png-w_400.webp": {
+   "w": 400,
+   "h": 331,
+   "x": 13,
+   "y": 120,
+   "iw": 373,
+   "ih": 91
+  },
+  "dc0269bd-PP5NlZE0WZlDuDJQ.png-w_400.webp": {
+   "w": 400,
+   "h": 331,
+   "x": 28,
+   "y": 56,
+   "iw": 344,
+   "ih": 220
+  },
+  "4bed5f3f-new-balance.png-w_400.webp": {
+   "w": 400,
+   "h": 331,
+   "x": 23,
+   "y": 83,
+   "iw": 354,
+   "ih": 164
+  },
+  "7190a4ab-4Ra5B7SWhukhbuQO.png-w_400.webp": {
+   "w": 400,
+   "h": 331,
+   "x": 19,
+   "y": 87,
+   "iw": 362,
+   "ih": 138
+  },
+  "d8e76aae-oBDbiHNADsCXc7jY.png-w_400.webp": {
+   "w": 400,
+   "h": 331,
+   "x": 16,
+   "y": 135,
+   "iw": 368,
+   "ih": 65
+  },
+  "08a4b711-BxC5JwAqF0RqbsaO.png-w_400.webp": {
+   "w": 400,
+   "h": 331,
+   "x": 24,
+   "y": 103,
+   "iw": 353,
+   "ih": 121
+  },
+  "09968641-29UMjPGjw56kH0x4.png-w_400.webp": {
+   "w": 400,
+   "h": 331,
+   "x": 12,
+   "y": 106,
+   "iw": 376,
+   "ih": 126
+  },
+  "3dcce700-spectera.png-w_400.webp": {
+   "w": 400,
+   "h": 331,
+   "x": 21,
+   "y": 126,
+   "iw": 356,
+   "ih": 85
+  },
+  "66b2a60f-eye-med.png-w_400.webp": {
+   "w": 400,
+   "h": 331,
+   "x": 25,
+   "y": 55,
+   "iw": 347,
+   "ih": 222
+  },
+  "45d6d5db-qEj9JQ19dW1zfExj.png-w_400.webp": {
+   "w": 400,
+   "h": 331,
+   "x": 37,
+   "y": 53,
+   "iw": 339,
+   "ih": 231
+  },
+  "aa990b73-humana.png-w_400.webp": {
+   "w": 400,
+   "h": 331,
+   "x": 25,
+   "y": 121,
+   "iw": 354,
+   "ih": 87
+  },
+  "aef6851e-superior-vision-.png-w_400.webp": {
+   "w": 400,
+   "h": 331,
+   "x": 31,
+   "y": 136,
+   "iw": 335,
+   "ih": 104
+  },
+  "941bfb64-nva.png-w_400.webp": {
+   "w": 400,
+   "h": 331,
+   "x": 5,
+   "y": 78,
+   "iw": 390,
+   "ih": 175
+  },
+  "8c280794-alwayscare.png-w_400.webp": {
+   "w": 400,
+   "h": 331,
+   "x": 18,
+   "y": 126,
+   "iw": 364,
+   "ih": 79
+  },
+  "f935027e-march-vision-care.png-w_400.webp": {
+   "w": 400,
+   "h": 331,
+   "x": 50,
+   "y": 122,
+   "iw": 290,
+   "ih": 115
+  },
+  "cca326f4-block-vision.png-w_400.webp": {
+   "w": 400,
+   "h": 331,
+   "x": 39,
+   "y": 60,
+   "iw": 322,
+   "ih": 234
+  },
+  "c2fcf0cc-opticare.png-w_400.webp": {
+   "w": 400,
+   "h": 331,
+   "x": 5,
+   "y": 97,
+   "iw": 382,
+   "ih": 136
+  },
+  "d05c5bbe-medicare.png-w_400.webp": {
+   "w": 400,
+   "h": 331,
+   "x": 13,
+   "y": 99,
+   "iw": 374,
+   "ih": 133
+  },
+  "88eecc5c-united-healthcare.png-w_400.webp": {
+   "w": 400,
+   "h": 331,
+   "x": 22,
+   "y": 104,
+   "iw": 356,
+   "ih": 123
+  },
+  "b4e1b735-4ON2tzqw5GNU7H4U.png-w_400.webp": {
+   "w": 400,
+   "h": 331,
+   "x": 41,
+   "y": 126,
+   "iw": 320,
+   "ih": 78
+  },
+  "024863a2-cigna.png-w_400.webp": {
+   "w": 400,
+   "h": 331,
+   "x": 35,
+   "y": 106,
+   "iw": 346,
+   "ih": 129
+  },
+  "6337315b-H3s9JsQElepGYNXh.png-w_400.webp": {
+   "w": 400,
+   "h": 331,
+   "x": 19,
+   "y": 122,
+   "iw": 363,
+   "ih": 85
+  },
+  "2b9bfe9c-h5AvJTzxULfgOkD5.png-w_400.webp": {
+   "w": 400,
+   "h": 331,
+   "x": 22,
+   "y": 125,
+   "iw": 357,
+   "ih": 93
+  },
+  "6105e54e-umr.png-w_400.webp": {
+   "w": 400,
+   "h": 331,
+   "x": 50,
+   "y": 97,
+   "iw": 305,
+   "ih": 169
+  },
+  "8e39455c-meritain-health.png-w_400.webp": {
+   "w": 400,
+   "h": 400,
+   "x": 15,
+   "y": 44,
+   "iw": 365,
+   "ih": 273
+  },
+  "788e2012-coventry-health-care.png-w_400.webp": {
+   "w": 400,
+   "h": 331,
+   "x": 52,
+   "y": 33,
+   "iw": 296,
+   "ih": 259
+  },
+  "933bf24d-aetna-better-health.png-w_400.webp": {
+   "w": 400,
+   "h": 331,
+   "x": 23,
+   "y": 80,
+   "iw": 350,
+   "ih": 175
+  },
+  "61d3b1f5-j80i4lxAog2NqwMi.png-w_400.webp": {
+   "w": 400,
+   "h": 331,
+   "x": 9,
+   "y": 106,
+   "iw": 382,
+   "ih": 123
+  },
+  "082409a8-amerihealth.png-w_400.webp": {
+   "w": 400,
+   "h": 331,
+   "x": 8,
+   "y": 94,
+   "iw": 384,
+   "ih": 147
+  },
+  "898c44fa-webtpa.png-w_400.webp": {
+   "w": 400,
+   "h": 331,
+   "x": 11,
+   "y": 98,
+   "iw": 377,
+   "ih": 132
+  },
+  "a59e419c-E7e0c5tKmNkJRyqQ.png-w_400.webp": {
+   "w": 400,
+   "h": 331,
+   "x": 28,
+   "y": 101,
+   "iw": 354,
+   "ih": 158
+  },
+  "e6fe6c0f-s7Jjs4DWKhWh3a1n.png-w_400.webp": {
+   "w": 400,
+   "h": 331,
+   "x": 24,
+   "y": 87,
+   "iw": 354,
+   "ih": 145
+  },
+  "975b18cd-6ae11c3e-bf31-4458-927f-92cba718c0b9.png-w_400.webp": {
+   "w": 400,
+   "h": 331,
+   "x": 25,
+   "y": 71,
+   "iw": 350,
+   "ih": 180
+  }
+ }
+}

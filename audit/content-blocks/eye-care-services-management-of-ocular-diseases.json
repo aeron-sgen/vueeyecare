@@ -1,0 +1,60 @@
+{
+ "title": "Eye Disease Management | Eye Exam | Eye Doctor Near You",
+ "description": "Vue Eyecare",
+ "canonical": "https://www.vueeyecare.com/eye-care-services/management-of-ocular-diseases/",
+ "ogImage": "https://cdn.patientengage.cloud/sites/1ae885ad-ada7-41da-a3f2-c99458a5469b/live/media/019cc11a-8663-77b3-ace1-a9eb5e6b5b5d/Thumbnail-EyeDisease.jpg",
+ "blocks": [
+  {
+   "t": "h",
+   "level": 1,
+   "text": "Eye Disease Management",
+   "html": "Eye Disease Management"
+  },
+  {
+   "t": "p",
+   "html": "Preserving the eyesight of our patients so they can get the most out of life is our greatest goal. Our Eye Care Clinic makes it a policy to ensure that all staff members are up-to-date on the latest technology and techniques to make your visit as comfortable and effective as possible. As optometric technology changes, it is even more important to visit an eye doctor who has all the right optometry qualifications and follows the latest developments in eye care.",
+   "loose": true
+  },
+  {
+   "t": "img",
+   "src": "https://cdn.patientengage.cloud/sites/1ae885ad-ada7-41da-a3f2-c99458a5469b/live/media/019e1858-e078-713f-b772-e829361a6b13/shutterstock-2282529567.jpg@w_1600.webp",
+   "alt": "A woman with curly hair is smiling and hugging an older woman with white hair in a living room",
+   "w": 0,
+   "h": 0,
+   "shownW": 720
+  },
+  {
+   "t": "h",
+   "level": 2,
+   "text": "Ocular Disease Diagnosis and Treatment",
+   "html": "Ocular Disease Diagnosis and Treatment"
+  },
+  {
+   "t": "p",
+   "html": "Utilizing cutting edge technology, we diagnose and manage, with greater precision, diseases like Glaucoma, Macular Degeneration, [[a href=\"/eye-care-services/management-of-ocular-diseases/cataract-surgery-co-management/\"]]Cataracts[[/a]] , and Diabetic Retinopathy. Earlier and more precise diagnosis means earlier treatment and better outcomes. We can take an aggressive approach to diseases that previously had few treatment options. Great advances have been made in the treatment of these diseases.",
+   "loose": true
+  },
+  {
+   "t": "p",
+   "html": "Cataracts are a common cause of vision loss after age 55. Learn more about recognizing cataract symptoms, protecting your eyes and understanding cataract surgery.",
+   "loose": true
+  },
+  {
+   "t": "p",
+   "html": "Diabetes and vision go hand in hand. If you have diabetes, you need to know that having this systemic disease puts you at greater risk for developing vision problems.",
+   "loose": true
+  },
+  {
+   "t": "p",
+   "html": "Glaucoma is a condition that causes damage to your eye's optic nerve and gets worse over time, so nipping it in the bud will always be better for the person being tested.",
+   "loose": true
+  },
+  {
+   "t": "p",
+   "html": "The macula is the portion of the retina which provides sharp, central vision, and is involved in processing the fine details of the image. The breakdown of the macula is a disease called macular degeneration.",
+   "loose": true
+  }
+ ],
+ "forms": [],
+ "url": "https://www.vueeyecare.com/eye-care-services/management-of-ocular-diseases/"
+}

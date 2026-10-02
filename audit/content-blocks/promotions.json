@@ -1,0 +1,46 @@
+{
+ "title": "Promotions - Vue Eyecare",
+ "description": "Vue Eyecare",
+ "canonical": "https://www.vueeyecare.com/promotions/",
+ "ogImage": "",
+ "blocks": [
+  {
+   "t": "h",
+   "level": 1,
+   "text": "Promotions",
+   "html": "Promotions"
+  },
+  {
+   "t": "h",
+   "level": 2,
+   "text": "Summer is a Big Deal!",
+   "html": "[[b]]Summer[[/b]] is a Big Deal!"
+  },
+  {
+   "t": "p",
+   "html": "[[b]]50% OFF[[/b]] All Non-Prescription Sunglasses frames!"
+  },
+  {
+   "t": "h",
+   "level": 2,
+   "text": "Need a Spare?!",
+   "html": "Need a [[b]]Spare?![[/b]]"
+  },
+  {
+   "t": "p",
+   "html": "One Complete pair of [[b]]Single Vision[[/b]] eyeglasses starting at $79"
+  },
+  {
+   "t": "h",
+   "level": 2,
+   "text": "Great Value Package!",
+   "html": "Great [[b]]Value[[/b]] Package!"
+  },
+  {
+   "t": "p",
+   "html": "One Complete pair of Single Vision eyeglasses with BLUE LIGHT FILTER starting at [[b]]$119.99[[/b]]"
+  }
+ ],
+ "forms": [],
+ "url": "https://www.vueeyecare.com/promotions/"
+}

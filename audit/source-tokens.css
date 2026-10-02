@@ -1,0 +1,65 @@
+/* tokens.css — derived by sr-tokens.mjs from computed (browser capture).
+   Every value below traces to audit/design-baseline.json. Change values HERE,
+   never at a call site: one source, or the system is not a system. */
+:root {
+  /* --- colour ------------------------------------------------------ */
+  --c-1: #ffffff;
+  --c-2: #0878aa;
+  --c-3: #001b3a;
+  --c-4: #d4af3700;
+  --c-5: #eaaf2f;
+  --c-6: #202020;
+  --c-7: #000000;
+  --c-8: #757575;
+
+  /* --- type -------------------------------------------------------- */
+  --font-body: Raleway;
+  --font-display: Arial;
+  --fs-1: 13px;
+  --fs-2: 13.3333px;
+  --fs-3: 18px;
+  --fs-4: 19.8px;
+  --fs-5: 21.6px;
+  --fs-6: 28px;
+  --fs-7: 31.5px;
+  --fs-8: 36px;
+  --fs-9: 39.6px;
+  --fs-10: 45px;
+  --fs-11: 54px;
+
+  /* --- space ------------------------------------------------------- */
+  --sp-1: 5px;
+  --sp-2: 9px;
+  --sp-3: 10px;
+  --sp-4: 10.8px;
+  --sp-5: 12px;
+  --sp-6: 13.5px;
+  --sp-7: 14.85px;
+  --sp-8: 15px;
+  --sp-9: 16.2px;
+  --sp-10: 18px;
+  --sp-11: 20px;
+  --sp-12: 24px;
+  --sp-13: 27px;
+  --sp-14: 30px;
+  --sp-15: 48px;
+  --sp-16: 96px;
+
+  /* --- shape ------------------------------------------------------- */
+  --radius-1: 20px;
+  --radius-2: 50%;
+  --radius-3: 30px;
+  --radius-4: 150px;
+  --shadow-1: 0 2px 8px rgba(0,0,0,.3);
+  --shadow-2: 0 0 5px rgba(0,0,0,.1);
+  --shadow-3: 0 10px 20px rgba(0,0,0,.05);
+
+  /* --- layout ------------------------------------------------------ */
+  --container: 1200px;
+  --bp-1: 420px;
+  --bp-2: 421px;
+  --bp-3: 768px;
+  --bp-4: 769px;
+  --bp-5: 1200px;
+  --bp-6: 1500px;
+}

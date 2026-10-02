@@ -1,0 +1,63 @@
+{
+ "title": "CareCredit - Vue Eyecare",
+ "description": "As a service to our patients we are pleased to offer the CareCredit card enabling low monthly payments that are easy to fit into your budget.",
+ "canonical": "https://www.vueeyecare.com/insurance/carecredit/",
+ "ogImage": "",
+ "blocks": [
+  {
+   "t": "h",
+   "level": 1,
+   "text": "CareCredit",
+   "html": "CareCredit"
+  },
+  {
+   "t": "img",
+   "src": "https://cdn.patientengage.cloud/sites/1ae885ad-ada7-41da-a3f2-c99458a5469b/live/media/019cc11b-aec7-7160-a072-041f39f8bf28/carecredit-transparent.png@w_300.webp",
+   "alt": "Green rectangle with a blue and green circular pattern on the left side",
+   "w": 0,
+   "h": 0,
+   "shownW": 192
+  },
+  {
+   "t": "p",
+   "html": "As a service to our patients, we are pleased to offer the CareCredit card, the nation’s leading patient payment program. CareCredit lets you begin your procedure immediately—then pay for it over time with low monthly payments that are easy to fit into your monthly budget. So, you can begin your vision care today and conveniently pay with low, monthly payments. CareCredit offers a comprehensive range of No Interest and Extended Payment Plans.",
+   "loose": true
+  },
+  {
+   "t": "h",
+   "level": 2,
+   "text": "No Interest Payment Plans",
+   "html": "No Interest Payment Plans"
+  },
+  {
+   "t": "list",
+   "ordered": false,
+   "items": [
+    "No interest if the balance is paid within the specified time period",
+    "Low minimum monthly payments"
+   ]
+  },
+  {
+   "t": "h",
+   "level": 2,
+   "text": "Payment Plans",
+   "html": "Payment Plans"
+  },
+  {
+   "t": "list",
+   "ordered": false,
+   "items": [
+    "24, 36, 48 & 60 month plan options [Click for Details]",
+    "24, 36 and 48 financing terms are for purchases of $1,000 or more with a 14.9% APR",
+    "Purchases of $2,500 or more qualify for the 60-month offer with a 16.9% APR"
+   ]
+  },
+  {
+   "t": "p",
+   "html": "With CareCredit, you pay no up-front costs, no pre-payment penalties and no fees. Plus, CareCredit is a revolving credit line for additional treatment or add-on charges, without the need to re-apply. It only takes a few minutes to apply for CareCredit and you may receive an online decision in seconds!",
+   "loose": true
+  }
+ ],
+ "forms": [],
+ "url": "https://www.vueeyecare.com/insurance/carecredit/"
+}

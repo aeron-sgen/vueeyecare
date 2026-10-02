@@ -1,0 +1,208 @@
+{
+  "schema": "site-reforge/data@1",
+  "generated": "2026-10-01T04:35:05.658Z",
+  "note": "Same-origin data files a shipped script fetches at RUNTIME. The markup references none of these, so no other stage can see them; a build without them renders a shell and passes parity, because parity compares two equally empty static documents. Served at their ORIGINAL path — the caller is a string literal this pipeline cannot rewrite.",
+  "discovered": [
+    {
+      "url": "https://www.vueeyecare.com/_blank",
+      "pathname": "/_blank",
+      "via": "index.html",
+      "probe": true
+    },
+    {
+      "url": "https://www.vueeyecare.com/contact-lenses/_blank",
+      "pathname": "/contact-lenses/_blank",
+      "via": "contact-lenses.html",
+      "probe": true
+    },
+    {
+      "url": "https://www.vueeyecare.com/contact-lenses/contact-lenses-for-the-hard-to-fit-patient/_blank",
+      "pathname": "/contact-lenses/contact-lenses-for-the-hard-to-fit-patient/_blank",
+      "via": "contact-lenses-contact-lenses-for-the-hard-to-fit-patient.html",
+      "probe": true
+    },
+    {
+      "url": "https://www.vueeyecare.com/contact-lenses/eye-exams-for-contact-lenses/_blank",
+      "pathname": "/contact-lenses/eye-exams-for-contact-lenses/_blank",
+      "via": "contact-lenses-eye-exams-for-contact-lenses.html",
+      "probe": true
+    },
+    {
+      "url": "https://www.vueeyecare.com/contact-lenses/toric-contact-lenses-for-astigmatism/_blank",
+      "pathname": "/contact-lenses/toric-contact-lenses-for-astigmatism/_blank",
+      "via": "contact-lenses-toric-contact-lenses-for-astigmatism.html",
+      "probe": true
+    },
+    {
+      "url": "https://www.vueeyecare.com/contact-us/_blank",
+      "pathname": "/contact-us/_blank",
+      "via": "contact-us.html",
+      "probe": true
+    },
+    {
+      "url": "https://www.vueeyecare.com/disclaimer/_blank",
+      "pathname": "/disclaimer/_blank",
+      "via": "disclaimer.html",
+      "probe": true
+    },
+    {
+      "url": "https://www.vueeyecare.com/eye-care-services/_blank",
+      "pathname": "/eye-care-services/_blank",
+      "via": "eye-care-services.html",
+      "probe": true
+    },
+    {
+      "url": "https://www.vueeyecare.com/eye-care-services/contact-lens-exams/_blank",
+      "pathname": "/eye-care-services/contact-lens-exams/_blank",
+      "via": "eye-care-services-contact-lens-exams.html",
+      "probe": true
+    },
+    {
+      "url": "https://www.vueeyecare.com/eye-care-services/contact-lens-exams/hard-to-fit/_blank",
+      "pathname": "/eye-care-services/contact-lens-exams/hard-to-fit/_blank",
+      "via": "eye-care-services-contact-lens-exams-hard-to-fit.html",
+      "probe": true
+    },
+    {
+      "url": "https://www.vueeyecare.com/eye-care-services/eye-conditions/_blank",
+      "pathname": "/eye-care-services/eye-conditions/_blank",
+      "via": "eye-care-services-eye-conditions.html",
+      "probe": true
+    },
+    {
+      "url": "https://www.vueeyecare.com/eye-care-services/eye-conditions/dry-eye-disease-and-treatment/_blank",
+      "pathname": "/eye-care-services/eye-conditions/dry-eye-disease-and-treatment/_blank",
+      "via": "eye-care-services-eye-conditions-dry-eye-disease-and-treatment.html",
+      "probe": true
+    },
+    {
+      "url": "https://www.vueeyecare.com/eye-care-services/eye-emergencies-pinkred-eyes/_blank",
+      "pathname": "/eye-care-services/eye-emergencies-pinkred-eyes/_blank",
+      "via": "eye-care-services-eye-emergencies-pinkred-eyes.html",
+      "probe": true
+    },
+    {
+      "url": "https://www.vueeyecare.com/eye-care-services/eye-exams/_blank",
+      "pathname": "/eye-care-services/eye-exams/_blank",
+      "via": "eye-care-services-eye-exams.html",
+      "probe": true
+    },
+    {
+      "url": "https://www.vueeyecare.com/eye-care-services/lasik-refractive-surgery-co-management/_blank",
+      "pathname": "/eye-care-services/lasik-refractive-surgery-co-management/_blank",
+      "via": "eye-care-services-lasik-refractive-surgery-co-management.html",
+      "probe": true
+    },
+    {
+      "url": "https://www.vueeyecare.com/eye-care-services/management-of-ocular-diseases/_blank",
+      "pathname": "/eye-care-services/management-of-ocular-diseases/_blank",
+      "via": "eye-care-services-management-of-ocular-diseases.html",
+      "probe": true
+    },
+    {
+      "url": "https://www.vueeyecare.com/eye-care-services/management-of-ocular-diseases/cataract-surgery-co-management/_blank",
+      "pathname": "/eye-care-services/management-of-ocular-diseases/cataract-surgery-co-management/_blank",
+      "via": "eye-care-services-management-of-ocular-diseases-cataract-surgery-co-management.html",
+      "probe": true
+    },
+    {
+      "url": "https://www.vueeyecare.com/eye-care-services/management-of-ocular-diseases/glaucoma-testing-treatment/_blank",
+      "pathname": "/eye-care-services/management-of-ocular-diseases/glaucoma-testing-treatment/_blank",
+      "via": "eye-care-services-management-of-ocular-diseases-glaucoma-testing-treatment.html",
+      "probe": true
+    },
+    {
+      "url": "https://www.vueeyecare.com/eye-care-services/management-of-ocular-diseases/treating-diabetic-retinopathy/_blank",
+      "pathname": "/eye-care-services/management-of-ocular-diseases/treating-diabetic-retinopathy/_blank",
+      "via": "eye-care-services-management-of-ocular-diseases-treating-diabetic-retinopathy.html",
+      "probe": true
+    },
+    {
+      "url": "https://www.vueeyecare.com/eye-care-services/management-of-ocular-diseases/treating-macular-degeneration/_blank",
+      "pathname": "/eye-care-services/management-of-ocular-diseases/treating-macular-degeneration/_blank",
+      "via": "eye-care-services-management-of-ocular-diseases-treating-macular-degeneration.html",
+      "probe": true
+    },
+    {
+      "url": "https://www.vueeyecare.com/eye-care-services/myopia-management/_blank",
+      "pathname": "/eye-care-services/myopia-management/_blank",
+      "via": "eye-care-services-myopia-management.html",
+      "probe": true
+    },
+    {
+      "url": "https://www.vueeyecare.com/eyeglasses/_blank",
+      "pathname": "/eyeglasses/_blank",
+      "via": "eyeglasses.html",
+      "probe": true
+    },
+    {
+      "url": "https://www.vueeyecare.com/hours-location/_blank",
+      "pathname": "/hours-location/_blank",
+      "via": "hours-location.html",
+      "probe": true
+    },
+    {
+      "url": "https://www.vueeyecare.com/insurance/_blank",
+      "pathname": "/insurance/_blank",
+      "via": "insurance.html",
+      "probe": true
+    },
+    {
+      "url": "https://www.vueeyecare.com/insurance/carecredit/_blank",
+      "pathname": "/insurance/carecredit/_blank",
+      "via": "insurance-carecredit.html",
+      "probe": true
+    },
+    {
+      "url": "https://www.vueeyecare.com/insurance/faqs-of-vision-insurance-plans/_blank",
+      "pathname": "/insurance/faqs-of-vision-insurance-plans/_blank",
+      "via": "insurance-faqs-of-vision-insurance-plans.html",
+      "probe": true
+    },
+    {
+      "url": "https://www.vueeyecare.com/insurance/whats-in-your-vision-insurance-plan/_blank",
+      "pathname": "/insurance/whats-in-your-vision-insurance-plan/_blank",
+      "via": "insurance-whats-in-your-vision-insurance-plan.html",
+      "probe": true
+    },
+    {
+      "url": "https://www.vueeyecare.com/location/vue-eyecare/_blank",
+      "pathname": "/location/vue-eyecare/_blank",
+      "via": "location-vue-eyecare.html",
+      "probe": true
+    },
+    {
+      "url": "https://www.vueeyecare.com/our-eye-doctors/_blank",
+      "pathname": "/our-eye-doctors/_blank",
+      "via": "our-eye-doctors.html",
+      "probe": true
+    },
+    {
+      "url": "https://www.vueeyecare.com/privacy-policy/_blank",
+      "pathname": "/privacy-policy/_blank",
+      "via": "privacy-policy.html",
+      "probe": true
+    },
+    {
+      "url": "https://www.vueeyecare.com/promotions/_blank",
+      "pathname": "/promotions/_blank",
+      "via": "promotions.html",
+      "probe": true
+    },
+    {
+      "url": "https://www.vueeyecare.com/team/pt-dinh-od-ms-iacmm/_blank",
+      "pathname": "/team/pt-dinh-od-ms-iacmm/_blank",
+      "via": "team-pt-dinh-od-ms-iacmm.html",
+      "probe": true
+    },
+    {
+      "url": "https://www.vueeyecare.com/website-accessibility-policy/_blank",
+      "pathname": "/website-accessibility-policy/_blank",
+      "via": "website-accessibility-policy.html",
+      "probe": true
+    }
+  ],
+  "saved": [],
+  "unresolved": [],
+  "unresolvedNote": "An interpolated or cross-origin runtime endpoint. Not fetched: an interpolated path is a SERVER and a static clone has no server, and a cross-origin one belongs to somebody else. Both are reported so the build states what it cannot serve."
+}

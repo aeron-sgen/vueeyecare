@@ -1,0 +1,8 @@
+/*
+  Strict-Transport-Security: max-age=31536000
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: strict-origin-when-cross-origin
+  X-Frame-Options: SAMEORIGIN
+  Content-Security-Policy: default-src 'self'; img-src 'self' data:; media-src 'self'; font-src 'self'; style-src 'self' 'unsafe-inline'; script-src 'self' 'sha256-Du+OJKJSbdUgz5nrHeWWINvez6XKDDU/tyj/5c2uvwo='; frame-src https://www.youtube-nocookie.com https://maps.google.com https://www.google.com; connect-src 'self'; form-action 'self'; base-uri 'self'; frame-ancestors 'self'
+/assets/*
+  Cache-Control: public, max-age=2592000

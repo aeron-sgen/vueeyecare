@@ -1,0 +1,258 @@
+{
+  "schema": "site-reforge/client-facts@1",
+  "note": "Declared facts. Every value is copied from the captured Vue Eyecare site (audit/rendered, audit/content-blocks); the source is named per field in _sources. Nothing here comes from Eye Trends, which supplied only page structure.",
+  "legalName": "Vue Eyecare",
+  "brand": "Vue Eyecare",
+  "phone": [
+    "(225) 752-2419"
+  ],
+  "fax": null,
+  "email": [],
+  "addresses": [
+    {
+      "street": "2515 O'Neal Ln Suite #5",
+      "city": "Baton Rouge",
+      "region": "LA",
+      "regionName": "Louisiana",
+      "postal": "70816",
+      "country": "US",
+      "line": "2515 O'Neal Ln Suite #5, Baton Rouge, LA 70816"
+    }
+  ],
+  "areasServed": [
+    "Baton Rouge",
+    "Denham Springs"
+  ],
+  "hours": "Monday: 8:00 AM - 4:30 PM; Tuesday: 8:00 AM - 4:30 PM; Wednesday: 8:00 AM - 4:30 PM; Thursday: 8:00 AM - 4:30 PM; Friday: 8:00 AM - 4:30 PM; Saturday: Closed; Sunday: Closed",
+  "hoursStructured": [
+    {
+      "day": "Monday",
+      "slots": [
+        "8:00 AM - 4:30 PM"
+      ]
+    },
+    {
+      "day": "Tuesday",
+      "slots": [
+        "8:00 AM - 4:30 PM"
+      ]
+    },
+    {
+      "day": "Wednesday",
+      "slots": [
+        "8:00 AM - 4:30 PM"
+      ]
+    },
+    {
+      "day": "Thursday",
+      "slots": [
+        "8:00 AM - 4:30 PM"
+      ]
+    },
+    {
+      "day": "Friday",
+      "slots": [
+        "8:00 AM - 4:30 PM"
+      ]
+    },
+    {
+      "day": "Saturday",
+      "slots": []
+    },
+    {
+      "day": "Sunday",
+      "slots": []
+    }
+  ],
+  "people": [
+    {
+      "name": "Dr. Phuong T. Dinh",
+      "short": "Dr. P.T. Dinh",
+      "credentials": "P.T. Dinh, OD, MS, IACMM",
+      "role": "Optometrist",
+      "education": "Bachelor of Science, Louisiana State University; Master of Science and Doctor of Optometry, University of Houston (2005)",
+      "certifications": [
+        "Advanced certification from the International Academy in Myopia Management"
+      ]
+    }
+  ],
+  "founded": null,
+  "licences": [],
+  "awards": [],
+  "statistics": [],
+  "aggregateRating": {
+    "ratingValue": "5.0",
+    "reviewCount": 20
+  },
+  "testimonials": [
+    {
+      "author": "Lena Lastrapes",
+      "text": "I had a remarkable experiences from front desk to assist had me look at lil red house.\nTo Dr Dinh, exam went well.\nExplained everything that would keep my eyes good.\nTo get less thickness of lenses as my left eye very weak and would of been to thick compared to other one.",
+      "rating": 5,
+      "source": "home page JSON-LD LocalBusiness.review (rendered as the \"Patient Reviews\" widget)"
+    },
+    {
+      "author": "Latonya James",
+      "text": "Staff and Dr are always so nice, caring, and just so amazing all around. They actually care about their patients and love their jobs. 10/10, 100% recommend.",
+      "rating": 5,
+      "source": "home page JSON-LD LocalBusiness.review (rendered as the \"Patient Reviews\" widget)"
+    },
+    {
+      "author": "Sharon Patrick",
+      "text": "Dr. Dinh is always very thorough during exam.  He explains what he’s doing making sure i understand the process.  He and his staff are very courteous and friendly.  My visits there are always fun.",
+      "rating": 5,
+      "source": "home page JSON-LD LocalBusiness.review (rendered as the \"Patient Reviews\" widget)"
+    },
+    {
+      "author": "Leslie Juban",
+      "text": "Everyone at the office was nice. They accommodated me when I arrived early to my appointment. Dr. Dinh was very thorough and funny. I had fun during my appointment. Would recommend Vue Eye Care to everyone.",
+      "rating": 5,
+      "source": "home page JSON-LD LocalBusiness.review (rendered as the \"Patient Reviews\" widget)"
+    },
+    {
+      "author": "Jacquole Johnson",
+      "text": "VUE Eyecare exceeded all my expectations! Dr. Dinh conducted eye exams for both of my children, and I was truly impressed by his thoroughness, professionalism, and warm demeanor. He took the time to explain everything clearly, making the experience both informative and enjoyable. His kindness and humor made my kids feel completely at ease—definitely a breath of fresh air compared to past eye exams we’ve had elsewhere. The office staff was also welcoming and efficient, making the entire visit seamless. If you’re looking for top-notch eye care with a personal touch, I highly recommend VUE Eyecare and Dr. Dinh!",
+      "rating": 5,
+      "source": "home page JSON-LD LocalBusiness.review (rendered as the \"Patient Reviews\" widget)"
+    },
+    {
+      "author": "Charmaine Johnson",
+      "text": "I was pleased with the experience",
+      "rating": 5,
+      "source": "home page JSON-LD LocalBusiness.review (rendered as the \"Patient Reviews\" widget)"
+    },
+    {
+      "author": "Corey Brown",
+      "text": "Everyone that works at Vue Eye.Care is nice and helpful",
+      "rating": 5,
+      "source": "home page JSON-LD LocalBusiness.review (rendered as the \"Patient Reviews\" widget)"
+    },
+    {
+      "author": "Tina Johnson",
+      "text": "Very patient and kind staff.",
+      "rating": 5,
+      "source": "home page JSON-LD LocalBusiness.review (rendered as the \"Patient Reviews\" widget)"
+    },
+    {
+      "author": "Kori Alexander",
+      "text": "Omg I love Dr. Dinh!! He’s funny, personable, and witty!! Not only that, he knows his stuff!! Vue Eyecare is quick and efficient!!! Would recommend 10 times out of 10!!!",
+      "rating": 5,
+      "source": "home page JSON-LD LocalBusiness.review (rendered as the \"Patient Reviews\" widget)"
+    },
+    {
+      "author": "Ainson fontenot",
+      "text": "The Doctor and staff were extremely polite and professional.   Sales staff was vey patient and knowledgeable.   Very  positive experience.",
+      "rating": 5,
+      "source": "home page JSON-LD LocalBusiness.review (rendered as the \"Patient Reviews\" widget)"
+    },
+    {
+      "author": "Tira James",
+      "text": "Dr.Dinh,as well as his Staff is very Professional,Knowledgeable,Friendly and Respectful, I,had Cataract Procedure under Dr.Dinh recommending it, and I truly thank God!! I listened. Dr.Dinh & Staff, ALWAYS make you feel cared for, I APPRECIATE that so much!!!THANK YOU!!!!! Tira James.",
+      "rating": 5,
+      "source": "home page JSON-LD LocalBusiness.review (rendered as the \"Patient Reviews\" widget)"
+    },
+    {
+      "author": "Monica Jones",
+      "text": "Awesome customer service!",
+      "rating": 5,
+      "source": "home page JSON-LD LocalBusiness.review (rendered as the \"Patient Reviews\" widget)"
+    },
+    {
+      "author": "Lauren",
+      "text": "Great doctor and staff.",
+      "rating": 5,
+      "source": "home page JSON-LD LocalBusiness.review (rendered as the \"Patient Reviews\" widget)"
+    },
+    {
+      "author": "tasha GTown",
+      "text": "Great atmosphere, Dr.Dinh very friendly",
+      "rating": 5,
+      "source": "home page JSON-LD LocalBusiness.review (rendered as the \"Patient Reviews\" widget)"
+    },
+    {
+      "author": "Gene Martin",
+      "text": "Get place , employees are nice",
+      "rating": 5,
+      "source": "home page JSON-LD LocalBusiness.review (rendered as the \"Patient Reviews\" widget)"
+    },
+    {
+      "author": "Blake Anthony",
+      "text": "Great doctor!",
+      "rating": 5,
+      "source": "home page JSON-LD LocalBusiness.review (rendered as the \"Patient Reviews\" widget)"
+    },
+    {
+      "author": "dorothy harris",
+      "text": "Staff is professional, kind and courteous.\nExaminers goes the extra mile on your behalf. Eye doctor explains himself clearly and ask throughout your exam do you have any questions. Eye doctor also have a great sense of humor to make you laugh and place you in your comfort zone as he proceeds to get the job done. ❤️❤️❤️",
+      "rating": 5,
+      "source": "home page JSON-LD LocalBusiness.review (rendered as the \"Patient Reviews\" widget)"
+    },
+    {
+      "author": "Xed",
+      "text": "Straight Up WOW! This is my 3rd year as a VUE customer and I continue to say Bravoooo to the BEST! Dr. Vinh and Team are Consummate Professionals who always devote themselves to giving me a Thorough Eye Exam while treating me like a Friend. With Gratitude I Highly Recommend them to Everyone!",
+      "rating": 5,
+      "source": "home page JSON-LD LocalBusiness.review (rendered as the \"Patient Reviews\" widget)"
+    },
+    {
+      "author": "Eldon Hart",
+      "text": "Dr Dinh and the staff were awesome",
+      "rating": 5,
+      "source": "home page JSON-LD LocalBusiness.review (rendered as the \"Patient Reviews\" widget)"
+    },
+    {
+      "author": "Christina Davis",
+      "text": "Timely service, knowledgeable staff, friendly environment",
+      "rating": 5,
+      "source": "home page JSON-LD LocalBusiness.review (rendered as the \"Patient Reviews\" widget)"
+    }
+  ],
+  "promotions": [
+    {
+      "title": "Summer is a Big Deal!",
+      "text": "50% OFF All Non-Prescription Sunglasses frames!"
+    },
+    {
+      "title": "Need a Spare?!",
+      "text": "One Complete pair of Single Vision eyeglasses starting at $79"
+    },
+    {
+      "title": "Great Value Package!",
+      "text": "One Complete pair of Single Vision eyeglasses with BLUE LIGHT FILTER starting at $119.99"
+    }
+  ],
+  "links": {
+    "book": "https://p.adit.com/Rx8cZ",
+    "reviewsGoogle": "https://www.google.com/search?q=Vue+Eyecare+-+Located+at+2515+O%27Neal+Ln+Suite+%235%2C+Baton+Rouge%2C+LA+70816&sourceid=chrome&ie=UTF-8&sei=TYMDaZnIKeOg5NoP2_vy0Qc#lrd=0x8626bb89c6dbacbd:0xe3a11f836625fa0c,1,,,,",
+    "facebook": "https://www.facebook.com/pages/Vue-Eyecare/581846528647408?rf=787396314709172",
+    "directions": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJvazbxom7JoYRDPolZoMfoeM"
+  },
+  "clients": [],
+  "guarantees": [],
+  "pricing": [],
+  "services": [],
+  "sourceDefects": [
+    {
+      "where": "header Call button, every page",
+      "what": "label reads \"Call (303) 979-4505\" but the link dials tel:+12257522419; the rebuild shows (225) 752-2419, the number the button actually calls and the NAP phone everywhere else. Operator decision 2026-10-01: keep (225) 752-2419",
+      "decided": "keep (225) 752-2419"
+    },
+    {
+      "where": "home \"Quality Eye Care & Treatment\"",
+      "what": "the \"Myopia Control »\" card carries the eye-emergency paragraph; kept verbatim"
+    },
+    {
+      "where": "footer \"Sitemap\" link",
+      "what": "/sitemap returns 404"
+    }
+  ],
+  "_sources": {
+    "address": "JSON-LD LocalBusiness on the home page; footer of every page",
+    "phone": "(225) 752-2419: footer of every page, JSON-LD (225-752-2419), every tel: link",
+    "hours": "hours-location (rendered)",
+    "people": "team/pt-dinh-od-ms-iacmm and our-eye-doctors",
+    "areasServed": "doctor bio: \"individuals and families throughout Baton Rouge, Denham Springs, and the surrounding communities\"",
+    "testimonials": "home page JSON-LD review[] (full text; the visible widget truncates long reviews behind \"Show More\")",
+    "promotions": "promotions (rendered)",
+    "links": "home page (rendered): Schedule Appointment (Adit), Read More Reviews (Google), Facebook icon, map link in the location summary"
+  }
+}

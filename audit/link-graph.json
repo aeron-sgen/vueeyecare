@@ -1,0 +1,2241 @@
+{
+  "schema": "site-reforge/link-graph@1",
+  "generated": "2026-10-01T04:34:26.131Z",
+  "nodes": [
+    {
+      "url": "https://www.vueeyecare.com/",
+      "type": "home",
+      "depth": 0
+    },
+    {
+      "url": "https://www.vueeyecare.com/contact-lenses",
+      "type": "page",
+      "depth": 0
+    },
+    {
+      "url": "https://www.vueeyecare.com/contact-lenses/contact-lenses-for-the-hard-to-fit-patient",
+      "type": "page",
+      "depth": 0
+    },
+    {
+      "url": "https://www.vueeyecare.com/contact-lenses/eye-exams-for-contact-lenses",
+      "type": "page",
+      "depth": 0
+    },
+    {
+      "url": "https://www.vueeyecare.com/contact-lenses/toric-contact-lenses-for-astigmatism",
+      "type": "page",
+      "depth": 0
+    },
+    {
+      "url": "https://www.vueeyecare.com/contact-us",
+      "type": "page",
+      "depth": 0
+    },
+    {
+      "url": "https://www.vueeyecare.com/disclaimer",
+      "type": "legal",
+      "depth": 0
+    },
+    {
+      "url": "https://www.vueeyecare.com/eye-care-services",
+      "type": "page",
+      "depth": 0
+    },
+    {
+      "url": "https://www.vueeyecare.com/eye-care-services/contact-lens-exams",
+      "type": "page",
+      "depth": 0
+    },
+    {
+      "url": "https://www.vueeyecare.com/eye-care-services/contact-lens-exams/hard-to-fit",
+      "type": "page",
+      "depth": 0
+    },
+    {
+      "url": "https://www.vueeyecare.com/eye-care-services/eye-conditions",
+      "type": "page",
+      "depth": 0
+    },
+    {
+      "url": "https://www.vueeyecare.com/eye-care-services/eye-conditions/dry-eye-disease-and-treatment",
+      "type": "page",
+      "depth": 0
+    },
+    {
+      "url": "https://www.vueeyecare.com/eye-care-services/eye-emergencies-pinkred-eyes",
+      "type": "page",
+      "depth": 0
+    },
+    {
+      "url": "https://www.vueeyecare.com/eye-care-services/eye-exams",
+      "type": "page",
+      "depth": 0
+    },
+    {
+      "url": "https://www.vueeyecare.com/eye-care-services/lasik-refractive-surgery-co-management",
+      "type": "page",
+      "depth": 0
+    },
+    {
+      "url": "https://www.vueeyecare.com/eye-care-services/management-of-ocular-diseases",
+      "type": "page",
+      "depth": 0
+    },
+    {
+      "url": "https://www.vueeyecare.com/eye-care-services/management-of-ocular-diseases/cataract-surgery-co-management",
+      "type": "page",
+      "depth": 0
+    },
+    {
+      "url": "https://www.vueeyecare.com/eye-care-services/management-of-ocular-diseases/glaucoma-testing-treatment",
+      "type": "page",
+      "depth": 0
+    },
+    {
+      "url": "https://www.vueeyecare.com/eye-care-services/management-of-ocular-diseases/treating-diabetic-retinopathy",
+      "type": "page",
+      "depth": 0
+    },
+    {
+      "url": "https://www.vueeyecare.com/eye-care-services/management-of-ocular-diseases/treating-macular-degeneration",
+      "type": "page",
+      "depth": 0
+    },
+    {
+      "url": "https://www.vueeyecare.com/eye-care-services/myopia-management",
+      "type": "page",
+      "depth": 0
+    },
+    {
+      "url": "https://www.vueeyecare.com/eyeglasses",
+      "type": "page",
+      "depth": 0
+    },
+    {
+      "url": "https://www.vueeyecare.com/hours-location",
+      "type": "page",
+      "depth": 0
+    },
+    {
+      "url": "https://www.vueeyecare.com/insurance",
+      "type": "page",
+      "depth": 0
+    },
+    {
+      "url": "https://www.vueeyecare.com/insurance/carecredit",
+      "type": "page",
+      "depth": 0
+    },
+    {
+      "url": "https://www.vueeyecare.com/insurance/faqs-of-vision-insurance-plans",
+      "type": "page",
+      "depth": 0
+    },
+    {
+      "url": "https://www.vueeyecare.com/insurance/whats-in-your-vision-insurance-plan",
+      "type": "page",
+      "depth": 0
+    },
+    {
+      "url": "https://www.vueeyecare.com/location/vue-eyecare",
+      "type": "page",
+      "depth": 0
+    },
+    {
+      "url": "https://www.vueeyecare.com/our-eye-doctors",
+      "type": "page",
+      "depth": 0
+    },
+    {
+      "url": "https://www.vueeyecare.com/privacy-policy",
+      "type": "page",
+      "depth": 0
+    },
+    {
+      "url": "https://www.vueeyecare.com/promotions",
+      "type": "page",
+      "depth": 0
+    },
+    {
+      "url": "https://www.vueeyecare.com/team/pt-dinh-od-ms-iacmm",
+      "type": "about",
+      "depth": 0
+    },
+    {
+      "url": "https://www.vueeyecare.com/website-accessibility-policy",
+      "type": "page",
+      "depth": 0
+    }
+  ],
+  "edges": [
+    {
+      "from": "https://www.vueeyecare.com/",
+      "to": "https://www.vueeyecare.com/"
+    },
+    {
+      "from": "https://www.vueeyecare.com/",
+      "to": "https://www.vueeyecare.com/hours-location"
+    },
+    {
+      "from": "https://www.vueeyecare.com/",
+      "to": "https://www.vueeyecare.com/our-eye-doctors"
+    },
+    {
+      "from": "https://www.vueeyecare.com/",
+      "to": "https://www.vueeyecare.com/eye-care-services"
+    },
+    {
+      "from": "https://www.vueeyecare.com/",
+      "to": "https://www.vueeyecare.com/eye-care-services/eye-exams"
+    },
+    {
+      "from": "https://www.vueeyecare.com/",
+      "to": "https://www.vueeyecare.com/eye-care-services/contact-lens-exams"
+    },
+    {
+      "from": "https://www.vueeyecare.com/",
+      "to": "https://www.vueeyecare.com/eye-care-services/management-of-ocular-diseases"
+    },
+    {
+      "from": "https://www.vueeyecare.com/",
+      "to": "https://www.vueeyecare.com/eyeglasses"
+    },
+    {
+      "from": "https://www.vueeyecare.com/",
+      "to": "https://www.vueeyecare.com/contact-lenses"
+    },
+    {
+      "from": "https://www.vueeyecare.com/",
+      "to": "https://www.vueeyecare.com/insurance"
+    },
+    {
+      "from": "https://www.vueeyecare.com/",
+      "to": "https://www.vueeyecare.com/promotions"
+    },
+    {
+      "from": "https://www.vueeyecare.com/",
+      "to": "https://www.vueeyecare.com/eye-care-services/myopia-management"
+    },
+    {
+      "from": "https://www.vueeyecare.com/",
+      "to": "https://www.vueeyecare.com/eye-care-services/eye-conditions/dry-eye-disease-and-treatment"
+    },
+    {
+      "from": "https://www.vueeyecare.com/",
+      "to": "https://www.vueeyecare.com/team/pt-dinh-od-ms-iacmm"
+    },
+    {
+      "from": "https://www.vueeyecare.com/",
+      "to": "https://www.vueeyecare.com/website-accessibility-policy"
+    },
+    {
+      "from": "https://www.vueeyecare.com/",
+      "to": "https://www.vueeyecare.com/sitemap"
+    },
+    {
+      "from": "https://www.vueeyecare.com/",
+      "to": "https://www.vueeyecare.com/privacy-policy"
+    },
+    {
+      "from": "https://www.vueeyecare.com/",
+      "to": "https://www.vueeyecare.com/disclaimer"
+    },
+    {
+      "from": "https://www.vueeyecare.com/contact-lenses",
+      "to": "https://www.vueeyecare.com/"
+    },
+    {
+      "from": "https://www.vueeyecare.com/contact-lenses",
+      "to": "https://www.vueeyecare.com/hours-location"
+    },
+    {
+      "from": "https://www.vueeyecare.com/contact-lenses",
+      "to": "https://www.vueeyecare.com/our-eye-doctors"
+    },
+    {
+      "from": "https://www.vueeyecare.com/contact-lenses",
+      "to": "https://www.vueeyecare.com/eye-care-services"
+    },
+    {
+      "from": "https://www.vueeyecare.com/contact-lenses",
+      "to": "https://www.vueeyecare.com/eye-care-services/eye-exams"
+    },
+    {
+      "from": "https://www.vueeyecare.com/contact-lenses",
+      "to": "https://www.vueeyecare.com/eye-care-services/contact-lens-exams"
+    },
+    {
+      "from": "https://www.vueeyecare.com/contact-lenses",
+      "to": "https://www.vueeyecare.com/eye-care-services/management-of-ocular-diseases"
+    },
+    {
+      "from": "https://www.vueeyecare.com/contact-lenses",
+      "to": "https://www.vueeyecare.com/eyeglasses"
+    },
+    {
+      "from": "https://www.vueeyecare.com/contact-lenses",
+      "to": "https://www.vueeyecare.com/contact-lenses"
+    },
+    {
+      "from": "https://www.vueeyecare.com/contact-lenses",
+      "to": "https://www.vueeyecare.com/insurance"
+    },
+    {
+      "from": "https://www.vueeyecare.com/contact-lenses",
+      "to": "https://www.vueeyecare.com/promotions"
+    },
+    {
+      "from": "https://www.vueeyecare.com/contact-lenses",
+      "to": "https://www.vueeyecare.com/eye-care-services/contact-lens-exams/hard-to-fit"
+    },
+    {
+      "from": "https://www.vueeyecare.com/contact-lenses",
+      "to": "https://www.vueeyecare.com/website-accessibility-policy"
+    },
+    {
+      "from": "https://www.vueeyecare.com/contact-lenses",
+      "to": "https://www.vueeyecare.com/sitemap"
+    },
+    {
+      "from": "https://www.vueeyecare.com/contact-lenses",
+      "to": "https://www.vueeyecare.com/privacy-policy"
+    },
+    {
+      "from": "https://www.vueeyecare.com/contact-lenses",
+      "to": "https://www.vueeyecare.com/disclaimer"
+    },
+    {
+      "from": "https://www.vueeyecare.com/contact-lenses/contact-lenses-for-the-hard-to-fit-patient",
+      "to": "https://www.vueeyecare.com/"
+    },
+    {
+      "from": "https://www.vueeyecare.com/contact-lenses/contact-lenses-for-the-hard-to-fit-patient",
+      "to": "https://www.vueeyecare.com/hours-location"
+    },
+    {
+      "from": "https://www.vueeyecare.com/contact-lenses/contact-lenses-for-the-hard-to-fit-patient",
+      "to": "https://www.vueeyecare.com/our-eye-doctors"
+    },
+    {
+      "from": "https://www.vueeyecare.com/contact-lenses/contact-lenses-for-the-hard-to-fit-patient",
+      "to": "https://www.vueeyecare.com/eye-care-services"
+    },
+    {
+      "from": "https://www.vueeyecare.com/contact-lenses/contact-lenses-for-the-hard-to-fit-patient",
+      "to": "https://www.vueeyecare.com/eye-care-services/eye-exams"
+    },
+    {
+      "from": "https://www.vueeyecare.com/contact-lenses/contact-lenses-for-the-hard-to-fit-patient",
+      "to": "https://www.vueeyecare.com/eye-care-services/contact-lens-exams"
+    },
+    {
+      "from": "https://www.vueeyecare.com/contact-lenses/contact-lenses-for-the-hard-to-fit-patient",
+      "to": "https://www.vueeyecare.com/eye-care-services/management-of-ocular-diseases"
+    },
+    {
+      "from": "https://www.vueeyecare.com/contact-lenses/contact-lenses-for-the-hard-to-fit-patient",
+      "to": "https://www.vueeyecare.com/eyeglasses"
+    },
+    {
+      "from": "https://www.vueeyecare.com/contact-lenses/contact-lenses-for-the-hard-to-fit-patient",
+      "to": "https://www.vueeyecare.com/contact-lenses"
+    },
+    {
+      "from": "https://www.vueeyecare.com/contact-lenses/contact-lenses-for-the-hard-to-fit-patient",
+      "to": "https://www.vueeyecare.com/insurance"
+    },
+    {
+      "from": "https://www.vueeyecare.com/contact-lenses/contact-lenses-for-the-hard-to-fit-patient",
+      "to": "https://www.vueeyecare.com/promotions"
+    },
+    {
+      "from": "https://www.vueeyecare.com/contact-lenses/contact-lenses-for-the-hard-to-fit-patient",
+      "to": "https://www.vueeyecare.com/website-accessibility-policy"
+    },
+    {
+      "from": "https://www.vueeyecare.com/contact-lenses/contact-lenses-for-the-hard-to-fit-patient",
+      "to": "https://www.vueeyecare.com/sitemap"
+    },
+    {
+      "from": "https://www.vueeyecare.com/contact-lenses/contact-lenses-for-the-hard-to-fit-patient",
+      "to": "https://www.vueeyecare.com/privacy-policy"
+    },
+    {
+      "from": "https://www.vueeyecare.com/contact-lenses/contact-lenses-for-the-hard-to-fit-patient",
+      "to": "https://www.vueeyecare.com/disclaimer"
+    },
+    {
+      "from": "https://www.vueeyecare.com/contact-lenses/eye-exams-for-contact-lenses",
+      "to": "https://www.vueeyecare.com/"
+    },
+    {
+      "from": "https://www.vueeyecare.com/contact-lenses/eye-exams-for-contact-lenses",
+      "to": "https://www.vueeyecare.com/hours-location"
+    },
+    {
+      "from": "https://www.vueeyecare.com/contact-lenses/eye-exams-for-contact-lenses",
+      "to": "https://www.vueeyecare.com/our-eye-doctors"
+    },
+    {
+      "from": "https://www.vueeyecare.com/contact-lenses/eye-exams-for-contact-lenses",
+      "to": "https://www.vueeyecare.com/eye-care-services"
+    },
+    {
+      "from": "https://www.vueeyecare.com/contact-lenses/eye-exams-for-contact-lenses",
+      "to": "https://www.vueeyecare.com/eye-care-services/eye-exams"
+    },
+    {
+      "from": "https://www.vueeyecare.com/contact-lenses/eye-exams-for-contact-lenses",
+      "to": "https://www.vueeyecare.com/eye-care-services/contact-lens-exams"
+    },
+    {
+      "from": "https://www.vueeyecare.com/contact-lenses/eye-exams-for-contact-lenses",
+      "to": "https://www.vueeyecare.com/eye-care-services/management-of-ocular-diseases"
+    },
+    {
+      "from": "https://www.vueeyecare.com/contact-lenses/eye-exams-for-contact-lenses",
+      "to": "https://www.vueeyecare.com/eyeglasses"
+    },
+    {
+      "from": "https://www.vueeyecare.com/contact-lenses/eye-exams-for-contact-lenses",
+      "to": "https://www.vueeyecare.com/contact-lenses"
+    },
+    {
+      "from": "https://www.vueeyecare.com/contact-lenses/eye-exams-for-contact-lenses",
+      "to": "https://www.vueeyecare.com/insurance"
+    },
+    {
+      "from": "https://www.vueeyecare.com/contact-lenses/eye-exams-for-contact-lenses",
+      "to": "https://www.vueeyecare.com/promotions"
+    },
+    {
+      "from": "https://www.vueeyecare.com/contact-lenses/eye-exams-for-contact-lenses",
+      "to": "https://www.vueeyecare.com/website-accessibility-policy"
+    },
+    {
+      "from": "https://www.vueeyecare.com/contact-lenses/eye-exams-for-contact-lenses",
+      "to": "https://www.vueeyecare.com/sitemap"
+    },
+    {
+      "from": "https://www.vueeyecare.com/contact-lenses/eye-exams-for-contact-lenses",
+      "to": "https://www.vueeyecare.com/privacy-policy"
+    },
+    {
+      "from": "https://www.vueeyecare.com/contact-lenses/eye-exams-for-contact-lenses",
+      "to": "https://www.vueeyecare.com/disclaimer"
+    },
+    {
+      "from": "https://www.vueeyecare.com/contact-lenses/toric-contact-lenses-for-astigmatism",
+      "to": "https://www.vueeyecare.com/"
+    },
+    {
+      "from": "https://www.vueeyecare.com/contact-lenses/toric-contact-lenses-for-astigmatism",
+      "to": "https://www.vueeyecare.com/hours-location"
+    },
+    {
+      "from": "https://www.vueeyecare.com/contact-lenses/toric-contact-lenses-for-astigmatism",
+      "to": "https://www.vueeyecare.com/our-eye-doctors"
+    },
+    {
+      "from": "https://www.vueeyecare.com/contact-lenses/toric-contact-lenses-for-astigmatism",
+      "to": "https://www.vueeyecare.com/eye-care-services"
+    },
+    {
+      "from": "https://www.vueeyecare.com/contact-lenses/toric-contact-lenses-for-astigmatism",
+      "to": "https://www.vueeyecare.com/eye-care-services/eye-exams"
+    },
+    {
+      "from": "https://www.vueeyecare.com/contact-lenses/toric-contact-lenses-for-astigmatism",
+      "to": "https://www.vueeyecare.com/eye-care-services/contact-lens-exams"
+    },
+    {
+      "from": "https://www.vueeyecare.com/contact-lenses/toric-contact-lenses-for-astigmatism",
+      "to": "https://www.vueeyecare.com/eye-care-services/management-of-ocular-diseases"
+    },
+    {
+      "from": "https://www.vueeyecare.com/contact-lenses/toric-contact-lenses-for-astigmatism",
+      "to": "https://www.vueeyecare.com/eyeglasses"
+    },
+    {
+      "from": "https://www.vueeyecare.com/contact-lenses/toric-contact-lenses-for-astigmatism",
+      "to": "https://www.vueeyecare.com/contact-lenses"
+    },
+    {
+      "from": "https://www.vueeyecare.com/contact-lenses/toric-contact-lenses-for-astigmatism",
+      "to": "https://www.vueeyecare.com/insurance"
+    },
+    {
+      "from": "https://www.vueeyecare.com/contact-lenses/toric-contact-lenses-for-astigmatism",
+      "to": "https://www.vueeyecare.com/promotions"
+    },
+    {
+      "from": "https://www.vueeyecare.com/contact-lenses/toric-contact-lenses-for-astigmatism",
+      "to": "https://www.vueeyecare.com/website-accessibility-policy"
+    },
+    {
+      "from": "https://www.vueeyecare.com/contact-lenses/toric-contact-lenses-for-astigmatism",
+      "to": "https://www.vueeyecare.com/sitemap"
+    },
+    {
+      "from": "https://www.vueeyecare.com/contact-lenses/toric-contact-lenses-for-astigmatism",
+      "to": "https://www.vueeyecare.com/privacy-policy"
+    },
+    {
+      "from": "https://www.vueeyecare.com/contact-lenses/toric-contact-lenses-for-astigmatism",
+      "to": "https://www.vueeyecare.com/disclaimer"
+    },
+    {
+      "from": "https://www.vueeyecare.com/contact-us",
+      "to": "https://www.vueeyecare.com/"
+    },
+    {
+      "from": "https://www.vueeyecare.com/contact-us",
+      "to": "https://www.vueeyecare.com/hours-location"
+    },
+    {
+      "from": "https://www.vueeyecare.com/contact-us",
+      "to": "https://www.vueeyecare.com/our-eye-doctors"
+    },
+    {
+      "from": "https://www.vueeyecare.com/contact-us",
+      "to": "https://www.vueeyecare.com/eye-care-services"
+    },
+    {
+      "from": "https://www.vueeyecare.com/contact-us",
+      "to": "https://www.vueeyecare.com/eye-care-services/eye-exams"
+    },
+    {
+      "from": "https://www.vueeyecare.com/contact-us",
+      "to": "https://www.vueeyecare.com/eye-care-services/contact-lens-exams"
+    },
+    {
+      "from": "https://www.vueeyecare.com/contact-us",
+      "to": "https://www.vueeyecare.com/eye-care-services/management-of-ocular-diseases"
+    },
+    {
+      "from": "https://www.vueeyecare.com/contact-us",
+      "to": "https://www.vueeyecare.com/eyeglasses"
+    },
+    {
+      "from": "https://www.vueeyecare.com/contact-us",
+      "to": "https://www.vueeyecare.com/contact-lenses"
+    },
+    {
+      "from": "https://www.vueeyecare.com/contact-us",
+      "to": "https://www.vueeyecare.com/insurance"
+    },
+    {
+      "from": "https://www.vueeyecare.com/contact-us",
+      "to": "https://www.vueeyecare.com/promotions"
+    },
+    {
+      "from": "https://www.vueeyecare.com/contact-us",
+      "to": "https://www.vueeyecare.com/website-accessibility-policy"
+    },
+    {
+      "from": "https://www.vueeyecare.com/contact-us",
+      "to": "https://www.vueeyecare.com/sitemap"
+    },
+    {
+      "from": "https://www.vueeyecare.com/contact-us",
+      "to": "https://www.vueeyecare.com/privacy-policy"
+    },
+    {
+      "from": "https://www.vueeyecare.com/contact-us",
+      "to": "https://www.vueeyecare.com/disclaimer"
+    },
+    {
+      "from": "https://www.vueeyecare.com/disclaimer",
+      "to": "https://www.vueeyecare.com/"
+    },
+    {
+      "from": "https://www.vueeyecare.com/disclaimer",
+      "to": "https://www.vueeyecare.com/hours-location"
+    },
+    {
+      "from": "https://www.vueeyecare.com/disclaimer",
+      "to": "https://www.vueeyecare.com/our-eye-doctors"
+    },
+    {
+      "from": "https://www.vueeyecare.com/disclaimer",
+      "to": "https://www.vueeyecare.com/eye-care-services"
+    },
+    {
+      "from": "https://www.vueeyecare.com/disclaimer",
+      "to": "https://www.vueeyecare.com/eye-care-services/eye-exams"
+    },
+    {
+      "from": "https://www.vueeyecare.com/disclaimer",
+      "to": "https://www.vueeyecare.com/eye-care-services/contact-lens-exams"
+    },
+    {
+      "from": "https://www.vueeyecare.com/disclaimer",
+      "to": "https://www.vueeyecare.com/eye-care-services/management-of-ocular-diseases"
+    },
+    {
+      "from": "https://www.vueeyecare.com/disclaimer",
+      "to": "https://www.vueeyecare.com/eyeglasses"
+    },
+    {
+      "from": "https://www.vueeyecare.com/disclaimer",
+      "to": "https://www.vueeyecare.com/contact-lenses"
+    },
+    {
+      "from": "https://www.vueeyecare.com/disclaimer",
+      "to": "https://www.vueeyecare.com/insurance"
+    },
+    {
+      "from": "https://www.vueeyecare.com/disclaimer",
+      "to": "https://www.vueeyecare.com/promotions"
+    },
+    {
+      "from": "https://www.vueeyecare.com/disclaimer",
+      "to": "https://www.vueeyecare.com/website-accessibility-policy"
+    },
+    {
+      "from": "https://www.vueeyecare.com/disclaimer",
+      "to": "https://www.vueeyecare.com/sitemap"
+    },
+    {
+      "from": "https://www.vueeyecare.com/disclaimer",
+      "to": "https://www.vueeyecare.com/privacy-policy"
+    },
+    {
+      "from": "https://www.vueeyecare.com/disclaimer",
+      "to": "https://www.vueeyecare.com/disclaimer"
+    },
+    {
+      "from": "https://www.vueeyecare.com/eye-care-services",
+      "to": "https://www.vueeyecare.com/"
+    },
+    {
+      "from": "https://www.vueeyecare.com/eye-care-services",
+      "to": "https://www.vueeyecare.com/hours-location"
+    },
+    {
+      "from": "https://www.vueeyecare.com/eye-care-services",
+      "to": "https://www.vueeyecare.com/our-eye-doctors"
+    },
+    {
+      "from": "https://www.vueeyecare.com/eye-care-services",
+      "to": "https://www.vueeyecare.com/eye-care-services"
+    },
+    {
+      "from": "https://www.vueeyecare.com/eye-care-services",
+      "to": "https://www.vueeyecare.com/eye-care-services/eye-exams"
+    },
+    {
+      "from": "https://www.vueeyecare.com/eye-care-services",
+      "to": "https://www.vueeyecare.com/eye-care-services/contact-lens-exams"
+    },
+    {
+      "from": "https://www.vueeyecare.com/eye-care-services",
+      "to": "https://www.vueeyecare.com/eye-care-services/management-of-ocular-diseases"
+    },
+    {
+      "from": "https://www.vueeyecare.com/eye-care-services",
+      "to": "https://www.vueeyecare.com/eyeglasses"
+    },
+    {
+      "from": "https://www.vueeyecare.com/eye-care-services",
+      "to": "https://www.vueeyecare.com/contact-lenses"
+    },
+    {
+      "from": "https://www.vueeyecare.com/eye-care-services",
+      "to": "https://www.vueeyecare.com/insurance"
+    },
+    {
+      "from": "https://www.vueeyecare.com/eye-care-services",
+      "to": "https://www.vueeyecare.com/promotions"
+    },
+    {
+      "from": "https://www.vueeyecare.com/eye-care-services",
+      "to": "https://www.vueeyecare.com/eye-care-services/myopia-management"
+    },
+    {
+      "from": "https://www.vueeyecare.com/eye-care-services",
+      "to": "https://www.vueeyecare.com/eye-care-services/lasik-refractive-surgery-co-management"
+    },
+    {
+      "from": "https://www.vueeyecare.com/eye-care-services",
+      "to": "https://www.vueeyecare.com/eye-care-services/eye-conditions/dry-eye-disease-and-treatment"
+    },
+    {
+      "from": "https://www.vueeyecare.com/eye-care-services",
+      "to": "https://www.vueeyecare.com/website-accessibility-policy"
+    },
+    {
+      "from": "https://www.vueeyecare.com/eye-care-services",
+      "to": "https://www.vueeyecare.com/sitemap"
+    },
+    {
+      "from": "https://www.vueeyecare.com/eye-care-services",
+      "to": "https://www.vueeyecare.com/privacy-policy"
+    },
+    {
+      "from": "https://www.vueeyecare.com/eye-care-services",
+      "to": "https://www.vueeyecare.com/disclaimer"
+    },
+    {
+      "from": "https://www.vueeyecare.com/eye-care-services/contact-lens-exams",
+      "to": "https://www.vueeyecare.com/"
+    },
+    {
+      "from": "https://www.vueeyecare.com/eye-care-services/contact-lens-exams",
+      "to": "https://www.vueeyecare.com/hours-location"
+    },
+    {
+      "from": "https://www.vueeyecare.com/eye-care-services/contact-lens-exams",
+      "to": "https://www.vueeyecare.com/our-eye-doctors"
+    },
+    {
+      "from": "https://www.vueeyecare.com/eye-care-services/contact-lens-exams",
+      "to": "https://www.vueeyecare.com/eye-care-services"
+    },
+    {
+      "from": "https://www.vueeyecare.com/eye-care-services/contact-lens-exams",
+      "to": "https://www.vueeyecare.com/eye-care-services/eye-exams"
+    },
+    {
+      "from": "https://www.vueeyecare.com/eye-care-services/contact-lens-exams",
+      "to": "https://www.vueeyecare.com/eye-care-services/contact-lens-exams"
+    },
+    {
+      "from": "https://www.vueeyecare.com/eye-care-services/contact-lens-exams",
+      "to": "https://www.vueeyecare.com/eye-care-services/management-of-ocular-diseases"
+    },
+    {
+      "from": "https://www.vueeyecare.com/eye-care-services/contact-lens-exams",
+      "to": "https://www.vueeyecare.com/eyeglasses"
+    },
+    {
+      "from": "https://www.vueeyecare.com/eye-care-services/contact-lens-exams",
+      "to": "https://www.vueeyecare.com/contact-lenses"
+    },
+    {
+      "from": "https://www.vueeyecare.com/eye-care-services/contact-lens-exams",
+      "to": "https://www.vueeyecare.com/insurance"
+    },
+    {
+      "from": "https://www.vueeyecare.com/eye-care-services/contact-lens-exams",
+      "to": "https://www.vueeyecare.com/promotions"
+    },
+    {
+      "from": "https://www.vueeyecare.com/eye-care-services/contact-lens-exams",
+      "to": "https://www.vueeyecare.com/eye-care-services/contact-lens-exams/hard-to-fit"
+    },
+    {
+      "from": "https://www.vueeyecare.com/eye-care-services/contact-lens-exams",
+      "to": "https://www.vueeyecare.com/website-accessibility-policy"
+    },
+    {
+      "from": "https://www.vueeyecare.com/eye-care-services/contact-lens-exams",
+      "to": "https://www.vueeyecare.com/sitemap"
+    },
+    {
+      "from": "https://www.vueeyecare.com/eye-care-services/contact-lens-exams",
+      "to": "https://www.vueeyecare.com/privacy-policy"
+    },
+    {
+      "from": "https://www.vueeyecare.com/eye-care-services/contact-lens-exams",
+      "to": "https://www.vueeyecare.com/disclaimer"
+    },
+    {
+      "from": "https://www.vueeyecare.com/eye-care-services/contact-lens-exams/hard-to-fit",
+      "to": "https://www.vueeyecare.com/"
+    },
+    {
+      "from": "https://www.vueeyecare.com/eye-care-services/contact-lens-exams/hard-to-fit",
+      "to": "https://www.vueeyecare.com/hours-location"
+    },
+    {
+      "from": "https://www.vueeyecare.com/eye-care-services/contact-lens-exams/hard-to-fit",
+      "to": "https://www.vueeyecare.com/our-eye-doctors"
+    },
+    {
+      "from": "https://www.vueeyecare.com/eye-care-services/contact-lens-exams/hard-to-fit",
+      "to": "https://www.vueeyecare.com/eye-care-services"
+    },
+    {
+      "from": "https://www.vueeyecare.com/eye-care-services/contact-lens-exams/hard-to-fit",
+      "to": "https://www.vueeyecare.com/eye-care-services/eye-exams"
+    },
+    {
+      "from": "https://www.vueeyecare.com/eye-care-services/contact-lens-exams/hard-to-fit",
+      "to": "https://www.vueeyecare.com/eye-care-services/contact-lens-exams"
+    },
+    {
+      "from": "https://www.vueeyecare.com/eye-care-services/contact-lens-exams/hard-to-fit",
+      "to": "https://www.vueeyecare.com/eye-care-services/management-of-ocular-diseases"
+    },
+    {
+      "from": "https://www.vueeyecare.com/eye-care-services/contact-lens-exams/hard-to-fit",
+      "to": "https://www.vueeyecare.com/eyeglasses"
+    },
+    {
+      "from": "https://www.vueeyecare.com/eye-care-services/contact-lens-exams/hard-to-fit",
+      "to": "https://www.vueeyecare.com/contact-lenses"
+    },
+    {
+      "from": "https://www.vueeyecare.com/eye-care-services/contact-lens-exams/hard-to-fit",
+      "to": "https://www.vueeyecare.com/insurance"
+    },
+    {
+      "from": "https://www.vueeyecare.com/eye-care-services/contact-lens-exams/hard-to-fit",
+      "to": "https://www.vueeyecare.com/promotions"
+    },
+    {
+      "from": "https://www.vueeyecare.com/eye-care-services/contact-lens-exams/hard-to-fit",
+      "to": "https://www.vueeyecare.com/website-accessibility-policy"
+    },
+    {
+      "from": "https://www.vueeyecare.com/eye-care-services/contact-lens-exams/hard-to-fit",
+      "to": "https://www.vueeyecare.com/sitemap"
+    },
+    {
+      "from": "https://www.vueeyecare.com/eye-care-services/contact-lens-exams/hard-to-fit",
+      "to": "https://www.vueeyecare.com/privacy-policy"
+    },
+    {
+      "from": "https://www.vueeyecare.com/eye-care-services/contact-lens-exams/hard-to-fit",
+      "to": "https://www.vueeyecare.com/disclaimer"
+    },
+    {
+      "from": "https://www.vueeyecare.com/eye-care-services/eye-conditions",
+      "to": "https://www.vueeyecare.com/"
+    },
+    {
+      "from": "https://www.vueeyecare.com/eye-care-services/eye-conditions",
+      "to": "https://www.vueeyecare.com/hours-location"
+    },
+    {
+      "from": "https://www.vueeyecare.com/eye-care-services/eye-conditions",
+      "to": "https://www.vueeyecare.com/our-eye-doctors"
+    },
+    {
+      "from": "https://www.vueeyecare.com/eye-care-services/eye-conditions",
+      "to": "https://www.vueeyecare.com/eye-care-services"
+    },
+    {
+      "from": "https://www.vueeyecare.com/eye-care-services/eye-conditions",
+      "to": "https://www.vueeyecare.com/eye-care-services/eye-exams"
+    },
+    {
+      "from": "https://www.vueeyecare.com/eye-care-services/eye-conditions",
+      "to": "https://www.vueeyecare.com/eye-care-services/contact-lens-exams"
+    },
+    {
+      "from": "https://www.vueeyecare.com/eye-care-services/eye-conditions",
+      "to": "https://www.vueeyecare.com/eye-care-services/management-of-ocular-diseases"
+    },
+    {
+      "from": "https://www.vueeyecare.com/eye-care-services/eye-conditions",
+      "to": "https://www.vueeyecare.com/eyeglasses"
+    },
+    {
+      "from": "https://www.vueeyecare.com/eye-care-services/eye-conditions",
+      "to": "https://www.vueeyecare.com/contact-lenses"
+    },
+    {
+      "from": "https://www.vueeyecare.com/eye-care-services/eye-conditions",
+      "to": "https://www.vueeyecare.com/insurance"
+    },
+    {
+      "from": "https://www.vueeyecare.com/eye-care-services/eye-conditions",
+      "to": "https://www.vueeyecare.com/promotions"
+    },
+    {
+      "from": "https://www.vueeyecare.com/eye-care-services/eye-conditions",
+      "to": "https://www.vueeyecare.com/eye-care-services/eye-conditions/dry-eye-disease-and-treatment"
+    },
+    {
+      "from": "https://www.vueeyecare.com/eye-care-services/eye-conditions",
+      "to": "https://www.vueeyecare.com/website-accessibility-policy"
+    },
+    {
+      "from": "https://www.vueeyecare.com/eye-care-services/eye-conditions",
+      "to": "https://www.vueeyecare.com/sitemap"
+    },
+    {
+      "from": "https://www.vueeyecare.com/eye-care-services/eye-conditions",
+      "to": "https://www.vueeyecare.com/privacy-policy"
+    },
+    {
+      "from": "https://www.vueeyecare.com/eye-care-services/eye-conditions",
+      "to": "https://www.vueeyecare.com/disclaimer"
+    },
+    {
+      "from": "https://www.vueeyecare.com/eye-care-services/eye-conditions/dry-eye-disease-and-treatment",
+      "to": "https://www.vueeyecare.com/"
+    },
+    {
+      "from": "https://www.vueeyecare.com/eye-care-services/eye-conditions/dry-eye-disease-and-treatment",
+      "to": "https://www.vueeyecare.com/hours-location"
+    },
+    {
+      "from": "https://www.vueeyecare.com/eye-care-services/eye-conditions/dry-eye-disease-and-treatment",
+      "to": "https://www.vueeyecare.com/our-eye-doctors"
+    },
+    {
+      "from": "https://www.vueeyecare.com/eye-care-services/eye-conditions/dry-eye-disease-and-treatment",
+      "to": "https://www.vueeyecare.com/eye-care-services"
+    },
+    {
+      "from": "https://www.vueeyecare.com/eye-care-services/eye-conditions/dry-eye-disease-and-treatment",
+      "to": "https://www.vueeyecare.com/eye-care-services/eye-exams"
+    },
+    {
+      "from": "https://www.vueeyecare.com/eye-care-services/eye-conditions/dry-eye-disease-and-treatment",
+      "to": "https://www.vueeyecare.com/eye-care-services/contact-lens-exams"
+    },
+    {
+      "from": "https://www.vueeyecare.com/eye-care-services/eye-conditions/dry-eye-disease-and-treatment",
+      "to": "https://www.vueeyecare.com/eye-care-services/management-of-ocular-diseases"
+    },
+    {
+      "from": "https://www.vueeyecare.com/eye-care-services/eye-conditions/dry-eye-disease-and-treatment",
+      "to": "https://www.vueeyecare.com/eyeglasses"
+    },
+    {
+      "from": "https://www.vueeyecare.com/eye-care-services/eye-conditions/dry-eye-disease-and-treatment",
+      "to": "https://www.vueeyecare.com/contact-lenses"
+    },
+    {
+      "from": "https://www.vueeyecare.com/eye-care-services/eye-conditions/dry-eye-disease-and-treatment",
+      "to": "https://www.vueeyecare.com/insurance"
+    },
+    {
+      "from": "https://www.vueeyecare.com/eye-care-services/eye-conditions/dry-eye-disease-and-treatment",
+      "to": "https://www.vueeyecare.com/promotions"
+    },
+    {
+      "from": "https://www.vueeyecare.com/eye-care-services/eye-conditions/dry-eye-disease-and-treatment",
+      "to": "https://www.vueeyecare.com/website-accessibility-policy"
+    },
+    {
+      "from": "https://www.vueeyecare.com/eye-care-services/eye-conditions/dry-eye-disease-and-treatment",
+      "to": "https://www.vueeyecare.com/sitemap"
+    },
+    {
+      "from": "https://www.vueeyecare.com/eye-care-services/eye-conditions/dry-eye-disease-and-treatment",
+      "to": "https://www.vueeyecare.com/privacy-policy"
+    },
+    {
+      "from": "https://www.vueeyecare.com/eye-care-services/eye-conditions/dry-eye-disease-and-treatment",
+      "to": "https://www.vueeyecare.com/disclaimer"
+    },
+    {
+      "from": "https://www.vueeyecare.com/eye-care-services/eye-emergencies-pinkred-eyes",
+      "to": "https://www.vueeyecare.com/"
+    },
+    {
+      "from": "https://www.vueeyecare.com/eye-care-services/eye-emergencies-pinkred-eyes",
+      "to": "https://www.vueeyecare.com/hours-location"
+    },
+    {
+      "from": "https://www.vueeyecare.com/eye-care-services/eye-emergencies-pinkred-eyes",
+      "to": "https://www.vueeyecare.com/our-eye-doctors"
+    },
+    {
+      "from": "https://www.vueeyecare.com/eye-care-services/eye-emergencies-pinkred-eyes",
+      "to": "https://www.vueeyecare.com/eye-care-services"
+    },
+    {
+      "from": "https://www.vueeyecare.com/eye-care-services/eye-emergencies-pinkred-eyes",
+      "to": "https://www.vueeyecare.com/eye-care-services/eye-exams"
+    },
+    {
+      "from": "https://www.vueeyecare.com/eye-care-services/eye-emergencies-pinkred-eyes",
+      "to": "https://www.vueeyecare.com/eye-care-services/contact-lens-exams"
+    },
+    {
+      "from": "https://www.vueeyecare.com/eye-care-services/eye-emergencies-pinkred-eyes",
+      "to": "https://www.vueeyecare.com/eye-care-services/management-of-ocular-diseases"
+    },
+    {
+      "from": "https://www.vueeyecare.com/eye-care-services/eye-emergencies-pinkred-eyes",
+      "to": "https://www.vueeyecare.com/eyeglasses"
+    },
+    {
+      "from": "https://www.vueeyecare.com/eye-care-services/eye-emergencies-pinkred-eyes",
+      "to": "https://www.vueeyecare.com/contact-lenses"
+    },
+    {
+      "from": "https://www.vueeyecare.com/eye-care-services/eye-emergencies-pinkred-eyes",
+      "to": "https://www.vueeyecare.com/insurance"
+    },
+    {
+      "from": "https://www.vueeyecare.com/eye-care-services/eye-emergencies-pinkred-eyes",
+      "to": "https://www.vueeyecare.com/promotions"
+    },
+    {
+      "from": "https://www.vueeyecare.com/eye-care-services/eye-emergencies-pinkred-eyes",
+      "to": "https://www.vueeyecare.com/website-accessibility-policy"
+    },
+    {
+      "from": "https://www.vueeyecare.com/eye-care-services/eye-emergencies-pinkred-eyes",
+      "to": "https://www.vueeyecare.com/sitemap"
+    },
+    {
+      "from": "https://www.vueeyecare.com/eye-care-services/eye-emergencies-pinkred-eyes",
+      "to": "https://www.vueeyecare.com/privacy-policy"
+    },
+    {
+      "from": "https://www.vueeyecare.com/eye-care-services/eye-emergencies-pinkred-eyes",
+      "to": "https://www.vueeyecare.com/disclaimer"
+    },
+    {
+      "from": "https://www.vueeyecare.com/eye-care-services/eye-exams",
+      "to": "https://www.vueeyecare.com/"
+    },
+    {
+      "from": "https://www.vueeyecare.com/eye-care-services/eye-exams",
+      "to": "https://www.vueeyecare.com/hours-location"
+    },
+    {
+      "from": "https://www.vueeyecare.com/eye-care-services/eye-exams",
+      "to": "https://www.vueeyecare.com/our-eye-doctors"
+    },
+    {
+      "from": "https://www.vueeyecare.com/eye-care-services/eye-exams",
+      "to": "https://www.vueeyecare.com/eye-care-services"
+    },
+    {
+      "from": "https://www.vueeyecare.com/eye-care-services/eye-exams",
+      "to": "https://www.vueeyecare.com/eye-care-services/eye-exams"
+    },
+    {
+      "from": "https://www.vueeyecare.com/eye-care-services/eye-exams",
+      "to": "https://www.vueeyecare.com/eye-care-services/contact-lens-exams"
+    },
+    {
+      "from": "https://www.vueeyecare.com/eye-care-services/eye-exams",
+      "to": "https://www.vueeyecare.com/eye-care-services/management-of-ocular-diseases"
+    },
+    {
+      "from": "https://www.vueeyecare.com/eye-care-services/eye-exams",
+      "to": "https://www.vueeyecare.com/eyeglasses"
+    },
+    {
+      "from": "https://www.vueeyecare.com/eye-care-services/eye-exams",
+      "to": "https://www.vueeyecare.com/contact-lenses"
+    },
+    {
+      "from": "https://www.vueeyecare.com/eye-care-services/eye-exams",
+      "to": "https://www.vueeyecare.com/insurance"
+    },
+    {
+      "from": "https://www.vueeyecare.com/eye-care-services/eye-exams",
+      "to": "https://www.vueeyecare.com/promotions"
+    },
+    {
+      "from": "https://www.vueeyecare.com/eye-care-services/eye-exams",
+      "to": "https://www.vueeyecare.com/website-accessibility-policy"
+    },
+    {
+      "from": "https://www.vueeyecare.com/eye-care-services/eye-exams",
+      "to": "https://www.vueeyecare.com/sitemap"
+    },
+    {
+      "from": "https://www.vueeyecare.com/eye-care-services/eye-exams",
+      "to": "https://www.vueeyecare.com/privacy-policy"
+    },
+    {
+      "from": "https://www.vueeyecare.com/eye-care-services/eye-exams",
+      "to": "https://www.vueeyecare.com/disclaimer"
+    },
+    {
+      "from": "https://www.vueeyecare.com/eye-care-services/lasik-refractive-surgery-co-management",
+      "to": "https://www.vueeyecare.com/"
+    },
+    {
+      "from": "https://www.vueeyecare.com/eye-care-services/lasik-refractive-surgery-co-management",
+      "to": "https://www.vueeyecare.com/hours-location"
+    },
+    {
+      "from": "https://www.vueeyecare.com/eye-care-services/lasik-refractive-surgery-co-management",
+      "to": "https://www.vueeyecare.com/our-eye-doctors"
+    },
+    {
+      "from": "https://www.vueeyecare.com/eye-care-services/lasik-refractive-surgery-co-management",
+      "to": "https://www.vueeyecare.com/eye-care-services"
+    },
+    {
+      "from": "https://www.vueeyecare.com/eye-care-services/lasik-refractive-surgery-co-management",
+      "to": "https://www.vueeyecare.com/eye-care-services/eye-exams"
+    },
+    {
+      "from": "https://www.vueeyecare.com/eye-care-services/lasik-refractive-surgery-co-management",
+      "to": "https://www.vueeyecare.com/eye-care-services/contact-lens-exams"
+    },
+    {
+      "from": "https://www.vueeyecare.com/eye-care-services/lasik-refractive-surgery-co-management",
+      "to": "https://www.vueeyecare.com/eye-care-services/management-of-ocular-diseases"
+    },
+    {
+      "from": "https://www.vueeyecare.com/eye-care-services/lasik-refractive-surgery-co-management",
+      "to": "https://www.vueeyecare.com/eyeglasses"
+    },
+    {
+      "from": "https://www.vueeyecare.com/eye-care-services/lasik-refractive-surgery-co-management",
+      "to": "https://www.vueeyecare.com/contact-lenses"
+    },
+    {
+      "from": "https://www.vueeyecare.com/eye-care-services/lasik-refractive-surgery-co-management",
+      "to": "https://www.vueeyecare.com/insurance"
+    },
+    {
+      "from": "https://www.vueeyecare.com/eye-care-services/lasik-refractive-surgery-co-management",
+      "to": "https://www.vueeyecare.com/promotions"
+    },
+    {
+      "from": "https://www.vueeyecare.com/eye-care-services/lasik-refractive-surgery-co-management",
+      "to": "https://www.vueeyecare.com/website-accessibility-policy"
+    },
+    {
+      "from": "https://www.vueeyecare.com/eye-care-services/lasik-refractive-surgery-co-management",
+      "to": "https://www.vueeyecare.com/sitemap"
+    },
+    {
+      "from": "https://www.vueeyecare.com/eye-care-services/lasik-refractive-surgery-co-management",
+      "to": "https://www.vueeyecare.com/privacy-policy"
+    },
+    {
+      "from": "https://www.vueeyecare.com/eye-care-services/lasik-refractive-surgery-co-management",
+      "to": "https://www.vueeyecare.com/disclaimer"
+    },
+    {
+      "from": "https://www.vueeyecare.com/eye-care-services/management-of-ocular-diseases",
+      "to": "https://www.vueeyecare.com/"
+    },
+    {
+      "from": "https://www.vueeyecare.com/eye-care-services/management-of-ocular-diseases",
+      "to": "https://www.vueeyecare.com/hours-location"
+    },
+    {
+      "from": "https://www.vueeyecare.com/eye-care-services/management-of-ocular-diseases",
+      "to": "https://www.vueeyecare.com/our-eye-doctors"
+    },
+    {
+      "from": "https://www.vueeyecare.com/eye-care-services/management-of-ocular-diseases",
+      "to": "https://www.vueeyecare.com/eye-care-services"
+    },
+    {
+      "from": "https://www.vueeyecare.com/eye-care-services/management-of-ocular-diseases",
+      "to": "https://www.vueeyecare.com/eye-care-services/eye-exams"
+    },
+    {
+      "from": "https://www.vueeyecare.com/eye-care-services/management-of-ocular-diseases",
+      "to": "https://www.vueeyecare.com/eye-care-services/contact-lens-exams"
+    },
+    {
+      "from": "https://www.vueeyecare.com/eye-care-services/management-of-ocular-diseases",
+      "to": "https://www.vueeyecare.com/eye-care-services/management-of-ocular-diseases"
+    },
+    {
+      "from": "https://www.vueeyecare.com/eye-care-services/management-of-ocular-diseases",
+      "to": "https://www.vueeyecare.com/eyeglasses"
+    },
+    {
+      "from": "https://www.vueeyecare.com/eye-care-services/management-of-ocular-diseases",
+      "to": "https://www.vueeyecare.com/contact-lenses"
+    },
+    {
+      "from": "https://www.vueeyecare.com/eye-care-services/management-of-ocular-diseases",
+      "to": "https://www.vueeyecare.com/insurance"
+    },
+    {
+      "from": "https://www.vueeyecare.com/eye-care-services/management-of-ocular-diseases",
+      "to": "https://www.vueeyecare.com/promotions"
+    },
+    {
+      "from": "https://www.vueeyecare.com/eye-care-services/management-of-ocular-diseases",
+      "to": "https://www.vueeyecare.com/eye-care-services/management-of-ocular-diseases/cataract-surgery-co-management"
+    },
+    {
+      "from": "https://www.vueeyecare.com/eye-care-services/management-of-ocular-diseases",
+      "to": "https://www.vueeyecare.com/eye-care-services/management-of-ocular-diseases/treating-diabetic-retinopathy"
+    },
+    {
+      "from": "https://www.vueeyecare.com/eye-care-services/management-of-ocular-diseases",
+      "to": "https://www.vueeyecare.com/eye-care-services/management-of-ocular-diseases/glaucoma-testing-treatment"
+    },
+    {
+      "from": "https://www.vueeyecare.com/eye-care-services/management-of-ocular-diseases",
+      "to": "https://www.vueeyecare.com/eye-care-services/management-of-ocular-diseases/treating-macular-degeneration"
+    },
+    {
+      "from": "https://www.vueeyecare.com/eye-care-services/management-of-ocular-diseases",
+      "to": "https://www.vueeyecare.com/website-accessibility-policy"
+    },
+    {
+      "from": "https://www.vueeyecare.com/eye-care-services/management-of-ocular-diseases",
+      "to": "https://www.vueeyecare.com/sitemap"
+    },
+    {
+      "from": "https://www.vueeyecare.com/eye-care-services/management-of-ocular-diseases",
+      "to": "https://www.vueeyecare.com/privacy-policy"
+    },
+    {
+      "from": "https://www.vueeyecare.com/eye-care-services/management-of-ocular-diseases",
+      "to": "https://www.vueeyecare.com/disclaimer"
+    },
+    {
+      "from": "https://www.vueeyecare.com/eye-care-services/management-of-ocular-diseases/cataract-surgery-co-management",
+      "to": "https://www.vueeyecare.com/"
+    },
+    {
+      "from": "https://www.vueeyecare.com/eye-care-services/management-of-ocular-diseases/cataract-surgery-co-management",
+      "to": "https://www.vueeyecare.com/hours-location"
+    },
+    {
+      "from": "https://www.vueeyecare.com/eye-care-services/management-of-ocular-diseases/cataract-surgery-co-management",
+      "to": "https://www.vueeyecare.com/our-eye-doctors"
+    },
+    {
+      "from": "https://www.vueeyecare.com/eye-care-services/management-of-ocular-diseases/cataract-surgery-co-management",
+      "to": "https://www.vueeyecare.com/eye-care-services"
+    },
+    {
+      "from": "https://www.vueeyecare.com/eye-care-services/management-of-ocular-diseases/cataract-surgery-co-management",
+      "to": "https://www.vueeyecare.com/eye-care-services/eye-exams"
+    },
+    {
+      "from": "https://www.vueeyecare.com/eye-care-services/management-of-ocular-diseases/cataract-surgery-co-management",
+      "to": "https://www.vueeyecare.com/eye-care-services/contact-lens-exams"
+    },
+    {
+      "from": "https://www.vueeyecare.com/eye-care-services/management-of-ocular-diseases/cataract-surgery-co-management",
+      "to": "https://www.vueeyecare.com/eye-care-services/management-of-ocular-diseases"
+    },
+    {
+      "from": "https://www.vueeyecare.com/eye-care-services/management-of-ocular-diseases/cataract-surgery-co-management",
+      "to": "https://www.vueeyecare.com/eyeglasses"
+    },
+    {
+      "from": "https://www.vueeyecare.com/eye-care-services/management-of-ocular-diseases/cataract-surgery-co-management",
+      "to": "https://www.vueeyecare.com/contact-lenses"
+    },
+    {
+      "from": "https://www.vueeyecare.com/eye-care-services/management-of-ocular-diseases/cataract-surgery-co-management",
+      "to": "https://www.vueeyecare.com/insurance"
+    },
+    {
+      "from": "https://www.vueeyecare.com/eye-care-services/management-of-ocular-diseases/cataract-surgery-co-management",
+      "to": "https://www.vueeyecare.com/promotions"
+    },
+    {
+      "from": "https://www.vueeyecare.com/eye-care-services/management-of-ocular-diseases/cataract-surgery-co-management",
+      "to": "https://www.vueeyecare.com/eye-care-services/management-of-ocular-diseases/treating-diabetic-retinopathy"
+    },
+    {
+      "from": "https://www.vueeyecare.com/eye-care-services/management-of-ocular-diseases/cataract-surgery-co-management",
+      "to": "https://www.vueeyecare.com/website-accessibility-policy"
+    },
+    {
+      "from": "https://www.vueeyecare.com/eye-care-services/management-of-ocular-diseases/cataract-surgery-co-management",
+      "to": "https://www.vueeyecare.com/sitemap"
+    },
+    {
+      "from": "https://www.vueeyecare.com/eye-care-services/management-of-ocular-diseases/cataract-surgery-co-management",
+      "to": "https://www.vueeyecare.com/privacy-policy"
+    },
+    {
+      "from": "https://www.vueeyecare.com/eye-care-services/management-of-ocular-diseases/cataract-surgery-co-management",
+      "to": "https://www.vueeyecare.com/disclaimer"
+    },
+    {
+      "from": "https://www.vueeyecare.com/eye-care-services/management-of-ocular-diseases/glaucoma-testing-treatment",
+      "to": "https://www.vueeyecare.com/"
+    },
+    {
+      "from": "https://www.vueeyecare.com/eye-care-services/management-of-ocular-diseases/glaucoma-testing-treatment",
+      "to": "https://www.vueeyecare.com/hours-location"
+    },
+    {
+      "from": "https://www.vueeyecare.com/eye-care-services/management-of-ocular-diseases/glaucoma-testing-treatment",
+      "to": "https://www.vueeyecare.com/our-eye-doctors"
+    },
+    {
+      "from": "https://www.vueeyecare.com/eye-care-services/management-of-ocular-diseases/glaucoma-testing-treatment",
+      "to": "https://www.vueeyecare.com/eye-care-services"
+    },
+    {
+      "from": "https://www.vueeyecare.com/eye-care-services/management-of-ocular-diseases/glaucoma-testing-treatment",
+      "to": "https://www.vueeyecare.com/eye-care-services/eye-exams"
+    },
+    {
+      "from": "https://www.vueeyecare.com/eye-care-services/management-of-ocular-diseases/glaucoma-testing-treatment",
+      "to": "https://www.vueeyecare.com/eye-care-services/contact-lens-exams"
+    },
+    {
+      "from": "https://www.vueeyecare.com/eye-care-services/management-of-ocular-diseases/glaucoma-testing-treatment",
+      "to": "https://www.vueeyecare.com/eye-care-services/management-of-ocular-diseases"
+    },
+    {
+      "from": "https://www.vueeyecare.com/eye-care-services/management-of-ocular-diseases/glaucoma-testing-treatment",
+      "to": "https://www.vueeyecare.com/eyeglasses"
+    },
+    {
+      "from": "https://www.vueeyecare.com/eye-care-services/management-of-ocular-diseases/glaucoma-testing-treatment",
+      "to": "https://www.vueeyecare.com/contact-lenses"
+    },
+    {
+      "from": "https://www.vueeyecare.com/eye-care-services/management-of-ocular-diseases/glaucoma-testing-treatment",
+      "to": "https://www.vueeyecare.com/insurance"
+    },
+    {
+      "from": "https://www.vueeyecare.com/eye-care-services/management-of-ocular-diseases/glaucoma-testing-treatment",
+      "to": "https://www.vueeyecare.com/promotions"
+    },
+    {
+      "from": "https://www.vueeyecare.com/eye-care-services/management-of-ocular-diseases/glaucoma-testing-treatment",
+      "to": "https://www.vueeyecare.com/eye-care-services/management-of-ocular-diseases/treating-macular-degeneration"
+    },
+    {
+      "from": "https://www.vueeyecare.com/eye-care-services/management-of-ocular-diseases/glaucoma-testing-treatment",
+      "to": "https://www.vueeyecare.com/website-accessibility-policy"
+    },
+    {
+      "from": "https://www.vueeyecare.com/eye-care-services/management-of-ocular-diseases/glaucoma-testing-treatment",
+      "to": "https://www.vueeyecare.com/sitemap"
+    },
+    {
+      "from": "https://www.vueeyecare.com/eye-care-services/management-of-ocular-diseases/glaucoma-testing-treatment",
+      "to": "https://www.vueeyecare.com/privacy-policy"
+    },
+    {
+      "from": "https://www.vueeyecare.com/eye-care-services/management-of-ocular-diseases/glaucoma-testing-treatment",
+      "to": "https://www.vueeyecare.com/disclaimer"
+    },
+    {
+      "from": "https://www.vueeyecare.com/eye-care-services/management-of-ocular-diseases/treating-diabetic-retinopathy",
+      "to": "https://www.vueeyecare.com/"
+    },
+    {
+      "from": "https://www.vueeyecare.com/eye-care-services/management-of-ocular-diseases/treating-diabetic-retinopathy",
+      "to": "https://www.vueeyecare.com/hours-location"
+    },
+    {
+      "from": "https://www.vueeyecare.com/eye-care-services/management-of-ocular-diseases/treating-diabetic-retinopathy",
+      "to": "https://www.vueeyecare.com/our-eye-doctors"
+    },
+    {
+      "from": "https://www.vueeyecare.com/eye-care-services/management-of-ocular-diseases/treating-diabetic-retinopathy",
+      "to": "https://www.vueeyecare.com/eye-care-services"
+    },
+    {
+      "from": "https://www.vueeyecare.com/eye-care-services/management-of-ocular-diseases/treating-diabetic-retinopathy",
+      "to": "https://www.vueeyecare.com/eye-care-services/eye-exams"
+    },
+    {
+      "from": "https://www.vueeyecare.com/eye-care-services/management-of-ocular-diseases/treating-diabetic-retinopathy",
+      "to": "https://www.vueeyecare.com/eye-care-services/contact-lens-exams"
+    },
+    {
+      "from": "https://www.vueeyecare.com/eye-care-services/management-of-ocular-diseases/treating-diabetic-retinopathy",
+      "to": "https://www.vueeyecare.com/eye-care-services/management-of-ocular-diseases"
+    },
+    {
+      "from": "https://www.vueeyecare.com/eye-care-services/management-of-ocular-diseases/treating-diabetic-retinopathy",
+      "to": "https://www.vueeyecare.com/eyeglasses"
+    },
+    {
+      "from": "https://www.vueeyecare.com/eye-care-services/management-of-ocular-diseases/treating-diabetic-retinopathy",
+      "to": "https://www.vueeyecare.com/contact-lenses"
+    },
+    {
+      "from": "https://www.vueeyecare.com/eye-care-services/management-of-ocular-diseases/treating-diabetic-retinopathy",
+      "to": "https://www.vueeyecare.com/insurance"
+    },
+    {
+      "from": "https://www.vueeyecare.com/eye-care-services/management-of-ocular-diseases/treating-diabetic-retinopathy",
+      "to": "https://www.vueeyecare.com/promotions"
+    },
+    {
+      "from": "https://www.vueeyecare.com/eye-care-services/management-of-ocular-diseases/treating-diabetic-retinopathy",
+      "to": "https://www.vueeyecare.com/eye-care-services/management-of-ocular-diseases/glaucoma-testing-treatment"
+    },
+    {
+      "from": "https://www.vueeyecare.com/eye-care-services/management-of-ocular-diseases/treating-diabetic-retinopathy",
+      "to": "https://www.vueeyecare.com/website-accessibility-policy"
+    },
+    {
+      "from": "https://www.vueeyecare.com/eye-care-services/management-of-ocular-diseases/treating-diabetic-retinopathy",
+      "to": "https://www.vueeyecare.com/sitemap"
+    },
+    {
+      "from": "https://www.vueeyecare.com/eye-care-services/management-of-ocular-diseases/treating-diabetic-retinopathy",
+      "to": "https://www.vueeyecare.com/privacy-policy"
+    },
+    {
+      "from": "https://www.vueeyecare.com/eye-care-services/management-of-ocular-diseases/treating-diabetic-retinopathy",
+      "to": "https://www.vueeyecare.com/disclaimer"
+    },
+    {
+      "from": "https://www.vueeyecare.com/eye-care-services/management-of-ocular-diseases/treating-macular-degeneration",
+      "to": "https://www.vueeyecare.com/"
+    },
+    {
+      "from": "https://www.vueeyecare.com/eye-care-services/management-of-ocular-diseases/treating-macular-degeneration",
+      "to": "https://www.vueeyecare.com/hours-location"
+    },
+    {
+      "from": "https://www.vueeyecare.com/eye-care-services/management-of-ocular-diseases/treating-macular-degeneration",
+      "to": "https://www.vueeyecare.com/our-eye-doctors"
+    },
+    {
+      "from": "https://www.vueeyecare.com/eye-care-services/management-of-ocular-diseases/treating-macular-degeneration",
+      "to": "https://www.vueeyecare.com/eye-care-services"
+    },
+    {
+      "from": "https://www.vueeyecare.com/eye-care-services/management-of-ocular-diseases/treating-macular-degeneration",
+      "to": "https://www.vueeyecare.com/eye-care-services/eye-exams"
+    },
+    {
+      "from": "https://www.vueeyecare.com/eye-care-services/management-of-ocular-diseases/treating-macular-degeneration",
+      "to": "https://www.vueeyecare.com/eye-care-services/contact-lens-exams"
+    },
+    {
+      "from": "https://www.vueeyecare.com/eye-care-services/management-of-ocular-diseases/treating-macular-degeneration",
+      "to": "https://www.vueeyecare.com/eye-care-services/management-of-ocular-diseases"
+    },
+    {
+      "from": "https://www.vueeyecare.com/eye-care-services/management-of-ocular-diseases/treating-macular-degeneration",
+      "to": "https://www.vueeyecare.com/eyeglasses"
+    },
+    {
+      "from": "https://www.vueeyecare.com/eye-care-services/management-of-ocular-diseases/treating-macular-degeneration",
+      "to": "https://www.vueeyecare.com/contact-lenses"
+    },
+    {
+      "from": "https://www.vueeyecare.com/eye-care-services/management-of-ocular-diseases/treating-macular-degeneration",
+      "to": "https://www.vueeyecare.com/insurance"
+    },
+    {
+      "from": "https://www.vueeyecare.com/eye-care-services/management-of-ocular-diseases/treating-macular-degeneration",
+      "to": "https://www.vueeyecare.com/promotions"
+    },
+    {
+      "from": "https://www.vueeyecare.com/eye-care-services/management-of-ocular-diseases/treating-macular-degeneration",
+      "to": "https://www.vueeyecare.com/eye-care-services/eye-emergencies-pinkred-eyes"
+    },
+    {
+      "from": "https://www.vueeyecare.com/eye-care-services/management-of-ocular-diseases/treating-macular-degeneration",
+      "to": "https://www.vueeyecare.com/website-accessibility-policy"
+    },
+    {
+      "from": "https://www.vueeyecare.com/eye-care-services/management-of-ocular-diseases/treating-macular-degeneration",
+      "to": "https://www.vueeyecare.com/sitemap"
+    },
+    {
+      "from": "https://www.vueeyecare.com/eye-care-services/management-of-ocular-diseases/treating-macular-degeneration",
+      "to": "https://www.vueeyecare.com/privacy-policy"
+    },
+    {
+      "from": "https://www.vueeyecare.com/eye-care-services/management-of-ocular-diseases/treating-macular-degeneration",
+      "to": "https://www.vueeyecare.com/disclaimer"
+    },
+    {
+      "from": "https://www.vueeyecare.com/eye-care-services/myopia-management",
+      "to": "https://www.vueeyecare.com/"
+    },
+    {
+      "from": "https://www.vueeyecare.com/eye-care-services/myopia-management",
+      "to": "https://www.vueeyecare.com/hours-location"
+    },
+    {
+      "from": "https://www.vueeyecare.com/eye-care-services/myopia-management",
+      "to": "https://www.vueeyecare.com/our-eye-doctors"
+    },
+    {
+      "from": "https://www.vueeyecare.com/eye-care-services/myopia-management",
+      "to": "https://www.vueeyecare.com/eye-care-services"
+    },
+    {
+      "from": "https://www.vueeyecare.com/eye-care-services/myopia-management",
+      "to": "https://www.vueeyecare.com/eye-care-services/eye-exams"
+    },
+    {
+      "from": "https://www.vueeyecare.com/eye-care-services/myopia-management",
+      "to": "https://www.vueeyecare.com/eye-care-services/contact-lens-exams"
+    },
+    {
+      "from": "https://www.vueeyecare.com/eye-care-services/myopia-management",
+      "to": "https://www.vueeyecare.com/eye-care-services/management-of-ocular-diseases"
+    },
+    {
+      "from": "https://www.vueeyecare.com/eye-care-services/myopia-management",
+      "to": "https://www.vueeyecare.com/eyeglasses"
+    },
+    {
+      "from": "https://www.vueeyecare.com/eye-care-services/myopia-management",
+      "to": "https://www.vueeyecare.com/contact-lenses"
+    },
+    {
+      "from": "https://www.vueeyecare.com/eye-care-services/myopia-management",
+      "to": "https://www.vueeyecare.com/insurance"
+    },
+    {
+      "from": "https://www.vueeyecare.com/eye-care-services/myopia-management",
+      "to": "https://www.vueeyecare.com/promotions"
+    },
+    {
+      "from": "https://www.vueeyecare.com/eye-care-services/myopia-management",
+      "to": "https://www.vueeyecare.com/website-accessibility-policy"
+    },
+    {
+      "from": "https://www.vueeyecare.com/eye-care-services/myopia-management",
+      "to": "https://www.vueeyecare.com/sitemap"
+    },
+    {
+      "from": "https://www.vueeyecare.com/eye-care-services/myopia-management",
+      "to": "https://www.vueeyecare.com/privacy-policy"
+    },
+    {
+      "from": "https://www.vueeyecare.com/eye-care-services/myopia-management",
+      "to": "https://www.vueeyecare.com/disclaimer"
+    },
+    {
+      "from": "https://www.vueeyecare.com/eyeglasses",
+      "to": "https://www.vueeyecare.com/"
+    },
+    {
+      "from": "https://www.vueeyecare.com/eyeglasses",
+      "to": "https://www.vueeyecare.com/hours-location"
+    },
+    {
+      "from": "https://www.vueeyecare.com/eyeglasses",
+      "to": "https://www.vueeyecare.com/our-eye-doctors"
+    },
+    {
+      "from": "https://www.vueeyecare.com/eyeglasses",
+      "to": "https://www.vueeyecare.com/eye-care-services"
+    },
+    {
+      "from": "https://www.vueeyecare.com/eyeglasses",
+      "to": "https://www.vueeyecare.com/eye-care-services/eye-exams"
+    },
+    {
+      "from": "https://www.vueeyecare.com/eyeglasses",
+      "to": "https://www.vueeyecare.com/eye-care-services/contact-lens-exams"
+    },
+    {
+      "from": "https://www.vueeyecare.com/eyeglasses",
+      "to": "https://www.vueeyecare.com/eye-care-services/management-of-ocular-diseases"
+    },
+    {
+      "from": "https://www.vueeyecare.com/eyeglasses",
+      "to": "https://www.vueeyecare.com/eyeglasses"
+    },
+    {
+      "from": "https://www.vueeyecare.com/eyeglasses",
+      "to": "https://www.vueeyecare.com/contact-lenses"
+    },
+    {
+      "from": "https://www.vueeyecare.com/eyeglasses",
+      "to": "https://www.vueeyecare.com/insurance"
+    },
+    {
+      "from": "https://www.vueeyecare.com/eyeglasses",
+      "to": "https://www.vueeyecare.com/promotions"
+    },
+    {
+      "from": "https://www.vueeyecare.com/eyeglasses",
+      "to": "https://www.vueeyecare.com/website-accessibility-policy"
+    },
+    {
+      "from": "https://www.vueeyecare.com/eyeglasses",
+      "to": "https://www.vueeyecare.com/sitemap"
+    },
+    {
+      "from": "https://www.vueeyecare.com/eyeglasses",
+      "to": "https://www.vueeyecare.com/privacy-policy"
+    },
+    {
+      "from": "https://www.vueeyecare.com/eyeglasses",
+      "to": "https://www.vueeyecare.com/disclaimer"
+    },
+    {
+      "from": "https://www.vueeyecare.com/hours-location",
+      "to": "https://www.vueeyecare.com/"
+    },
+    {
+      "from": "https://www.vueeyecare.com/hours-location",
+      "to": "https://www.vueeyecare.com/hours-location"
+    },
+    {
+      "from": "https://www.vueeyecare.com/hours-location",
+      "to": "https://www.vueeyecare.com/our-eye-doctors"
+    },
+    {
+      "from": "https://www.vueeyecare.com/hours-location",
+      "to": "https://www.vueeyecare.com/eye-care-services"
+    },
+    {
+      "from": "https://www.vueeyecare.com/hours-location",
+      "to": "https://www.vueeyecare.com/eye-care-services/eye-exams"
+    },
+    {
+      "from": "https://www.vueeyecare.com/hours-location",
+      "to": "https://www.vueeyecare.com/eye-care-services/contact-lens-exams"
+    },
+    {
+      "from": "https://www.vueeyecare.com/hours-location",
+      "to": "https://www.vueeyecare.com/eye-care-services/management-of-ocular-diseases"
+    },
+    {
+      "from": "https://www.vueeyecare.com/hours-location",
+      "to": "https://www.vueeyecare.com/eyeglasses"
+    },
+    {
+      "from": "https://www.vueeyecare.com/hours-location",
+      "to": "https://www.vueeyecare.com/contact-lenses"
+    },
+    {
+      "from": "https://www.vueeyecare.com/hours-location",
+      "to": "https://www.vueeyecare.com/insurance"
+    },
+    {
+      "from": "https://www.vueeyecare.com/hours-location",
+      "to": "https://www.vueeyecare.com/promotions"
+    },
+    {
+      "from": "https://www.vueeyecare.com/hours-location",
+      "to": "https://www.vueeyecare.com/website-accessibility-policy"
+    },
+    {
+      "from": "https://www.vueeyecare.com/hours-location",
+      "to": "https://www.vueeyecare.com/sitemap"
+    },
+    {
+      "from": "https://www.vueeyecare.com/hours-location",
+      "to": "https://www.vueeyecare.com/privacy-policy"
+    },
+    {
+      "from": "https://www.vueeyecare.com/hours-location",
+      "to": "https://www.vueeyecare.com/disclaimer"
+    },
+    {
+      "from": "https://www.vueeyecare.com/insurance",
+      "to": "https://www.vueeyecare.com/"
+    },
+    {
+      "from": "https://www.vueeyecare.com/insurance",
+      "to": "https://www.vueeyecare.com/hours-location"
+    },
+    {
+      "from": "https://www.vueeyecare.com/insurance",
+      "to": "https://www.vueeyecare.com/our-eye-doctors"
+    },
+    {
+      "from": "https://www.vueeyecare.com/insurance",
+      "to": "https://www.vueeyecare.com/eye-care-services"
+    },
+    {
+      "from": "https://www.vueeyecare.com/insurance",
+      "to": "https://www.vueeyecare.com/eye-care-services/eye-exams"
+    },
+    {
+      "from": "https://www.vueeyecare.com/insurance",
+      "to": "https://www.vueeyecare.com/eye-care-services/contact-lens-exams"
+    },
+    {
+      "from": "https://www.vueeyecare.com/insurance",
+      "to": "https://www.vueeyecare.com/eye-care-services/management-of-ocular-diseases"
+    },
+    {
+      "from": "https://www.vueeyecare.com/insurance",
+      "to": "https://www.vueeyecare.com/eyeglasses"
+    },
+    {
+      "from": "https://www.vueeyecare.com/insurance",
+      "to": "https://www.vueeyecare.com/contact-lenses"
+    },
+    {
+      "from": "https://www.vueeyecare.com/insurance",
+      "to": "https://www.vueeyecare.com/insurance"
+    },
+    {
+      "from": "https://www.vueeyecare.com/insurance",
+      "to": "https://www.vueeyecare.com/promotions"
+    },
+    {
+      "from": "https://www.vueeyecare.com/insurance",
+      "to": "https://www.vueeyecare.com/insurance/faqs-of-vision-insurance-plans"
+    },
+    {
+      "from": "https://www.vueeyecare.com/insurance",
+      "to": "https://www.vueeyecare.com/insurance/whats-in-your-vision-insurance-plan"
+    },
+    {
+      "from": "https://www.vueeyecare.com/insurance",
+      "to": "https://www.vueeyecare.com/insurance/carecredit"
+    },
+    {
+      "from": "https://www.vueeyecare.com/insurance",
+      "to": "https://www.vueeyecare.com/website-accessibility-policy"
+    },
+    {
+      "from": "https://www.vueeyecare.com/insurance",
+      "to": "https://www.vueeyecare.com/sitemap"
+    },
+    {
+      "from": "https://www.vueeyecare.com/insurance",
+      "to": "https://www.vueeyecare.com/privacy-policy"
+    },
+    {
+      "from": "https://www.vueeyecare.com/insurance",
+      "to": "https://www.vueeyecare.com/disclaimer"
+    },
+    {
+      "from": "https://www.vueeyecare.com/insurance/carecredit",
+      "to": "https://www.vueeyecare.com/"
+    },
+    {
+      "from": "https://www.vueeyecare.com/insurance/carecredit",
+      "to": "https://www.vueeyecare.com/hours-location"
+    },
+    {
+      "from": "https://www.vueeyecare.com/insurance/carecredit",
+      "to": "https://www.vueeyecare.com/our-eye-doctors"
+    },
+    {
+      "from": "https://www.vueeyecare.com/insurance/carecredit",
+      "to": "https://www.vueeyecare.com/eye-care-services"
+    },
+    {
+      "from": "https://www.vueeyecare.com/insurance/carecredit",
+      "to": "https://www.vueeyecare.com/eye-care-services/eye-exams"
+    },
+    {
+      "from": "https://www.vueeyecare.com/insurance/carecredit",
+      "to": "https://www.vueeyecare.com/eye-care-services/contact-lens-exams"
+    },
+    {
+      "from": "https://www.vueeyecare.com/insurance/carecredit",
+      "to": "https://www.vueeyecare.com/eye-care-services/management-of-ocular-diseases"
+    },
+    {
+      "from": "https://www.vueeyecare.com/insurance/carecredit",
+      "to": "https://www.vueeyecare.com/eyeglasses"
+    },
+    {
+      "from": "https://www.vueeyecare.com/insurance/carecredit",
+      "to": "https://www.vueeyecare.com/contact-lenses"
+    },
+    {
+      "from": "https://www.vueeyecare.com/insurance/carecredit",
+      "to": "https://www.vueeyecare.com/insurance"
+    },
+    {
+      "from": "https://www.vueeyecare.com/insurance/carecredit",
+      "to": "https://www.vueeyecare.com/promotions"
+    },
+    {
+      "from": "https://www.vueeyecare.com/insurance/carecredit",
+      "to": "https://www.vueeyecare.com/website-accessibility-policy"
+    },
+    {
+      "from": "https://www.vueeyecare.com/insurance/carecredit",
+      "to": "https://www.vueeyecare.com/sitemap"
+    },
+    {
+      "from": "https://www.vueeyecare.com/insurance/carecredit",
+      "to": "https://www.vueeyecare.com/privacy-policy"
+    },
+    {
+      "from": "https://www.vueeyecare.com/insurance/carecredit",
+      "to": "https://www.vueeyecare.com/disclaimer"
+    },
+    {
+      "from": "https://www.vueeyecare.com/insurance/faqs-of-vision-insurance-plans",
+      "to": "https://www.vueeyecare.com/"
+    },
+    {
+      "from": "https://www.vueeyecare.com/insurance/faqs-of-vision-insurance-plans",
+      "to": "https://www.vueeyecare.com/hours-location"
+    },
+    {
+      "from": "https://www.vueeyecare.com/insurance/faqs-of-vision-insurance-plans",
+      "to": "https://www.vueeyecare.com/our-eye-doctors"
+    },
+    {
+      "from": "https://www.vueeyecare.com/insurance/faqs-of-vision-insurance-plans",
+      "to": "https://www.vueeyecare.com/eye-care-services"
+    },
+    {
+      "from": "https://www.vueeyecare.com/insurance/faqs-of-vision-insurance-plans",
+      "to": "https://www.vueeyecare.com/eye-care-services/eye-exams"
+    },
+    {
+      "from": "https://www.vueeyecare.com/insurance/faqs-of-vision-insurance-plans",
+      "to": "https://www.vueeyecare.com/eye-care-services/contact-lens-exams"
+    },
+    {
+      "from": "https://www.vueeyecare.com/insurance/faqs-of-vision-insurance-plans",
+      "to": "https://www.vueeyecare.com/eye-care-services/management-of-ocular-diseases"
+    },
+    {
+      "from": "https://www.vueeyecare.com/insurance/faqs-of-vision-insurance-plans",
+      "to": "https://www.vueeyecare.com/eyeglasses"
+    },
+    {
+      "from": "https://www.vueeyecare.com/insurance/faqs-of-vision-insurance-plans",
+      "to": "https://www.vueeyecare.com/contact-lenses"
+    },
+    {
+      "from": "https://www.vueeyecare.com/insurance/faqs-of-vision-insurance-plans",
+      "to": "https://www.vueeyecare.com/insurance"
+    },
+    {
+      "from": "https://www.vueeyecare.com/insurance/faqs-of-vision-insurance-plans",
+      "to": "https://www.vueeyecare.com/promotions"
+    },
+    {
+      "from": "https://www.vueeyecare.com/insurance/faqs-of-vision-insurance-plans",
+      "to": "https://www.vueeyecare.com/website-accessibility-policy"
+    },
+    {
+      "from": "https://www.vueeyecare.com/insurance/faqs-of-vision-insurance-plans",
+      "to": "https://www.vueeyecare.com/sitemap"
+    },
+    {
+      "from": "https://www.vueeyecare.com/insurance/faqs-of-vision-insurance-plans",
+      "to": "https://www.vueeyecare.com/privacy-policy"
+    },
+    {
+      "from": "https://www.vueeyecare.com/insurance/faqs-of-vision-insurance-plans",
+      "to": "https://www.vueeyecare.com/disclaimer"
+    },
+    {
+      "from": "https://www.vueeyecare.com/insurance/whats-in-your-vision-insurance-plan",
+      "to": "https://www.vueeyecare.com/"
+    },
+    {
+      "from": "https://www.vueeyecare.com/insurance/whats-in-your-vision-insurance-plan",
+      "to": "https://www.vueeyecare.com/hours-location"
+    },
+    {
+      "from": "https://www.vueeyecare.com/insurance/whats-in-your-vision-insurance-plan",
+      "to": "https://www.vueeyecare.com/our-eye-doctors"
+    },
+    {
+      "from": "https://www.vueeyecare.com/insurance/whats-in-your-vision-insurance-plan",
+      "to": "https://www.vueeyecare.com/eye-care-services"
+    },
+    {
+      "from": "https://www.vueeyecare.com/insurance/whats-in-your-vision-insurance-plan",
+      "to": "https://www.vueeyecare.com/eye-care-services/eye-exams"
+    },
+    {
+      "from": "https://www.vueeyecare.com/insurance/whats-in-your-vision-insurance-plan",
+      "to": "https://www.vueeyecare.com/eye-care-services/contact-lens-exams"
+    },
+    {
+      "from": "https://www.vueeyecare.com/insurance/whats-in-your-vision-insurance-plan",
+      "to": "https://www.vueeyecare.com/eye-care-services/management-of-ocular-diseases"
+    },
+    {
+      "from": "https://www.vueeyecare.com/insurance/whats-in-your-vision-insurance-plan",
+      "to": "https://www.vueeyecare.com/eyeglasses"
+    },
+    {
+      "from": "https://www.vueeyecare.com/insurance/whats-in-your-vision-insurance-plan",
+      "to": "https://www.vueeyecare.com/contact-lenses"
+    },
+    {
+      "from": "https://www.vueeyecare.com/insurance/whats-in-your-vision-insurance-plan",
+      "to": "https://www.vueeyecare.com/insurance"
+    },
+    {
+      "from": "https://www.vueeyecare.com/insurance/whats-in-your-vision-insurance-plan",
+      "to": "https://www.vueeyecare.com/promotions"
+    },
+    {
+      "from": "https://www.vueeyecare.com/insurance/whats-in-your-vision-insurance-plan",
+      "to": "https://www.vueeyecare.com/website-accessibility-policy"
+    },
+    {
+      "from": "https://www.vueeyecare.com/insurance/whats-in-your-vision-insurance-plan",
+      "to": "https://www.vueeyecare.com/sitemap"
+    },
+    {
+      "from": "https://www.vueeyecare.com/insurance/whats-in-your-vision-insurance-plan",
+      "to": "https://www.vueeyecare.com/privacy-policy"
+    },
+    {
+      "from": "https://www.vueeyecare.com/insurance/whats-in-your-vision-insurance-plan",
+      "to": "https://www.vueeyecare.com/disclaimer"
+    },
+    {
+      "from": "https://www.vueeyecare.com/location/vue-eyecare",
+      "to": "https://www.vueeyecare.com/"
+    },
+    {
+      "from": "https://www.vueeyecare.com/location/vue-eyecare",
+      "to": "https://www.vueeyecare.com/hours-location"
+    },
+    {
+      "from": "https://www.vueeyecare.com/location/vue-eyecare",
+      "to": "https://www.vueeyecare.com/our-eye-doctors"
+    },
+    {
+      "from": "https://www.vueeyecare.com/location/vue-eyecare",
+      "to": "https://www.vueeyecare.com/eye-care-services"
+    },
+    {
+      "from": "https://www.vueeyecare.com/location/vue-eyecare",
+      "to": "https://www.vueeyecare.com/eye-care-services/eye-exams"
+    },
+    {
+      "from": "https://www.vueeyecare.com/location/vue-eyecare",
+      "to": "https://www.vueeyecare.com/eye-care-services/contact-lens-exams"
+    },
+    {
+      "from": "https://www.vueeyecare.com/location/vue-eyecare",
+      "to": "https://www.vueeyecare.com/eye-care-services/management-of-ocular-diseases"
+    },
+    {
+      "from": "https://www.vueeyecare.com/location/vue-eyecare",
+      "to": "https://www.vueeyecare.com/eyeglasses"
+    },
+    {
+      "from": "https://www.vueeyecare.com/location/vue-eyecare",
+      "to": "https://www.vueeyecare.com/contact-lenses"
+    },
+    {
+      "from": "https://www.vueeyecare.com/location/vue-eyecare",
+      "to": "https://www.vueeyecare.com/insurance"
+    },
+    {
+      "from": "https://www.vueeyecare.com/location/vue-eyecare",
+      "to": "https://www.vueeyecare.com/promotions"
+    },
+    {
+      "from": "https://www.vueeyecare.com/location/vue-eyecare",
+      "to": "https://www.vueeyecare.com/website-accessibility-policy"
+    },
+    {
+      "from": "https://www.vueeyecare.com/location/vue-eyecare",
+      "to": "https://www.vueeyecare.com/sitemap"
+    },
+    {
+      "from": "https://www.vueeyecare.com/location/vue-eyecare",
+      "to": "https://www.vueeyecare.com/privacy-policy"
+    },
+    {
+      "from": "https://www.vueeyecare.com/location/vue-eyecare",
+      "to": "https://www.vueeyecare.com/disclaimer"
+    },
+    {
+      "from": "https://www.vueeyecare.com/our-eye-doctors",
+      "to": "https://www.vueeyecare.com/"
+    },
+    {
+      "from": "https://www.vueeyecare.com/our-eye-doctors",
+      "to": "https://www.vueeyecare.com/hours-location"
+    },
+    {
+      "from": "https://www.vueeyecare.com/our-eye-doctors",
+      "to": "https://www.vueeyecare.com/our-eye-doctors"
+    },
+    {
+      "from": "https://www.vueeyecare.com/our-eye-doctors",
+      "to": "https://www.vueeyecare.com/eye-care-services"
+    },
+    {
+      "from": "https://www.vueeyecare.com/our-eye-doctors",
+      "to": "https://www.vueeyecare.com/eye-care-services/eye-exams"
+    },
+    {
+      "from": "https://www.vueeyecare.com/our-eye-doctors",
+      "to": "https://www.vueeyecare.com/eye-care-services/contact-lens-exams"
+    },
+    {
+      "from": "https://www.vueeyecare.com/our-eye-doctors",
+      "to": "https://www.vueeyecare.com/eye-care-services/management-of-ocular-diseases"
+    },
+    {
+      "from": "https://www.vueeyecare.com/our-eye-doctors",
+      "to": "https://www.vueeyecare.com/eyeglasses"
+    },
+    {
+      "from": "https://www.vueeyecare.com/our-eye-doctors",
+      "to": "https://www.vueeyecare.com/contact-lenses"
+    },
+    {
+      "from": "https://www.vueeyecare.com/our-eye-doctors",
+      "to": "https://www.vueeyecare.com/insurance"
+    },
+    {
+      "from": "https://www.vueeyecare.com/our-eye-doctors",
+      "to": "https://www.vueeyecare.com/promotions"
+    },
+    {
+      "from": "https://www.vueeyecare.com/our-eye-doctors",
+      "to": "https://www.vueeyecare.com/team/pt-dinh-od-ms-iacmm"
+    },
+    {
+      "from": "https://www.vueeyecare.com/our-eye-doctors",
+      "to": "https://www.vueeyecare.com/eye-care-services/eye-emergencies-pinkred-eyes"
+    },
+    {
+      "from": "https://www.vueeyecare.com/our-eye-doctors",
+      "to": "https://www.vueeyecare.com/website-accessibility-policy"
+    },
+    {
+      "from": "https://www.vueeyecare.com/our-eye-doctors",
+      "to": "https://www.vueeyecare.com/sitemap"
+    },
+    {
+      "from": "https://www.vueeyecare.com/our-eye-doctors",
+      "to": "https://www.vueeyecare.com/privacy-policy"
+    },
+    {
+      "from": "https://www.vueeyecare.com/our-eye-doctors",
+      "to": "https://www.vueeyecare.com/disclaimer"
+    },
+    {
+      "from": "https://www.vueeyecare.com/privacy-policy",
+      "to": "https://www.vueeyecare.com/"
+    },
+    {
+      "from": "https://www.vueeyecare.com/privacy-policy",
+      "to": "https://www.vueeyecare.com/hours-location"
+    },
+    {
+      "from": "https://www.vueeyecare.com/privacy-policy",
+      "to": "https://www.vueeyecare.com/our-eye-doctors"
+    },
+    {
+      "from": "https://www.vueeyecare.com/privacy-policy",
+      "to": "https://www.vueeyecare.com/eye-care-services"
+    },
+    {
+      "from": "https://www.vueeyecare.com/privacy-policy",
+      "to": "https://www.vueeyecare.com/eye-care-services/eye-exams"
+    },
+    {
+      "from": "https://www.vueeyecare.com/privacy-policy",
+      "to": "https://www.vueeyecare.com/eye-care-services/contact-lens-exams"
+    },
+    {
+      "from": "https://www.vueeyecare.com/privacy-policy",
+      "to": "https://www.vueeyecare.com/eye-care-services/management-of-ocular-diseases"
+    },
+    {
+      "from": "https://www.vueeyecare.com/privacy-policy",
+      "to": "https://www.vueeyecare.com/eyeglasses"
+    },
+    {
+      "from": "https://www.vueeyecare.com/privacy-policy",
+      "to": "https://www.vueeyecare.com/contact-lenses"
+    },
+    {
+      "from": "https://www.vueeyecare.com/privacy-policy",
+      "to": "https://www.vueeyecare.com/insurance"
+    },
+    {
+      "from": "https://www.vueeyecare.com/privacy-policy",
+      "to": "https://www.vueeyecare.com/promotions"
+    },
+    {
+      "from": "https://www.vueeyecare.com/privacy-policy",
+      "to": "https://www.vueeyecare.com/website-accessibility-policy"
+    },
+    {
+      "from": "https://www.vueeyecare.com/privacy-policy",
+      "to": "https://www.vueeyecare.com/sitemap"
+    },
+    {
+      "from": "https://www.vueeyecare.com/privacy-policy",
+      "to": "https://www.vueeyecare.com/privacy-policy"
+    },
+    {
+      "from": "https://www.vueeyecare.com/privacy-policy",
+      "to": "https://www.vueeyecare.com/disclaimer"
+    },
+    {
+      "from": "https://www.vueeyecare.com/promotions",
+      "to": "https://www.vueeyecare.com/"
+    },
+    {
+      "from": "https://www.vueeyecare.com/promotions",
+      "to": "https://www.vueeyecare.com/hours-location"
+    },
+    {
+      "from": "https://www.vueeyecare.com/promotions",
+      "to": "https://www.vueeyecare.com/our-eye-doctors"
+    },
+    {
+      "from": "https://www.vueeyecare.com/promotions",
+      "to": "https://www.vueeyecare.com/eye-care-services"
+    },
+    {
+      "from": "https://www.vueeyecare.com/promotions",
+      "to": "https://www.vueeyecare.com/eye-care-services/eye-exams"
+    },
+    {
+      "from": "https://www.vueeyecare.com/promotions",
+      "to": "https://www.vueeyecare.com/eye-care-services/contact-lens-exams"
+    },
+    {
+      "from": "https://www.vueeyecare.com/promotions",
+      "to": "https://www.vueeyecare.com/eye-care-services/management-of-ocular-diseases"
+    },
+    {
+      "from": "https://www.vueeyecare.com/promotions",
+      "to": "https://www.vueeyecare.com/eyeglasses"
+    },
+    {
+      "from": "https://www.vueeyecare.com/promotions",
+      "to": "https://www.vueeyecare.com/contact-lenses"
+    },
+    {
+      "from": "https://www.vueeyecare.com/promotions",
+      "to": "https://www.vueeyecare.com/insurance"
+    },
+    {
+      "from": "https://www.vueeyecare.com/promotions",
+      "to": "https://www.vueeyecare.com/promotions"
+    },
+    {
+      "from": "https://www.vueeyecare.com/promotions",
+      "to": "https://www.vueeyecare.com/website-accessibility-policy"
+    },
+    {
+      "from": "https://www.vueeyecare.com/promotions",
+      "to": "https://www.vueeyecare.com/sitemap"
+    },
+    {
+      "from": "https://www.vueeyecare.com/promotions",
+      "to": "https://www.vueeyecare.com/privacy-policy"
+    },
+    {
+      "from": "https://www.vueeyecare.com/promotions",
+      "to": "https://www.vueeyecare.com/disclaimer"
+    },
+    {
+      "from": "https://www.vueeyecare.com/team/pt-dinh-od-ms-iacmm",
+      "to": "https://www.vueeyecare.com/"
+    },
+    {
+      "from": "https://www.vueeyecare.com/team/pt-dinh-od-ms-iacmm",
+      "to": "https://www.vueeyecare.com/hours-location"
+    },
+    {
+      "from": "https://www.vueeyecare.com/team/pt-dinh-od-ms-iacmm",
+      "to": "https://www.vueeyecare.com/our-eye-doctors"
+    },
+    {
+      "from": "https://www.vueeyecare.com/team/pt-dinh-od-ms-iacmm",
+      "to": "https://www.vueeyecare.com/eye-care-services"
+    },
+    {
+      "from": "https://www.vueeyecare.com/team/pt-dinh-od-ms-iacmm",
+      "to": "https://www.vueeyecare.com/eye-care-services/eye-exams"
+    },
+    {
+      "from": "https://www.vueeyecare.com/team/pt-dinh-od-ms-iacmm",
+      "to": "https://www.vueeyecare.com/eye-care-services/contact-lens-exams"
+    },
+    {
+      "from": "https://www.vueeyecare.com/team/pt-dinh-od-ms-iacmm",
+      "to": "https://www.vueeyecare.com/eye-care-services/management-of-ocular-diseases"
+    },
+    {
+      "from": "https://www.vueeyecare.com/team/pt-dinh-od-ms-iacmm",
+      "to": "https://www.vueeyecare.com/eyeglasses"
+    },
+    {
+      "from": "https://www.vueeyecare.com/team/pt-dinh-od-ms-iacmm",
+      "to": "https://www.vueeyecare.com/contact-lenses"
+    },
+    {
+      "from": "https://www.vueeyecare.com/team/pt-dinh-od-ms-iacmm",
+      "to": "https://www.vueeyecare.com/insurance"
+    },
+    {
+      "from": "https://www.vueeyecare.com/team/pt-dinh-od-ms-iacmm",
+      "to": "https://www.vueeyecare.com/promotions"
+    },
+    {
+      "from": "https://www.vueeyecare.com/team/pt-dinh-od-ms-iacmm",
+      "to": "https://www.vueeyecare.com/website-accessibility-policy"
+    },
+    {
+      "from": "https://www.vueeyecare.com/team/pt-dinh-od-ms-iacmm",
+      "to": "https://www.vueeyecare.com/sitemap"
+    },
+    {
+      "from": "https://www.vueeyecare.com/team/pt-dinh-od-ms-iacmm",
+      "to": "https://www.vueeyecare.com/privacy-policy"
+    },
+    {
+      "from": "https://www.vueeyecare.com/team/pt-dinh-od-ms-iacmm",
+      "to": "https://www.vueeyecare.com/disclaimer"
+    },
+    {
+      "from": "https://www.vueeyecare.com/website-accessibility-policy",
+      "to": "https://www.vueeyecare.com/"
+    },
+    {
+      "from": "https://www.vueeyecare.com/website-accessibility-policy",
+      "to": "https://www.vueeyecare.com/hours-location"
+    },
+    {
+      "from": "https://www.vueeyecare.com/website-accessibility-policy",
+      "to": "https://www.vueeyecare.com/our-eye-doctors"
+    },
+    {
+      "from": "https://www.vueeyecare.com/website-accessibility-policy",
+      "to": "https://www.vueeyecare.com/eye-care-services"
+    },
+    {
+      "from": "https://www.vueeyecare.com/website-accessibility-policy",
+      "to": "https://www.vueeyecare.com/eye-care-services/eye-exams"
+    },
+    {
+      "from": "https://www.vueeyecare.com/website-accessibility-policy",
+      "to": "https://www.vueeyecare.com/eye-care-services/contact-lens-exams"
+    },
+    {
+      "from": "https://www.vueeyecare.com/website-accessibility-policy",
+      "to": "https://www.vueeyecare.com/eye-care-services/management-of-ocular-diseases"
+    },
+    {
+      "from": "https://www.vueeyecare.com/website-accessibility-policy",
+      "to": "https://www.vueeyecare.com/eyeglasses"
+    },
+    {
+      "from": "https://www.vueeyecare.com/website-accessibility-policy",
+      "to": "https://www.vueeyecare.com/contact-lenses"
+    },
+    {
+      "from": "https://www.vueeyecare.com/website-accessibility-policy",
+      "to": "https://www.vueeyecare.com/insurance"
+    },
+    {
+      "from": "https://www.vueeyecare.com/website-accessibility-policy",
+      "to": "https://www.vueeyecare.com/promotions"
+    },
+    {
+      "from": "https://www.vueeyecare.com/website-accessibility-policy",
+      "to": "https://www.vueeyecare.com/website-accessibility-policy"
+    },
+    {
+      "from": "https://www.vueeyecare.com/website-accessibility-policy",
+      "to": "https://www.vueeyecare.com/sitemap"
+    },
+    {
+      "from": "https://www.vueeyecare.com/website-accessibility-policy",
+      "to": "https://www.vueeyecare.com/privacy-policy"
+    },
+    {
+      "from": "https://www.vueeyecare.com/website-accessibility-policy",
+      "to": "https://www.vueeyecare.com/disclaimer"
+    }
+  ]
+}

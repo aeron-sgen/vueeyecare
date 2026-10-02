@@ -1,0 +1,458 @@
+{
+ "title": "Welcome to Vue Eyecare - Vue Eyecare",
+ "description": "Vue Eyecare",
+ "canonical": "https://www.vueeyecare.com/",
+ "ogImage": "",
+ "blocks": [
+  {
+   "t": "img",
+   "src": "https://cdn.patientengage.cloud/sites/1ae885ad-ada7-41da-a3f2-c99458a5469b/live/media/019e0915-d14e-73dd-8b01-7eb369915a6e/shutterstock-331479137.jpg@w_1600.webp",
+   "alt": "Three smiling women with short hair standing against a white background",
+   "w": 0,
+   "h": 0,
+   "shownW": 568
+  },
+  {
+   "t": "h",
+   "level": 1,
+   "text": "Your Family Optometrist in Baton Rouge",
+   "html": "Your [[b]]Family Optometrist[[/b]] in Baton Rouge"
+  },
+  {
+   "t": "p",
+   "html": "[[b]]Welcome to Vue Eyecare[[/b]], your trusted partner in achieving optimal eye health and exceptional vision. Located in the heart of [[b]]Baton Rouge[[/b]], our practice is dedicated to providing the highest standard of personalized care."
+  },
+  {
+   "t": "p",
+   "html": "We believe eyes are vital indicators of overall health. That’s why comprehensive eye care at Vue Eyecare goes far beyond a simple prescription. Led by [[b]]Dr. Phuong Dinh[[/b]], our team takes the time to truly get to know you, your history, and your specific vision goals."
+  },
+  {
+   "t": "p",
+   "html": "Whether you are visiting for a routine exam, looking for the perfect pair of frames, or seeking advanced specialty solutions like [[b]]Ortho-K[[/b]] and [[b]]Scleral lenses[[/b]], we are here to cater to your needs with warmth and precision. At [[b]]Vue[[/b]] [[b]]Eyecare[[/b]], we see eye care through your eyes—providing the expert advice and follow-up you deserve."
+  },
+  {
+   "t": "h",
+   "level": 2,
+   "text": "Quality Eye Care & Treatment",
+   "html": "[[b]]Quality[[/b]] Eye Care & [[b]]Treatment[[/b]]"
+  },
+  {
+   "t": "img",
+   "src": "https://cdn.patientengage.cloud/sites/1ae885ad-ada7-41da-a3f2-c99458a5469b/live/media/019cc4e4-811c-720e-a229-9525eb405ee8/girl-with-schoolbag-eyeglasses.jpg@w_600.webp",
+   "alt": "girl with schoolbag eyeglasses",
+   "w": 0,
+   "h": 0,
+   "shownW": 20
+  },
+  {
+   "t": "h",
+   "level": 3,
+   "text": "Myopia Control »",
+   "html": "[[a href=\"/eye-care-services/myopia-management/\"]][[b]]Myopia[[/b]] Control »[[/a]]"
+  },
+  {
+   "t": "p",
+   "html": "Immediate attention for eye emergencies is vital. Our clinic is equipped to handle urgent eye care needs promptly and efficiently. Whether it’s an infection, injury, or sudden vision changes, our team provides expert care to address and treat your eye emergency with compassion and urgency."
+  },
+  {
+   "t": "img",
+   "src": "https://cdn.patientengage.cloud/sites/1ae885ad-ada7-41da-a3f2-c99458a5469b/live/media/019e17f1-d8aa-73f2-8a89-ffd8e4e20499/shutterstock-1831135957.jpg@w_1600.webp",
+   "alt": "A man sitting at a table in the kitchen with his hands on his face, looking tired and stressed",
+   "w": 0,
+   "h": 0,
+   "shownW": 20
+  },
+  {
+   "t": "h",
+   "level": 3,
+   "text": "Dry Eye Treatment »",
+   "html": "[[a href=\"/eye-care-services/eye-conditions/dry-eye-disease-and-treatment/\"]][[b]]Dry Eye[[/b]] Treatment »[[/a]]"
+  },
+  {
+   "t": "p",
+   "html": "Experience relief from the discomfort of dry eyes with our specialized dry eye treatment. Tailored to address the unique causes of your symptoms, our approach combines advanced diagnostics with personalized therapy plans."
+  },
+  {
+   "t": "img",
+   "src": "https://cdn.patientengage.cloud/sites/1ae885ad-ada7-41da-a3f2-c99458a5469b/live/media/019cc122-3ba3-7376-9c05-ba214f1a8eb3/AdobeStock_622744253.jpeg@w_1600.webp",
+   "alt": "Woman trying on glasses",
+   "w": 0,
+   "h": 0,
+   "shownW": 20
+  },
+  {
+   "t": "h",
+   "level": 3,
+   "text": "Comprehensive Eye Exams",
+   "html": "Comprehensive [[b]]Eye Exams[[/b]]"
+  },
+  {
+   "t": "p",
+   "html": "Regular eye exams are the cornerstone of maintaining optimal eye health. Our comprehensive eye exams go beyond just determining your prescription; they are a crucial check-up for detecting eye conditions and health issues at an early stage."
+  },
+  {
+   "t": "h",
+   "level": 2,
+   "text": "Your Baton Rouge Eye Doctor",
+   "html": "[[b]]Your[[/b]] Baton Rouge [[b]]Eye Doctor[[/b]]"
+  },
+  {
+   "t": "p",
+   "html": "The team at Vue Eyecare, led by Dr. P.T. Dinh, applies the latest, proven medical treatments, providing outstanding results in eye care. Dr. P.T. Dinh also offers eye care tips and advice to help you maintain healthy eyes and vision for life."
+  },
+  {
+   "t": "img",
+   "src": "https://storage.googleapis.com/ecp-samurai/37305/responsive-images/a1b72014-53e8-41f7-b0d9-76a76a0b02f3___responsive_1414_1980.webp",
+   "alt": "P.T. Dinh",
+   "w": 0,
+   "h": 0,
+   "shownW": 406
+  },
+  {
+   "t": "p",
+   "html": "Dr. Phuong T. Dinh is an experienced and highly skilled optometrist proudly serving the community of Baton Rouge. He moved to the United States with his parents and older sister in 1974 following the Vietnam War and later graduated from Catholic High School. Dr. Dinh continued his education at Louisiana State University (LSU), where he earned his Bachelor of Science degree, and went on to complete both his Master of Science and Doctor of Optometry degrees at the University of Houston in 2005.Dr. Dinh provides comprehensive routine and medical eye care, including contact lens fittings, dry eye treatment, eye infection management, glaucoma care, and retinal evaluations.... [[br]] Show More",
+   "loose": true
+  },
+  {
+   "t": "p",
+   "html": "Dr. Phuong T. Dinh is an experienced and highly skilled optometrist proudly serving the community of Baton Rouge. He moved to the United States with his parents and older sister in 1974 following the Vietnam War and later graduated from Catholic High School. Dr. Dinh continued his education at Louisiana State University (LSU), where he earned his Bachelor of Science degree, and went on to complete both his Master of Science and Doctor of Optometry degrees at the University of Houston in 2005."
+  },
+  {
+   "t": "p",
+   "html": "Dr. Dinh provides comprehensive routine and medical eye care, including contact lens fittings, dry eye treatment, eye infection management, glaucoma care, and retinal evaluations. He holds advanced certification from the International Academy in Myopia Management and has specialized expertise in orthokeratology (Ortho-K) for myopia control, as well as scleral lens fitting for keratoconus and post–refractive surgery patients. He is known for his thorough, respectful, and patient-centered approach, always striving to deliver individualized care with professionalism and compassion."
+  },
+  {
+   "t": "p",
+   "html": "Dr. Dinh has also participated in mission work providing essential eye care to underserved communities in Haiti and Honduras—experiences he considers deeply humbling and meaningful.[[br]]Appreciated for his warm personality and uplifting sense of humor, Dr. Dinh is often told by patients that he could pursue a second career in stand-up comedy—a compliment he receives with gratitude and good humor."
+  },
+  {
+   "t": "p",
+   "html": "Outside of the exam room, Dr. Dinh enjoys country music, fishing, hunting, woodworking, playing guitar, cooking, baking, and traveling with his wife and two daughters. He considers it a true privilege to care for the eye health of individuals and families throughout Baton Rouge, Denham Springs, and the surrounding communities, as well, he remains committed to serving with integrity, compassion, and gratitude."
+  },
+  {
+   "t": "btn",
+   "href": "/team/pt-dinh-od-ms-iacmm/",
+   "text": "Learn More"
+  },
+  {
+   "t": "h",
+   "level": 2,
+   "text": "Our Most Popular Eye Care Services",
+   "html": "Our Most Popular Eye Care Services"
+  },
+  {
+   "t": "img",
+   "src": "https://cdn.patientengage.cloud/sites/1ae885ad-ada7-41da-a3f2-c99458a5469b/live/media/019cc122-3b98-720b-a2c4-02e2875609f5/AdobeStock_391038878.jpeg@w_1600.webp",
+   "alt": "adobestock 391038878",
+   "w": 0,
+   "h": 0,
+   "shownW": 20
+  },
+  {
+   "t": "h",
+   "level": 3,
+   "text": "Contact Lenses »",
+   "html": "[[a href=\"/eye-care-services/contact-lens-exams/\"]]Contact [[b]]Lenses[[/b]] »[[/a]]"
+  },
+  {
+   "t": "p",
+   "html": "Discover the freedom and comfort of contact lenses with our personalized fitting service. Whether you're new to contacts or looking for an upgrade, we offer a wide range of options to suit your vision needs and lifestyle."
+  },
+  {
+   "t": "p",
+   "html": "Our experts will guide you through the selection process, ensuring a perfect fit for optimal comfort and clear vision. Embrace the convenience of contact lenses and enjoy the world with a new perspective."
+  },
+  {
+   "t": "btn",
+   "href": "/eye-care-services/contact-lens-exams/",
+   "text": "Contact Lens Fitting"
+  },
+  {
+   "t": "img",
+   "src": "https://cdn.patientengage.cloud/sites/1ae885ad-ada7-41da-a3f2-c99458a5469b/live/media/019cc4d0-1d02-714a-892d-5c5785f599c3/Nightstar-About-Us-Tech.jpg@w_1200.webp",
+   "alt": "eyecare technology",
+   "w": 0,
+   "h": 0,
+   "shownW": 20
+  },
+  {
+   "t": "h",
+   "level": 3,
+   "text": "Eye Disease Treatment »",
+   "html": "[[a href=\"/eye-care-services/management-of-ocular-diseases/\"]]Eye Disease [[b]]Treatment[[/b]] »[[/a]]"
+  },
+  {
+   "t": "p",
+   "html": "Preserving the eyesight of our patients so they can get the most out of life is our greatest goal."
+  },
+  {
+   "t": "p",
+   "html": "Our Eye Care Clinic makes it a policy to ensure that all staff members are up-to-date on the latest technology and techniques to make your visit as comfortable and effective as possible. As optometric technology changes, it is even more important to visit an eye doctor who has all the right optometry qualifications and follows the latest developments in eye care."
+  },
+  {
+   "t": "btn",
+   "href": "/eye-care-services/management-of-ocular-diseases/",
+   "text": "Ocular Disease Diagnosis and Treatment"
+  },
+  {
+   "t": "p",
+   "html": "I had a remarkable experiences from front desk to assist had me look at lil red house. To Dr Dinh,... [[br]] Show More",
+   "loose": true
+  },
+  {
+   "t": "p",
+   "html": "I had a remarkable experiences from front desk to assist had me look at lil red house. To Dr Dinh, exam went well. Explained everything that would keep my eyes good. To get less thickness of lenses as my left eye very weak and would of been to thick compared to other one.",
+   "loose": true
+  },
+  {
+   "t": "p",
+   "html": "⭐️⭐️⭐️⭐️⭐️",
+   "loose": true
+  },
+  {
+   "t": "p",
+   "html": "Staff and Dr are always so nice, caring, and just so amazing all around. They actually care about their patients... [[br]] Show More",
+   "loose": true
+  },
+  {
+   "t": "p",
+   "html": "Staff and Dr are always so nice, caring, and just so amazing all around. They actually care about their patients and love their jobs. 10/10, 100% recommend.",
+   "loose": true
+  },
+  {
+   "t": "p",
+   "html": "⭐️⭐️⭐️⭐️⭐️",
+   "loose": true
+  },
+  {
+   "t": "p",
+   "html": "Dr. Dinh is always very thorough during exam. He explains what he’s doing making sure i understand the process. He... [[br]] Show More",
+   "loose": true
+  },
+  {
+   "t": "p",
+   "html": "Dr. Dinh is always very thorough during exam. He explains what he’s doing making sure i understand the process. He and his staff are very courteous and friendly. My visits there are always fun.",
+   "loose": true
+  },
+  {
+   "t": "p",
+   "html": "⭐️⭐️⭐️⭐️⭐️",
+   "loose": true
+  },
+  {
+   "t": "p",
+   "html": "Everyone at the office was nice. They accommodated me when I arrived early to my appointment. Dr. Dinh was very... [[br]] Show More",
+   "loose": true
+  },
+  {
+   "t": "p",
+   "html": "Everyone at the office was nice. They accommodated me when I arrived early to my appointment. Dr. Dinh was very thorough and funny. I had fun during my appointment. Would recommend Vue Eye Care to everyone.",
+   "loose": true
+  },
+  {
+   "t": "p",
+   "html": "⭐️⭐️⭐️⭐️⭐️",
+   "loose": true
+  },
+  {
+   "t": "p",
+   "html": "VUE Eyecare exceeded all my expectations! Dr. Dinh conducted eye exams for both of my children, and I was truly... [[br]] Show More",
+   "loose": true
+  },
+  {
+   "t": "p",
+   "html": "VUE Eyecare exceeded all my expectations! Dr. Dinh conducted eye exams for both of my children, and I was truly impressed by his thoroughness, professionalism, and warm demeanor. He took the time to explain everything clearly, making the experience both informative and enjoyable. His kindness and humor made my kids feel completely at ease—definitely a breath of fresh air compared to past eye exams we’ve had elsewhere. The office staff was also welcoming and efficient, making the entire visit seamless. If you’re looking for top-notch eye care with a personal touch, I highly recommend VUE Eyecare and Dr. Dinh!",
+   "loose": true
+  },
+  {
+   "t": "p",
+   "html": "⭐️⭐️⭐️⭐️⭐️",
+   "loose": true
+  },
+  {
+   "t": "p",
+   "html": "I was pleased with the experience",
+   "loose": true
+  },
+  {
+   "t": "p",
+   "html": "⭐️⭐️⭐️⭐️⭐️",
+   "loose": true
+  },
+  {
+   "t": "p",
+   "html": "Everyone that works at Vue Eye.Care is nice and helpful",
+   "loose": true
+  },
+  {
+   "t": "p",
+   "html": "⭐️⭐️⭐️⭐️⭐️",
+   "loose": true
+  },
+  {
+   "t": "p",
+   "html": "Very patient and kind staff.",
+   "loose": true
+  },
+  {
+   "t": "p",
+   "html": "⭐️⭐️⭐️⭐️⭐️",
+   "loose": true
+  },
+  {
+   "t": "p",
+   "html": "Omg I love Dr. Dinh!! He’s funny, personable, and witty!! Not only that, he knows his stuff!! Vue Eyecare is... [[br]] Show More",
+   "loose": true
+  },
+  {
+   "t": "p",
+   "html": "Omg I love Dr. Dinh!! He’s funny, personable, and witty!! Not only that, he knows his stuff!! Vue Eyecare is quick and efficient!!! Would recommend 10 times out of 10!!!",
+   "loose": true
+  },
+  {
+   "t": "p",
+   "html": "⭐️⭐️⭐️⭐️⭐️",
+   "loose": true
+  },
+  {
+   "t": "p",
+   "html": "The Doctor and staff were extremely polite and professional. Sales staff was vey patient and knowledgeable. Very positive experience.",
+   "loose": true
+  },
+  {
+   "t": "p",
+   "html": "⭐️⭐️⭐️⭐️⭐️",
+   "loose": true
+  },
+  {
+   "t": "p",
+   "html": "Dr.Dinh,as well as his Staff is very Professional,Knowledgeable,Friendly and Respectful, I,had Cataract Procedure under Dr.Dinh recommending it, and I truly... [[br]] Show More",
+   "loose": true
+  },
+  {
+   "t": "p",
+   "html": "Dr.Dinh,as well as his Staff is very Professional,Knowledgeable,Friendly and Respectful, I,had Cataract Procedure under Dr.Dinh recommending it, and I truly thank God!! I listened. Dr.Dinh & Staff, ALWAYS make you feel cared for, I APPRECIATE that so much!!!THANK YOU!!!!! Tira James.",
+   "loose": true
+  },
+  {
+   "t": "p",
+   "html": "⭐️⭐️⭐️⭐️⭐️",
+   "loose": true
+  },
+  {
+   "t": "p",
+   "html": "Awesome customer service!",
+   "loose": true
+  },
+  {
+   "t": "p",
+   "html": "⭐️⭐️⭐️⭐️⭐️",
+   "loose": true
+  },
+  {
+   "t": "p",
+   "html": "Great doctor and staff.",
+   "loose": true
+  },
+  {
+   "t": "p",
+   "html": "⭐️⭐️⭐️⭐️⭐️",
+   "loose": true
+  },
+  {
+   "t": "p",
+   "html": "Great atmosphere, Dr.Dinh very friendly",
+   "loose": true
+  },
+  {
+   "t": "p",
+   "html": "⭐️⭐️⭐️⭐️⭐️",
+   "loose": true
+  },
+  {
+   "t": "p",
+   "html": "Get place , employees are nice",
+   "loose": true
+  },
+  {
+   "t": "p",
+   "html": "⭐️⭐️⭐️⭐️⭐️",
+   "loose": true
+  },
+  {
+   "t": "p",
+   "html": "Great doctor!",
+   "loose": true
+  },
+  {
+   "t": "p",
+   "html": "⭐️⭐️⭐️⭐️⭐️",
+   "loose": true
+  },
+  {
+   "t": "p",
+   "html": "Staff is professional, kind and courteous. Examiners goes the extra mile on your behalf. Eye doctor explains himself clearly and... [[br]] Show More",
+   "loose": true
+  },
+  {
+   "t": "p",
+   "html": "Staff is professional, kind and courteous. Examiners goes the extra mile on your behalf. Eye doctor explains himself clearly and ask throughout your exam do you have any questions. Eye doctor also have a great sense of humor to make you laugh and place you in your comfort zone as he proceeds to get the job done. ❤️❤️❤️",
+   "loose": true
+  },
+  {
+   "t": "p",
+   "html": "⭐️⭐️⭐️⭐️⭐️",
+   "loose": true
+  },
+  {
+   "t": "p",
+   "html": "Straight Up WOW! This is my 3rd year as a VUE customer and I continue to say Bravoooo to the... [[br]] Show More",
+   "loose": true
+  },
+  {
+   "t": "p",
+   "html": "Straight Up WOW! This is my 3rd year as a VUE customer and I continue to say Bravoooo to the BEST! Dr. Vinh and Team are Consummate Professionals who always devote themselves to giving me a Thorough Eye Exam while treating me like a Friend. With Gratitude I Highly Recommend them to Everyone!",
+   "loose": true
+  },
+  {
+   "t": "p",
+   "html": "⭐️⭐️⭐️⭐️⭐️",
+   "loose": true
+  },
+  {
+   "t": "p",
+   "html": "Dr Dinh and the staff were awesome",
+   "loose": true
+  },
+  {
+   "t": "p",
+   "html": "⭐️⭐️⭐️⭐️⭐️",
+   "loose": true
+  },
+  {
+   "t": "p",
+   "html": "Timely service, knowledgeable staff, friendly environment",
+   "loose": true
+  },
+  {
+   "t": "p",
+   "html": "⭐️⭐️⭐️⭐️⭐️",
+   "loose": true
+  },
+  {
+   "t": "btn",
+   "href": "https://www.google.com/search?q=Vue+Eyecare+-+Located+at+2515+O%27Neal+Ln+Suite+%235%2C+Baton+Rouge%2C+LA+70816&sourceid=chrome&ie=UTF-8&sei=TYMDaZnIKeOg5NoP2_vy0Qc#lrd=0x8626bb89c6dbacbd:0xe3a11f836625fa0c,1,,,,",
+   "text": "Read More Reviews"
+  },
+  {
+   "t": "img",
+   "src": "https://cdn.patientengage.cloud/sites/1ae885ad-ada7-41da-a3f2-c99458a5469b/live/media/019cc495-9f21-70d0-9572-6b93560d7e29/group-people-sitting-blanket-grassy-field-dog.jpg@w_1200.webp",
+   "alt": "A group of people are sitting on a blanket in a grassy field with a dog. There are hills in the background and a blue sky.",
+   "w": 0,
+   "h": 0,
+   "shownW": 558
+  }
+ ],
+ "forms": [],
+ "url": "https://www.vueeyecare.com/"
+}

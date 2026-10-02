@@ -1,0 +1,290 @@
+{
+ "title": "Insurance - Vue Eyecare",
+ "description": "The cost of routine eye exams and prescription eyewear can be of real concern, vision insurance can lower these annual expenses.",
+ "canonical": "https://www.vueeyecare.com/insurance/",
+ "ogImage": "",
+ "blocks": [
+  {
+   "t": "h",
+   "level": 1,
+   "text": "Our Vue Eyecare Insurance Benefits",
+   "html": "Our Vue Eyecare Insurance Benefits"
+  },
+  {
+   "t": "p",
+   "html": "We aim to simplify your eye care experience by providing clear and concise details about insurance coverage. We understand that navigating insurance benefits can be complex, but we're here to help every step of the way. Our practice is committed to ensuring you can access the eye care services you need efficiently and affordably. Below, you'll find information on the medical and vision plans we accept, which will make it easier for you to understand how your eye care needs can be met within our practice."
+  },
+  {
+   "t": "btn",
+   "href": "https://p.adit.com/Rx8cZ",
+   "text": "Schedule an Appointment"
+  },
+  {
+   "t": "img",
+   "src": "https://cdn.patientengage.cloud/sites/1ae885ad-ada7-41da-a3f2-c99458a5469b/live/media/019df9c8-91c0-7564-bac5-259a7c9e8e63/shutterstock_2728711507.jpg@w_1600.webp",
+   "alt": "A woman in a white coat is adjusting glasses while working in an office.",
+   "w": 0,
+   "h": 0,
+   "shownW": 672
+  },
+  {
+   "t": "h",
+   "level": 2,
+   "text": "Vision Plans We Accept",
+   "html": "[[b]]Vision[[/b]] Plans We Accept"
+  },
+  {
+   "t": "img",
+   "src": "https://cdn.patientengage.cloud/global/logos/insurances/29UMjPGjw56kH0x4.png@w_400.webp",
+   "alt": "VSP",
+   "w": 0,
+   "h": 0,
+   "shownW": 20
+  },
+  {
+   "t": "img",
+   "src": "https://cdn.patientengage.cloud/global/logos/insurances/spectera.png@w_400.webp",
+   "alt": "Spectera",
+   "w": 0,
+   "h": 0,
+   "shownW": 20
+  },
+  {
+   "t": "img",
+   "src": "https://cdn.patientengage.cloud/global/logos/insurances/eye-med.png@w_400.webp",
+   "alt": "Eye Med",
+   "w": 0,
+   "h": 0,
+   "shownW": 20
+  },
+  {
+   "t": "img",
+   "src": "https://cdn.patientengage.cloud/global/logos/insurances/qEj9JQ19dW1zfExj.png@w_400.webp",
+   "alt": "Davis Vision",
+   "w": 0,
+   "h": 0,
+   "shownW": 20
+  },
+  {
+   "t": "img",
+   "src": "https://cdn.patientengage.cloud/global/logos/insurances/humana.png@w_400.webp",
+   "alt": "Humana",
+   "w": 0,
+   "h": 0,
+   "shownW": 20
+  },
+  {
+   "t": "img",
+   "src": "https://cdn.patientengage.cloud/global/logos/insurances/superior-vision-.png@w_400.webp",
+   "alt": "Superior Vision ",
+   "w": 0,
+   "h": 0,
+   "shownW": 20
+  },
+  {
+   "t": "img",
+   "src": "https://cdn.patientengage.cloud/global/logos/insurances/nva.png@w_400.webp",
+   "alt": "National Vision Administration (NVA)",
+   "w": 0,
+   "h": 0,
+   "shownW": 0
+  },
+  {
+   "t": "img",
+   "src": "https://cdn.patientengage.cloud/global/logos/insurances/alwayscare.png@w_400.webp",
+   "alt": "AlwaysCare",
+   "w": 0,
+   "h": 0,
+   "shownW": 0
+  },
+  {
+   "t": "img",
+   "src": "https://cdn.patientengage.cloud/global/logos/insurances/march-vision-care.png@w_400.webp",
+   "alt": "March Vision Care",
+   "w": 0,
+   "h": 0,
+   "shownW": 0
+  },
+  {
+   "t": "img",
+   "src": "https://cdn.patientengage.cloud/global/logos/insurances/block-vision.png@w_400.webp",
+   "alt": "Block Vision",
+   "w": 0,
+   "h": 0,
+   "shownW": 0
+  },
+  {
+   "t": "img",
+   "src": "https://cdn.patientengage.cloud/global/logos/insurances/opticare.png@w_400.webp",
+   "alt": "Opticare",
+   "w": 0,
+   "h": 0,
+   "shownW": 0
+  },
+  {
+   "t": "h",
+   "level": 2,
+   "text": "Medical Plans We Accept",
+   "html": "[[b]]Medical[[/b]] Plans We Accept"
+  },
+  {
+   "t": "img",
+   "src": "https://cdn.patientengage.cloud/global/logos/insurances/medicare.png@w_400.webp",
+   "alt": "Medicare",
+   "w": 0,
+   "h": 0,
+   "shownW": 20
+  },
+  {
+   "t": "img",
+   "src": "https://cdn.patientengage.cloud/global/logos/insurances/united-healthcare.png@w_400.webp",
+   "alt": "United Healthcare",
+   "w": 0,
+   "h": 0,
+   "shownW": 20
+  },
+  {
+   "t": "img",
+   "src": "https://cdn.patientengage.cloud/global/logos/insurances/4ON2tzqw5GNU7H4U.png@w_400.webp",
+   "alt": "Aetna",
+   "w": 0,
+   "h": 0,
+   "shownW": 20
+  },
+  {
+   "t": "img",
+   "src": "https://cdn.patientengage.cloud/global/logos/insurances/cigna.png@w_400.webp",
+   "alt": "Cigna",
+   "w": 0,
+   "h": 0,
+   "shownW": 20
+  },
+  {
+   "t": "img",
+   "src": "https://cdn.patientengage.cloud/global/logos/insurances/H3s9JsQElepGYNXh.png@w_400.webp",
+   "alt": "Blue Cross Blue Shield",
+   "w": 0,
+   "h": 0,
+   "shownW": 20
+  },
+  {
+   "t": "img",
+   "src": "https://cdn.patientengage.cloud/global/logos/insurances/humana.png@w_400.webp",
+   "alt": "Humana",
+   "w": 0,
+   "h": 0,
+   "shownW": 20
+  },
+  {
+   "t": "img",
+   "src": "https://cdn.patientengage.cloud/global/logos/insurances/h5AvJTzxULfgOkD5.png@w_400.webp",
+   "alt": "Medicaid",
+   "w": 0,
+   "h": 0,
+   "shownW": 0
+  },
+  {
+   "t": "img",
+   "src": "https://cdn.patientengage.cloud/global/logos/insurances/umr.png@w_400.webp",
+   "alt": "UMR",
+   "w": 0,
+   "h": 0,
+   "shownW": 0
+  },
+  {
+   "t": "img",
+   "src": "https://cdn.patientengage.cloud/global/logos/insurances/meritain-health.png@w_400.webp",
+   "alt": "Meritain Health",
+   "w": 0,
+   "h": 0,
+   "shownW": 0
+  },
+  {
+   "t": "img",
+   "src": "https://cdn.patientengage.cloud/global/logos/insurances/coventry-health-care.png@w_400.webp",
+   "alt": "Coventry Health Care",
+   "w": 0,
+   "h": 0,
+   "shownW": 0
+  },
+  {
+   "t": "img",
+   "src": "https://cdn.patientengage.cloud/global/logos/insurances/aetna-better-health.png@w_400.webp",
+   "alt": "Aetna Better Health",
+   "w": 0,
+   "h": 0,
+   "shownW": 0
+  },
+  {
+   "t": "img",
+   "src": "https://cdn.patientengage.cloud/global/logos/insurances/j80i4lxAog2NqwMi.png@w_400.webp",
+   "alt": "United Health Care Community Plan",
+   "w": 0,
+   "h": 0,
+   "shownW": 0
+  },
+  {
+   "t": "img",
+   "src": "https://cdn.patientengage.cloud/global/logos/insurances/amerihealth.png@w_400.webp",
+   "alt": "Amerihealth",
+   "w": 0,
+   "h": 0,
+   "shownW": 0
+  },
+  {
+   "t": "img",
+   "src": "https://cdn.patientengage.cloud/global/logos/insurances/webtpa.png@w_400.webp",
+   "alt": "Webtpa",
+   "w": 0,
+   "h": 0,
+   "shownW": 0
+  },
+  {
+   "t": "img",
+   "src": "https://cdn.patientengage.cloud/global/logos/insurances/E7e0c5tKmNkJRyqQ.png@w_400.webp",
+   "alt": "Gilsbar",
+   "w": 0,
+   "h": 0,
+   "shownW": 0
+  },
+  {
+   "t": "img",
+   "src": "https://cdn.patientengage.cloud/global/logos/insurances/s7Jjs4DWKhWh3a1n.png@w_400.webp",
+   "alt": "Boilermakers National Funds",
+   "w": 0,
+   "h": 0,
+   "shownW": 0
+  },
+  {
+   "t": "img",
+   "src": "https://cdn.patientengage.cloud/global/logos/insurances/6ae11c3e-bf31-4458-927f-92cba718c0b9.png@w_400.webp",
+   "alt": "Louisiana Healthcare Connections",
+   "w": 0,
+   "h": 0,
+   "shownW": 0
+  },
+  {
+   "t": "p",
+   "html": "If you do not see your plan listed here, please give us a call and we would be happy to assist you. Our staff is also always available to answer any questions regarding your benefits."
+  },
+  {
+   "t": "p",
+   "html": "The cost of routine eye exams and prescription eyewear can be of real concern, especially for large families. In many cases, vision insurance can lower these annual expenses."
+  },
+  {
+   "t": "p",
+   "html": "A vision insurance policy is not the same as medical insurance. Regular medical health insurance plans protect you against financial losses due to unexpected eye injuries or disease. Vision insurance, on the other hand, is a wellness benefit designed to provide routine eye care, prescription eyewear and other vision-related services at a reduced cost."
+  },
+  {
+   "t": "list",
+   "ordered": false,
+   "items": [
+    "[[a href=\"/insurance/faqs-of-vision-insurance-plans/\"]]FAQs of Vision Insurance Plans[[/a]] Vision insurance is designed to provide routine eye care, prescription eyewear and other vision-related services at a reduced cost. Learn about types of plans, coverage and payment options.",
+    "[[a href=\"/insurance/whats-in-your-vision-insurance-plan/\"]]What’s in Your Vision Insurance Plan[[/a]] Make the most of your vision insurance plan by understanding your particular vision coverage.",
+    "[[a href=\"/insurance/carecredit/\"]]CareCredit[[/a]] As a service to our patients, we are pleased to offer the CareCredit card, the nation's leading patient payment program. CareCredit lets you begin your procedure immediately—then pay for it over time with low monthly payments that are easy to fit into your monthly budget."
+   ]
+  }
+ ],
+ "forms": [],
+ "url": "https://www.vueeyecare.com/insurance/"
+}

@@ -1,0 +1,8 @@
+{
+  "schema": "site-reforge/scripts@1",
+  "generated": "2026-10-01T04:34:38.521Z",
+  "note": "Same-origin <script src> only. A third-party script is an outbound dependency of the site, not an asset of it; vendoring one would change what the page does.",
+  "discovered": [],
+  "saved": [],
+  "map": {}
+}

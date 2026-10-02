@@ -1,0 +1,2819 @@
+{
+  "schema": "site-reforge/seo-inventory@1",
+  "generated": "2026-10-01T04:34:26.126Z",
+  "origin": "https://www.vueeyecare.com",
+  "pages": [
+    {
+      "url": "https://www.vueeyecare.com/",
+      "finalUrl": "https://www.vueeyecare.com/",
+      "status": 200,
+      "redirectChain": [],
+      "title": "Welcome to Vue Eyecare - Vue Eyecare",
+      "titleLength": 36,
+      "metaDescription": "Vue Eyecare",
+      "metaDescriptionLength": 11,
+      "metaRobots": "",
+      "canonical": "https://www.vueeyecare.com/",
+      "lang": "en",
+      "h1Count": 1,
+      "headingOutline": [
+        "1:Your Family Optometrist in Baton Rouge",
+        "2:Quality Eye Care & Treatment",
+        "3:Myopia Control »",
+        "3:Dry Eye Treatment »",
+        "3:Comprehensive Eye Exams",
+        "2:Your Baton Rouge Eye Doctor",
+        "2:Our Most Popular Eye Care Services",
+        "3:Contact Lenses »",
+        "3:Eye Disease Treatment »"
+      ],
+      "openGraph": {
+        "og:url": "https://www.vueeyecare.com/",
+        "og:type": "website",
+        "og:title": "Welcome to Vue Eyecare - Vue Eyecare",
+        "og:description": "Vue Eyecare",
+        "og:site_name": "Vue Eyecare",
+        "og:locale": "en_US"
+      },
+      "twitter": {},
+      "hreflang": [],
+      "jsonLdTypes": [
+        "Organization",
+        "WebPage",
+        "LocalBusiness"
+      ],
+      "jsonLd": [
+        {
+          "@context": "https://schema.org",
+          "@type": "Organization",
+          "name": "Vue Eyecare",
+          "url": "https://www.vueeyecare.com",
+          "logo": "https://cdn.patientengage.cloud/external/storage.googleapis.com/ecp-samurai/20092/VUE-LOGO-PHOTOSHOP-no-highlight-I-shadow-copy.jpg"
+        },
+        {
+          "@context": "https://schema.org",
+          "@type": "WebPage",
+          "@id": "https://www.vueeyecare.com/",
+          "url": "https://www.vueeyecare.com/",
+          "name": "Welcome to Vue Eyecare",
+          "datePublished": "2026-03-06T03:04:32.700Z",
+          "dateModified": "2026-08-18T17:57:29.966Z"
+        },
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "LocalBusiness",
+              "name": "Vue Eyecare",
+              "url": "https://www.vueeyecare.com",
+              "telephone": "225-752-2419",
+              "address": {
+                "@type": "PostalAddress",
+                "streetAddress": "2515 O'Neal Ln Suite #5",
+                "addressLocality": "Baton Rouge",
+                "addressRegion": "Louisiana",
+                "postalCode": "70816",
+                "addressCountry": "US"
+              },
+              "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": "5.0",
+                "reviewCount": 20,
+                "bestRating": 5,
+                "worstRating": 1
+              },
+              "review": [
+                {
+                  "@type": "Review",
+                  "author": {
+                    "@type": "Person",
+                    "name": "Lena Lastrapes"
+                  },
+                  "reviewBody": "I had a remarkable experiences from front desk to assist had me look at lil red house.\nTo Dr Dinh, exam went well.\nExplained everything that would keep my eyes good.\nTo get less thickness of lenses as my left eye very weak and would of been to thick compared to other one.",
+                  "reviewRating": {
+                    "@type": "Rating",
+                    "ratingValue": 5,
+                    "bestRating": 5,
+                    "worstRating": 1
+                  }
+                },
+                {
+                  "@type": "Review",
+                  "author": {
+                    "@type": "Person",
+                    "name": "Latonya James"
+                  },
+                  "reviewBody": "Staff and Dr are always so nice, caring, and just so amazing all around. They actually care about their patients and love their jobs. 10/10, 100% recommend.",
+                  "reviewRating": {
+                    "@type": "Rating",
+                    "ratingValue": 5,
+                    "bestRating": 5,
+                    "worstRating": 1
+                  }
+                },
+                {
+                  "@type": "Review",
+                  "author": {
+                    "@type": "Person",
+                    "name": "Sharon Patrick"
+                  },
+                  "reviewBody": "Dr. Dinh is always very thorough during exam.  He explains what he’s doing making sure i understand the process.  He and his staff are very courteous and friendly.  My visits there are always fun.",
+                  "reviewRating": {
+                    "@type": "Rating",
+                    "ratingValue": 5,
+                    "bestRating": 5,
+                    "worstRating": 1
+                  }
+                },
+                {
+                  "@type": "Review",
+                  "author": {
+                    "@type": "Person",
+                    "name": "Leslie Juban"
+                  },
+                  "reviewBody": "Everyone at the office was nice. They accommodated me when I arrived early to my appointment. Dr. Dinh was very thorough and funny. I had fun during my appointment. Would recommend Vue Eye Care to everyone.",
+                  "reviewRating": {
+                    "@type": "Rating",
+                    "ratingValue": 5,
+                    "bestRating": 5,
+                    "worstRating": 1
+                  }
+                },
+                {
+                  "@type": "Review",
+                  "author": {
+                    "@type": "Person",
+                    "name": "Jacquole Johnson"
+                  },
+                  "reviewBody": "VUE Eyecare exceeded all my expectations! Dr. Dinh conducted eye exams for both of my children, and I was truly impressed by his thoroughness, professionalism, and warm demeanor. He took the time to explain everything clearly, making the experience both informative and enjoyable. His kindness and humor made my kids feel completely at ease—definitely a breath of fresh air compared to past eye exams we’ve had elsewhere. The office staff was also welcoming and efficient, making the entire visit seamless. If you’re looking for top-notch eye care with a personal touch, I highly recommend VUE Eyecare and Dr. Dinh!",
+                  "reviewRating": {
+                    "@type": "Rating",
+                    "ratingValue": 5,
+                    "bestRating": 5,
+                    "worstRating": 1
+                  }
+                },
+                {
+                  "@type": "Review",
+                  "author": {
+                    "@type": "Person",
+                    "name": "Charmaine Johnson"
+                  },
+                  "reviewBody": "I was pleased with the experience",
+                  "reviewRating": {
+                    "@type": "Rating",
+                    "ratingValue": 5,
+                    "bestRating": 5,
+                    "worstRating": 1
+                  }
+                },
+                {
+                  "@type": "Review",
+                  "author": {
+                    "@type": "Person",
+                    "name": "Corey Brown"
+                  },
+                  "reviewBody": "Everyone that works at Vue Eye.Care is nice and helpful",
+                  "reviewRating": {
+                    "@type": "Rating",
+                    "ratingValue": 5,
+                    "bestRating": 5,
+                    "worstRating": 1
+                  }
+                },
+                {
+                  "@type": "Review",
+                  "author": {
+                    "@type": "Person",
+                    "name": "Tina Johnson"
+                  },
+                  "reviewBody": "Very patient and kind staff.",
+                  "reviewRating": {
+                    "@type": "Rating",
+                    "ratingValue": 5,
+                    "bestRating": 5,
+                    "worstRating": 1
+                  }
+                },
+                {
+                  "@type": "Review",
+                  "author": {
+                    "@type": "Person",
+                    "name": "Kori Alexander"
+                  },
+                  "reviewBody": "Omg I love Dr. Dinh!! He’s funny, personable, and witty!! Not only that, he knows his stuff!! Vue Eyecare is quick and efficient!!! Would recommend 10 times out of 10!!!",
+                  "reviewRating": {
+                    "@type": "Rating",
+                    "ratingValue": 5,
+                    "bestRating": 5,
+                    "worstRating": 1
+                  }
+                },
+                {
+                  "@type": "Review",
+                  "author": {
+                    "@type": "Person",
+                    "name": "Ainson fontenot"
+                  },
+                  "reviewBody": "The Doctor and staff were extremely polite and professional.   Sales staff was vey patient and knowledgeable.   Very  positive experience.",
+                  "reviewRating": {
+                    "@type": "Rating",
+                    "ratingValue": 5,
+                    "bestRating": 5,
+                    "worstRating": 1
+                  }
+                },
+                {
+                  "@type": "Review",
+                  "author": {
+                    "@type": "Person",
+                    "name": "Tira James"
+                  },
+                  "reviewBody": "Dr.Dinh,as well as his Staff is very Professional,Knowledgeable,Friendly and Respectful, I,had Cataract Procedure under Dr.Dinh recommending it, and I truly thank God!! I listened. Dr.Dinh & Staff, ALWAYS make you feel cared for, I APPRECIATE that so much!!!THANK YOU!!!!! Tira James.",
+                  "reviewRating": {
+                    "@type": "Rating",
+                    "ratingValue": 5,
+                    "bestRating": 5,
+                    "worstRating": 1
+                  }
+                },
+                {
+                  "@type": "Review",
+                  "author": {
+                    "@type": "Person",
+                    "name": "Monica Jones"
+                  },
+                  "reviewBody": "Awesome customer service!",
+                  "reviewRating": {
+                    "@type": "Rating",
+                    "ratingValue": 5,
+                    "bestRating": 5,
+                    "worstRating": 1
+                  }
+                },
+                {
+                  "@type": "Review",
+                  "author": {
+                    "@type": "Person",
+                    "name": "Lauren"
+                  },
+                  "reviewBody": "Great doctor and staff.",
+                  "reviewRating": {
+                    "@type": "Rating",
+                    "ratingValue": 5,
+                    "bestRating": 5,
+                    "worstRating": 1
+                  }
+                },
+                {
+                  "@type": "Review",
+                  "author": {
+                    "@type": "Person",
+                    "name": "tasha GTown"
+                  },
+                  "reviewBody": "Great atmosphere, Dr.Dinh very friendly",
+                  "reviewRating": {
+                    "@type": "Rating",
+                    "ratingValue": 5,
+                    "bestRating": 5,
+                    "worstRating": 1
+                  }
+                },
+                {
+                  "@type": "Review",
+                  "author": {
+                    "@type": "Person",
+                    "name": "Gene Martin"
+                  },
+                  "reviewBody": "Get place , employees are nice",
+                  "reviewRating": {
+                    "@type": "Rating",
+                    "ratingValue": 5,
+                    "bestRating": 5,
+                    "worstRating": 1
+                  }
+                },
+                {
+                  "@type": "Review",
+                  "author": {
+                    "@type": "Person",
+                    "name": "Blake Anthony"
+                  },
+                  "reviewBody": "Great doctor!",
+                  "reviewRating": {
+                    "@type": "Rating",
+                    "ratingValue": 5,
+                    "bestRating": 5,
+                    "worstRating": 1
+                  }
+                },
+                {
+                  "@type": "Review",
+                  "author": {
+                    "@type": "Person",
+                    "name": "dorothy harris"
+                  },
+                  "reviewBody": "Staff is professional, kind and courteous.\nExaminers goes the extra mile on your behalf. Eye doctor explains himself clearly and ask throughout your exam do you have any questions. Eye doctor also have a great sense of humor to make you laugh and place you in your comfort zone as he proceeds to get the job done. ❤️❤️❤️",
+                  "reviewRating": {
+                    "@type": "Rating",
+                    "ratingValue": 5,
+                    "bestRating": 5,
+                    "worstRating": 1
+                  }
+                },
+                {
+                  "@type": "Review",
+                  "author": {
+                    "@type": "Person",
+                    "name": "Xed"
+                  },
+                  "reviewBody": "Straight Up WOW! This is my 3rd year as a VUE customer and I continue to say Bravoooo to the BEST! Dr. Vinh and Team are Consummate Professionals who always devote themselves to giving me a Thorough Eye Exam while treating me like a Friend. With Gratitude I Highly Recommend them to Everyone!",
+                  "reviewRating": {
+                    "@type": "Rating",
+                    "ratingValue": 5,
+                    "bestRating": 5,
+                    "worstRating": 1
+                  }
+                },
+                {
+                  "@type": "Review",
+                  "author": {
+                    "@type": "Person",
+                    "name": "Eldon Hart"
+                  },
+                  "reviewBody": "Dr Dinh and the staff were awesome",
+                  "reviewRating": {
+                    "@type": "Rating",
+                    "ratingValue": 5,
+                    "bestRating": 5,
+                    "worstRating": 1
+                  }
+                },
+                {
+                  "@type": "Review",
+                  "author": {
+                    "@type": "Person",
+                    "name": "Christina Davis"
+                  },
+                  "reviewBody": "Timely service, knowledgeable staff, friendly environment",
+                  "reviewRating": {
+                    "@type": "Rating",
+                    "ratingValue": 5,
+                    "bestRating": 5,
+                    "worstRating": 1
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "imageCount": 11,
+      "imagesMissingAlt": 0,
+      "internalLinkCount": 18,
+      "externalLinkCount": 7,
+      "scripts": [],
+      "inlineStyleBytes": 97391
+    },
+    {
+      "url": "https://www.vueeyecare.com/contact-lenses",
+      "finalUrl": "https://www.vueeyecare.com/contact-lenses/",
+      "status": 200,
+      "redirectChain": [
+        {
+          "from": "https://www.vueeyecare.com/contact-lenses",
+          "status": 301,
+          "to": "https://www.vueeyecare.com/contact-lenses/"
+        }
+      ],
+      "title": "Contact Lenses - Vue Eyecare",
+      "titleLength": 28,
+      "metaDescription": "We offer a wide range of contact lenses to fit your needs including contact lens exams and fittings.",
+      "metaDescriptionLength": 100,
+      "metaRobots": "",
+      "canonical": "https://www.vueeyecare.com/contact-lenses/",
+      "lang": "en",
+      "h1Count": 1,
+      "headingOutline": [
+        "1:Contact Lenses in Baton Rouge, Louisiana",
+        "2:Visit us For a Simple and Easy Contact Lens Fitting",
+        "2:Eye Exams For Contact Lenses",
+        "2:Our Recommended Contact Lens Brands",
+        "2:Contact Lenses for the \"Hard-to-Fit\" Patient",
+        "2:Disposable Contacts",
+        "2:Bifocal and Multifocal Contact Lenses",
+        "2:Gas Permeable (GP) Contact Lenses"
+      ],
+      "openGraph": {
+        "og:url": "https://www.vueeyecare.com/contact-lenses/",
+        "og:type": "website",
+        "og:title": "Contact Lenses - Vue Eyecare",
+        "og:image": "https://cdn.patientengage.cloud/sites/1ae885ad-ada7-41da-a3f2-c99458a5469b/live/media/019cc11a-8660-751d-8b21-9fe6b5589ae4/Thumbnail-contacts.jpg",
+        "og:description": "We offer a wide range of contact lenses to fit your needs including contact lens exams and fittings.",
+        "og:site_name": "Vue Eyecare",
+        "og:locale": "en_US"
+      },
+      "twitter": {},
+      "hreflang": [],
+      "jsonLdTypes": [
+        "Organization",
+        "WebPage"
+      ],
+      "jsonLd": [
+        {
+          "@context": "https://schema.org",
+          "@type": "Organization",
+          "name": "Vue Eyecare",
+          "url": "https://www.vueeyecare.com",
+          "logo": "https://cdn.patientengage.cloud/external/storage.googleapis.com/ecp-samurai/20092/VUE-LOGO-PHOTOSHOP-no-highlight-I-shadow-copy.jpg"
+        },
+        {
+          "@context": "https://schema.org",
+          "@type": "WebPage",
+          "@id": "https://www.vueeyecare.com/contact-lenses/",
+          "url": "https://www.vueeyecare.com/contact-lenses/",
+          "name": "Contact Lenses",
+          "datePublished": "2026-03-06T03:04:34.248Z",
+          "dateModified": "2026-08-18T17:53:57.809Z"
+        }
+      ],
+      "imageCount": 12,
+      "imagesMissingAlt": 0,
+      "internalLinkCount": 16,
+      "externalLinkCount": 6,
+      "scripts": [],
+      "inlineStyleBytes": 82019
+    },
+    {
+      "url": "https://www.vueeyecare.com/contact-lenses/contact-lenses-for-the-hard-to-fit-patient",
+      "finalUrl": "https://www.vueeyecare.com/contact-lenses/contact-lenses-for-the-hard-to-fit-patient/",
+      "status": 200,
+      "redirectChain": [
+        {
+          "from": "https://www.vueeyecare.com/contact-lenses/contact-lenses-for-the-hard-to-fit-patient",
+          "status": 301,
+          "to": "https://www.vueeyecare.com/contact-lenses/contact-lenses-for-the-hard-to-fit-patient/"
+        }
+      ],
+      "title": "Contact Lenses for the “Hard-to-Fit” Patient - Vue Eyecare",
+      "titleLength": 58,
+      "metaDescription": "Challenges such as astigmatism, presbyopia, keratoconus and dry eyes needn’t be a barrier to contact lens wear, but they do require more time and patience.",
+      "metaDescriptionLength": 155,
+      "metaRobots": "",
+      "canonical": "https://www.vueeyecare.com/contact-lenses/contact-lenses-for-the-hard-to-fit-patient/",
+      "lang": "en",
+      "h1Count": 1,
+      "headingOutline": [
+        "1:Contact Lenses for the “Hard-to-Fit” Patient",
+        "2:Dry Eyes and Contact Lenses",
+        "2:Toric Lenses for Astigmatism",
+        "3:Giant Papillary Conjunctivitis (GPC) and Contact Lenses",
+        "3:Rigid Gas Permeable (RGP) or Gas Permeable (GP) Lenses",
+        "3:Rigid Gas Permeable (RGP) Lenses for Keratoconus",
+        "3:Post-LASIK or Vision Correction (Refractive) Surgery",
+        "3:Bifocal and Multifocal Contact Lenses for Presbyopia"
+      ],
+      "openGraph": {
+        "og:url": "https://www.vueeyecare.com/contact-lenses/contact-lenses-for-the-hard-to-fit-patient/",
+        "og:type": "website",
+        "og:title": "Contact Lenses for the “Hard-to-Fit” Patient - Vue Eyecare",
+        "og:image": "https://cdn.patientengage.cloud/sites/1ae885ad-ada7-41da-a3f2-c99458a5469b/live/media/019cc11a-9843-76b9-bddd-99eb9fd6996a/Thumbnail-contacts-4.jpg",
+        "og:description": "Challenges such as astigmatism, presbyopia, keratoconus and dry eyes needn’t be a barrier to contact lens wear, but they do require more time and patience.",
+        "og:site_name": "Vue Eyecare",
+        "og:locale": "en_US"
+      },
+      "twitter": {},
+      "hreflang": [],
+      "jsonLdTypes": [
+        "Organization",
+        "WebPage"
+      ],
+      "jsonLd": [
+        {
+          "@context": "https://schema.org",
+          "@type": "Organization",
+          "name": "Vue Eyecare",
+          "url": "https://www.vueeyecare.com",
+          "logo": "https://cdn.patientengage.cloud/external/storage.googleapis.com/ecp-samurai/20092/VUE-LOGO-PHOTOSHOP-no-highlight-I-shadow-copy.jpg"
+        },
+        {
+          "@context": "https://schema.org",
+          "@type": "WebPage",
+          "@id": "https://www.vueeyecare.com/contact-lenses/contact-lenses-for-the-hard-to-fit-patient/",
+          "url": "https://www.vueeyecare.com/contact-lenses/contact-lenses-for-the-hard-to-fit-patient/",
+          "name": "Contact Lenses for the “Hard-to-Fit” Patient",
+          "datePublished": "2026-03-06T03:04:35.738Z",
+          "dateModified": "2026-08-18T17:41:50.279Z"
+        }
+      ],
+      "imageCount": 3,
+      "imagesMissingAlt": 0,
+      "internalLinkCount": 15,
+      "externalLinkCount": 6,
+      "scripts": [],
+      "inlineStyleBytes": 40314
+    },
+    {
+      "url": "https://www.vueeyecare.com/contact-lenses/eye-exams-for-contact-lenses",
+      "finalUrl": "https://www.vueeyecare.com/contact-lenses/eye-exams-for-contact-lenses/",
+      "status": 200,
+      "redirectChain": [
+        {
+          "from": "https://www.vueeyecare.com/contact-lenses/eye-exams-for-contact-lenses",
+          "status": 301,
+          "to": "https://www.vueeyecare.com/contact-lenses/eye-exams-for-contact-lenses/"
+        }
+      ],
+      "title": "Eye Exams for Contact Lenses - Vue Eyecare",
+      "titleLength": 42,
+      "metaDescription": "Contact lens fittings include testing to determine if your eyes are suitable for contact lens wear and measurements required for the prescription.",
+      "metaDescriptionLength": 146,
+      "metaRobots": "noindex nofollow",
+      "canonical": "https://www.vueeyecare.com/contact-lenses/eye-exams-for-contact-lenses/",
+      "lang": "en",
+      "h1Count": 1,
+      "headingOutline": [
+        "1:Eye Exams for Contact Lenses",
+        "2:The Importance of a Comprehensive Eye Exam",
+        "2:The Contact Lens Consultation",
+        "2:Contact Lens Fitting",
+        "3:Corneal Curvature",
+        "3:Pupil or Iris Size",
+        "3:Tear Film Evaluation",
+        "3:Contact Lens Trial and Prescription",
+        "2:Follow-up"
+      ],
+      "openGraph": {
+        "og:url": "https://www.vueeyecare.com/contact-lenses/eye-exams-for-contact-lenses/",
+        "og:type": "website",
+        "og:title": "Eye Exams for Contact Lenses - Vue Eyecare",
+        "og:image": "https://cdn.patientengage.cloud/sites/1ae885ad-ada7-41da-a3f2-c99458a5469b/live/media/019cc11a-92a6-759e-a0f2-15a876b8fbc3/Thumbnail-contact-exam.jpg",
+        "og:description": "Contact lens fittings include testing to determine if your eyes are suitable for contact lens wear and measurements required for the prescription.",
+        "og:site_name": "Vue Eyecare",
+        "og:locale": "en_US"
+      },
+      "twitter": {},
+      "hreflang": [],
+      "jsonLdTypes": [
+        "Organization",
+        "WebPage"
+      ],
+      "jsonLd": [
+        {
+          "@context": "https://schema.org",
+          "@type": "Organization",
+          "name": "Vue Eyecare",
+          "url": "https://www.vueeyecare.com",
+          "logo": "https://cdn.patientengage.cloud/external/storage.googleapis.com/ecp-samurai/20092/VUE-LOGO-PHOTOSHOP-no-highlight-I-shadow-copy.jpg"
+        },
+        {
+          "@context": "https://schema.org",
+          "@type": "WebPage",
+          "@id": "https://www.vueeyecare.com/contact-lenses/eye-exams-for-contact-lenses/",
+          "url": "https://www.vueeyecare.com/contact-lenses/eye-exams-for-contact-lenses/",
+          "name": "Eye Exams for Contact Lenses",
+          "datePublished": "2026-03-06T03:04:35.269Z",
+          "dateModified": "2026-08-18T17:41:50.279Z"
+        }
+      ],
+      "imageCount": 3,
+      "imagesMissingAlt": 0,
+      "internalLinkCount": 15,
+      "externalLinkCount": 6,
+      "scripts": [],
+      "inlineStyleBytes": 40374
+    },
+    {
+      "url": "https://www.vueeyecare.com/contact-lenses/toric-contact-lenses-for-astigmatism",
+      "finalUrl": "https://www.vueeyecare.com/contact-lenses/toric-contact-lenses-for-astigmatism/",
+      "status": 200,
+      "redirectChain": [
+        {
+          "from": "https://www.vueeyecare.com/contact-lenses/toric-contact-lenses-for-astigmatism",
+          "status": 301,
+          "to": "https://www.vueeyecare.com/contact-lenses/toric-contact-lenses-for-astigmatism/"
+        }
+      ],
+      "title": "Toric Contact Lenses for Astigmatism - Vue Eyecare",
+      "titleLength": 50,
+      "metaDescription": "If you were told you could not wear soft contacts because you have astigmatism, you will be happy to hear this once-true statement is now simply a myth.",
+      "metaDescriptionLength": 152,
+      "metaRobots": "noindex nofollow",
+      "canonical": "https://www.vueeyecare.com/contact-lenses/toric-contact-lenses-for-astigmatism/",
+      "lang": "en",
+      "h1Count": 1,
+      "headingOutline": [
+        "1:Toric Contact Lenses for Astigmatism",
+        "2:What are Toric Contact Lenses?"
+      ],
+      "openGraph": {
+        "og:url": "https://www.vueeyecare.com/contact-lenses/toric-contact-lenses-for-astigmatism/",
+        "og:type": "website",
+        "og:title": "Toric Contact Lenses for Astigmatism - Vue Eyecare",
+        "og:image": "https://cdn.patientengage.cloud/sites/1ae885ad-ada7-41da-a3f2-c99458a5469b/live/media/019cc11a-9843-76b9-bddd-9d178e28b14a/Thumbnail-contacts-astig.jpg",
+        "og:description": "If you were told you could not wear soft contacts because you have astigmatism, you will be happy to hear this once-true statement is now simply a myth.",
+        "og:site_name": "Vue Eyecare",
+        "og:locale": "en_US"
+      },
+      "twitter": {},
+      "hreflang": [],
+      "jsonLdTypes": [
+        "Organization",
+        "WebPage"
+      ],
+      "jsonLd": [
+        {
+          "@context": "https://schema.org",
+          "@type": "Organization",
+          "name": "Vue Eyecare",
+          "url": "https://www.vueeyecare.com",
+          "logo": "https://cdn.patientengage.cloud/external/storage.googleapis.com/ecp-samurai/20092/VUE-LOGO-PHOTOSHOP-no-highlight-I-shadow-copy.jpg"
+        },
+        {
+          "@context": "https://schema.org",
+          "@type": "WebPage",
+          "@id": "https://www.vueeyecare.com/contact-lenses/toric-contact-lenses-for-astigmatism/",
+          "url": "https://www.vueeyecare.com/contact-lenses/toric-contact-lenses-for-astigmatism/",
+          "name": "Toric Contact Lenses for Astigmatism",
+          "datePublished": "2026-03-06T03:04:35.968Z",
+          "dateModified": "2026-08-18T17:41:50.279Z"
+        }
+      ],
+      "imageCount": 3,
+      "imagesMissingAlt": 0,
+      "internalLinkCount": 15,
+      "externalLinkCount": 6,
+      "scripts": [],
+      "inlineStyleBytes": 39601
+    },
+    {
+      "url": "https://www.vueeyecare.com/contact-us",
+      "finalUrl": "https://www.vueeyecare.com/contact-us/",
+      "status": 200,
+      "redirectChain": [
+        {
+          "from": "https://www.vueeyecare.com/contact-us",
+          "status": 301,
+          "to": "https://www.vueeyecare.com/contact-us/"
+        }
+      ],
+      "title": "Contact Us - Vue Eyecare",
+      "titleLength": 24,
+      "metaDescription": "We want to hear from you. Get in touch with our office or provide feedback, using our online forms, by email or by phone.",
+      "metaDescriptionLength": 121,
+      "metaRobots": "",
+      "canonical": "https://www.vueeyecare.com/contact-us/",
+      "lang": "en",
+      "h1Count": 1,
+      "headingOutline": [
+        "1:Contact Us"
+      ],
+      "openGraph": {
+        "og:url": "https://www.vueeyecare.com/contact-us/",
+        "og:type": "website",
+        "og:title": "Contact Us - Vue Eyecare",
+        "og:description": "We want to hear from you. Get in touch with our office or provide feedback, using our online forms, by email or by phone.",
+        "og:site_name": "Vue Eyecare",
+        "og:locale": "en_US"
+      },
+      "twitter": {},
+      "hreflang": [],
+      "jsonLdTypes": [
+        "Organization",
+        "WebPage"
+      ],
+      "jsonLd": [
+        {
+          "@context": "https://schema.org",
+          "@type": "Organization",
+          "name": "Vue Eyecare",
+          "url": "https://www.vueeyecare.com",
+          "logo": "https://cdn.patientengage.cloud/external/storage.googleapis.com/ecp-samurai/20092/VUE-LOGO-PHOTOSHOP-no-highlight-I-shadow-copy.jpg"
+        },
+        {
+          "@context": "https://schema.org",
+          "@type": "WebPage",
+          "@id": "https://www.vueeyecare.com/contact-us/",
+          "url": "https://www.vueeyecare.com/contact-us/",
+          "name": "Contact Us",
+          "datePublished": "2026-03-06T03:04:33.398Z",
+          "dateModified": "2026-09-03T17:38:32.350Z"
+        }
+      ],
+      "imageCount": 4,
+      "imagesMissingAlt": 1,
+      "internalLinkCount": 15,
+      "externalLinkCount": 6,
+      "scripts": [],
+      "inlineStyleBytes": 43489
+    },
+    {
+      "url": "https://www.vueeyecare.com/disclaimer",
+      "finalUrl": "https://www.vueeyecare.com/disclaimer/",
+      "status": 200,
+      "redirectChain": [
+        {
+          "from": "https://www.vueeyecare.com/disclaimer",
+          "status": 301,
+          "to": "https://www.vueeyecare.com/disclaimer/"
+        }
+      ],
+      "title": "Disclaimer - Vue Eyecare",
+      "titleLength": 24,
+      "metaDescription": "Read the disclaimer to find out what this site does and does not intend to provide.",
+      "metaDescriptionLength": 83,
+      "metaRobots": "",
+      "canonical": "https://www.vueeyecare.com/disclaimer/",
+      "lang": "en",
+      "h1Count": 1,
+      "headingOutline": [
+        "1:Disclaimer"
+      ],
+      "openGraph": {
+        "og:url": "https://www.vueeyecare.com/disclaimer/",
+        "og:type": "website",
+        "og:title": "Disclaimer - Vue Eyecare",
+        "og:description": "Read the disclaimer to find out what this site does and does not intend to provide.",
+        "og:site_name": "Vue Eyecare",
+        "og:locale": "en_US"
+      },
+      "twitter": {},
+      "hreflang": [],
+      "jsonLdTypes": [
+        "Organization",
+        "WebPage"
+      ],
+      "jsonLd": [
+        {
+          "@context": "https://schema.org",
+          "@type": "Organization",
+          "name": "Vue Eyecare",
+          "url": "https://www.vueeyecare.com",
+          "logo": "https://cdn.patientengage.cloud/external/storage.googleapis.com/ecp-samurai/20092/VUE-LOGO-PHOTOSHOP-no-highlight-I-shadow-copy.jpg"
+        },
+        {
+          "@context": "https://schema.org",
+          "@type": "WebPage",
+          "@id": "https://www.vueeyecare.com/disclaimer/",
+          "url": "https://www.vueeyecare.com/disclaimer/",
+          "name": "Disclaimer",
+          "datePublished": "2026-03-06T03:04:33.723Z",
+          "dateModified": "2026-08-18T17:41:50.279Z"
+        }
+      ],
+      "imageCount": 3,
+      "imagesMissingAlt": 0,
+      "internalLinkCount": 15,
+      "externalLinkCount": 6,
+      "scripts": [],
+      "inlineStyleBytes": 40306
+    },
+    {
+      "url": "https://www.vueeyecare.com/eye-care-services",
+      "finalUrl": "https://www.vueeyecare.com/eye-care-services/",
+      "status": 200,
+      "redirectChain": [
+        {
+          "from": "https://www.vueeyecare.com/eye-care-services",
+          "status": 301,
+          "to": "https://www.vueeyecare.com/eye-care-services/"
+        }
+      ],
+      "title": "Eye Care Services",
+      "titleLength": 17,
+      "metaDescription": "Comprehensive eye exams and so much more. Our eye doctors provide complete family eye care services for clients of all ages. Now accepting new patients!",
+      "metaDescriptionLength": 152,
+      "metaRobots": "",
+      "canonical": "https://www.vueeyecare.com/eye-care-services/",
+      "lang": "en",
+      "h1Count": 1,
+      "headingOutline": [
+        "1:Eye Care Services in Baton Rouge",
+        "2:Thorough Eye Exams at Vue Eyecare",
+        "2:Myopia Control",
+        "2:LASIK & Refractive Surgery Co-Management",
+        "2:Dry Eye Diagnosis and Treatment",
+        "2:Eye Disease Detection and Treatment"
+      ],
+      "openGraph": {
+        "og:url": "https://www.vueeyecare.com/eye-care-services/",
+        "og:type": "website",
+        "og:title": "Eye Care Services",
+        "og:description": "Comprehensive eye exams and so much more. Our eye doctors provide complete family eye care services for clients of all ages. Now accepting new patients!",
+        "og:site_name": "Vue Eyecare",
+        "og:locale": "en_US"
+      },
+      "twitter": {},
+      "hreflang": [],
+      "jsonLdTypes": [
+        "Organization",
+        "WebPage"
+      ],
+      "jsonLd": [
+        {
+          "@context": "https://schema.org",
+          "@type": "Organization",
+          "name": "Vue Eyecare",
+          "url": "https://www.vueeyecare.com",
+          "logo": "https://cdn.patientengage.cloud/external/storage.googleapis.com/ecp-samurai/20092/VUE-LOGO-PHOTOSHOP-no-highlight-I-shadow-copy.jpg"
+        },
+        {
+          "@context": "https://schema.org",
+          "@type": "WebPage",
+          "@id": "https://www.vueeyecare.com/eye-care-services/",
+          "url": "https://www.vueeyecare.com/eye-care-services/",
+          "name": "Eye Care Services",
+          "datePublished": "2026-03-06T03:04:32.922Z",
+          "dateModified": "2026-08-18T17:55:00.488Z"
+        }
+      ],
+      "imageCount": 9,
+      "imagesMissingAlt": 0,
+      "internalLinkCount": 18,
+      "externalLinkCount": 6,
+      "scripts": [],
+      "inlineStyleBytes": 78859
+    },
+    {
+      "url": "https://www.vueeyecare.com/eye-care-services/contact-lens-exams",
+      "finalUrl": "https://www.vueeyecare.com/eye-care-services/contact-lens-exams/",
+      "status": 200,
+      "redirectChain": [
+        {
+          "from": "https://www.vueeyecare.com/eye-care-services/contact-lens-exams",
+          "status": 301,
+          "to": "https://www.vueeyecare.com/eye-care-services/contact-lens-exams/"
+        }
+      ],
+      "title": "Contact Lens Exam | Eye Doctor",
+      "titleLength": 30,
+      "metaDescription": "Vue Eyecare",
+      "metaDescriptionLength": 11,
+      "metaRobots": "",
+      "canonical": "https://www.vueeyecare.com/eye-care-services/contact-lens-exams/",
+      "lang": "en",
+      "h1Count": 1,
+      "headingOutline": [
+        "1:Contact Lens Exams",
+        "2:The Importance of a Comprehensive Eye Exam",
+        "3:Hard To Fit Contact Lens Patients",
+        "2:The Contact Lens Consultation",
+        "2:Contact Lens Fitting",
+        "3:Corneal Curvature",
+        "3:Pupil or Iris Size",
+        "3:Tear Film Evaluation",
+        "3:Contact Lens Trial and Prescription",
+        "2:Follow-up",
+        "2:Hard-to-Fit Contacts"
+      ],
+      "openGraph": {
+        "og:url": "https://www.vueeyecare.com/eye-care-services/contact-lens-exams/",
+        "og:type": "website",
+        "og:title": "Contact Lens Exam | Eye Doctor",
+        "og:image": "https://cdn.patientengage.cloud/sites/1ae885ad-ada7-41da-a3f2-c99458a5469b/live/media/019cc11a-8660-751d-8b21-9fe6b5589ae4/Thumbnail-contacts.jpg",
+        "og:description": "Vue Eyecare",
+        "og:site_name": "Vue Eyecare",
+        "og:locale": "en_US"
+      },
+      "twitter": {},
+      "hreflang": [],
+      "jsonLdTypes": [
+        "Organization",
+        "WebPage"
+      ],
+      "jsonLd": [
+        {
+          "@context": "https://schema.org",
+          "@type": "Organization",
+          "name": "Vue Eyecare",
+          "url": "https://www.vueeyecare.com",
+          "logo": "https://cdn.patientengage.cloud/external/storage.googleapis.com/ecp-samurai/20092/VUE-LOGO-PHOTOSHOP-no-highlight-I-shadow-copy.jpg"
+        },
+        {
+          "@context": "https://schema.org",
+          "@type": "WebPage",
+          "@id": "https://www.vueeyecare.com/eye-care-services/contact-lens-exams/",
+          "url": "https://www.vueeyecare.com/eye-care-services/contact-lens-exams/",
+          "name": "Contact Lens Exams",
+          "datePublished": "2026-03-06T03:04:34.655Z",
+          "dateModified": "2026-08-18T17:41:50.279Z"
+        }
+      ],
+      "imageCount": 5,
+      "imagesMissingAlt": 0,
+      "internalLinkCount": 16,
+      "externalLinkCount": 6,
+      "scripts": [],
+      "inlineStyleBytes": 72904
+    },
+    {
+      "url": "https://www.vueeyecare.com/eye-care-services/contact-lens-exams/hard-to-fit",
+      "finalUrl": "https://www.vueeyecare.com/eye-care-services/contact-lens-exams/hard-to-fit/",
+      "status": 200,
+      "redirectChain": [
+        {
+          "from": "https://www.vueeyecare.com/eye-care-services/contact-lens-exams/hard-to-fit",
+          "status": 301,
+          "to": "https://www.vueeyecare.com/eye-care-services/contact-lens-exams/hard-to-fit/"
+        }
+      ],
+      "title": "Been Told You Can't Wear Contacts? Hard-To-Fit Contact Lenses Are Here",
+      "titleLength": 70,
+      "metaDescription": "Vue Eyecare",
+      "metaDescriptionLength": 11,
+      "metaRobots": "",
+      "canonical": "https://www.vueeyecare.com/eye-care-services/contact-lens-exams/hard-to-fit/",
+      "lang": "en",
+      "h1Count": 1,
+      "headingOutline": [
+        "1:Contact Lenses for the Hard to Fit Patient",
+        "2:Dry Eyes and Contact Lenses",
+        "2:Toric Lenses for Astigmatism",
+        "2:Rigid Gas Permeable (RGP) or Gas Permeable (GP) Lenses",
+        "2:Rigid Gas Permeable (RGP) Lenses for Keratoconus",
+        "2:Giant Papillary Conjunctivitis (GPC) and Contact Lenses",
+        "2:Post-LASIK or Vision Correction (Refractive) Surgery",
+        "3:Bifocal and Multifocal Contact Lenses for Presbyopia"
+      ],
+      "openGraph": {
+        "og:url": "https://www.vueeyecare.com/eye-care-services/contact-lens-exams/hard-to-fit/",
+        "og:type": "website",
+        "og:title": "Been Told You Can't Wear Contacts? Hard-To-Fit Contact Lenses Are Here",
+        "og:description": "Vue Eyecare",
+        "og:site_name": "Vue Eyecare",
+        "og:locale": "en_US"
+      },
+      "twitter": {},
+      "hreflang": [],
+      "jsonLdTypes": [
+        "Organization",
+        "WebPage"
+      ],
+      "jsonLd": [
+        {
+          "@context": "https://schema.org",
+          "@type": "Organization",
+          "name": "Vue Eyecare",
+          "url": "https://www.vueeyecare.com",
+          "logo": "https://cdn.patientengage.cloud/external/storage.googleapis.com/ecp-samurai/20092/VUE-LOGO-PHOTOSHOP-no-highlight-I-shadow-copy.jpg"
+        },
+        {
+          "@context": "https://schema.org",
+          "@type": "WebPage",
+          "@id": "https://www.vueeyecare.com/eye-care-services/contact-lens-exams/hard-to-fit/",
+          "url": "https://www.vueeyecare.com/eye-care-services/contact-lens-exams/hard-to-fit/",
+          "name": "Hard-to-Fit Contacts",
+          "datePublished": "2026-03-06T03:04:36.428Z",
+          "dateModified": "2026-08-18T17:41:50.279Z"
+        }
+      ],
+      "imageCount": 3,
+      "imagesMissingAlt": 0,
+      "internalLinkCount": 15,
+      "externalLinkCount": 6,
+      "scripts": [],
+      "inlineStyleBytes": 59053
+    },
+    {
+      "url": "https://www.vueeyecare.com/eye-care-services/eye-conditions",
+      "finalUrl": "https://www.vueeyecare.com/eye-care-services/eye-conditions/",
+      "status": 200,
+      "redirectChain": [
+        {
+          "from": "https://www.vueeyecare.com/eye-care-services/eye-conditions",
+          "status": 301,
+          "to": "https://www.vueeyecare.com/eye-care-services/eye-conditions/"
+        }
+      ],
+      "title": "Eye Conditions | Eye Doctor & Eye Exam Near You",
+      "titleLength": 47,
+      "metaDescription": "Vue Eyecare",
+      "metaDescriptionLength": 11,
+      "metaRobots": "",
+      "canonical": "https://www.vueeyecare.com/eye-care-services/eye-conditions/",
+      "lang": "en",
+      "h1Count": 1,
+      "headingOutline": [
+        "1:Eye Condition Treatment"
+      ],
+      "openGraph": {
+        "og:url": "https://www.vueeyecare.com/eye-care-services/eye-conditions/",
+        "og:type": "website",
+        "og:title": "Eye Conditions | Eye Doctor & Eye Exam Near You",
+        "og:image": "https://cdn.patientengage.cloud/sites/1ae885ad-ada7-41da-a3f2-c99458a5469b/live/media/019cc11a-8662-766b-a0a4-5fda80e40737/Thumbnail-treatments.jpg",
+        "og:description": "Vue Eyecare",
+        "og:site_name": "Vue Eyecare",
+        "og:locale": "en_US"
+      },
+      "twitter": {},
+      "hreflang": [],
+      "jsonLdTypes": [
+        "Organization",
+        "WebPage"
+      ],
+      "jsonLd": [
+        {
+          "@context": "https://schema.org",
+          "@type": "Organization",
+          "name": "Vue Eyecare",
+          "url": "https://www.vueeyecare.com",
+          "logo": "https://cdn.patientengage.cloud/external/storage.googleapis.com/ecp-samurai/20092/VUE-LOGO-PHOTOSHOP-no-highlight-I-shadow-copy.jpg"
+        },
+        {
+          "@context": "https://schema.org",
+          "@type": "WebPage",
+          "@id": "https://www.vueeyecare.com/eye-care-services/eye-conditions/",
+          "url": "https://www.vueeyecare.com/eye-care-services/eye-conditions/",
+          "name": "Eye Condition Treatment",
+          "datePublished": "2026-03-06T03:04:34.706Z",
+          "dateModified": "2026-08-18T17:41:50.279Z"
+        }
+      ],
+      "imageCount": 4,
+      "imagesMissingAlt": 0,
+      "internalLinkCount": 16,
+      "externalLinkCount": 6,
+      "scripts": [],
+      "inlineStyleBytes": 43399
+    },
+    {
+      "url": "https://www.vueeyecare.com/eye-care-services/eye-conditions/dry-eye-disease-and-treatment",
+      "finalUrl": "https://www.vueeyecare.com/eye-care-services/eye-conditions/dry-eye-disease-and-treatment/",
+      "status": 200,
+      "redirectChain": [
+        {
+          "from": "https://www.vueeyecare.com/eye-care-services/eye-conditions/dry-eye-disease-and-treatment",
+          "status": 301,
+          "to": "https://www.vueeyecare.com/eye-care-services/eye-conditions/dry-eye-disease-and-treatment/"
+        }
+      ],
+      "title": "Dry Eye Treatment | Dry Eye Syndrome | Dry Eyes | Optometrist",
+      "titleLength": 61,
+      "metaDescription": "Vue Eyecare",
+      "metaDescriptionLength": 11,
+      "metaRobots": "",
+      "canonical": "https://www.vueeyecare.com/eye-care-services/eye-conditions/dry-eye-disease-and-treatment/",
+      "lang": "en",
+      "h1Count": 1,
+      "headingOutline": [
+        "1:Dry Eyes",
+        "2:Symptoms of Dry Eye Disease",
+        "2:Causes of Dry Eye Disease",
+        "2:Diagnosis of Dry Eye Disease",
+        "2:Treatment for Dry Eyes",
+        "2:Preventing Dry Eyes"
+      ],
+      "openGraph": {
+        "og:url": "https://www.vueeyecare.com/eye-care-services/eye-conditions/dry-eye-disease-and-treatment/",
+        "og:type": "website",
+        "og:title": "Dry Eye Treatment | Dry Eye Syndrome | Dry Eyes | Optometrist",
+        "og:description": "Vue Eyecare",
+        "og:site_name": "Vue Eyecare",
+        "og:locale": "en_US"
+      },
+      "twitter": {},
+      "hreflang": [],
+      "jsonLdTypes": [
+        "Organization",
+        "WebPage"
+      ],
+      "jsonLd": [
+        {
+          "@context": "https://schema.org",
+          "@type": "Organization",
+          "name": "Vue Eyecare",
+          "url": "https://www.vueeyecare.com",
+          "logo": "https://cdn.patientengage.cloud/external/storage.googleapis.com/ecp-samurai/20092/VUE-LOGO-PHOTOSHOP-no-highlight-I-shadow-copy.jpg"
+        },
+        {
+          "@context": "https://schema.org",
+          "@type": "WebPage",
+          "@id": "https://www.vueeyecare.com/eye-care-services/eye-conditions/dry-eye-disease-and-treatment/",
+          "url": "https://www.vueeyecare.com/eye-care-services/eye-conditions/dry-eye-disease-and-treatment/",
+          "name": "Dry Eyes",
+          "datePublished": "2026-03-06T03:04:36.374Z",
+          "dateModified": "2026-09-03T17:48:07.534Z"
+        }
+      ],
+      "imageCount": 4,
+      "imagesMissingAlt": 0,
+      "internalLinkCount": 15,
+      "externalLinkCount": 6,
+      "scripts": [],
+      "inlineStyleBytes": 55989
+    },
+    {
+      "url": "https://www.vueeyecare.com/eye-care-services/eye-emergencies-pinkred-eyes",
+      "finalUrl": "https://www.vueeyecare.com/eye-care-services/eye-emergencies-pinkred-eyes/",
+      "status": 200,
+      "redirectChain": [
+        {
+          "from": "https://www.vueeyecare.com/eye-care-services/eye-emergencies-pinkred-eyes",
+          "status": 301,
+          "to": "https://www.vueeyecare.com/eye-care-services/eye-emergencies-pinkred-eyes/"
+        }
+      ],
+      "title": "Pink Eye | Infection, Injury, Foreign Body Removal | Eye Emergency Doctor",
+      "titleLength": 73,
+      "metaDescription": "Vue Eyecare",
+      "metaDescriptionLength": 11,
+      "metaRobots": "",
+      "canonical": "https://www.vueeyecare.com/eye-care-services/eye-emergencies-pinkred-eyes/",
+      "lang": "en",
+      "h1Count": 1,
+      "headingOutline": [
+        "1:Eye Emergencies (Pink/Red Eyes)",
+        "2:Providing Emergency Eye Care Services in Baton Rouge",
+        "2:What is an Eye Emergency?",
+        "2:Is an Eye Infection an Emergency?",
+        "2:Symptoms That Require Emergency Eye Care",
+        "2:What to Do if Something Gets Into Your Eye?",
+        "2:What To Do If You Have an Eye Emergency?"
+      ],
+      "openGraph": {
+        "og:url": "https://www.vueeyecare.com/eye-care-services/eye-emergencies-pinkred-eyes/",
+        "og:type": "website",
+        "og:title": "Pink Eye | Infection, Injury, Foreign Body Removal | Eye Emergency Doctor",
+        "og:image": "https://cdn.patientengage.cloud/sites/1ae885ad-ada7-41da-a3f2-c99458a5469b/live/media/019cc11a-8664-7239-ae8a-d435f1fee728/Thumbnail-Emerg.jpg",
+        "og:description": "Vue Eyecare",
+        "og:site_name": "Vue Eyecare",
+        "og:locale": "en_US"
+      },
+      "twitter": {},
+      "hreflang": [],
+      "jsonLdTypes": [
+        "Organization",
+        "WebPage"
+      ],
+      "jsonLd": [
+        {
+          "@context": "https://schema.org",
+          "@type": "Organization",
+          "name": "Vue Eyecare",
+          "url": "https://www.vueeyecare.com",
+          "logo": "https://cdn.patientengage.cloud/external/storage.googleapis.com/ecp-samurai/20092/VUE-LOGO-PHOTOSHOP-no-highlight-I-shadow-copy.jpg"
+        },
+        {
+          "@context": "https://schema.org",
+          "@type": "WebPage",
+          "@id": "https://www.vueeyecare.com/eye-care-services/eye-emergencies-pinkred-eyes/",
+          "url": "https://www.vueeyecare.com/eye-care-services/eye-emergencies-pinkred-eyes/",
+          "name": "Eye Emergencies (Pink/Red Eyes)",
+          "datePublished": "2026-03-06T03:04:34.838Z",
+          "dateModified": "2026-08-18T17:41:50.279Z"
+        }
+      ],
+      "imageCount": 4,
+      "imagesMissingAlt": 0,
+      "internalLinkCount": 15,
+      "externalLinkCount": 6,
+      "scripts": [],
+      "inlineStyleBytes": 45737
+    },
+    {
+      "url": "https://www.vueeyecare.com/eye-care-services/eye-exams",
+      "finalUrl": "https://www.vueeyecare.com/eye-care-services/eye-exams/",
+      "status": 200,
+      "redirectChain": [
+        {
+          "from": "https://www.vueeyecare.com/eye-care-services/eye-exams",
+          "status": 301,
+          "to": "https://www.vueeyecare.com/eye-care-services/eye-exams/"
+        }
+      ],
+      "title": "Eye Exam Near You | Optometrist",
+      "titleLength": 31,
+      "metaDescription": "Vue Eyecare",
+      "metaDescriptionLength": 11,
+      "metaRobots": "",
+      "canonical": "https://www.vueeyecare.com/eye-care-services/eye-exams/",
+      "lang": "en",
+      "h1Count": 1,
+      "headingOutline": [
+        "1:Comprehensive Eye Exams",
+        "2:Need an Eye Exam to Update Your Prescription?",
+        "2:Eye Care for Everyone",
+        "3:How Often Do You Need to See the Optometrist, Based on Age?",
+        "3:Eye Exams for Children"
+      ],
+      "openGraph": {
+        "og:url": "https://www.vueeyecare.com/eye-care-services/eye-exams/",
+        "og:type": "website",
+        "og:title": "Eye Exam Near You | Optometrist",
+        "og:image": "https://cdn.patientengage.cloud/sites/1ae885ad-ada7-41da-a3f2-c99458a5469b/live/media/019cc11a-8658-722a-9de4-45c0bc10169d/Thumbnail-phoropter.jpg",
+        "og:description": "Vue Eyecare",
+        "og:site_name": "Vue Eyecare",
+        "og:locale": "en_US"
+      },
+      "twitter": {},
+      "hreflang": [],
+      "jsonLdTypes": [
+        "Organization",
+        "WebPage"
+      ],
+      "jsonLd": [
+        {
+          "@context": "https://schema.org",
+          "@type": "Organization",
+          "name": "Vue Eyecare",
+          "url": "https://www.vueeyecare.com",
+          "logo": "https://cdn.patientengage.cloud/external/storage.googleapis.com/ecp-samurai/20092/VUE-LOGO-PHOTOSHOP-no-highlight-I-shadow-copy.jpg"
+        },
+        {
+          "@context": "https://schema.org",
+          "@type": "WebPage",
+          "@id": "https://www.vueeyecare.com/eye-care-services/eye-exams/",
+          "url": "https://www.vueeyecare.com/eye-care-services/eye-exams/",
+          "name": "Comprehensive Eye Exams",
+          "datePublished": "2026-03-06T03:04:34.537Z",
+          "dateModified": "2026-08-18T17:41:50.279Z"
+        }
+      ],
+      "imageCount": 5,
+      "imagesMissingAlt": 0,
+      "internalLinkCount": 15,
+      "externalLinkCount": 6,
+      "scripts": [],
+      "inlineStyleBytes": 56341
+    },
+    {
+      "url": "https://www.vueeyecare.com/eye-care-services/lasik-refractive-surgery-co-management",
+      "finalUrl": "https://www.vueeyecare.com/eye-care-services/lasik-refractive-surgery-co-management/",
+      "status": 200,
+      "redirectChain": [
+        {
+          "from": "https://www.vueeyecare.com/eye-care-services/lasik-refractive-surgery-co-management",
+          "status": 301,
+          "to": "https://www.vueeyecare.com/eye-care-services/lasik-refractive-surgery-co-management/"
+        }
+      ],
+      "title": "LASIK | Eye Surgery Co-management Pre-Op & Post-Op | Optometrist",
+      "titleLength": 64,
+      "metaDescription": "If you are ready for an alternative to glasses and/or contacts look to us for co-management of LASIK, cataract, and other ocular surgery.",
+      "metaDescriptionLength": 137,
+      "metaRobots": "",
+      "canonical": "https://www.vueeyecare.com/eye-care-services/lasik-refractive-surgery-co-management/",
+      "lang": "en",
+      "h1Count": 1,
+      "headingOutline": [
+        "1:LASIK & Refractive Surgery Co-Management",
+        "2:LASIK",
+        "3:Who Are The Optimal LASIK Candidates?",
+        "3:Specifics of The LASIK Procedure",
+        "3:What Is Wavefront LASIK?",
+        "3:After The Surgery",
+        "4:If My Vision Is Blurry After LASIK…",
+        "4:After LASIK Eyewear",
+        "4:After LASIK Eye Care"
+      ],
+      "openGraph": {
+        "og:url": "https://www.vueeyecare.com/eye-care-services/lasik-refractive-surgery-co-management/",
+        "og:type": "website",
+        "og:title": "LASIK | Eye Surgery Co-management Pre-Op & Post-Op | Optometrist",
+        "og:image": "https://cdn.patientengage.cloud/sites/1ae885ad-ada7-41da-a3f2-c99458a5469b/live/media/019cc11a-8665-7081-b0b0-611f03924cd9/Thumbnail-lasik.jpg",
+        "og:description": "If you are ready for an alternative to glasses and/or contacts look to us for co-management of LASIK, cataract, and other ocular surgery.",
+        "og:site_name": "Vue Eyecare",
+        "og:locale": "en_US"
+      },
+      "twitter": {},
+      "hreflang": [],
+      "jsonLdTypes": [
+        "Organization",
+        "WebPage"
+      ],
+      "jsonLd": [
+        {
+          "@context": "https://schema.org",
+          "@type": "Organization",
+          "name": "Vue Eyecare",
+          "url": "https://www.vueeyecare.com",
+          "logo": "https://cdn.patientengage.cloud/external/storage.googleapis.com/ecp-samurai/20092/VUE-LOGO-PHOTOSHOP-no-highlight-I-shadow-copy.jpg"
+        },
+        {
+          "@context": "https://schema.org",
+          "@type": "WebPage",
+          "@id": "https://www.vueeyecare.com/eye-care-services/lasik-refractive-surgery-co-management/",
+          "url": "https://www.vueeyecare.com/eye-care-services/lasik-refractive-surgery-co-management/",
+          "name": "LASIK & Refractive Surgery Co-Management",
+          "datePublished": "2026-03-06T03:04:34.889Z",
+          "dateModified": "2026-08-18T17:41:50.279Z"
+        }
+      ],
+      "imageCount": 4,
+      "imagesMissingAlt": 0,
+      "internalLinkCount": 15,
+      "externalLinkCount": 6,
+      "scripts": [],
+      "inlineStyleBytes": 68482
+    },
+    {
+      "url": "https://www.vueeyecare.com/eye-care-services/management-of-ocular-diseases",
+      "finalUrl": "https://www.vueeyecare.com/eye-care-services/management-of-ocular-diseases/",
+      "status": 200,
+      "redirectChain": [
+        {
+          "from": "https://www.vueeyecare.com/eye-care-services/management-of-ocular-diseases",
+          "status": 301,
+          "to": "https://www.vueeyecare.com/eye-care-services/management-of-ocular-diseases/"
+        }
+      ],
+      "title": "Eye Disease Management | Eye Exam | Eye Doctor Near You",
+      "titleLength": 55,
+      "metaDescription": "Vue Eyecare",
+      "metaDescriptionLength": 11,
+      "metaRobots": "",
+      "canonical": "https://www.vueeyecare.com/eye-care-services/management-of-ocular-diseases/",
+      "lang": "en",
+      "h1Count": 1,
+      "headingOutline": [
+        "1:Eye Disease Management",
+        "2:Ocular Disease Diagnosis and Treatment"
+      ],
+      "openGraph": {
+        "og:url": "https://www.vueeyecare.com/eye-care-services/management-of-ocular-diseases/",
+        "og:type": "website",
+        "og:title": "Eye Disease Management | Eye Exam | Eye Doctor Near You",
+        "og:image": "https://cdn.patientengage.cloud/sites/1ae885ad-ada7-41da-a3f2-c99458a5469b/live/media/019cc11a-8663-77b3-ace1-a9eb5e6b5b5d/Thumbnail-EyeDisease.jpg",
+        "og:description": "Vue Eyecare",
+        "og:site_name": "Vue Eyecare",
+        "og:locale": "en_US"
+      },
+      "twitter": {},
+      "hreflang": [],
+      "jsonLdTypes": [
+        "Organization",
+        "WebPage"
+      ],
+      "jsonLd": [
+        {
+          "@context": "https://schema.org",
+          "@type": "Organization",
+          "name": "Vue Eyecare",
+          "url": "https://www.vueeyecare.com",
+          "logo": "https://cdn.patientengage.cloud/external/storage.googleapis.com/ecp-samurai/20092/VUE-LOGO-PHOTOSHOP-no-highlight-I-shadow-copy.jpg"
+        },
+        {
+          "@context": "https://schema.org",
+          "@type": "WebPage",
+          "@id": "https://www.vueeyecare.com/eye-care-services/management-of-ocular-diseases/",
+          "url": "https://www.vueeyecare.com/eye-care-services/management-of-ocular-diseases/",
+          "name": "Eye Disease Management",
+          "datePublished": "2026-03-06T03:04:34.769Z",
+          "dateModified": "2026-08-18T17:41:50.279Z"
+        }
+      ],
+      "imageCount": 4,
+      "imagesMissingAlt": 0,
+      "internalLinkCount": 19,
+      "externalLinkCount": 6,
+      "scripts": [],
+      "inlineStyleBytes": 54393
+    },
+    {
+      "url": "https://www.vueeyecare.com/eye-care-services/management-of-ocular-diseases/cataract-surgery-co-management",
+      "finalUrl": "https://www.vueeyecare.com/eye-care-services/management-of-ocular-diseases/cataract-surgery-co-management/",
+      "status": 200,
+      "redirectChain": [
+        {
+          "from": "https://www.vueeyecare.com/eye-care-services/management-of-ocular-diseases/cataract-surgery-co-management",
+          "status": 301,
+          "to": "https://www.vueeyecare.com/eye-care-services/management-of-ocular-diseases/cataract-surgery-co-management/"
+        }
+      ],
+      "title": "Cataract Surgery | Treating Cataracts Pre-op & Post-op | Optometrist",
+      "titleLength": 68,
+      "metaDescription": "Cataract surgery is the removal of the natural lens of the eye that has developed a cataract. Our practice provides pre-op and post-cataract surgery care.",
+      "metaDescriptionLength": 154,
+      "metaRobots": "",
+      "canonical": "https://www.vueeyecare.com/eye-care-services/management-of-ocular-diseases/cataract-surgery-co-management/",
+      "lang": "en",
+      "h1Count": 1,
+      "headingOutline": [
+        "1:Cataract Surgery Co-Management",
+        "2:Cataract Surgery"
+      ],
+      "openGraph": {
+        "og:url": "https://www.vueeyecare.com/eye-care-services/management-of-ocular-diseases/cataract-surgery-co-management/",
+        "og:type": "website",
+        "og:title": "Cataract Surgery | Treating Cataracts Pre-op & Post-op | Optometrist",
+        "og:description": "Cataract surgery is the removal of the natural lens of the eye that has developed a cataract. Our practice provides pre-op and post-cataract surgery care.",
+        "og:site_name": "Vue Eyecare",
+        "og:locale": "en_US"
+      },
+      "twitter": {},
+      "hreflang": [],
+      "jsonLdTypes": [
+        "Organization",
+        "WebPage"
+      ],
+      "jsonLd": [
+        {
+          "@context": "https://schema.org",
+          "@type": "Organization",
+          "name": "Vue Eyecare",
+          "url": "https://www.vueeyecare.com",
+          "logo": "https://cdn.patientengage.cloud/external/storage.googleapis.com/ecp-samurai/20092/VUE-LOGO-PHOTOSHOP-no-highlight-I-shadow-copy.jpg"
+        },
+        {
+          "@context": "https://schema.org",
+          "@type": "WebPage",
+          "@id": "https://www.vueeyecare.com/eye-care-services/management-of-ocular-diseases/cataract-surgery-co-management/",
+          "url": "https://www.vueeyecare.com/eye-care-services/management-of-ocular-diseases/cataract-surgery-co-management/",
+          "name": "Cataract Surgery Co-Management",
+          "datePublished": "2026-03-06T03:04:35.067Z",
+          "dateModified": "2026-08-18T17:41:50.279Z"
+        }
+      ],
+      "imageCount": 3,
+      "imagesMissingAlt": 0,
+      "internalLinkCount": 16,
+      "externalLinkCount": 6,
+      "scripts": [],
+      "inlineStyleBytes": 43880
+    },
+    {
+      "url": "https://www.vueeyecare.com/eye-care-services/management-of-ocular-diseases/glaucoma-testing-treatment",
+      "finalUrl": "https://www.vueeyecare.com/eye-care-services/management-of-ocular-diseases/glaucoma-testing-treatment/",
+      "status": 200,
+      "redirectChain": [
+        {
+          "from": "https://www.vueeyecare.com/eye-care-services/management-of-ocular-diseases/glaucoma-testing-treatment",
+          "status": 301,
+          "to": "https://www.vueeyecare.com/eye-care-services/management-of-ocular-diseases/glaucoma-testing-treatment/"
+        }
+      ],
+      "title": "Glaucoma Eye Exam | Early Diagnosis & Treatment | Eye Doctor",
+      "titleLength": 60,
+      "metaDescription": "Over time, glaucoma causes permanent loss of vision and, without treatment, total blindness within a few years. Get tested now to preserve your eyesight.",
+      "metaDescriptionLength": 153,
+      "metaRobots": "",
+      "canonical": "https://www.vueeyecare.com/eye-care-services/management-of-ocular-diseases/glaucoma-testing-treatment/",
+      "lang": "en",
+      "h1Count": 1,
+      "headingOutline": [
+        "1:Glaucoma Testing & Treatment",
+        "2:What is Glaucoma?",
+        "3:Risk Factors",
+        "2:Understanding Glaucoma",
+        "2:Signs and Symptoms of Glaucoma",
+        "3:What are the Symptoms?",
+        "2:Types of Glaucoma",
+        "3:Primary open-angle glaucoma (POAG)",
+        "3:Normal-tension glaucoma or low-tension glaucoma",
+        "3:Angle-closure glaucoma",
+        "3:Congenital glaucoma",
+        "3:Secondary glaucomas",
+        "3:Pigmentary glaucoma",
+        "3:Detecting Glaucoma",
+        "4:IOP Measurement",
+        "4:Visual Field Test",
+        "4:Retina Testing",
+        "3:Treating Glaucoma",
+        "4:Medication",
+        "4:Surgery",
+        "4:Prevention"
+      ],
+      "openGraph": {
+        "og:url": "https://www.vueeyecare.com/eye-care-services/management-of-ocular-diseases/glaucoma-testing-treatment/",
+        "og:type": "website",
+        "og:title": "Glaucoma Eye Exam | Early Diagnosis & Treatment | Eye Doctor",
+        "og:description": "Over time, glaucoma causes permanent loss of vision and, without treatment, total blindness within a few years. Get tested now to preserve your eyesight.",
+        "og:site_name": "Vue Eyecare",
+        "og:locale": "en_US"
+      },
+      "twitter": {},
+      "hreflang": [],
+      "jsonLdTypes": [
+        "Organization",
+        "WebPage"
+      ],
+      "jsonLd": [
+        {
+          "@context": "https://schema.org",
+          "@type": "Organization",
+          "name": "Vue Eyecare",
+          "url": "https://www.vueeyecare.com",
+          "logo": "https://cdn.patientengage.cloud/external/storage.googleapis.com/ecp-samurai/20092/VUE-LOGO-PHOTOSHOP-no-highlight-I-shadow-copy.jpg"
+        },
+        {
+          "@context": "https://schema.org",
+          "@type": "WebPage",
+          "@id": "https://www.vueeyecare.com/eye-care-services/management-of-ocular-diseases/glaucoma-testing-treatment/",
+          "url": "https://www.vueeyecare.com/eye-care-services/management-of-ocular-diseases/glaucoma-testing-treatment/",
+          "name": "Glaucoma Testing & Treatment",
+          "datePublished": "2026-03-06T03:04:35.596Z",
+          "dateModified": "2026-09-03T17:48:10.520Z"
+        }
+      ],
+      "imageCount": 3,
+      "imagesMissingAlt": 0,
+      "internalLinkCount": 16,
+      "externalLinkCount": 6,
+      "scripts": [],
+      "inlineStyleBytes": 73158
+    },
+    {
+      "url": "https://www.vueeyecare.com/eye-care-services/management-of-ocular-diseases/treating-diabetic-retinopathy",
+      "finalUrl": "https://www.vueeyecare.com/eye-care-services/management-of-ocular-diseases/treating-diabetic-retinopathy/",
+      "status": 200,
+      "redirectChain": [
+        {
+          "from": "https://www.vueeyecare.com/eye-care-services/management-of-ocular-diseases/treating-diabetic-retinopathy",
+          "status": 301,
+          "to": "https://www.vueeyecare.com/eye-care-services/management-of-ocular-diseases/treating-diabetic-retinopathy/"
+        }
+      ],
+      "title": "Diabetic Retinopathy | Diabetic Eye Disease | Diabetes Eye Exam",
+      "titleLength": 63,
+      "metaDescription": "If you have diabetes, you need to know that this systemic disease puts you at greater risk for developing vision problems. Be diligent about eye care.",
+      "metaDescriptionLength": 150,
+      "metaRobots": "",
+      "canonical": "https://www.vueeyecare.com/eye-care-services/management-of-ocular-diseases/treating-diabetic-retinopathy/",
+      "lang": "en",
+      "h1Count": 1,
+      "headingOutline": [
+        "1:Diabetic Eye Disease",
+        "2:Diabetic Retinopathy"
+      ],
+      "openGraph": {
+        "og:url": "https://www.vueeyecare.com/eye-care-services/management-of-ocular-diseases/treating-diabetic-retinopathy/",
+        "og:type": "website",
+        "og:title": "Diabetic Retinopathy | Diabetic Eye Disease | Diabetes Eye Exam ",
+        "og:description": "If you have diabetes, you need to know that this systemic disease puts you at greater risk for developing vision problems. Be diligent about eye care.",
+        "og:site_name": "Vue Eyecare",
+        "og:locale": "en_US"
+      },
+      "twitter": {},
+      "hreflang": [],
+      "jsonLdTypes": [
+        "Organization",
+        "WebPage"
+      ],
+      "jsonLd": [
+        {
+          "@context": "https://schema.org",
+          "@type": "Organization",
+          "name": "Vue Eyecare",
+          "url": "https://www.vueeyecare.com",
+          "logo": "https://cdn.patientengage.cloud/external/storage.googleapis.com/ecp-samurai/20092/VUE-LOGO-PHOTOSHOP-no-highlight-I-shadow-copy.jpg"
+        },
+        {
+          "@context": "https://schema.org",
+          "@type": "WebPage",
+          "@id": "https://www.vueeyecare.com/eye-care-services/management-of-ocular-diseases/treating-diabetic-retinopathy/",
+          "url": "https://www.vueeyecare.com/eye-care-services/management-of-ocular-diseases/treating-diabetic-retinopathy/",
+          "name": "Diabetic Eye Disease",
+          "datePublished": "2026-03-06T03:04:35.438Z",
+          "dateModified": "2026-08-18T17:41:50.279Z"
+        }
+      ],
+      "imageCount": 3,
+      "imagesMissingAlt": 0,
+      "internalLinkCount": 16,
+      "externalLinkCount": 6,
+      "scripts": [],
+      "inlineStyleBytes": 43811
+    },
+    {
+      "url": "https://www.vueeyecare.com/eye-care-services/management-of-ocular-diseases/treating-macular-degeneration",
+      "finalUrl": "https://www.vueeyecare.com/eye-care-services/management-of-ocular-diseases/treating-macular-degeneration/",
+      "status": 200,
+      "redirectChain": [
+        {
+          "from": "https://www.vueeyecare.com/eye-care-services/management-of-ocular-diseases/treating-macular-degeneration",
+          "status": 301,
+          "to": "https://www.vueeyecare.com/eye-care-services/management-of-ocular-diseases/treating-macular-degeneration/"
+        }
+      ],
+      "title": "Macular Degeneration | AMD | Low Vision Treatment | Eye Doctor",
+      "titleLength": 62,
+      "metaDescription": "Vue Eyecare",
+      "metaDescriptionLength": 11,
+      "metaRobots": "",
+      "canonical": "https://www.vueeyecare.com/eye-care-services/management-of-ocular-diseases/treating-macular-degeneration/",
+      "lang": "en",
+      "h1Count": 1,
+      "headingOutline": [
+        "1:Macular Degeneration",
+        "2:Types of Macular Degeneration:",
+        "2:Learn More About ARMD"
+      ],
+      "openGraph": {
+        "og:url": "https://www.vueeyecare.com/eye-care-services/management-of-ocular-diseases/treating-macular-degeneration/",
+        "og:type": "website",
+        "og:title": "Macular Degeneration | AMD | Low Vision Treatment | Eye Doctor",
+        "og:description": "Vue Eyecare",
+        "og:site_name": "Vue Eyecare",
+        "og:locale": "en_US"
+      },
+      "twitter": {},
+      "hreflang": [],
+      "jsonLdTypes": [
+        "Organization",
+        "WebPage"
+      ],
+      "jsonLd": [
+        {
+          "@context": "https://schema.org",
+          "@type": "Organization",
+          "name": "Vue Eyecare",
+          "url": "https://www.vueeyecare.com",
+          "logo": "https://cdn.patientengage.cloud/external/storage.googleapis.com/ecp-samurai/20092/VUE-LOGO-PHOTOSHOP-no-highlight-I-shadow-copy.jpg"
+        },
+        {
+          "@context": "https://schema.org",
+          "@type": "WebPage",
+          "@id": "https://www.vueeyecare.com/eye-care-services/management-of-ocular-diseases/treating-macular-degeneration/",
+          "url": "https://www.vueeyecare.com/eye-care-services/management-of-ocular-diseases/treating-macular-degeneration/",
+          "name": "Macular Degeneration",
+          "datePublished": "2026-03-06T03:04:35.923Z",
+          "dateModified": "2026-08-18T17:41:50.279Z"
+        }
+      ],
+      "imageCount": 3,
+      "imagesMissingAlt": 0,
+      "internalLinkCount": 16,
+      "externalLinkCount": 6,
+      "scripts": [],
+      "inlineStyleBytes": 44357
+    },
+    {
+      "url": "https://www.vueeyecare.com/eye-care-services/myopia-management",
+      "finalUrl": "https://www.vueeyecare.com/eye-care-services/myopia-management/",
+      "status": 200,
+      "redirectChain": [
+        {
+          "from": "https://www.vueeyecare.com/eye-care-services/myopia-management",
+          "status": 301,
+          "to": "https://www.vueeyecare.com/eye-care-services/myopia-management/"
+        }
+      ],
+      "title": "Myopia Management - Vue Eyecare",
+      "titleLength": 31,
+      "metaDescription": "Vue Eyecare",
+      "metaDescriptionLength": 11,
+      "metaRobots": "",
+      "canonical": "https://www.vueeyecare.com/eye-care-services/myopia-management/",
+      "lang": "en",
+      "h1Count": 1,
+      "headingOutline": [
+        "1:Myopia Management",
+        "2:Myopia: Not Just An Inconvenience",
+        "3:Symptoms of Myopia",
+        "3:Myopia and Eye Diseases",
+        "2:Myopia Treatment",
+        "2:What is Myopia Management ?",
+        "2:Orthokeratology",
+        "2:What is Ortho-K?",
+        "2:Candidates for Ortho-K",
+        "2:Vision Results from Orthokeratology",
+        "2:How Does Ortho-k Feel?",
+        "2:Is Ortho-k Expensive?"
+      ],
+      "openGraph": {
+        "og:url": "https://www.vueeyecare.com/eye-care-services/myopia-management/",
+        "og:type": "website",
+        "og:title": "Myopia Management - Vue Eyecare",
+        "og:description": "Vue Eyecare",
+        "og:site_name": "Vue Eyecare",
+        "og:locale": "en_US"
+      },
+      "twitter": {},
+      "hreflang": [],
+      "jsonLdTypes": [
+        "Organization",
+        "WebPage"
+      ],
+      "jsonLd": [
+        {
+          "@context": "https://schema.org",
+          "@type": "Organization",
+          "name": "Vue Eyecare",
+          "url": "https://www.vueeyecare.com",
+          "logo": "https://cdn.patientengage.cloud/external/storage.googleapis.com/ecp-samurai/20092/VUE-LOGO-PHOTOSHOP-no-highlight-I-shadow-copy.jpg"
+        },
+        {
+          "@context": "https://schema.org",
+          "@type": "WebPage",
+          "@id": "https://www.vueeyecare.com/eye-care-services/myopia-management/",
+          "url": "https://www.vueeyecare.com/eye-care-services/myopia-management/",
+          "name": "Myopia Management",
+          "datePublished": "2026-05-06T19:09:26.148Z",
+          "dateModified": "2026-08-19T17:38:40.714Z"
+        }
+      ],
+      "imageCount": 5,
+      "imagesMissingAlt": 0,
+      "internalLinkCount": 15,
+      "externalLinkCount": 6,
+      "scripts": [],
+      "inlineStyleBytes": 78493
+    },
+    {
+      "url": "https://www.vueeyecare.com/eyeglasses",
+      "finalUrl": "https://www.vueeyecare.com/eyeglasses/",
+      "status": 200,
+      "redirectChain": [
+        {
+          "from": "https://www.vueeyecare.com/eyeglasses",
+          "status": 301,
+          "to": "https://www.vueeyecare.com/eyeglasses/"
+        }
+      ],
+      "title": "Eyeglasses - Vue Eyecare",
+      "titleLength": 24,
+      "metaDescription": "We carry a wide selection of eyewear at our optical including fashionable eyeglasses, a variety of contact, sunglasses, and specialty eyewear. Stop by!",
+      "metaDescriptionLength": 151,
+      "metaRobots": "",
+      "canonical": "https://www.vueeyecare.com/eyeglasses/",
+      "lang": "en",
+      "h1Count": 1,
+      "headingOutline": [
+        "1:Eyeglasses at Vue Eyecare",
+        "2:See Clearly With Our Prescription Eyeglasses",
+        "3:Prescription And Non-Prescription Sunglasses",
+        "2:Featured Designer Eyeglasses",
+        "2:Glasses For Kids",
+        "3:Special Eyewear For Specialty Needs",
+        "2:Transitions® Lenses",
+        "2:Lens Treatments"
+      ],
+      "openGraph": {
+        "og:url": "https://www.vueeyecare.com/eyeglasses/",
+        "og:type": "website",
+        "og:title": "Eyeglasses - Vue Eyecare",
+        "og:description": "We carry a wide selection of eyewear at our optical including fashionable eyeglasses, a variety of contact, sunglasses, and specialty eyewear. Stop by!",
+        "og:site_name": "Vue Eyecare",
+        "og:locale": "en_US"
+      },
+      "twitter": {},
+      "hreflang": [],
+      "jsonLdTypes": [
+        "Organization",
+        "WebPage"
+      ],
+      "jsonLd": [
+        {
+          "@context": "https://schema.org",
+          "@type": "Organization",
+          "name": "Vue Eyecare",
+          "url": "https://www.vueeyecare.com",
+          "logo": "https://cdn.patientengage.cloud/external/storage.googleapis.com/ecp-samurai/20092/VUE-LOGO-PHOTOSHOP-no-highlight-I-shadow-copy.jpg"
+        },
+        {
+          "@context": "https://schema.org",
+          "@type": "WebPage",
+          "@id": "https://www.vueeyecare.com/eyeglasses/",
+          "url": "https://www.vueeyecare.com/eyeglasses/",
+          "name": "Eyeglasses",
+          "datePublished": "2026-03-06T03:04:33.239Z",
+          "dateModified": "2026-08-18T17:41:50.279Z"
+        }
+      ],
+      "imageCount": 90,
+      "imagesMissingAlt": 41,
+      "internalLinkCount": 15,
+      "externalLinkCount": 6,
+      "scripts": [],
+      "inlineStyleBytes": 82172
+    },
+    {
+      "url": "https://www.vueeyecare.com/hours-location",
+      "finalUrl": "https://www.vueeyecare.com/hours-location/",
+      "status": 200,
+      "redirectChain": [
+        {
+          "from": "https://www.vueeyecare.com/hours-location",
+          "status": 301,
+          "to": "https://www.vueeyecare.com/hours-location/"
+        }
+      ],
+      "title": "Hours & Location - Vue Eyecare",
+      "titleLength": 30,
+      "metaDescription": "Get directions to our office and see when we are open.",
+      "metaDescriptionLength": 54,
+      "metaRobots": "",
+      "canonical": "https://www.vueeyecare.com/hours-location/",
+      "lang": "en",
+      "h1Count": 1,
+      "headingOutline": [
+        "1:Vue Eyecare",
+        "2:Our Eye Care Practice in Baton Rouge",
+        "2:Emergency Eye Care For Your Entire Family"
+      ],
+      "openGraph": {
+        "og:url": "https://www.vueeyecare.com/hours-location/",
+        "og:type": "website",
+        "og:title": "Hours & Location - Vue Eyecare",
+        "og:description": "Get directions to our office and see when we are open.",
+        "og:site_name": "Vue Eyecare",
+        "og:locale": "en_US"
+      },
+      "twitter": {},
+      "hreflang": [],
+      "jsonLdTypes": [
+        "Organization",
+        "WebPage"
+      ],
+      "jsonLd": [
+        {
+          "@context": "https://schema.org",
+          "@type": "Organization",
+          "name": "Vue Eyecare",
+          "url": "https://www.vueeyecare.com",
+          "logo": "https://cdn.patientengage.cloud/external/storage.googleapis.com/ecp-samurai/20092/VUE-LOGO-PHOTOSHOP-no-highlight-I-shadow-copy.jpg"
+        },
+        {
+          "@context": "https://schema.org",
+          "@type": "WebPage",
+          "@id": "https://www.vueeyecare.com/hours-location/",
+          "url": "https://www.vueeyecare.com/hours-location/",
+          "name": "Hours & Location",
+          "datePublished": "2026-03-06T03:04:32.996Z",
+          "dateModified": "2026-09-03T17:35:21.083Z"
+        }
+      ],
+      "imageCount": 4,
+      "imagesMissingAlt": 0,
+      "internalLinkCount": 15,
+      "externalLinkCount": 6,
+      "scripts": [],
+      "inlineStyleBytes": 57803
+    },
+    {
+      "url": "https://www.vueeyecare.com/insurance",
+      "finalUrl": "https://www.vueeyecare.com/insurance/",
+      "status": 200,
+      "redirectChain": [
+        {
+          "from": "https://www.vueeyecare.com/insurance",
+          "status": 301,
+          "to": "https://www.vueeyecare.com/insurance/"
+        }
+      ],
+      "title": "Insurance - Vue Eyecare",
+      "titleLength": 23,
+      "metaDescription": "The cost of routine eye exams and prescription eyewear can be of real concern, vision insurance can lower these annual expenses.",
+      "metaDescriptionLength": 128,
+      "metaRobots": "",
+      "canonical": "https://www.vueeyecare.com/insurance/",
+      "lang": "en",
+      "h1Count": 1,
+      "headingOutline": [
+        "1:Our Vue Eyecare Insurance Benefits",
+        "2:Vision Plans We Accept",
+        "2:Medical Plans We Accept"
+      ],
+      "openGraph": {
+        "og:url": "https://www.vueeyecare.com/insurance/",
+        "og:type": "website",
+        "og:title": "Insurance - Vue Eyecare",
+        "og:description": "The cost of routine eye exams and prescription eyewear can be of real concern, vision insurance can lower these annual expenses.",
+        "og:site_name": "Vue Eyecare",
+        "og:locale": "en_US"
+      },
+      "twitter": {},
+      "hreflang": [],
+      "jsonLdTypes": [
+        "Organization",
+        "WebPage"
+      ],
+      "jsonLd": [
+        {
+          "@context": "https://schema.org",
+          "@type": "Organization",
+          "name": "Vue Eyecare",
+          "url": "https://www.vueeyecare.com",
+          "logo": "https://cdn.patientengage.cloud/external/storage.googleapis.com/ecp-samurai/20092/VUE-LOGO-PHOTOSHOP-no-highlight-I-shadow-copy.jpg"
+        },
+        {
+          "@context": "https://schema.org",
+          "@type": "WebPage",
+          "@id": "https://www.vueeyecare.com/insurance/",
+          "url": "https://www.vueeyecare.com/insurance/",
+          "name": "Insurance",
+          "datePublished": "2026-03-06T03:04:33.321Z",
+          "dateModified": "2026-08-18T17:48:27.841Z"
+        }
+      ],
+      "imageCount": 60,
+      "imagesMissingAlt": 28,
+      "internalLinkCount": 18,
+      "externalLinkCount": 6,
+      "scripts": [],
+      "inlineStyleBytes": 64677
+    },
+    {
+      "url": "https://www.vueeyecare.com/insurance/carecredit",
+      "finalUrl": "https://www.vueeyecare.com/insurance/carecredit/",
+      "status": 200,
+      "redirectChain": [
+        {
+          "from": "https://www.vueeyecare.com/insurance/carecredit",
+          "status": 301,
+          "to": "https://www.vueeyecare.com/insurance/carecredit/"
+        }
+      ],
+      "title": "CareCredit - Vue Eyecare",
+      "titleLength": 24,
+      "metaDescription": "As a service to our patients we are pleased to offer the CareCredit card enabling low monthly payments that are easy to fit into your budget.",
+      "metaDescriptionLength": 141,
+      "metaRobots": "",
+      "canonical": "https://www.vueeyecare.com/insurance/carecredit/",
+      "lang": "en",
+      "h1Count": 1,
+      "headingOutline": [
+        "1:CareCredit",
+        "2:No Interest Payment Plans",
+        "2:Payment Plans"
+      ],
+      "openGraph": {
+        "og:url": "https://www.vueeyecare.com/insurance/carecredit/",
+        "og:type": "website",
+        "og:title": "CareCredit - Vue Eyecare",
+        "og:description": "As a service to our patients we are pleased to offer the CareCredit card enabling low monthly payments that are easy to fit into your budget.",
+        "og:site_name": "Vue Eyecare",
+        "og:locale": "en_US"
+      },
+      "twitter": {},
+      "hreflang": [],
+      "jsonLdTypes": [
+        "Organization",
+        "WebPage"
+      ],
+      "jsonLd": [
+        {
+          "@context": "https://schema.org",
+          "@type": "Organization",
+          "name": "Vue Eyecare",
+          "url": "https://www.vueeyecare.com",
+          "logo": "https://cdn.patientengage.cloud/external/storage.googleapis.com/ecp-samurai/20092/VUE-LOGO-PHOTOSHOP-no-highlight-I-shadow-copy.jpg"
+        },
+        {
+          "@context": "https://schema.org",
+          "@type": "WebPage",
+          "@id": "https://www.vueeyecare.com/insurance/carecredit/",
+          "url": "https://www.vueeyecare.com/insurance/carecredit/",
+          "name": "CareCredit",
+          "datePublished": "2026-03-06T03:04:34.102Z",
+          "dateModified": "2026-08-18T17:41:50.279Z"
+        }
+      ],
+      "imageCount": 4,
+      "imagesMissingAlt": 0,
+      "internalLinkCount": 15,
+      "externalLinkCount": 7,
+      "scripts": [],
+      "inlineStyleBytes": 41976
+    },
+    {
+      "url": "https://www.vueeyecare.com/insurance/faqs-of-vision-insurance-plans",
+      "finalUrl": "https://www.vueeyecare.com/insurance/faqs-of-vision-insurance-plans/",
+      "status": 200,
+      "redirectChain": [
+        {
+          "from": "https://www.vueeyecare.com/insurance/faqs-of-vision-insurance-plans",
+          "status": 301,
+          "to": "https://www.vueeyecare.com/insurance/faqs-of-vision-insurance-plans/"
+        }
+      ],
+      "title": "FAQs of Vision Insurance Plans - Vue Eyecare",
+      "titleLength": 44,
+      "metaDescription": "Vision insurance reduces the cost of eye care, prescription eyewear and other vision services. Learn about various plans, coverage & payment options.",
+      "metaDescriptionLength": 149,
+      "metaRobots": "",
+      "canonical": "https://www.vueeyecare.com/insurance/faqs-of-vision-insurance-plans/",
+      "lang": "en",
+      "h1Count": 1,
+      "headingOutline": [
+        "1:FAQs of Vision Insurance Plans"
+      ],
+      "openGraph": {
+        "og:url": "https://www.vueeyecare.com/insurance/faqs-of-vision-insurance-plans/",
+        "og:type": "website",
+        "og:title": "FAQs of Vision Insurance Plans - Vue Eyecare",
+        "og:description": "Vision insurance reduces the cost of eye care, prescription eyewear and other vision services. Learn about various plans, coverage & payment options.",
+        "og:site_name": "Vue Eyecare",
+        "og:locale": "en_US"
+      },
+      "twitter": {},
+      "hreflang": [],
+      "jsonLdTypes": [
+        "Organization",
+        "WebPage"
+      ],
+      "jsonLd": [
+        {
+          "@context": "https://schema.org",
+          "@type": "Organization",
+          "name": "Vue Eyecare",
+          "url": "https://www.vueeyecare.com",
+          "logo": "https://cdn.patientengage.cloud/external/storage.googleapis.com/ecp-samurai/20092/VUE-LOGO-PHOTOSHOP-no-highlight-I-shadow-copy.jpg"
+        },
+        {
+          "@context": "https://schema.org",
+          "@type": "WebPage",
+          "@id": "https://www.vueeyecare.com/insurance/faqs-of-vision-insurance-plans/",
+          "url": "https://www.vueeyecare.com/insurance/faqs-of-vision-insurance-plans/",
+          "name": "FAQs of Vision Insurance Plans",
+          "datePublished": "2026-03-06T03:04:34.308Z",
+          "dateModified": "2026-08-18T17:41:50.279Z"
+        }
+      ],
+      "imageCount": 3,
+      "imagesMissingAlt": 0,
+      "internalLinkCount": 15,
+      "externalLinkCount": 6,
+      "scripts": [],
+      "inlineStyleBytes": 41322
+    },
+    {
+      "url": "https://www.vueeyecare.com/insurance/whats-in-your-vision-insurance-plan",
+      "finalUrl": "https://www.vueeyecare.com/insurance/whats-in-your-vision-insurance-plan/",
+      "status": 200,
+      "redirectChain": [
+        {
+          "from": "https://www.vueeyecare.com/insurance/whats-in-your-vision-insurance-plan",
+          "status": 301,
+          "to": "https://www.vueeyecare.com/insurance/whats-in-your-vision-insurance-plan/"
+        }
+      ],
+      "title": "What’s in Your Vision Insurance Plan - Vue Eyecare",
+      "titleLength": 50,
+      "metaDescription": "Make the most of your vision insurance plan by understanding your particular vision coverage.",
+      "metaDescriptionLength": 93,
+      "metaRobots": "",
+      "canonical": "https://www.vueeyecare.com/insurance/whats-in-your-vision-insurance-plan/",
+      "lang": "en",
+      "h1Count": 1,
+      "headingOutline": [
+        "1:What’s in Your Vision Insurance Plan",
+        "2:Understanding Vision Plans and Coverage",
+        "2:Vision Benefits Package",
+        "2:Vision Discount Plans",
+        "2:Vision Insurance Planning",
+        "2:Use it or lose it. Vision insurance benefits do expire."
+      ],
+      "openGraph": {
+        "og:url": "https://www.vueeyecare.com/insurance/whats-in-your-vision-insurance-plan/",
+        "og:type": "website",
+        "og:title": "What’s in Your Vision Insurance Plan - Vue Eyecare",
+        "og:description": "Make the most of your vision insurance plan by understanding your particular vision coverage.",
+        "og:site_name": "Vue Eyecare",
+        "og:locale": "en_US"
+      },
+      "twitter": {},
+      "hreflang": [],
+      "jsonLdTypes": [
+        "Organization",
+        "WebPage"
+      ],
+      "jsonLd": [
+        {
+          "@context": "https://schema.org",
+          "@type": "Organization",
+          "name": "Vue Eyecare",
+          "url": "https://www.vueeyecare.com",
+          "logo": "https://cdn.patientengage.cloud/external/storage.googleapis.com/ecp-samurai/20092/VUE-LOGO-PHOTOSHOP-no-highlight-I-shadow-copy.jpg"
+        },
+        {
+          "@context": "https://schema.org",
+          "@type": "WebPage",
+          "@id": "https://www.vueeyecare.com/insurance/whats-in-your-vision-insurance-plan/",
+          "url": "https://www.vueeyecare.com/insurance/whats-in-your-vision-insurance-plan/",
+          "name": "What’s in Your Vision Insurance Plan",
+          "datePublished": "2026-03-06T03:04:34.038Z",
+          "dateModified": "2026-08-18T17:41:50.279Z"
+        }
+      ],
+      "imageCount": 3,
+      "imagesMissingAlt": 0,
+      "internalLinkCount": 15,
+      "externalLinkCount": 6,
+      "scripts": [],
+      "inlineStyleBytes": 40310
+    },
+    {
+      "url": "https://www.vueeyecare.com/location/vue-eyecare",
+      "finalUrl": "https://www.vueeyecare.com/location/vue-eyecare/",
+      "status": 200,
+      "redirectChain": [
+        {
+          "from": "https://www.vueeyecare.com/location/vue-eyecare",
+          "status": 301,
+          "to": "https://www.vueeyecare.com/location/vue-eyecare/"
+        }
+      ],
+      "title": "Vue Eyecare - Vue Eyecare",
+      "titleLength": 25,
+      "metaDescription": "Vue Eyecare",
+      "metaDescriptionLength": 11,
+      "metaRobots": "",
+      "canonical": "https://www.vueeyecare.com/location/vue-eyecare/",
+      "lang": "en",
+      "h1Count": 1,
+      "headingOutline": [
+        "1:Vue Eyecare"
+      ],
+      "openGraph": {
+        "og:url": "https://www.vueeyecare.com/location/vue-eyecare/",
+        "og:type": "website",
+        "og:title": "Vue Eyecare - Vue Eyecare",
+        "og:description": "Vue Eyecare",
+        "og:site_name": "Vue Eyecare",
+        "og:locale": "en_US"
+      },
+      "twitter": {},
+      "hreflang": [],
+      "jsonLdTypes": [
+        "Organization",
+        "WebPage",
+        "LocalBusiness"
+      ],
+      "jsonLd": [
+        {
+          "@context": "https://schema.org",
+          "@type": "Organization",
+          "name": "Vue Eyecare",
+          "url": "https://www.vueeyecare.com",
+          "logo": "https://cdn.patientengage.cloud/external/storage.googleapis.com/ecp-samurai/20092/VUE-LOGO-PHOTOSHOP-no-highlight-I-shadow-copy.jpg"
+        },
+        {
+          "@context": "https://schema.org",
+          "@type": "WebPage",
+          "@id": "https://www.vueeyecare.com/location/vue-eyecare/",
+          "url": "https://www.vueeyecare.com/location/vue-eyecare/",
+          "name": "Vue Eyecare",
+          "datePublished": "2026-09-27T03:29:06.462Z",
+          "dateModified": "2026-09-27T03:29:06.462Z"
+        },
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "LocalBusiness",
+              "name": "Vue Eyecare",
+              "url": "https://www.vueeyecare.com",
+              "telephone": "225-752-2419",
+              "address": {
+                "@type": "PostalAddress",
+                "streetAddress": "2515 O'Neal Ln Suite #5",
+                "addressLocality": "Baton Rouge",
+                "addressRegion": "Louisiana",
+                "postalCode": "70816",
+                "addressCountry": "US"
+              },
+              "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": "5.0",
+                "reviewCount": 20,
+                "bestRating": 5,
+                "worstRating": 1
+              },
+              "review": [
+                {
+                  "@type": "Review",
+                  "author": {
+                    "@type": "Person",
+                    "name": "Lena Lastrapes"
+                  },
+                  "reviewBody": "I had a remarkable experiences from front desk to assist had me look at lil red house.\nTo Dr Dinh, exam went well.\nExplained everything that would keep my eyes good.\nTo get less thickness of lenses as my left eye very weak and would of been to thick compared to other one.",
+                  "reviewRating": {
+                    "@type": "Rating",
+                    "ratingValue": 5,
+                    "bestRating": 5,
+                    "worstRating": 1
+                  }
+                },
+                {
+                  "@type": "Review",
+                  "author": {
+                    "@type": "Person",
+                    "name": "Latonya James"
+                  },
+                  "reviewBody": "Staff and Dr are always so nice, caring, and just so amazing all around. They actually care about their patients and love their jobs. 10/10, 100% recommend.",
+                  "reviewRating": {
+                    "@type": "Rating",
+                    "ratingValue": 5,
+                    "bestRating": 5,
+                    "worstRating": 1
+                  }
+                },
+                {
+                  "@type": "Review",
+                  "author": {
+                    "@type": "Person",
+                    "name": "Sharon Patrick"
+                  },
+                  "reviewBody": "Dr. Dinh is always very thorough during exam.  He explains what he’s doing making sure i understand the process.  He and his staff are very courteous and friendly.  My visits there are always fun.",
+                  "reviewRating": {
+                    "@type": "Rating",
+                    "ratingValue": 5,
+                    "bestRating": 5,
+                    "worstRating": 1
+                  }
+                },
+                {
+                  "@type": "Review",
+                  "author": {
+                    "@type": "Person",
+                    "name": "Leslie Juban"
+                  },
+                  "reviewBody": "Everyone at the office was nice. They accommodated me when I arrived early to my appointment. Dr. Dinh was very thorough and funny. I had fun during my appointment. Would recommend Vue Eye Care to everyone.",
+                  "reviewRating": {
+                    "@type": "Rating",
+                    "ratingValue": 5,
+                    "bestRating": 5,
+                    "worstRating": 1
+                  }
+                },
+                {
+                  "@type": "Review",
+                  "author": {
+                    "@type": "Person",
+                    "name": "Jacquole Johnson"
+                  },
+                  "reviewBody": "VUE Eyecare exceeded all my expectations! Dr. Dinh conducted eye exams for both of my children, and I was truly impressed by his thoroughness, professionalism, and warm demeanor. He took the time to explain everything clearly, making the experience both informative and enjoyable. His kindness and humor made my kids feel completely at ease—definitely a breath of fresh air compared to past eye exams we’ve had elsewhere. The office staff was also welcoming and efficient, making the entire visit seamless. If you’re looking for top-notch eye care with a personal touch, I highly recommend VUE Eyecare and Dr. Dinh!",
+                  "reviewRating": {
+                    "@type": "Rating",
+                    "ratingValue": 5,
+                    "bestRating": 5,
+                    "worstRating": 1
+                  }
+                },
+                {
+                  "@type": "Review",
+                  "author": {
+                    "@type": "Person",
+                    "name": "Charmaine Johnson"
+                  },
+                  "reviewBody": "I was pleased with the experience",
+                  "reviewRating": {
+                    "@type": "Rating",
+                    "ratingValue": 5,
+                    "bestRating": 5,
+                    "worstRating": 1
+                  }
+                },
+                {
+                  "@type": "Review",
+                  "author": {
+                    "@type": "Person",
+                    "name": "Corey Brown"
+                  },
+                  "reviewBody": "Everyone that works at Vue Eye.Care is nice and helpful",
+                  "reviewRating": {
+                    "@type": "Rating",
+                    "ratingValue": 5,
+                    "bestRating": 5,
+                    "worstRating": 1
+                  }
+                },
+                {
+                  "@type": "Review",
+                  "author": {
+                    "@type": "Person",
+                    "name": "Tina Johnson"
+                  },
+                  "reviewBody": "Very patient and kind staff.",
+                  "reviewRating": {
+                    "@type": "Rating",
+                    "ratingValue": 5,
+                    "bestRating": 5,
+                    "worstRating": 1
+                  }
+                },
+                {
+                  "@type": "Review",
+                  "author": {
+                    "@type": "Person",
+                    "name": "Kori Alexander"
+                  },
+                  "reviewBody": "Omg I love Dr. Dinh!! He’s funny, personable, and witty!! Not only that, he knows his stuff!! Vue Eyecare is quick and efficient!!! Would recommend 10 times out of 10!!!",
+                  "reviewRating": {
+                    "@type": "Rating",
+                    "ratingValue": 5,
+                    "bestRating": 5,
+                    "worstRating": 1
+                  }
+                },
+                {
+                  "@type": "Review",
+                  "author": {
+                    "@type": "Person",
+                    "name": "Ainson fontenot"
+                  },
+                  "reviewBody": "The Doctor and staff were extremely polite and professional.   Sales staff was vey patient and knowledgeable.   Very  positive experience.",
+                  "reviewRating": {
+                    "@type": "Rating",
+                    "ratingValue": 5,
+                    "bestRating": 5,
+                    "worstRating": 1
+                  }
+                },
+                {
+                  "@type": "Review",
+                  "author": {
+                    "@type": "Person",
+                    "name": "Tira James"
+                  },
+                  "reviewBody": "Dr.Dinh,as well as his Staff is very Professional,Knowledgeable,Friendly and Respectful, I,had Cataract Procedure under Dr.Dinh recommending it, and I truly thank God!! I listened. Dr.Dinh & Staff, ALWAYS make you feel cared for, I APPRECIATE that so much!!!THANK YOU!!!!! Tira James.",
+                  "reviewRating": {
+                    "@type": "Rating",
+                    "ratingValue": 5,
+                    "bestRating": 5,
+                    "worstRating": 1
+                  }
+                },
+                {
+                  "@type": "Review",
+                  "author": {
+                    "@type": "Person",
+                    "name": "Monica Jones"
+                  },
+                  "reviewBody": "Awesome customer service!",
+                  "reviewRating": {
+                    "@type": "Rating",
+                    "ratingValue": 5,
+                    "bestRating": 5,
+                    "worstRating": 1
+                  }
+                },
+                {
+                  "@type": "Review",
+                  "author": {
+                    "@type": "Person",
+                    "name": "Lauren"
+                  },
+                  "reviewBody": "Great doctor and staff.",
+                  "reviewRating": {
+                    "@type": "Rating",
+                    "ratingValue": 5,
+                    "bestRating": 5,
+                    "worstRating": 1
+                  }
+                },
+                {
+                  "@type": "Review",
+                  "author": {
+                    "@type": "Person",
+                    "name": "tasha GTown"
+                  },
+                  "reviewBody": "Great atmosphere, Dr.Dinh very friendly",
+                  "reviewRating": {
+                    "@type": "Rating",
+                    "ratingValue": 5,
+                    "bestRating": 5,
+                    "worstRating": 1
+                  }
+                },
+                {
+                  "@type": "Review",
+                  "author": {
+                    "@type": "Person",
+                    "name": "Gene Martin"
+                  },
+                  "reviewBody": "Get place , employees are nice",
+                  "reviewRating": {
+                    "@type": "Rating",
+                    "ratingValue": 5,
+                    "bestRating": 5,
+                    "worstRating": 1
+                  }
+                },
+                {
+                  "@type": "Review",
+                  "author": {
+                    "@type": "Person",
+                    "name": "Blake Anthony"
+                  },
+                  "reviewBody": "Great doctor!",
+                  "reviewRating": {
+                    "@type": "Rating",
+                    "ratingValue": 5,
+                    "bestRating": 5,
+                    "worstRating": 1
+                  }
+                },
+                {
+                  "@type": "Review",
+                  "author": {
+                    "@type": "Person",
+                    "name": "dorothy harris"
+                  },
+                  "reviewBody": "Staff is professional, kind and courteous.\nExaminers goes the extra mile on your behalf. Eye doctor explains himself clearly and ask throughout your exam do you have any questions. Eye doctor also have a great sense of humor to make you laugh and place you in your comfort zone as he proceeds to get the job done. ❤️❤️❤️",
+                  "reviewRating": {
+                    "@type": "Rating",
+                    "ratingValue": 5,
+                    "bestRating": 5,
+                    "worstRating": 1
+                  }
+                },
+                {
+                  "@type": "Review",
+                  "author": {
+                    "@type": "Person",
+                    "name": "Xed"
+                  },
+                  "reviewBody": "Straight Up WOW! This is my 3rd year as a VUE customer and I continue to say Bravoooo to the BEST! Dr. Vinh and Team are Consummate Professionals who always devote themselves to giving me a Thorough Eye Exam while treating me like a Friend. With Gratitude I Highly Recommend them to Everyone!",
+                  "reviewRating": {
+                    "@type": "Rating",
+                    "ratingValue": 5,
+                    "bestRating": 5,
+                    "worstRating": 1
+                  }
+                },
+                {
+                  "@type": "Review",
+                  "author": {
+                    "@type": "Person",
+                    "name": "Eldon Hart"
+                  },
+                  "reviewBody": "Dr Dinh and the staff were awesome",
+                  "reviewRating": {
+                    "@type": "Rating",
+                    "ratingValue": 5,
+                    "bestRating": 5,
+                    "worstRating": 1
+                  }
+                },
+                {
+                  "@type": "Review",
+                  "author": {
+                    "@type": "Person",
+                    "name": "Christina Davis"
+                  },
+                  "reviewBody": "Timely service, knowledgeable staff, friendly environment",
+                  "reviewRating": {
+                    "@type": "Rating",
+                    "ratingValue": 5,
+                    "bestRating": 5,
+                    "worstRating": 1
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "imageCount": 3,
+      "imagesMissingAlt": 0,
+      "internalLinkCount": 15,
+      "externalLinkCount": 6,
+      "scripts": [],
+      "inlineStyleBytes": 53769
+    },
+    {
+      "url": "https://www.vueeyecare.com/our-eye-doctors",
+      "finalUrl": "https://www.vueeyecare.com/our-eye-doctors/",
+      "status": 200,
+      "redirectChain": [
+        {
+          "from": "https://www.vueeyecare.com/our-eye-doctors",
+          "status": 301,
+          "to": "https://www.vueeyecare.com/our-eye-doctors/"
+        }
+      ],
+      "title": "Our Eye Doctor - Vue Eyecare",
+      "titleLength": 28,
+      "metaDescription": "Get to know a bit about our eye doctors even before your first visit.",
+      "metaDescriptionLength": 69,
+      "metaRobots": "",
+      "canonical": "https://www.vueeyecare.com/our-eye-doctors/",
+      "lang": "en",
+      "h1Count": 1,
+      "headingOutline": [
+        "1:Our Eye Doctor",
+        "2:Is it an Eye Care Emergency?"
+      ],
+      "openGraph": {
+        "og:url": "https://www.vueeyecare.com/our-eye-doctors/",
+        "og:type": "website",
+        "og:title": "Our Eye Doctor - Vue Eyecare",
+        "og:description": "Get to know a bit about our eye doctors even before your first visit.",
+        "og:site_name": "Vue Eyecare",
+        "og:locale": "en_US"
+      },
+      "twitter": {},
+      "hreflang": [],
+      "jsonLdTypes": [
+        "Organization",
+        "WebPage"
+      ],
+      "jsonLd": [
+        {
+          "@context": "https://schema.org",
+          "@type": "Organization",
+          "name": "Vue Eyecare",
+          "url": "https://www.vueeyecare.com",
+          "logo": "https://cdn.patientengage.cloud/external/storage.googleapis.com/ecp-samurai/20092/VUE-LOGO-PHOTOSHOP-no-highlight-I-shadow-copy.jpg"
+        },
+        {
+          "@context": "https://schema.org",
+          "@type": "WebPage",
+          "@id": "https://www.vueeyecare.com/our-eye-doctors/",
+          "url": "https://www.vueeyecare.com/our-eye-doctors/",
+          "name": "Our Eye Doctor",
+          "datePublished": "2026-03-06T03:04:33.082Z",
+          "dateModified": "2026-09-03T17:35:52.078Z"
+        }
+      ],
+      "imageCount": 6,
+      "imagesMissingAlt": 0,
+      "internalLinkCount": 17,
+      "externalLinkCount": 6,
+      "scripts": [],
+      "inlineStyleBytes": 57285
+    },
+    {
+      "url": "https://www.vueeyecare.com/privacy-policy",
+      "finalUrl": "https://www.vueeyecare.com/privacy-policy/",
+      "status": 200,
+      "redirectChain": [
+        {
+          "from": "https://www.vueeyecare.com/privacy-policy",
+          "status": 301,
+          "to": "https://www.vueeyecare.com/privacy-policy/"
+        }
+      ],
+      "title": "Privacy Policy - Vue Eyecare",
+      "titleLength": 28,
+      "metaDescription": "Your privacy is important to us. Read our policy here.",
+      "metaDescriptionLength": 54,
+      "metaRobots": "",
+      "canonical": "https://www.vueeyecare.com/privacy-policy/",
+      "lang": "en",
+      "h1Count": 1,
+      "headingOutline": [
+        "1:Privacy Policy"
+      ],
+      "openGraph": {
+        "og:url": "https://www.vueeyecare.com/privacy-policy/",
+        "og:type": "website",
+        "og:title": "Privacy Policy - Vue Eyecare",
+        "og:description": "Your privacy is important to us. Read our policy here.",
+        "og:site_name": "Vue Eyecare",
+        "og:locale": "en_US"
+      },
+      "twitter": {},
+      "hreflang": [],
+      "jsonLdTypes": [
+        "Organization",
+        "WebPage"
+      ],
+      "jsonLd": [
+        {
+          "@context": "https://schema.org",
+          "@type": "Organization",
+          "name": "Vue Eyecare",
+          "url": "https://www.vueeyecare.com",
+          "logo": "https://cdn.patientengage.cloud/external/storage.googleapis.com/ecp-samurai/20092/VUE-LOGO-PHOTOSHOP-no-highlight-I-shadow-copy.jpg"
+        },
+        {
+          "@context": "https://schema.org",
+          "@type": "WebPage",
+          "@id": "https://www.vueeyecare.com/privacy-policy/",
+          "url": "https://www.vueeyecare.com/privacy-policy/",
+          "name": "Privacy Policy",
+          "datePublished": "2026-03-06T03:04:33.529Z",
+          "dateModified": "2026-08-18T17:41:50.279Z"
+        }
+      ],
+      "imageCount": 3,
+      "imagesMissingAlt": 0,
+      "internalLinkCount": 15,
+      "externalLinkCount": 6,
+      "scripts": [],
+      "inlineStyleBytes": 40310
+    },
+    {
+      "url": "https://www.vueeyecare.com/promotions",
+      "finalUrl": "https://www.vueeyecare.com/promotions/",
+      "status": 200,
+      "redirectChain": [
+        {
+          "from": "https://www.vueeyecare.com/promotions",
+          "status": 301,
+          "to": "https://www.vueeyecare.com/promotions/"
+        }
+      ],
+      "title": "Promotions - Vue Eyecare",
+      "titleLength": 24,
+      "metaDescription": "Vue Eyecare",
+      "metaDescriptionLength": 11,
+      "metaRobots": "",
+      "canonical": "https://www.vueeyecare.com/promotions/",
+      "lang": "en",
+      "h1Count": 1,
+      "headingOutline": [
+        "1:Promotions",
+        "2:Summer is a Big Deal!",
+        "2:Need a Spare?!",
+        "2:Great Value Package!"
+      ],
+      "openGraph": {
+        "og:url": "https://www.vueeyecare.com/promotions/",
+        "og:type": "website",
+        "og:title": "Promotions - Vue Eyecare",
+        "og:description": "Vue Eyecare",
+        "og:site_name": "Vue Eyecare",
+        "og:locale": "en_US"
+      },
+      "twitter": {},
+      "hreflang": [],
+      "jsonLdTypes": [
+        "Organization",
+        "WebPage"
+      ],
+      "jsonLd": [
+        {
+          "@context": "https://schema.org",
+          "@type": "Organization",
+          "name": "Vue Eyecare",
+          "url": "https://www.vueeyecare.com",
+          "logo": "https://cdn.patientengage.cloud/external/storage.googleapis.com/ecp-samurai/20092/VUE-LOGO-PHOTOSHOP-no-highlight-I-shadow-copy.jpg"
+        },
+        {
+          "@context": "https://schema.org",
+          "@type": "WebPage",
+          "@id": "https://www.vueeyecare.com/promotions/",
+          "url": "https://www.vueeyecare.com/promotions/",
+          "name": "Promotions",
+          "datePublished": "2026-03-06T03:04:33.980Z",
+          "dateModified": "2026-09-03T17:48:15.303Z"
+        }
+      ],
+      "imageCount": 3,
+      "imagesMissingAlt": 0,
+      "internalLinkCount": 15,
+      "externalLinkCount": 6,
+      "scripts": [],
+      "inlineStyleBytes": 54888
+    },
+    {
+      "url": "https://www.vueeyecare.com/team/pt-dinh-od-ms-iacmm",
+      "finalUrl": "https://www.vueeyecare.com/team/pt-dinh-od-ms-iacmm/",
+      "status": 200,
+      "redirectChain": [
+        {
+          "from": "https://www.vueeyecare.com/team/pt-dinh-od-ms-iacmm",
+          "status": 301,
+          "to": "https://www.vueeyecare.com/team/pt-dinh-od-ms-iacmm/"
+        }
+      ],
+      "title": "P.T. Dinh, OD, MS, IACMM - Vue Eyecare",
+      "titleLength": 38,
+      "metaDescription": "Vue Eyecare",
+      "metaDescriptionLength": 11,
+      "metaRobots": "",
+      "canonical": "https://www.vueeyecare.com/team/pt-dinh-od-ms-iacmm/",
+      "lang": "en",
+      "h1Count": 1,
+      "headingOutline": [
+        "1:P.T. Dinh, OD, MS, IACMM"
+      ],
+      "openGraph": {
+        "og:url": "https://www.vueeyecare.com/team/pt-dinh-od-ms-iacmm/",
+        "og:type": "website",
+        "og:title": "P.T. Dinh, OD, MS, IACMM - Vue Eyecare",
+        "og:description": "Vue Eyecare",
+        "og:site_name": "Vue Eyecare",
+        "og:locale": "en_US"
+      },
+      "twitter": {},
+      "hreflang": [],
+      "jsonLdTypes": [
+        "Organization",
+        "WebPage",
+        "Person",
+        "IndividualPhysician"
+      ],
+      "jsonLd": [
+        {
+          "@context": "https://schema.org",
+          "@type": "Organization",
+          "name": "Vue Eyecare",
+          "url": "https://www.vueeyecare.com",
+          "logo": "https://cdn.patientengage.cloud/external/storage.googleapis.com/ecp-samurai/20092/VUE-LOGO-PHOTOSHOP-no-highlight-I-shadow-copy.jpg"
+        },
+        {
+          "@context": "https://schema.org",
+          "@type": "WebPage",
+          "@id": "https://www.vueeyecare.com/team/pt-dinh-od-ms-iacmm/",
+          "url": "https://www.vueeyecare.com/team/pt-dinh-od-ms-iacmm/",
+          "name": "P.T. Dinh, OD, MS, IACMM",
+          "datePublished": "2026-09-27T03:29:06.462Z",
+          "dateModified": "2026-09-27T03:29:06.462Z"
+        },
+        {
+          "@context": "https://schema.org",
+          "@type": [
+            "Person",
+            "IndividualPhysician"
+          ],
+          "@id": "https://www.vueeyecare.com/team/pt-dinh-od-ms-iacmm/#physician",
+          "name": "Dr. P.T. Dinh",
+          "givenName": "P.T.",
+          "familyName": "Dinh",
+          "honorificPrefix": "Dr.",
+          "jobTitle": "Optometric",
+          "image": "https://cdn.patientengage.cloud/external/storage.googleapis.com/ecp-samurai/37305/a1b72014-53e8-41f7-b0d9-76a76a0b02f3.jpeg",
+          "url": "https://www.vueeyecare.com/team/pt-dinh-od-ms-iacmm/",
+          "description": "Dr. Phuong T. Dinh is an experienced and highly skilled optometrist proudly serving the community of Baton Rouge. He moved to the United States with his parents and older sister in 1974 following the Vietnam War and later graduated from Catholic High School. Dr. Dinh continued his education at Louisiana State University (LSU), where he earned his Bachelor of Science degree, and went on to complete both his Master of Science and Doctor of Optometry degrees at the University of Houston in 2005.Dr. Dinh provides comprehensive routine and medical eye care, including contact lens fittings, dry eye treatment, eye infection management, glaucoma care, and retinal evaluations. He holds advanced certification from the International Academy in Myopia Management and has specialized expertise in orthokeratology (Ortho-K) for myopia control, as well as scleral lens fitting for keratoconus and post–refractive surgery patients. He is known for his thorough, respectful, and patient-centered approach, always striving to deliver individualized care with professionalism and compassion.Dr. Dinh has also participated in mission work providing essential eye care to underserved communities in Haiti and Honduras—experiences he considers deeply humbling and meaningful.Appreciated for his warm personality and uplifting sense of humor, Dr. Dinh is often told by patients that he could pursue a second career in stand-up comedy—a compliment he receives with gratitude and good humor.Outside of the exam room, Dr. Dinh enjoys country music, fishing, hunting, woodworking, playing guitar, cooking, baking, and traveling with his wife and two daughters. He considers it a true privilege to care for the eye health of individuals and families throughout Baton Rouge, Denham Springs, and the surrounding communities, as well, he remains committed to serving with integrity, compassion, and gratitude.",
+          "medicalSpecialty": "Optometric",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "2515 O'Neal Ln Suite #5",
+            "addressLocality": "Baton Rouge",
+            "addressRegion": "Louisiana",
+            "postalCode": "70816",
+            "addressCountry": "United States"
+          },
+          "practicesAt": {
+            "@type": "MedicalOrganization",
+            "@id": "https://www.vueeyecare.com/#organization",
+            "url": "https://www.vueeyecare.com",
+            "name": "Vue Eyecare",
+            "telephone": "225-752-2419",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "2515 O'Neal Ln Suite #5",
+              "addressLocality": "Baton Rouge",
+              "addressRegion": "Louisiana",
+              "postalCode": "70816",
+              "addressCountry": "United States"
+            },
+            "medicalSpecialty": "Optometric"
+          }
+        }
+      ],
+      "imageCount": 4,
+      "imagesMissingAlt": 0,
+      "internalLinkCount": 15,
+      "externalLinkCount": 6,
+      "scripts": [],
+      "inlineStyleBytes": 43712
+    },
+    {
+      "url": "https://www.vueeyecare.com/website-accessibility-policy",
+      "finalUrl": "https://www.vueeyecare.com/website-accessibility-policy/",
+      "status": 200,
+      "redirectChain": [
+        {
+          "from": "https://www.vueeyecare.com/website-accessibility-policy",
+          "status": 301,
+          "to": "https://www.vueeyecare.com/website-accessibility-policy/"
+        }
+      ],
+      "title": "Website Accessibility Policy - Vue Eyecare",
+      "titleLength": 42,
+      "metaDescription": "Vue Eyecare",
+      "metaDescriptionLength": 11,
+      "metaRobots": "",
+      "canonical": "https://www.vueeyecare.com/website-accessibility-policy/",
+      "lang": "en",
+      "h1Count": 1,
+      "headingOutline": [
+        "1:Website Accessibility Policy"
+      ],
+      "openGraph": {
+        "og:url": "https://www.vueeyecare.com/website-accessibility-policy/",
+        "og:type": "website",
+        "og:title": "Website Accessibility Policy - Vue Eyecare",
+        "og:description": "Vue Eyecare",
+        "og:site_name": "Vue Eyecare",
+        "og:locale": "en_US"
+      },
+      "twitter": {},
+      "hreflang": [],
+      "jsonLdTypes": [
+        "Organization",
+        "WebPage"
+      ],
+      "jsonLd": [
+        {
+          "@context": "https://schema.org",
+          "@type": "Organization",
+          "name": "Vue Eyecare",
+          "url": "https://www.vueeyecare.com",
+          "logo": "https://cdn.patientengage.cloud/external/storage.googleapis.com/ecp-samurai/20092/VUE-LOGO-PHOTOSHOP-no-highlight-I-shadow-copy.jpg"
+        },
+        {
+          "@context": "https://schema.org",
+          "@type": "WebPage",
+          "@id": "https://www.vueeyecare.com/website-accessibility-policy/",
+          "url": "https://www.vueeyecare.com/website-accessibility-policy/",
+          "name": "Website Accessibility Policy",
+          "datePublished": "2026-03-06T03:04:33.790Z",
+          "dateModified": "2026-08-18T17:41:50.279Z"
+        }
+      ],
+      "imageCount": 3,
+      "imagesMissingAlt": 0,
+      "internalLinkCount": 15,
+      "externalLinkCount": 7,
+      "scripts": [],
+      "inlineStyleBytes": 41122
+    }
+  ]
+}

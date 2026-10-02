@@ -1,0 +1,67 @@
+{
+ "title": "Hours & Location - Vue Eyecare",
+ "description": "Get directions to our office and see when we are open.",
+ "canonical": "https://www.vueeyecare.com/hours-location/",
+ "ogImage": "",
+ "blocks": [
+  {
+   "t": "h",
+   "level": 1,
+   "text": "Vue Eyecare",
+   "html": "Vue Eyecare"
+  },
+  {
+   "t": "p",
+   "html": "monday: 8:00 am - 4:30 pmtuesday: 8:00 am - 4:30 pmwednesday: 8:00 am - 4:30 pmthursday: 8:00 am - 4:30 pmfriday: 8:00 am - 4:30 pmsaturday: Closedsunday: Closed"
+  },
+  {
+   "t": "btn",
+   "href": "https://p.adit.com/Rx8cZ",
+   "text": "Schedule an Appointment"
+  },
+  {
+   "t": "embed",
+   "src": "https://www.google.com/maps/embed/v1/place?key=REDACTED-MAPS-KEY&q=place_id:ChIJvazbxom7JoYRDPolZoMfoeM",
+   "title": "Google Map"
+  },
+  {
+   "t": "h",
+   "level": 2,
+   "text": "Our Eye Care Practice in Baton Rouge",
+   "html": "Our Eye Care Practice in Baton Rouge"
+  },
+  {
+   "t": "p",
+   "html": "At our practice, we are more than just eye care professionals; we are a dedicated team passionate about enhancing your vision and ensuring your eyes are healthy. Our commitment to excellence, combined with a warm and welcoming environment, ensures that every visit is a pleasant and rewarding experience."
+  },
+  {
+   "t": "p",
+   "html": "We invite you to get in touch with us to discover the difference personalized care can make. Whether you're visiting for the first time or are a returning patient, making an appointment is the first step towards achieving optimal eye health and clear vision. Contact us today, and let us be your trusted partner in eye care."
+  },
+  {
+   "t": "h",
+   "level": 2,
+   "text": "Emergency Eye Care For Your Entire Family",
+   "html": "Emergency Eye Care For Your Entire Family"
+  },
+  {
+   "t": "p",
+   "html": "We offer emergency services that require immediate and urgent eye care. If your eye is injured, don't try to judge the severity of it. Immediately seek the opinion of an eye doctor to lessen the risk of hurting your vision. We understand ocular emergencies can arise at any time."
+  },
+  {
+   "t": "btn",
+   "href": "tel:+12257522419",
+   "text": "Call (225) 752-2419"
+  },
+  {
+   "t": "img",
+   "src": "https://cdn.patientengage.cloud/sites/1ae885ad-ada7-41da-a3f2-c99458a5469b/live/media/019cc183-127d-7164-ba74-74cb1a3d2414/AdobeStock_397002261.jpeg@w_1600.webp",
+   "alt": "Woman writing on clipboard",
+   "w": 0,
+   "h": 0,
+   "shownW": 568
+  }
+ ],
+ "forms": [],
+ "url": "https://www.vueeyecare.com/hours-location/"
+}

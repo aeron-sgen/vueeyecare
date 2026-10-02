@@ -1,0 +1,32 @@
+{
+ "title": "Disclaimer - Vue Eyecare",
+ "description": "Read the disclaimer to find out what this site does and does not intend to provide.",
+ "canonical": "https://www.vueeyecare.com/disclaimer/",
+ "ogImage": "",
+ "blocks": [
+  {
+   "t": "h",
+   "level": 1,
+   "text": "Disclaimer",
+   "html": "Disclaimer"
+  },
+  {
+   "t": "p",
+   "html": "Content on this web site has been provided and/or reviewed by our Practice. We have reviewed site information and find it to be in accordance with the standards of the optometry profession in our jurisdiction. We strive to provide unbiased, accurate, timely and up-to-date information. The information on this site is not presented as a substitute for informed professional advice and does not substitute for consultation with optometrist or any other health and/or medical professional. If you have any questions about your individual situation, please contact your optometrist – your eye health professional."
+  },
+  {
+   "t": "p",
+   "html": "The basic graphical template and parts of this website have been created by a Service provided by EyeCarePro and/or any affiliated companies. EyeCarePro and any of its affiliated companies do not endorse any of the products or treatments described, mentioned or discussed in any of the web pages, services or database information accessible within this website. Due to the possibility of human error or advances in scientific knowledge, EyeCarePro, and/or any commercial partners, their staff nor any other party involved in providing web pages, services or database information accessible within this website, warrant that the information contained therein is in every respect accurate or complete and are not responsible nor liable for any errors or omissions that may be found in such information or for the results obtained from the use of such information."
+  },
+  {
+   "t": "p",
+   "html": "The material contained in this website, including but not limited to text, graphics, video, audio, trademarks and logos, includes that which is owned or controlled by EyeCarePro and that which is owned or controlled by third parties. EyeCarePro authorizes you to view and download a single copy of the Material on the web site solely for your personal, non-commercial use. The contents of this website are protected by copyright and other laws in USA, Canada and elsewhere."
+  },
+  {
+   "t": "p",
+   "html": "Health information about you may be transmitted from this website to our practice. EyeCarePro does not permanently store nor use, transmit (other than for its intended use), record, or otherwise make any use of this health information. Website visitors are advised to read the Notice of Privacy Practices which describes how health information about you may be used and disclosed and how you can get access to this information and/or to contact us directly."
+  }
+ ],
+ "forms": [],
+ "url": "https://www.vueeyecare.com/disclaimer/"
+}

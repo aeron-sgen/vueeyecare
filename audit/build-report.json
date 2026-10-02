@@ -1,0 +1,17 @@
+{
+ "generated": "2026-10-02T01:04:37.293Z",
+ "design": "design-c-modern",
+ "pages": 33,
+ "removed": [
+  {
+   "url": "https://www.vueeyecare.com/sitemap",
+   "why": "Source 404: the footer \"Sitemap\" link points at a page the source never had; replaced by sitemap.xml",
+   "to": "/"
+  }
+ ],
+ "redirects": 29,
+ "imagesCopied": 126,
+ "imgDropped": [],
+ "missingEvidence": [],
+ "hostFixes": []
+}

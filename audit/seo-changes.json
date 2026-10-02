@@ -1,0 +1,4890 @@
+{
+  "schema": "site-reforge/seo-changes@1",
+  "generated": "2026-10-02T01:05:11.326Z",
+  "note": "Every field written into the build by sr-seo --apply. Each carries where its value came from. A field the source already filled is never rewritten here.",
+  "siteUrl": "https://www.vueeyecare.com",
+  "siteName": "Vue Eyecare",
+  "siteLang": "en",
+  "pagesTouched": 37,
+  "changes": [
+    {
+      "page": "https://www.vueeyecare.com/404.html",
+      "field": "robots",
+      "from": null,
+      "to": "index, follow",
+      "source": "default:index"
+    },
+    {
+      "page": "https://www.vueeyecare.com/404.html",
+      "field": "og:site_name",
+      "from": null,
+      "to": "Vue Eyecare",
+      "source": "derived:site-name"
+    },
+    {
+      "page": "https://www.vueeyecare.com/404.html",
+      "field": "twitter:card",
+      "from": null,
+      "to": "summary_large_image",
+      "source": "derived:og-image-present"
+    },
+    {
+      "page": "https://www.vueeyecare.com/404.html",
+      "field": "twitter:title",
+      "from": null,
+      "to": "Page not found | Vue Eyecare",
+      "source": "derived:title"
+    },
+    {
+      "page": "https://www.vueeyecare.com/404.html",
+      "field": "twitter:image",
+      "from": null,
+      "to": "https://www.vueeyecare.com/assets/img/fb4fe021-shutterstock-331479137.jpg-w_2000.webp",
+      "source": "derived:og-image"
+    },
+    {
+      "page": "https://www.vueeyecare.com/404.html",
+      "field": "jsonld:BreadcrumbList",
+      "from": null,
+      "to": "2 levels",
+      "source": "derived:url-path"
+    },
+    {
+      "page": "https://www.vueeyecare.com/404.html",
+      "field": "jsonld:Organization",
+      "from": null,
+      "to": "Vue Eyecare",
+      "source": "client-facts"
+    },
+    {
+      "page": "https://www.vueeyecare.com/404.html",
+      "field": "alt",
+      "from": null,
+      "to": "3 images",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/404.html",
+      "field": "img-dimensions",
+      "from": null,
+      "to": "3 images",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/404.html",
+      "field": "img-lazy",
+      "from": null,
+      "to": "1 images",
+      "source": "derived:below-fold-position"
+    },
+    {
+      "page": "https://www.vueeyecare.com/404.html",
+      "field": "title",
+      "from": null,
+      "to": "Page not found | Vue Eyecare",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/404.html",
+      "field": "canonical",
+      "from": null,
+      "to": "https://www.vueeyecare.com/404.html",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/404.html",
+      "field": "lang",
+      "from": null,
+      "to": "en",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/404.html",
+      "field": "og:title",
+      "from": null,
+      "to": "Page not found | Vue Eyecare",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/404.html",
+      "field": "og:type",
+      "from": null,
+      "to": "website",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/404.html",
+      "field": "og:image",
+      "from": null,
+      "to": "https://www.vueeyecare.com/assets/img/fb4fe021-shutterstock-331479137.jpg-w_2000.webp",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/404.html",
+      "field": "og:url",
+      "from": null,
+      "to": "https://www.vueeyecare.com/404.html",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/accessibility/index.html",
+      "field": "robots",
+      "from": null,
+      "to": "index, follow",
+      "source": "default:index"
+    },
+    {
+      "page": "https://www.vueeyecare.com/accessibility/index.html",
+      "field": "og:site_name",
+      "from": null,
+      "to": "Vue Eyecare",
+      "source": "derived:site-name"
+    },
+    {
+      "page": "https://www.vueeyecare.com/accessibility/index.html",
+      "field": "twitter:card",
+      "from": null,
+      "to": "summary_large_image",
+      "source": "derived:og-image-present"
+    },
+    {
+      "page": "https://www.vueeyecare.com/accessibility/index.html",
+      "field": "twitter:title",
+      "from": null,
+      "to": "Website Accessibility Policy - Vue Eyecare",
+      "source": "derived:title"
+    },
+    {
+      "page": "https://www.vueeyecare.com/accessibility/index.html",
+      "field": "twitter:description",
+      "from": null,
+      "to": "Vue Eyecare",
+      "source": "derived:description"
+    },
+    {
+      "page": "https://www.vueeyecare.com/accessibility/index.html",
+      "field": "twitter:image",
+      "from": null,
+      "to": "https://www.vueeyecare.com/assets/img/fb4fe021-shutterstock-331479137.jpg-w_2000.webp",
+      "source": "derived:og-image"
+    },
+    {
+      "page": "https://www.vueeyecare.com/accessibility/index.html",
+      "field": "jsonld:Organization",
+      "from": null,
+      "to": "Vue Eyecare",
+      "source": "client-facts"
+    },
+    {
+      "page": "https://www.vueeyecare.com/accessibility/index.html",
+      "field": "alt",
+      "from": null,
+      "to": "3 images",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/accessibility/index.html",
+      "field": "img-dimensions",
+      "from": null,
+      "to": "3 images",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/accessibility/index.html",
+      "field": "img-lazy",
+      "from": null,
+      "to": "1 images",
+      "source": "derived:below-fold-position"
+    },
+    {
+      "page": "https://www.vueeyecare.com/accessibility/index.html",
+      "field": "title",
+      "from": null,
+      "to": "Website Accessibility Policy - Vue Eyecare",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/accessibility/index.html",
+      "field": "description",
+      "from": null,
+      "to": "Vue Eyecare",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/accessibility/index.html",
+      "field": "canonical",
+      "from": null,
+      "to": "https://www.vueeyecare.com/accessibility/",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/accessibility/index.html",
+      "field": "lang",
+      "from": null,
+      "to": "en",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/accessibility/index.html",
+      "field": "og:title",
+      "from": null,
+      "to": "Website Accessibility Policy - Vue Eyecare",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/accessibility/index.html",
+      "field": "og:description",
+      "from": null,
+      "to": "Vue Eyecare",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/accessibility/index.html",
+      "field": "og:type",
+      "from": null,
+      "to": "website",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/accessibility/index.html",
+      "field": "og:image",
+      "from": null,
+      "to": "https://www.vueeyecare.com/assets/img/fb4fe021-shutterstock-331479137.jpg-w_2000.webp",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/accessibility/index.html",
+      "field": "og:url",
+      "from": null,
+      "to": "https://www.vueeyecare.com/accessibility/",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/contact/index.html",
+      "field": "robots",
+      "from": null,
+      "to": "index, follow",
+      "source": "default:index"
+    },
+    {
+      "page": "https://www.vueeyecare.com/contact/index.html",
+      "field": "og:site_name",
+      "from": null,
+      "to": "Vue Eyecare",
+      "source": "derived:site-name"
+    },
+    {
+      "page": "https://www.vueeyecare.com/contact/index.html",
+      "field": "twitter:card",
+      "from": null,
+      "to": "summary_large_image",
+      "source": "derived:og-image-present"
+    },
+    {
+      "page": "https://www.vueeyecare.com/contact/index.html",
+      "field": "twitter:title",
+      "from": null,
+      "to": "Contact Us - Vue Eyecare",
+      "source": "derived:title"
+    },
+    {
+      "page": "https://www.vueeyecare.com/contact/index.html",
+      "field": "twitter:description",
+      "from": null,
+      "to": "We want to hear from you. Get in touch with our office or provide feedback, using our online forms, by email or by phone.",
+      "source": "derived:description"
+    },
+    {
+      "page": "https://www.vueeyecare.com/contact/index.html",
+      "field": "twitter:image",
+      "from": null,
+      "to": "https://www.vueeyecare.com/assets/img/f25df0a1-group-people-sitting-blanket-grassy-field-dog.jpg-w_1200.webp",
+      "source": "derived:og-image"
+    },
+    {
+      "page": "https://www.vueeyecare.com/contact/index.html",
+      "field": "jsonld:Organization",
+      "from": null,
+      "to": "Vue Eyecare",
+      "source": "client-facts"
+    },
+    {
+      "page": "https://www.vueeyecare.com/contact/index.html",
+      "field": "alt",
+      "from": null,
+      "to": "5 images",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/contact/index.html",
+      "field": "img-dimensions",
+      "from": null,
+      "to": "5 images",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/contact/index.html",
+      "field": "img-lazy",
+      "from": null,
+      "to": "3 images",
+      "source": "derived:below-fold-position"
+    },
+    {
+      "page": "https://www.vueeyecare.com/contact/index.html",
+      "field": "title",
+      "from": null,
+      "to": "Contact Us - Vue Eyecare",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/contact/index.html",
+      "field": "description",
+      "from": null,
+      "to": "We want to hear from you. Get in touch with our office or provide feedback, using our online forms, by email or by phone.",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/contact/index.html",
+      "field": "canonical",
+      "from": null,
+      "to": "https://www.vueeyecare.com/contact/",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/contact/index.html",
+      "field": "lang",
+      "from": null,
+      "to": "en",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/contact/index.html",
+      "field": "og:title",
+      "from": null,
+      "to": "Contact Us - Vue Eyecare",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/contact/index.html",
+      "field": "og:description",
+      "from": null,
+      "to": "We want to hear from you. Get in touch with our office or provide feedback, using our online forms, by email or by phone.",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/contact/index.html",
+      "field": "og:type",
+      "from": null,
+      "to": "website",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/contact/index.html",
+      "field": "og:image",
+      "from": null,
+      "to": "https://www.vueeyecare.com/assets/img/f25df0a1-group-people-sitting-blanket-grassy-field-dog.jpg-w_1200.webp",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/contact/index.html",
+      "field": "og:url",
+      "from": null,
+      "to": "https://www.vueeyecare.com/contact/",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/disclaimer/index.html",
+      "field": "robots",
+      "from": null,
+      "to": "index, follow",
+      "source": "default:index"
+    },
+    {
+      "page": "https://www.vueeyecare.com/disclaimer/index.html",
+      "field": "og:site_name",
+      "from": null,
+      "to": "Vue Eyecare",
+      "source": "derived:site-name"
+    },
+    {
+      "page": "https://www.vueeyecare.com/disclaimer/index.html",
+      "field": "twitter:card",
+      "from": null,
+      "to": "summary_large_image",
+      "source": "derived:og-image-present"
+    },
+    {
+      "page": "https://www.vueeyecare.com/disclaimer/index.html",
+      "field": "twitter:title",
+      "from": null,
+      "to": "Disclaimer - Vue Eyecare",
+      "source": "derived:title"
+    },
+    {
+      "page": "https://www.vueeyecare.com/disclaimer/index.html",
+      "field": "twitter:description",
+      "from": null,
+      "to": "Read the disclaimer to find out what this site does and does not intend to provide.",
+      "source": "derived:description"
+    },
+    {
+      "page": "https://www.vueeyecare.com/disclaimer/index.html",
+      "field": "twitter:image",
+      "from": null,
+      "to": "https://www.vueeyecare.com/assets/img/fb4fe021-shutterstock-331479137.jpg-w_2000.webp",
+      "source": "derived:og-image"
+    },
+    {
+      "page": "https://www.vueeyecare.com/disclaimer/index.html",
+      "field": "jsonld:Organization",
+      "from": null,
+      "to": "Vue Eyecare",
+      "source": "client-facts"
+    },
+    {
+      "page": "https://www.vueeyecare.com/disclaimer/index.html",
+      "field": "alt",
+      "from": null,
+      "to": "3 images",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/disclaimer/index.html",
+      "field": "img-dimensions",
+      "from": null,
+      "to": "3 images",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/disclaimer/index.html",
+      "field": "img-lazy",
+      "from": null,
+      "to": "1 images",
+      "source": "derived:below-fold-position"
+    },
+    {
+      "page": "https://www.vueeyecare.com/disclaimer/index.html",
+      "field": "title",
+      "from": null,
+      "to": "Disclaimer - Vue Eyecare",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/disclaimer/index.html",
+      "field": "description",
+      "from": null,
+      "to": "Read the disclaimer to find out what this site does and does not intend to provide.",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/disclaimer/index.html",
+      "field": "canonical",
+      "from": null,
+      "to": "https://www.vueeyecare.com/disclaimer/",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/disclaimer/index.html",
+      "field": "lang",
+      "from": null,
+      "to": "en",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/disclaimer/index.html",
+      "field": "og:title",
+      "from": null,
+      "to": "Disclaimer - Vue Eyecare",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/disclaimer/index.html",
+      "field": "og:description",
+      "from": null,
+      "to": "Read the disclaimer to find out what this site does and does not intend to provide.",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/disclaimer/index.html",
+      "field": "og:type",
+      "from": null,
+      "to": "website",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/disclaimer/index.html",
+      "field": "og:image",
+      "from": null,
+      "to": "https://www.vueeyecare.com/assets/img/fb4fe021-shutterstock-331479137.jpg-w_2000.webp",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/disclaimer/index.html",
+      "field": "og:url",
+      "from": null,
+      "to": "https://www.vueeyecare.com/disclaimer/",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/eye-doctor-baton-rouge/hours/index.html",
+      "field": "robots",
+      "from": null,
+      "to": "index, follow",
+      "source": "default:index"
+    },
+    {
+      "page": "https://www.vueeyecare.com/eye-doctor-baton-rouge/hours/index.html",
+      "field": "og:site_name",
+      "from": null,
+      "to": "Vue Eyecare",
+      "source": "derived:site-name"
+    },
+    {
+      "page": "https://www.vueeyecare.com/eye-doctor-baton-rouge/hours/index.html",
+      "field": "twitter:card",
+      "from": null,
+      "to": "summary_large_image",
+      "source": "derived:og-image-present"
+    },
+    {
+      "page": "https://www.vueeyecare.com/eye-doctor-baton-rouge/hours/index.html",
+      "field": "twitter:title",
+      "from": null,
+      "to": "Hours &amp; Location - Vue Eyecare",
+      "source": "derived:title"
+    },
+    {
+      "page": "https://www.vueeyecare.com/eye-doctor-baton-rouge/hours/index.html",
+      "field": "twitter:description",
+      "from": null,
+      "to": "Get directions to our office and see when we are open.",
+      "source": "derived:description"
+    },
+    {
+      "page": "https://www.vueeyecare.com/eye-doctor-baton-rouge/hours/index.html",
+      "field": "twitter:image",
+      "from": null,
+      "to": "https://www.vueeyecare.com/assets/img/f25df0a1-group-people-sitting-blanket-grassy-field-dog.jpg-w_1200.webp",
+      "source": "derived:og-image"
+    },
+    {
+      "page": "https://www.vueeyecare.com/eye-doctor-baton-rouge/hours/index.html",
+      "field": "jsonld:Organization",
+      "from": null,
+      "to": "Vue Eyecare",
+      "source": "client-facts"
+    },
+    {
+      "page": "https://www.vueeyecare.com/eye-doctor-baton-rouge/hours/index.html",
+      "field": "alt",
+      "from": null,
+      "to": "5 images",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/eye-doctor-baton-rouge/hours/index.html",
+      "field": "img-dimensions",
+      "from": null,
+      "to": "5 images",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/eye-doctor-baton-rouge/hours/index.html",
+      "field": "img-lazy",
+      "from": null,
+      "to": "3 images",
+      "source": "derived:below-fold-position"
+    },
+    {
+      "page": "https://www.vueeyecare.com/eye-doctor-baton-rouge/hours/index.html",
+      "field": "title",
+      "from": null,
+      "to": "Hours &amp; Location - Vue Eyecare",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/eye-doctor-baton-rouge/hours/index.html",
+      "field": "description",
+      "from": null,
+      "to": "Get directions to our office and see when we are open.",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/eye-doctor-baton-rouge/hours/index.html",
+      "field": "canonical",
+      "from": null,
+      "to": "https://www.vueeyecare.com/eye-doctor-baton-rouge/hours/",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/eye-doctor-baton-rouge/hours/index.html",
+      "field": "lang",
+      "from": null,
+      "to": "en",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/eye-doctor-baton-rouge/hours/index.html",
+      "field": "og:title",
+      "from": null,
+      "to": "Hours & Location - Vue Eyecare",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/eye-doctor-baton-rouge/hours/index.html",
+      "field": "og:description",
+      "from": null,
+      "to": "Get directions to our office and see when we are open.",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/eye-doctor-baton-rouge/hours/index.html",
+      "field": "og:type",
+      "from": null,
+      "to": "website",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/eye-doctor-baton-rouge/hours/index.html",
+      "field": "og:image",
+      "from": null,
+      "to": "https://www.vueeyecare.com/assets/img/f25df0a1-group-people-sitting-blanket-grassy-field-dog.jpg-w_1200.webp",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/eye-doctor-baton-rouge/hours/index.html",
+      "field": "og:url",
+      "from": null,
+      "to": "https://www.vueeyecare.com/eye-doctor-baton-rouge/hours/",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/eye-doctor-baton-rouge/index.html",
+      "field": "robots",
+      "from": null,
+      "to": "index, follow",
+      "source": "default:index"
+    },
+    {
+      "page": "https://www.vueeyecare.com/eye-doctor-baton-rouge/index.html",
+      "field": "og:site_name",
+      "from": null,
+      "to": "Vue Eyecare",
+      "source": "derived:site-name"
+    },
+    {
+      "page": "https://www.vueeyecare.com/eye-doctor-baton-rouge/index.html",
+      "field": "twitter:card",
+      "from": null,
+      "to": "summary_large_image",
+      "source": "derived:og-image-present"
+    },
+    {
+      "page": "https://www.vueeyecare.com/eye-doctor-baton-rouge/index.html",
+      "field": "twitter:title",
+      "from": null,
+      "to": "Vue Eyecare - Vue Eyecare",
+      "source": "derived:title"
+    },
+    {
+      "page": "https://www.vueeyecare.com/eye-doctor-baton-rouge/index.html",
+      "field": "twitter:description",
+      "from": null,
+      "to": "Vue Eyecare",
+      "source": "derived:description"
+    },
+    {
+      "page": "https://www.vueeyecare.com/eye-doctor-baton-rouge/index.html",
+      "field": "twitter:image",
+      "from": null,
+      "to": "https://www.vueeyecare.com/assets/img/f25df0a1-group-people-sitting-blanket-grassy-field-dog.jpg-w_1200.webp",
+      "source": "derived:og-image"
+    },
+    {
+      "page": "https://www.vueeyecare.com/eye-doctor-baton-rouge/index.html",
+      "field": "jsonld:Organization",
+      "from": null,
+      "to": "Vue Eyecare",
+      "source": "client-facts"
+    },
+    {
+      "page": "https://www.vueeyecare.com/eye-doctor-baton-rouge/index.html",
+      "field": "alt",
+      "from": null,
+      "to": "4 images",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/eye-doctor-baton-rouge/index.html",
+      "field": "img-dimensions",
+      "from": null,
+      "to": "4 images",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/eye-doctor-baton-rouge/index.html",
+      "field": "img-lazy",
+      "from": null,
+      "to": "2 images",
+      "source": "derived:below-fold-position"
+    },
+    {
+      "page": "https://www.vueeyecare.com/eye-doctor-baton-rouge/index.html",
+      "field": "title",
+      "from": null,
+      "to": "Vue Eyecare - Vue Eyecare",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/eye-doctor-baton-rouge/index.html",
+      "field": "description",
+      "from": null,
+      "to": "Vue Eyecare",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/eye-doctor-baton-rouge/index.html",
+      "field": "canonical",
+      "from": null,
+      "to": "https://www.vueeyecare.com/eye-doctor-baton-rouge/",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/eye-doctor-baton-rouge/index.html",
+      "field": "lang",
+      "from": null,
+      "to": "en",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/eye-doctor-baton-rouge/index.html",
+      "field": "og:title",
+      "from": null,
+      "to": "Vue Eyecare - Vue Eyecare",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/eye-doctor-baton-rouge/index.html",
+      "field": "og:description",
+      "from": null,
+      "to": "Vue Eyecare",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/eye-doctor-baton-rouge/index.html",
+      "field": "og:type",
+      "from": null,
+      "to": "website",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/eye-doctor-baton-rouge/index.html",
+      "field": "og:image",
+      "from": null,
+      "to": "https://www.vueeyecare.com/assets/img/f25df0a1-group-people-sitting-blanket-grassy-field-dog.jpg-w_1200.webp",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/eye-doctor-baton-rouge/index.html",
+      "field": "og:url",
+      "from": null,
+      "to": "https://www.vueeyecare.com/eye-doctor-baton-rouge/",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/",
+      "field": "robots",
+      "from": null,
+      "to": "index, follow",
+      "source": "default:index"
+    },
+    {
+      "page": "https://www.vueeyecare.com/",
+      "field": "og:site_name",
+      "from": null,
+      "to": "Vue Eyecare",
+      "source": "derived:site-name"
+    },
+    {
+      "page": "https://www.vueeyecare.com/",
+      "field": "twitter:card",
+      "from": null,
+      "to": "summary_large_image",
+      "source": "derived:og-image-present"
+    },
+    {
+      "page": "https://www.vueeyecare.com/",
+      "field": "twitter:title",
+      "from": null,
+      "to": "Welcome to Vue Eyecare - Vue Eyecare",
+      "source": "derived:title"
+    },
+    {
+      "page": "https://www.vueeyecare.com/",
+      "field": "twitter:description",
+      "from": null,
+      "to": "Vue Eyecare",
+      "source": "derived:description"
+    },
+    {
+      "page": "https://www.vueeyecare.com/",
+      "field": "twitter:image",
+      "from": null,
+      "to": "https://www.vueeyecare.com/assets/img/fb4fe021-shutterstock-331479137.jpg-w_2000.webp",
+      "source": "derived:og-image"
+    },
+    {
+      "page": "https://www.vueeyecare.com/",
+      "field": "jsonld:Organization",
+      "from": null,
+      "to": "Vue Eyecare",
+      "source": "client-facts"
+    },
+    {
+      "page": "https://www.vueeyecare.com/",
+      "field": "jsonld:LocalBusiness",
+      "from": null,
+      "to": "1 × LocalBusiness",
+      "source": "client-facts:addresses"
+    },
+    {
+      "page": "https://www.vueeyecare.com/",
+      "field": "alt",
+      "from": null,
+      "to": "80 images",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/",
+      "field": "img-dimensions",
+      "from": null,
+      "to": "80 images",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/",
+      "field": "img-lazy",
+      "from": null,
+      "to": "78 images",
+      "source": "derived:below-fold-position"
+    },
+    {
+      "page": "https://www.vueeyecare.com/",
+      "field": "og:image",
+      "from": null,
+      "to": "https://www.vueeyecare.com/assets/img/fb4fe021-shutterstock-331479137.jpg-w_2000.webp",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/insurance/carecredit/index.html",
+      "field": "robots",
+      "from": null,
+      "to": "index, follow",
+      "source": "default:index"
+    },
+    {
+      "page": "https://www.vueeyecare.com/insurance/carecredit/index.html",
+      "field": "og:site_name",
+      "from": null,
+      "to": "Vue Eyecare",
+      "source": "derived:site-name"
+    },
+    {
+      "page": "https://www.vueeyecare.com/insurance/carecredit/index.html",
+      "field": "twitter:card",
+      "from": null,
+      "to": "summary_large_image",
+      "source": "derived:og-image-present"
+    },
+    {
+      "page": "https://www.vueeyecare.com/insurance/carecredit/index.html",
+      "field": "twitter:title",
+      "from": null,
+      "to": "CareCredit - Vue Eyecare",
+      "source": "derived:title"
+    },
+    {
+      "page": "https://www.vueeyecare.com/insurance/carecredit/index.html",
+      "field": "twitter:description",
+      "from": null,
+      "to": "As a service to our patients we are pleased to offer the CareCredit card enabling low monthly payments that are easy to fit into your budget.",
+      "source": "derived:description"
+    },
+    {
+      "page": "https://www.vueeyecare.com/insurance/carecredit/index.html",
+      "field": "twitter:image",
+      "from": null,
+      "to": "https://www.vueeyecare.com/assets/img/e6cc421e-shutterstock-2282529567.jpg-w_2000.webp",
+      "source": "derived:og-image"
+    },
+    {
+      "page": "https://www.vueeyecare.com/insurance/carecredit/index.html",
+      "field": "jsonld:Organization",
+      "from": null,
+      "to": "Vue Eyecare",
+      "source": "client-facts"
+    },
+    {
+      "page": "https://www.vueeyecare.com/insurance/carecredit/index.html",
+      "field": "alt",
+      "from": null,
+      "to": "5 images",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/insurance/carecredit/index.html",
+      "field": "img-dimensions",
+      "from": null,
+      "to": "5 images",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/insurance/carecredit/index.html",
+      "field": "img-lazy",
+      "from": null,
+      "to": "3 images",
+      "source": "derived:below-fold-position"
+    },
+    {
+      "page": "https://www.vueeyecare.com/insurance/carecredit/index.html",
+      "field": "title",
+      "from": null,
+      "to": "CareCredit - Vue Eyecare",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/insurance/carecredit/index.html",
+      "field": "description",
+      "from": null,
+      "to": "As a service to our patients we are pleased to offer the CareCredit card enabling low monthly payments that are easy to fit into your budget.",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/insurance/carecredit/index.html",
+      "field": "canonical",
+      "from": null,
+      "to": "https://www.vueeyecare.com/insurance/carecredit/",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/insurance/carecredit/index.html",
+      "field": "lang",
+      "from": null,
+      "to": "en",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/insurance/carecredit/index.html",
+      "field": "og:title",
+      "from": null,
+      "to": "CareCredit - Vue Eyecare",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/insurance/carecredit/index.html",
+      "field": "og:description",
+      "from": null,
+      "to": "As a service to our patients we are pleased to offer the CareCredit card enabling low monthly payments that are easy to fit into your budget.",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/insurance/carecredit/index.html",
+      "field": "og:type",
+      "from": null,
+      "to": "website",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/insurance/carecredit/index.html",
+      "field": "og:image",
+      "from": null,
+      "to": "https://www.vueeyecare.com/assets/img/e6cc421e-shutterstock-2282529567.jpg-w_2000.webp",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/insurance/carecredit/index.html",
+      "field": "og:url",
+      "from": null,
+      "to": "https://www.vueeyecare.com/insurance/carecredit/",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/insurance/index.html",
+      "field": "robots",
+      "from": null,
+      "to": "index, follow",
+      "source": "default:index"
+    },
+    {
+      "page": "https://www.vueeyecare.com/insurance/index.html",
+      "field": "og:site_name",
+      "from": null,
+      "to": "Vue Eyecare",
+      "source": "derived:site-name"
+    },
+    {
+      "page": "https://www.vueeyecare.com/insurance/index.html",
+      "field": "twitter:card",
+      "from": null,
+      "to": "summary_large_image",
+      "source": "derived:og-image-present"
+    },
+    {
+      "page": "https://www.vueeyecare.com/insurance/index.html",
+      "field": "twitter:title",
+      "from": null,
+      "to": "Insurance - Vue Eyecare",
+      "source": "derived:title"
+    },
+    {
+      "page": "https://www.vueeyecare.com/insurance/index.html",
+      "field": "twitter:description",
+      "from": null,
+      "to": "The cost of routine eye exams and prescription eyewear can be of real concern, vision insurance can lower these annual expenses.",
+      "source": "derived:description"
+    },
+    {
+      "page": "https://www.vueeyecare.com/insurance/index.html",
+      "field": "twitter:image",
+      "from": null,
+      "to": "https://www.vueeyecare.com/assets/img/94d2c439-shutterstock_2728711507.jpg-w_1600.webp",
+      "source": "derived:og-image"
+    },
+    {
+      "page": "https://www.vueeyecare.com/insurance/index.html",
+      "field": "jsonld:Organization",
+      "from": null,
+      "to": "Vue Eyecare",
+      "source": "client-facts"
+    },
+    {
+      "page": "https://www.vueeyecare.com/insurance/index.html",
+      "field": "alt",
+      "from": null,
+      "to": "32 images",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/insurance/index.html",
+      "field": "img-dimensions",
+      "from": null,
+      "to": "32 images",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/insurance/index.html",
+      "field": "img-lazy",
+      "from": null,
+      "to": "30 images",
+      "source": "derived:below-fold-position"
+    },
+    {
+      "page": "https://www.vueeyecare.com/insurance/index.html",
+      "field": "title",
+      "from": null,
+      "to": "Insurance - Vue Eyecare",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/insurance/index.html",
+      "field": "description",
+      "from": null,
+      "to": "The cost of routine eye exams and prescription eyewear can be of real concern, vision insurance can lower these annual expenses.",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/insurance/index.html",
+      "field": "canonical",
+      "from": null,
+      "to": "https://www.vueeyecare.com/insurance/",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/insurance/index.html",
+      "field": "lang",
+      "from": null,
+      "to": "en",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/insurance/index.html",
+      "field": "og:title",
+      "from": null,
+      "to": "Insurance - Vue Eyecare",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/insurance/index.html",
+      "field": "og:description",
+      "from": null,
+      "to": "The cost of routine eye exams and prescription eyewear can be of real concern, vision insurance can lower these annual expenses.",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/insurance/index.html",
+      "field": "og:type",
+      "from": null,
+      "to": "website",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/insurance/index.html",
+      "field": "og:image",
+      "from": null,
+      "to": "https://www.vueeyecare.com/assets/img/94d2c439-shutterstock_2728711507.jpg-w_1600.webp",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/insurance/index.html",
+      "field": "og:url",
+      "from": null,
+      "to": "https://www.vueeyecare.com/insurance/",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/insurance/vision-insurance-faqs/index.html",
+      "field": "robots",
+      "from": null,
+      "to": "index, follow",
+      "source": "default:index"
+    },
+    {
+      "page": "https://www.vueeyecare.com/insurance/vision-insurance-faqs/index.html",
+      "field": "og:site_name",
+      "from": null,
+      "to": "Vue Eyecare",
+      "source": "derived:site-name"
+    },
+    {
+      "page": "https://www.vueeyecare.com/insurance/vision-insurance-faqs/index.html",
+      "field": "twitter:card",
+      "from": null,
+      "to": "summary_large_image",
+      "source": "derived:og-image-present"
+    },
+    {
+      "page": "https://www.vueeyecare.com/insurance/vision-insurance-faqs/index.html",
+      "field": "twitter:title",
+      "from": null,
+      "to": "FAQs of Vision Insurance Plans - Vue Eyecare",
+      "source": "derived:title"
+    },
+    {
+      "page": "https://www.vueeyecare.com/insurance/vision-insurance-faqs/index.html",
+      "field": "twitter:description",
+      "from": null,
+      "to": "Vision insurance reduces the cost of eye care, prescription eyewear and other vision services. Learn about various plans, coverage & payment options.",
+      "source": "derived:description"
+    },
+    {
+      "page": "https://www.vueeyecare.com/insurance/vision-insurance-faqs/index.html",
+      "field": "twitter:image",
+      "from": null,
+      "to": "https://www.vueeyecare.com/assets/img/9f4a2fc9-shutterstock_2728711507.jpg-w_2000.webp",
+      "source": "derived:og-image"
+    },
+    {
+      "page": "https://www.vueeyecare.com/insurance/vision-insurance-faqs/index.html",
+      "field": "jsonld:Organization",
+      "from": null,
+      "to": "Vue Eyecare",
+      "source": "client-facts"
+    },
+    {
+      "page": "https://www.vueeyecare.com/insurance/vision-insurance-faqs/index.html",
+      "field": "alt",
+      "from": null,
+      "to": "4 images",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/insurance/vision-insurance-faqs/index.html",
+      "field": "img-dimensions",
+      "from": null,
+      "to": "4 images",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/insurance/vision-insurance-faqs/index.html",
+      "field": "img-lazy",
+      "from": null,
+      "to": "2 images",
+      "source": "derived:below-fold-position"
+    },
+    {
+      "page": "https://www.vueeyecare.com/insurance/vision-insurance-faqs/index.html",
+      "field": "title",
+      "from": null,
+      "to": "FAQs of Vision Insurance Plans - Vue Eyecare",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/insurance/vision-insurance-faqs/index.html",
+      "field": "description",
+      "from": null,
+      "to": "Vision insurance reduces the cost of eye care, prescription eyewear and other vision services. Learn about various plans, coverage & payment options.",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/insurance/vision-insurance-faqs/index.html",
+      "field": "canonical",
+      "from": null,
+      "to": "https://www.vueeyecare.com/insurance/vision-insurance-faqs/",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/insurance/vision-insurance-faqs/index.html",
+      "field": "lang",
+      "from": null,
+      "to": "en",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/insurance/vision-insurance-faqs/index.html",
+      "field": "og:title",
+      "from": null,
+      "to": "FAQs of Vision Insurance Plans - Vue Eyecare",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/insurance/vision-insurance-faqs/index.html",
+      "field": "og:description",
+      "from": null,
+      "to": "Vision insurance reduces the cost of eye care, prescription eyewear and other vision services. Learn about various plans, coverage & payment options.",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/insurance/vision-insurance-faqs/index.html",
+      "field": "og:type",
+      "from": null,
+      "to": "website",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/insurance/vision-insurance-faqs/index.html",
+      "field": "og:image",
+      "from": null,
+      "to": "https://www.vueeyecare.com/assets/img/9f4a2fc9-shutterstock_2728711507.jpg-w_2000.webp",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/insurance/vision-insurance-faqs/index.html",
+      "field": "og:url",
+      "from": null,
+      "to": "https://www.vueeyecare.com/insurance/vision-insurance-faqs/",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/insurance/whats-in-your-vision-plan/index.html",
+      "field": "robots",
+      "from": null,
+      "to": "index, follow",
+      "source": "default:index"
+    },
+    {
+      "page": "https://www.vueeyecare.com/insurance/whats-in-your-vision-plan/index.html",
+      "field": "og:site_name",
+      "from": null,
+      "to": "Vue Eyecare",
+      "source": "derived:site-name"
+    },
+    {
+      "page": "https://www.vueeyecare.com/insurance/whats-in-your-vision-plan/index.html",
+      "field": "twitter:card",
+      "from": null,
+      "to": "summary_large_image",
+      "source": "derived:og-image-present"
+    },
+    {
+      "page": "https://www.vueeyecare.com/insurance/whats-in-your-vision-plan/index.html",
+      "field": "twitter:title",
+      "from": null,
+      "to": "What’s in Your Vision Insurance Plan - Vue Eyecare",
+      "source": "derived:title"
+    },
+    {
+      "page": "https://www.vueeyecare.com/insurance/whats-in-your-vision-plan/index.html",
+      "field": "twitter:description",
+      "from": null,
+      "to": "Make the most of your vision insurance plan by understanding your particular vision coverage.",
+      "source": "derived:description"
+    },
+    {
+      "page": "https://www.vueeyecare.com/insurance/whats-in-your-vision-plan/index.html",
+      "field": "twitter:image",
+      "from": null,
+      "to": "https://www.vueeyecare.com/assets/img/9f4a2fc9-shutterstock_2728711507.jpg-w_2000.webp",
+      "source": "derived:og-image"
+    },
+    {
+      "page": "https://www.vueeyecare.com/insurance/whats-in-your-vision-plan/index.html",
+      "field": "jsonld:Organization",
+      "from": null,
+      "to": "Vue Eyecare",
+      "source": "client-facts"
+    },
+    {
+      "page": "https://www.vueeyecare.com/insurance/whats-in-your-vision-plan/index.html",
+      "field": "alt",
+      "from": null,
+      "to": "4 images",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/insurance/whats-in-your-vision-plan/index.html",
+      "field": "img-dimensions",
+      "from": null,
+      "to": "4 images",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/insurance/whats-in-your-vision-plan/index.html",
+      "field": "img-lazy",
+      "from": null,
+      "to": "2 images",
+      "source": "derived:below-fold-position"
+    },
+    {
+      "page": "https://www.vueeyecare.com/insurance/whats-in-your-vision-plan/index.html",
+      "field": "title",
+      "from": null,
+      "to": "What’s in Your Vision Insurance Plan - Vue Eyecare",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/insurance/whats-in-your-vision-plan/index.html",
+      "field": "description",
+      "from": null,
+      "to": "Make the most of your vision insurance plan by understanding your particular vision coverage.",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/insurance/whats-in-your-vision-plan/index.html",
+      "field": "canonical",
+      "from": null,
+      "to": "https://www.vueeyecare.com/insurance/whats-in-your-vision-plan/",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/insurance/whats-in-your-vision-plan/index.html",
+      "field": "lang",
+      "from": null,
+      "to": "en",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/insurance/whats-in-your-vision-plan/index.html",
+      "field": "og:title",
+      "from": null,
+      "to": "What’s in Your Vision Insurance Plan - Vue Eyecare",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/insurance/whats-in-your-vision-plan/index.html",
+      "field": "og:description",
+      "from": null,
+      "to": "Make the most of your vision insurance plan by understanding your particular vision coverage.",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/insurance/whats-in-your-vision-plan/index.html",
+      "field": "og:type",
+      "from": null,
+      "to": "website",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/insurance/whats-in-your-vision-plan/index.html",
+      "field": "og:image",
+      "from": null,
+      "to": "https://www.vueeyecare.com/assets/img/9f4a2fc9-shutterstock_2728711507.jpg-w_2000.webp",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/insurance/whats-in-your-vision-plan/index.html",
+      "field": "og:url",
+      "from": null,
+      "to": "https://www.vueeyecare.com/insurance/whats-in-your-vision-plan/",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/our-doctor/dr-pt-dinh/index.html",
+      "field": "robots",
+      "from": null,
+      "to": "index, follow",
+      "source": "default:index"
+    },
+    {
+      "page": "https://www.vueeyecare.com/our-doctor/dr-pt-dinh/index.html",
+      "field": "og:site_name",
+      "from": null,
+      "to": "Vue Eyecare",
+      "source": "derived:site-name"
+    },
+    {
+      "page": "https://www.vueeyecare.com/our-doctor/dr-pt-dinh/index.html",
+      "field": "twitter:card",
+      "from": null,
+      "to": "summary_large_image",
+      "source": "derived:og-image-present"
+    },
+    {
+      "page": "https://www.vueeyecare.com/our-doctor/dr-pt-dinh/index.html",
+      "field": "twitter:title",
+      "from": null,
+      "to": "P.T. Dinh, OD, MS, IACMM - Vue Eyecare",
+      "source": "derived:title"
+    },
+    {
+      "page": "https://www.vueeyecare.com/our-doctor/dr-pt-dinh/index.html",
+      "field": "twitter:description",
+      "from": null,
+      "to": "Vue Eyecare",
+      "source": "derived:description"
+    },
+    {
+      "page": "https://www.vueeyecare.com/our-doctor/dr-pt-dinh/index.html",
+      "field": "twitter:image",
+      "from": null,
+      "to": "https://www.vueeyecare.com/assets/img/58825480-a1b72014-53e8-41f7-b0d9-76a76a0b02f3.jpeg",
+      "source": "derived:og-image"
+    },
+    {
+      "page": "https://www.vueeyecare.com/our-doctor/dr-pt-dinh/index.html",
+      "field": "jsonld:Organization",
+      "from": null,
+      "to": "Vue Eyecare",
+      "source": "client-facts"
+    },
+    {
+      "page": "https://www.vueeyecare.com/our-doctor/dr-pt-dinh/index.html",
+      "field": "alt",
+      "from": null,
+      "to": "4 images",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/our-doctor/dr-pt-dinh/index.html",
+      "field": "img-dimensions",
+      "from": null,
+      "to": "4 images",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/our-doctor/dr-pt-dinh/index.html",
+      "field": "img-lazy",
+      "from": null,
+      "to": "2 images",
+      "source": "derived:below-fold-position"
+    },
+    {
+      "page": "https://www.vueeyecare.com/our-doctor/dr-pt-dinh/index.html",
+      "field": "title",
+      "from": null,
+      "to": "P.T. Dinh, OD, MS, IACMM - Vue Eyecare",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/our-doctor/dr-pt-dinh/index.html",
+      "field": "description",
+      "from": null,
+      "to": "Vue Eyecare",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/our-doctor/dr-pt-dinh/index.html",
+      "field": "canonical",
+      "from": null,
+      "to": "https://www.vueeyecare.com/our-doctor/dr-pt-dinh/",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/our-doctor/dr-pt-dinh/index.html",
+      "field": "lang",
+      "from": null,
+      "to": "en",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/our-doctor/dr-pt-dinh/index.html",
+      "field": "og:title",
+      "from": null,
+      "to": "P.T. Dinh, OD, MS, IACMM - Vue Eyecare",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/our-doctor/dr-pt-dinh/index.html",
+      "field": "og:description",
+      "from": null,
+      "to": "Vue Eyecare",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/our-doctor/dr-pt-dinh/index.html",
+      "field": "og:type",
+      "from": null,
+      "to": "website",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/our-doctor/dr-pt-dinh/index.html",
+      "field": "og:image",
+      "from": null,
+      "to": "https://www.vueeyecare.com/assets/img/58825480-a1b72014-53e8-41f7-b0d9-76a76a0b02f3.jpeg",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/our-doctor/dr-pt-dinh/index.html",
+      "field": "og:url",
+      "from": null,
+      "to": "https://www.vueeyecare.com/our-doctor/dr-pt-dinh/",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/our-doctor/index.html",
+      "field": "robots",
+      "from": null,
+      "to": "index, follow",
+      "source": "default:index"
+    },
+    {
+      "page": "https://www.vueeyecare.com/our-doctor/index.html",
+      "field": "og:site_name",
+      "from": null,
+      "to": "Vue Eyecare",
+      "source": "derived:site-name"
+    },
+    {
+      "page": "https://www.vueeyecare.com/our-doctor/index.html",
+      "field": "twitter:card",
+      "from": null,
+      "to": "summary_large_image",
+      "source": "derived:og-image-present"
+    },
+    {
+      "page": "https://www.vueeyecare.com/our-doctor/index.html",
+      "field": "twitter:title",
+      "from": null,
+      "to": "Our Eye Doctor - Vue Eyecare",
+      "source": "derived:title"
+    },
+    {
+      "page": "https://www.vueeyecare.com/our-doctor/index.html",
+      "field": "twitter:description",
+      "from": null,
+      "to": "Get to know a bit about our eye doctors even before your first visit.",
+      "source": "derived:description"
+    },
+    {
+      "page": "https://www.vueeyecare.com/our-doctor/index.html",
+      "field": "twitter:image",
+      "from": null,
+      "to": "https://www.vueeyecare.com/assets/img/f6fae01c-shutterstock-394120591.jpg-w_1600.webp",
+      "source": "derived:og-image"
+    },
+    {
+      "page": "https://www.vueeyecare.com/our-doctor/index.html",
+      "field": "jsonld:Organization",
+      "from": null,
+      "to": "Vue Eyecare",
+      "source": "client-facts"
+    },
+    {
+      "page": "https://www.vueeyecare.com/our-doctor/index.html",
+      "field": "alt",
+      "from": null,
+      "to": "6 images",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/our-doctor/index.html",
+      "field": "img-dimensions",
+      "from": null,
+      "to": "6 images",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/our-doctor/index.html",
+      "field": "img-lazy",
+      "from": null,
+      "to": "4 images",
+      "source": "derived:below-fold-position"
+    },
+    {
+      "page": "https://www.vueeyecare.com/our-doctor/index.html",
+      "field": "title",
+      "from": null,
+      "to": "Our Eye Doctor - Vue Eyecare",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/our-doctor/index.html",
+      "field": "description",
+      "from": null,
+      "to": "Get to know a bit about our eye doctors even before your first visit.",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/our-doctor/index.html",
+      "field": "canonical",
+      "from": null,
+      "to": "https://www.vueeyecare.com/our-doctor/",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/our-doctor/index.html",
+      "field": "lang",
+      "from": null,
+      "to": "en",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/our-doctor/index.html",
+      "field": "og:title",
+      "from": null,
+      "to": "Our Eye Doctor - Vue Eyecare",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/our-doctor/index.html",
+      "field": "og:description",
+      "from": null,
+      "to": "Get to know a bit about our eye doctors even before your first visit.",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/our-doctor/index.html",
+      "field": "og:type",
+      "from": null,
+      "to": "website",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/our-doctor/index.html",
+      "field": "og:image",
+      "from": null,
+      "to": "https://www.vueeyecare.com/assets/img/f6fae01c-shutterstock-394120591.jpg-w_1600.webp",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/our-doctor/index.html",
+      "field": "og:url",
+      "from": null,
+      "to": "https://www.vueeyecare.com/our-doctor/",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/privacy-policy/index.html",
+      "field": "robots",
+      "from": null,
+      "to": "index, follow",
+      "source": "default:index"
+    },
+    {
+      "page": "https://www.vueeyecare.com/privacy-policy/index.html",
+      "field": "og:site_name",
+      "from": null,
+      "to": "Vue Eyecare",
+      "source": "derived:site-name"
+    },
+    {
+      "page": "https://www.vueeyecare.com/privacy-policy/index.html",
+      "field": "twitter:card",
+      "from": null,
+      "to": "summary_large_image",
+      "source": "derived:og-image-present"
+    },
+    {
+      "page": "https://www.vueeyecare.com/privacy-policy/index.html",
+      "field": "twitter:title",
+      "from": null,
+      "to": "Privacy Policy - Vue Eyecare",
+      "source": "derived:title"
+    },
+    {
+      "page": "https://www.vueeyecare.com/privacy-policy/index.html",
+      "field": "twitter:description",
+      "from": null,
+      "to": "Your privacy is important to us. Read our policy here.",
+      "source": "derived:description"
+    },
+    {
+      "page": "https://www.vueeyecare.com/privacy-policy/index.html",
+      "field": "twitter:image",
+      "from": null,
+      "to": "https://www.vueeyecare.com/assets/img/fb4fe021-shutterstock-331479137.jpg-w_2000.webp",
+      "source": "derived:og-image"
+    },
+    {
+      "page": "https://www.vueeyecare.com/privacy-policy/index.html",
+      "field": "jsonld:Organization",
+      "from": null,
+      "to": "Vue Eyecare",
+      "source": "client-facts"
+    },
+    {
+      "page": "https://www.vueeyecare.com/privacy-policy/index.html",
+      "field": "alt",
+      "from": null,
+      "to": "3 images",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/privacy-policy/index.html",
+      "field": "img-dimensions",
+      "from": null,
+      "to": "3 images",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/privacy-policy/index.html",
+      "field": "img-lazy",
+      "from": null,
+      "to": "1 images",
+      "source": "derived:below-fold-position"
+    },
+    {
+      "page": "https://www.vueeyecare.com/privacy-policy/index.html",
+      "field": "title",
+      "from": null,
+      "to": "Privacy Policy - Vue Eyecare",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/privacy-policy/index.html",
+      "field": "description",
+      "from": null,
+      "to": "Your privacy is important to us. Read our policy here.",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/privacy-policy/index.html",
+      "field": "canonical",
+      "from": null,
+      "to": "https://www.vueeyecare.com/privacy-policy/",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/privacy-policy/index.html",
+      "field": "lang",
+      "from": null,
+      "to": "en",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/privacy-policy/index.html",
+      "field": "og:title",
+      "from": null,
+      "to": "Privacy Policy - Vue Eyecare",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/privacy-policy/index.html",
+      "field": "og:description",
+      "from": null,
+      "to": "Your privacy is important to us. Read our policy here.",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/privacy-policy/index.html",
+      "field": "og:type",
+      "from": null,
+      "to": "website",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/privacy-policy/index.html",
+      "field": "og:image",
+      "from": null,
+      "to": "https://www.vueeyecare.com/assets/img/fb4fe021-shutterstock-331479137.jpg-w_2000.webp",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/privacy-policy/index.html",
+      "field": "og:url",
+      "from": null,
+      "to": "https://www.vueeyecare.com/privacy-policy/",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/products/contact-lenses/eye-exams-for-contacts/index.html",
+      "field": "robots",
+      "from": null,
+      "to": "index, follow",
+      "source": "default:index"
+    },
+    {
+      "page": "https://www.vueeyecare.com/products/contact-lenses/eye-exams-for-contacts/index.html",
+      "field": "og:site_name",
+      "from": null,
+      "to": "Vue Eyecare",
+      "source": "derived:site-name"
+    },
+    {
+      "page": "https://www.vueeyecare.com/products/contact-lenses/eye-exams-for-contacts/index.html",
+      "field": "twitter:card",
+      "from": null,
+      "to": "summary_large_image",
+      "source": "derived:og-image-present"
+    },
+    {
+      "page": "https://www.vueeyecare.com/products/contact-lenses/eye-exams-for-contacts/index.html",
+      "field": "twitter:title",
+      "from": null,
+      "to": "Eye Exams for Contact Lenses - Vue Eyecare",
+      "source": "derived:title"
+    },
+    {
+      "page": "https://www.vueeyecare.com/products/contact-lenses/eye-exams-for-contacts/index.html",
+      "field": "twitter:description",
+      "from": null,
+      "to": "Contact lens fittings include testing to determine if your eyes are suitable for contact lens wear and measurements required for the prescription.",
+      "source": "derived:description"
+    },
+    {
+      "page": "https://www.vueeyecare.com/products/contact-lenses/eye-exams-for-contacts/index.html",
+      "field": "twitter:image",
+      "from": null,
+      "to": "https://www.vueeyecare.com/assets/img/3bb5c79f-shutterstock_2283445965.jpg-w_2000.webp",
+      "source": "derived:og-image"
+    },
+    {
+      "page": "https://www.vueeyecare.com/products/contact-lenses/eye-exams-for-contacts/index.html",
+      "field": "jsonld:Organization",
+      "from": null,
+      "to": "Vue Eyecare",
+      "source": "client-facts"
+    },
+    {
+      "page": "https://www.vueeyecare.com/products/contact-lenses/eye-exams-for-contacts/index.html",
+      "field": "alt",
+      "from": null,
+      "to": "4 images",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/products/contact-lenses/eye-exams-for-contacts/index.html",
+      "field": "img-dimensions",
+      "from": null,
+      "to": "4 images",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/products/contact-lenses/eye-exams-for-contacts/index.html",
+      "field": "img-lazy",
+      "from": null,
+      "to": "2 images",
+      "source": "derived:below-fold-position"
+    },
+    {
+      "page": "https://www.vueeyecare.com/products/contact-lenses/eye-exams-for-contacts/index.html",
+      "field": "title",
+      "from": null,
+      "to": "Eye Exams for Contact Lenses - Vue Eyecare",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/products/contact-lenses/eye-exams-for-contacts/index.html",
+      "field": "description",
+      "from": null,
+      "to": "Contact lens fittings include testing to determine if your eyes are suitable for contact lens wear and measurements required for the prescription.",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/products/contact-lenses/eye-exams-for-contacts/index.html",
+      "field": "canonical",
+      "from": null,
+      "to": "https://www.vueeyecare.com/products/contact-lenses/eye-exams-for-contacts/",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/products/contact-lenses/eye-exams-for-contacts/index.html",
+      "field": "lang",
+      "from": null,
+      "to": "en",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/products/contact-lenses/eye-exams-for-contacts/index.html",
+      "field": "og:title",
+      "from": null,
+      "to": "Eye Exams for Contact Lenses - Vue Eyecare",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/products/contact-lenses/eye-exams-for-contacts/index.html",
+      "field": "og:description",
+      "from": null,
+      "to": "Contact lens fittings include testing to determine if your eyes are suitable for contact lens wear and measurements required for the prescription.",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/products/contact-lenses/eye-exams-for-contacts/index.html",
+      "field": "og:type",
+      "from": null,
+      "to": "website",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/products/contact-lenses/eye-exams-for-contacts/index.html",
+      "field": "og:image",
+      "from": null,
+      "to": "https://www.vueeyecare.com/assets/img/3bb5c79f-shutterstock_2283445965.jpg-w_2000.webp",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/products/contact-lenses/eye-exams-for-contacts/index.html",
+      "field": "og:url",
+      "from": null,
+      "to": "https://www.vueeyecare.com/products/contact-lenses/eye-exams-for-contacts/",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/products/contact-lenses/hard-to-fit/index.html",
+      "field": "robots",
+      "from": null,
+      "to": "index, follow",
+      "source": "default:index"
+    },
+    {
+      "page": "https://www.vueeyecare.com/products/contact-lenses/hard-to-fit/index.html",
+      "field": "og:site_name",
+      "from": null,
+      "to": "Vue Eyecare",
+      "source": "derived:site-name"
+    },
+    {
+      "page": "https://www.vueeyecare.com/products/contact-lenses/hard-to-fit/index.html",
+      "field": "twitter:card",
+      "from": null,
+      "to": "summary_large_image",
+      "source": "derived:og-image-present"
+    },
+    {
+      "page": "https://www.vueeyecare.com/products/contact-lenses/hard-to-fit/index.html",
+      "field": "twitter:title",
+      "from": null,
+      "to": "Contact Lenses for the “Hard-to-Fit” Patient - Vue Eyecare",
+      "source": "derived:title"
+    },
+    {
+      "page": "https://www.vueeyecare.com/products/contact-lenses/hard-to-fit/index.html",
+      "field": "twitter:description",
+      "from": null,
+      "to": "Challenges such as astigmatism, presbyopia, keratoconus and dry eyes needn’t be a barrier to contact lens wear, but they do require more time and patience.",
+      "source": "derived:description"
+    },
+    {
+      "page": "https://www.vueeyecare.com/products/contact-lenses/hard-to-fit/index.html",
+      "field": "twitter:image",
+      "from": null,
+      "to": "https://www.vueeyecare.com/assets/img/3bb5c79f-shutterstock_2283445965.jpg-w_2000.webp",
+      "source": "derived:og-image"
+    },
+    {
+      "page": "https://www.vueeyecare.com/products/contact-lenses/hard-to-fit/index.html",
+      "field": "jsonld:Organization",
+      "from": null,
+      "to": "Vue Eyecare",
+      "source": "client-facts"
+    },
+    {
+      "page": "https://www.vueeyecare.com/products/contact-lenses/hard-to-fit/index.html",
+      "field": "alt",
+      "from": null,
+      "to": "4 images",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/products/contact-lenses/hard-to-fit/index.html",
+      "field": "img-dimensions",
+      "from": null,
+      "to": "4 images",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/products/contact-lenses/hard-to-fit/index.html",
+      "field": "img-lazy",
+      "from": null,
+      "to": "2 images",
+      "source": "derived:below-fold-position"
+    },
+    {
+      "page": "https://www.vueeyecare.com/products/contact-lenses/hard-to-fit/index.html",
+      "field": "title",
+      "from": null,
+      "to": "Contact Lenses for the “Hard-to-Fit” Patient - Vue Eyecare",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/products/contact-lenses/hard-to-fit/index.html",
+      "field": "description",
+      "from": null,
+      "to": "Challenges such as astigmatism, presbyopia, keratoconus and dry eyes needn’t be a barrier to contact lens wear, but they do require more time and patience.",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/products/contact-lenses/hard-to-fit/index.html",
+      "field": "canonical",
+      "from": null,
+      "to": "https://www.vueeyecare.com/products/contact-lenses/hard-to-fit/",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/products/contact-lenses/hard-to-fit/index.html",
+      "field": "lang",
+      "from": null,
+      "to": "en",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/products/contact-lenses/hard-to-fit/index.html",
+      "field": "og:title",
+      "from": null,
+      "to": "Contact Lenses for the “Hard-to-Fit” Patient - Vue Eyecare",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/products/contact-lenses/hard-to-fit/index.html",
+      "field": "og:description",
+      "from": null,
+      "to": "Challenges such as astigmatism, presbyopia, keratoconus and dry eyes needn’t be a barrier to contact lens wear, but they do require more time and patience.",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/products/contact-lenses/hard-to-fit/index.html",
+      "field": "og:type",
+      "from": null,
+      "to": "website",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/products/contact-lenses/hard-to-fit/index.html",
+      "field": "og:image",
+      "from": null,
+      "to": "https://www.vueeyecare.com/assets/img/3bb5c79f-shutterstock_2283445965.jpg-w_2000.webp",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/products/contact-lenses/hard-to-fit/index.html",
+      "field": "og:url",
+      "from": null,
+      "to": "https://www.vueeyecare.com/products/contact-lenses/hard-to-fit/",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/products/contact-lenses/index.html",
+      "field": "robots",
+      "from": null,
+      "to": "index, follow",
+      "source": "default:index"
+    },
+    {
+      "page": "https://www.vueeyecare.com/products/contact-lenses/index.html",
+      "field": "og:site_name",
+      "from": null,
+      "to": "Vue Eyecare",
+      "source": "derived:site-name"
+    },
+    {
+      "page": "https://www.vueeyecare.com/products/contact-lenses/index.html",
+      "field": "twitter:card",
+      "from": null,
+      "to": "summary_large_image",
+      "source": "derived:og-image-present"
+    },
+    {
+      "page": "https://www.vueeyecare.com/products/contact-lenses/index.html",
+      "field": "twitter:title",
+      "from": null,
+      "to": "Contact Lenses - Vue Eyecare",
+      "source": "derived:title"
+    },
+    {
+      "page": "https://www.vueeyecare.com/products/contact-lenses/index.html",
+      "field": "twitter:description",
+      "from": null,
+      "to": "We offer a wide range of contact lenses to fit your needs including contact lens exams and fittings.",
+      "source": "derived:description"
+    },
+    {
+      "page": "https://www.vueeyecare.com/products/contact-lenses/index.html",
+      "field": "twitter:image",
+      "from": null,
+      "to": "https://www.vueeyecare.com/assets/img/9ec5ff51-AdobeStock_339724857.jpeg-w_1600.webp",
+      "source": "derived:og-image"
+    },
+    {
+      "page": "https://www.vueeyecare.com/products/contact-lenses/index.html",
+      "field": "jsonld:Organization",
+      "from": null,
+      "to": "Vue Eyecare",
+      "source": "client-facts"
+    },
+    {
+      "page": "https://www.vueeyecare.com/products/contact-lenses/index.html",
+      "field": "alt",
+      "from": null,
+      "to": "12 images",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/products/contact-lenses/index.html",
+      "field": "img-dimensions",
+      "from": null,
+      "to": "12 images",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/products/contact-lenses/index.html",
+      "field": "img-lazy",
+      "from": null,
+      "to": "10 images",
+      "source": "derived:below-fold-position"
+    },
+    {
+      "page": "https://www.vueeyecare.com/products/contact-lenses/index.html",
+      "field": "title",
+      "from": null,
+      "to": "Contact Lenses - Vue Eyecare",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/products/contact-lenses/index.html",
+      "field": "description",
+      "from": null,
+      "to": "We offer a wide range of contact lenses to fit your needs including contact lens exams and fittings.",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/products/contact-lenses/index.html",
+      "field": "canonical",
+      "from": null,
+      "to": "https://www.vueeyecare.com/products/contact-lenses/",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/products/contact-lenses/index.html",
+      "field": "lang",
+      "from": null,
+      "to": "en",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/products/contact-lenses/index.html",
+      "field": "og:title",
+      "from": null,
+      "to": "Contact Lenses - Vue Eyecare",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/products/contact-lenses/index.html",
+      "field": "og:description",
+      "from": null,
+      "to": "We offer a wide range of contact lenses to fit your needs including contact lens exams and fittings.",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/products/contact-lenses/index.html",
+      "field": "og:type",
+      "from": null,
+      "to": "website",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/products/contact-lenses/index.html",
+      "field": "og:image",
+      "from": null,
+      "to": "https://www.vueeyecare.com/assets/img/9ec5ff51-AdobeStock_339724857.jpeg-w_1600.webp",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/products/contact-lenses/index.html",
+      "field": "og:url",
+      "from": null,
+      "to": "https://www.vueeyecare.com/products/contact-lenses/",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/products/designer-frames/index.html",
+      "field": "robots",
+      "from": null,
+      "to": "index, follow",
+      "source": "default:index"
+    },
+    {
+      "page": "https://www.vueeyecare.com/products/designer-frames/index.html",
+      "field": "og:site_name",
+      "from": null,
+      "to": "Vue Eyecare",
+      "source": "derived:site-name"
+    },
+    {
+      "page": "https://www.vueeyecare.com/products/designer-frames/index.html",
+      "field": "twitter:card",
+      "from": null,
+      "to": "summary_large_image",
+      "source": "derived:og-image-present"
+    },
+    {
+      "page": "https://www.vueeyecare.com/products/designer-frames/index.html",
+      "field": "twitter:title",
+      "from": null,
+      "to": "Eyeglasses - Vue Eyecare",
+      "source": "derived:title"
+    },
+    {
+      "page": "https://www.vueeyecare.com/products/designer-frames/index.html",
+      "field": "twitter:description",
+      "from": null,
+      "to": "We carry a wide selection of eyewear at our optical including fashionable eyeglasses, a variety of contact, sunglasses, and specialty eyewear. Stop by!",
+      "source": "derived:description"
+    },
+    {
+      "page": "https://www.vueeyecare.com/products/designer-frames/index.html",
+      "field": "twitter:image",
+      "from": null,
+      "to": "https://www.vueeyecare.com/assets/img/b7b27d37-shutterstock_2283445965.jpg-w_1600.webp",
+      "source": "derived:og-image"
+    },
+    {
+      "page": "https://www.vueeyecare.com/products/designer-frames/index.html",
+      "field": "jsonld:Organization",
+      "from": null,
+      "to": "Vue Eyecare",
+      "source": "client-facts"
+    },
+    {
+      "page": "https://www.vueeyecare.com/products/designer-frames/index.html",
+      "field": "alt",
+      "from": null,
+      "to": "49 images",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/products/designer-frames/index.html",
+      "field": "img-dimensions",
+      "from": null,
+      "to": "49 images",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/products/designer-frames/index.html",
+      "field": "img-lazy",
+      "from": null,
+      "to": "47 images",
+      "source": "derived:below-fold-position"
+    },
+    {
+      "page": "https://www.vueeyecare.com/products/designer-frames/index.html",
+      "field": "title",
+      "from": null,
+      "to": "Eyeglasses - Vue Eyecare",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/products/designer-frames/index.html",
+      "field": "description",
+      "from": null,
+      "to": "We carry a wide selection of eyewear at our optical including fashionable eyeglasses, a variety of contact, sunglasses, and specialty eyewear. Stop by!",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/products/designer-frames/index.html",
+      "field": "canonical",
+      "from": null,
+      "to": "https://www.vueeyecare.com/products/designer-frames/",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/products/designer-frames/index.html",
+      "field": "lang",
+      "from": null,
+      "to": "en",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/products/designer-frames/index.html",
+      "field": "og:title",
+      "from": null,
+      "to": "Eyeglasses - Vue Eyecare",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/products/designer-frames/index.html",
+      "field": "og:description",
+      "from": null,
+      "to": "We carry a wide selection of eyewear at our optical including fashionable eyeglasses, a variety of contact, sunglasses, and specialty eyewear. Stop by!",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/products/designer-frames/index.html",
+      "field": "og:type",
+      "from": null,
+      "to": "website",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/products/designer-frames/index.html",
+      "field": "og:image",
+      "from": null,
+      "to": "https://www.vueeyecare.com/assets/img/b7b27d37-shutterstock_2283445965.jpg-w_1600.webp",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/products/designer-frames/index.html",
+      "field": "og:url",
+      "from": null,
+      "to": "https://www.vueeyecare.com/products/designer-frames/",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/products/index.html",
+      "field": "robots",
+      "from": null,
+      "to": "index, follow",
+      "source": "default:index"
+    },
+    {
+      "page": "https://www.vueeyecare.com/products/index.html",
+      "field": "og:site_name",
+      "from": null,
+      "to": "Vue Eyecare",
+      "source": "derived:site-name"
+    },
+    {
+      "page": "https://www.vueeyecare.com/products/index.html",
+      "field": "twitter:card",
+      "from": null,
+      "to": "summary_large_image",
+      "source": "derived:og-image-present"
+    },
+    {
+      "page": "https://www.vueeyecare.com/products/index.html",
+      "field": "twitter:title",
+      "from": null,
+      "to": "Eyewear | Vue Eyecare",
+      "source": "derived:title"
+    },
+    {
+      "page": "https://www.vueeyecare.com/products/index.html",
+      "field": "twitter:description",
+      "from": null,
+      "to": "Eyeglasses, Contact Lenses, Hard-to-Fit Contacts, Promotions at Vue Eyecare, Baton Rouge, LA.",
+      "source": "derived:description"
+    },
+    {
+      "page": "https://www.vueeyecare.com/products/index.html",
+      "field": "twitter:image",
+      "from": null,
+      "to": "https://www.vueeyecare.com/assets/img/fb4fe021-shutterstock-331479137.jpg-w_2000.webp",
+      "source": "derived:og-image"
+    },
+    {
+      "page": "https://www.vueeyecare.com/products/index.html",
+      "field": "jsonld:BreadcrumbList",
+      "from": null,
+      "to": "3 levels",
+      "source": "derived:url-path"
+    },
+    {
+      "page": "https://www.vueeyecare.com/products/index.html",
+      "field": "jsonld:Organization",
+      "from": null,
+      "to": "Vue Eyecare",
+      "source": "client-facts"
+    },
+    {
+      "page": "https://www.vueeyecare.com/products/index.html",
+      "field": "alt",
+      "from": null,
+      "to": "7 images",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/products/index.html",
+      "field": "img-dimensions",
+      "from": null,
+      "to": "7 images",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/products/index.html",
+      "field": "img-lazy",
+      "from": null,
+      "to": "5 images",
+      "source": "derived:below-fold-position"
+    },
+    {
+      "page": "https://www.vueeyecare.com/products/index.html",
+      "field": "title",
+      "from": null,
+      "to": "Eyewear | Vue Eyecare",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/products/index.html",
+      "field": "description",
+      "from": null,
+      "to": "Eyeglasses, Contact Lenses, Hard-to-Fit Contacts, Promotions at Vue Eyecare, Baton Rouge, LA.",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/products/index.html",
+      "field": "canonical",
+      "from": null,
+      "to": "https://www.vueeyecare.com/products/",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/products/index.html",
+      "field": "lang",
+      "from": null,
+      "to": "en",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/products/index.html",
+      "field": "og:title",
+      "from": null,
+      "to": "Eyewear | Vue Eyecare",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/products/index.html",
+      "field": "og:description",
+      "from": null,
+      "to": "Eyeglasses, Contact Lenses, Hard-to-Fit Contacts, Promotions at Vue Eyecare, Baton Rouge, LA.",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/products/index.html",
+      "field": "og:type",
+      "from": null,
+      "to": "website",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/products/index.html",
+      "field": "og:image",
+      "from": null,
+      "to": "https://www.vueeyecare.com/assets/img/fb4fe021-shutterstock-331479137.jpg-w_2000.webp",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/products/index.html",
+      "field": "og:url",
+      "from": null,
+      "to": "https://www.vueeyecare.com/products/",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/products/promotions/index.html",
+      "field": "robots",
+      "from": null,
+      "to": "index, follow",
+      "source": "default:index"
+    },
+    {
+      "page": "https://www.vueeyecare.com/products/promotions/index.html",
+      "field": "og:site_name",
+      "from": null,
+      "to": "Vue Eyecare",
+      "source": "derived:site-name"
+    },
+    {
+      "page": "https://www.vueeyecare.com/products/promotions/index.html",
+      "field": "twitter:card",
+      "from": null,
+      "to": "summary_large_image",
+      "source": "derived:og-image-present"
+    },
+    {
+      "page": "https://www.vueeyecare.com/products/promotions/index.html",
+      "field": "twitter:title",
+      "from": null,
+      "to": "Promotions - Vue Eyecare",
+      "source": "derived:title"
+    },
+    {
+      "page": "https://www.vueeyecare.com/products/promotions/index.html",
+      "field": "twitter:description",
+      "from": null,
+      "to": "Vue Eyecare",
+      "source": "derived:description"
+    },
+    {
+      "page": "https://www.vueeyecare.com/products/promotions/index.html",
+      "field": "twitter:image",
+      "from": null,
+      "to": "https://www.vueeyecare.com/assets/img/3bb5c79f-shutterstock_2283445965.jpg-w_2000.webp",
+      "source": "derived:og-image"
+    },
+    {
+      "page": "https://www.vueeyecare.com/products/promotions/index.html",
+      "field": "jsonld:Organization",
+      "from": null,
+      "to": "Vue Eyecare",
+      "source": "client-facts"
+    },
+    {
+      "page": "https://www.vueeyecare.com/products/promotions/index.html",
+      "field": "alt",
+      "from": null,
+      "to": "4 images",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/products/promotions/index.html",
+      "field": "img-dimensions",
+      "from": null,
+      "to": "4 images",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/products/promotions/index.html",
+      "field": "img-lazy",
+      "from": null,
+      "to": "2 images",
+      "source": "derived:below-fold-position"
+    },
+    {
+      "page": "https://www.vueeyecare.com/products/promotions/index.html",
+      "field": "title",
+      "from": null,
+      "to": "Promotions - Vue Eyecare",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/products/promotions/index.html",
+      "field": "description",
+      "from": null,
+      "to": "Vue Eyecare",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/products/promotions/index.html",
+      "field": "canonical",
+      "from": null,
+      "to": "https://www.vueeyecare.com/products/promotions/",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/products/promotions/index.html",
+      "field": "lang",
+      "from": null,
+      "to": "en",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/products/promotions/index.html",
+      "field": "og:title",
+      "from": null,
+      "to": "Promotions - Vue Eyecare",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/products/promotions/index.html",
+      "field": "og:description",
+      "from": null,
+      "to": "Vue Eyecare",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/products/promotions/index.html",
+      "field": "og:type",
+      "from": null,
+      "to": "website",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/products/promotions/index.html",
+      "field": "og:image",
+      "from": null,
+      "to": "https://www.vueeyecare.com/assets/img/3bb5c79f-shutterstock_2283445965.jpg-w_2000.webp",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/products/promotions/index.html",
+      "field": "og:url",
+      "from": null,
+      "to": "https://www.vueeyecare.com/products/promotions/",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/reviews/index.html",
+      "field": "robots",
+      "from": null,
+      "to": "index, follow",
+      "source": "default:index"
+    },
+    {
+      "page": "https://www.vueeyecare.com/reviews/index.html",
+      "field": "og:site_name",
+      "from": null,
+      "to": "Vue Eyecare",
+      "source": "derived:site-name"
+    },
+    {
+      "page": "https://www.vueeyecare.com/reviews/index.html",
+      "field": "twitter:card",
+      "from": null,
+      "to": "summary_large_image",
+      "source": "derived:og-image-present"
+    },
+    {
+      "page": "https://www.vueeyecare.com/reviews/index.html",
+      "field": "twitter:title",
+      "from": null,
+      "to": "Patient Reviews | Vue Eyecare",
+      "source": "derived:title"
+    },
+    {
+      "page": "https://www.vueeyecare.com/reviews/index.html",
+      "field": "twitter:description",
+      "from": null,
+      "to": "Vue Eyecare patient reviews: 5.0 out of 5 from 20 reviews.",
+      "source": "derived:description"
+    },
+    {
+      "page": "https://www.vueeyecare.com/reviews/index.html",
+      "field": "twitter:image",
+      "from": null,
+      "to": "https://www.vueeyecare.com/assets/img/fb4fe021-shutterstock-331479137.jpg-w_2000.webp",
+      "source": "derived:og-image"
+    },
+    {
+      "page": "https://www.vueeyecare.com/reviews/index.html",
+      "field": "jsonld:BreadcrumbList",
+      "from": null,
+      "to": "3 levels",
+      "source": "derived:url-path"
+    },
+    {
+      "page": "https://www.vueeyecare.com/reviews/index.html",
+      "field": "jsonld:Organization",
+      "from": null,
+      "to": "Vue Eyecare",
+      "source": "client-facts"
+    },
+    {
+      "page": "https://www.vueeyecare.com/reviews/index.html",
+      "field": "alt",
+      "from": null,
+      "to": "3 images",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/reviews/index.html",
+      "field": "img-dimensions",
+      "from": null,
+      "to": "3 images",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/reviews/index.html",
+      "field": "img-lazy",
+      "from": null,
+      "to": "1 images",
+      "source": "derived:below-fold-position"
+    },
+    {
+      "page": "https://www.vueeyecare.com/reviews/index.html",
+      "field": "title",
+      "from": null,
+      "to": "Patient Reviews | Vue Eyecare",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/reviews/index.html",
+      "field": "description",
+      "from": null,
+      "to": "Vue Eyecare patient reviews: 5.0 out of 5 from 20 reviews.",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/reviews/index.html",
+      "field": "canonical",
+      "from": null,
+      "to": "https://www.vueeyecare.com/reviews/",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/reviews/index.html",
+      "field": "lang",
+      "from": null,
+      "to": "en",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/reviews/index.html",
+      "field": "og:title",
+      "from": null,
+      "to": "Patient Reviews | Vue Eyecare",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/reviews/index.html",
+      "field": "og:description",
+      "from": null,
+      "to": "Vue Eyecare patient reviews: 5.0 out of 5 from 20 reviews.",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/reviews/index.html",
+      "field": "og:type",
+      "from": null,
+      "to": "website",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/reviews/index.html",
+      "field": "og:image",
+      "from": null,
+      "to": "https://www.vueeyecare.com/assets/img/fb4fe021-shutterstock-331479137.jpg-w_2000.webp",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/reviews/index.html",
+      "field": "og:url",
+      "from": null,
+      "to": "https://www.vueeyecare.com/reviews/",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/search/index.html",
+      "field": "robots",
+      "from": null,
+      "to": "index, follow",
+      "source": "default:index"
+    },
+    {
+      "page": "https://www.vueeyecare.com/search/index.html",
+      "field": "og:site_name",
+      "from": null,
+      "to": "Vue Eyecare",
+      "source": "derived:site-name"
+    },
+    {
+      "page": "https://www.vueeyecare.com/search/index.html",
+      "field": "twitter:card",
+      "from": null,
+      "to": "summary_large_image",
+      "source": "derived:og-image-present"
+    },
+    {
+      "page": "https://www.vueeyecare.com/search/index.html",
+      "field": "twitter:title",
+      "from": null,
+      "to": "Search | Vue Eyecare",
+      "source": "derived:title"
+    },
+    {
+      "page": "https://www.vueeyecare.com/search/index.html",
+      "field": "twitter:description",
+      "from": null,
+      "to": "Search the Vue Eyecare website.",
+      "source": "derived:description"
+    },
+    {
+      "page": "https://www.vueeyecare.com/search/index.html",
+      "field": "twitter:image",
+      "from": null,
+      "to": "https://www.vueeyecare.com/assets/img/fb4fe021-shutterstock-331479137.jpg-w_2000.webp",
+      "source": "derived:og-image"
+    },
+    {
+      "page": "https://www.vueeyecare.com/search/index.html",
+      "field": "jsonld:BreadcrumbList",
+      "from": null,
+      "to": "3 levels",
+      "source": "derived:url-path"
+    },
+    {
+      "page": "https://www.vueeyecare.com/search/index.html",
+      "field": "jsonld:Organization",
+      "from": null,
+      "to": "Vue Eyecare",
+      "source": "client-facts"
+    },
+    {
+      "page": "https://www.vueeyecare.com/search/index.html",
+      "field": "alt",
+      "from": null,
+      "to": "3 images",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/search/index.html",
+      "field": "img-dimensions",
+      "from": null,
+      "to": "3 images",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/search/index.html",
+      "field": "img-lazy",
+      "from": null,
+      "to": "1 images",
+      "source": "derived:below-fold-position"
+    },
+    {
+      "page": "https://www.vueeyecare.com/search/index.html",
+      "field": "title",
+      "from": null,
+      "to": "Search | Vue Eyecare",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/search/index.html",
+      "field": "description",
+      "from": null,
+      "to": "Search the Vue Eyecare website.",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/search/index.html",
+      "field": "canonical",
+      "from": null,
+      "to": "https://www.vueeyecare.com/search/",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/search/index.html",
+      "field": "lang",
+      "from": null,
+      "to": "en",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/search/index.html",
+      "field": "og:title",
+      "from": null,
+      "to": "Search | Vue Eyecare",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/search/index.html",
+      "field": "og:description",
+      "from": null,
+      "to": "Search the Vue Eyecare website.",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/search/index.html",
+      "field": "og:type",
+      "from": null,
+      "to": "website",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/search/index.html",
+      "field": "og:image",
+      "from": null,
+      "to": "https://www.vueeyecare.com/assets/img/fb4fe021-shutterstock-331479137.jpg-w_2000.webp",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/search/index.html",
+      "field": "og:url",
+      "from": null,
+      "to": "https://www.vueeyecare.com/search/",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/services/cataract-co-management/index.html",
+      "field": "robots",
+      "from": null,
+      "to": "index, follow",
+      "source": "default:index"
+    },
+    {
+      "page": "https://www.vueeyecare.com/services/cataract-co-management/index.html",
+      "field": "og:site_name",
+      "from": null,
+      "to": "Vue Eyecare",
+      "source": "derived:site-name"
+    },
+    {
+      "page": "https://www.vueeyecare.com/services/cataract-co-management/index.html",
+      "field": "twitter:card",
+      "from": null,
+      "to": "summary_large_image",
+      "source": "derived:og-image-present"
+    },
+    {
+      "page": "https://www.vueeyecare.com/services/cataract-co-management/index.html",
+      "field": "twitter:title",
+      "from": null,
+      "to": "Cataract Surgery | Treating Cataracts Pre-op &amp; Post-op | Optometrist",
+      "source": "derived:title"
+    },
+    {
+      "page": "https://www.vueeyecare.com/services/cataract-co-management/index.html",
+      "field": "twitter:description",
+      "from": null,
+      "to": "Cataract surgery is the removal of the natural lens of the eye that has developed a cataract. Our practice provides pre-op and post-cataract surgery care.",
+      "source": "derived:description"
+    },
+    {
+      "page": "https://www.vueeyecare.com/services/cataract-co-management/index.html",
+      "field": "twitter:image",
+      "from": null,
+      "to": "https://www.vueeyecare.com/assets/img/b89afceb-shutterstock-1989220913.jpg-w_2000.webp",
+      "source": "derived:og-image"
+    },
+    {
+      "page": "https://www.vueeyecare.com/services/cataract-co-management/index.html",
+      "field": "jsonld:Organization",
+      "from": null,
+      "to": "Vue Eyecare",
+      "source": "client-facts"
+    },
+    {
+      "page": "https://www.vueeyecare.com/services/cataract-co-management/index.html",
+      "field": "alt",
+      "from": null,
+      "to": "4 images",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/services/cataract-co-management/index.html",
+      "field": "img-dimensions",
+      "from": null,
+      "to": "4 images",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/services/cataract-co-management/index.html",
+      "field": "img-lazy",
+      "from": null,
+      "to": "2 images",
+      "source": "derived:below-fold-position"
+    },
+    {
+      "page": "https://www.vueeyecare.com/services/cataract-co-management/index.html",
+      "field": "title",
+      "from": null,
+      "to": "Cataract Surgery | Treating Cataracts Pre-op &amp; Post-op | Optometrist",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/services/cataract-co-management/index.html",
+      "field": "description",
+      "from": null,
+      "to": "Cataract surgery is the removal of the natural lens of the eye that has developed a cataract. Our practice provides pre-op and post-cataract surgery care.",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/services/cataract-co-management/index.html",
+      "field": "canonical",
+      "from": null,
+      "to": "https://www.vueeyecare.com/services/cataract-co-management/",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/services/cataract-co-management/index.html",
+      "field": "lang",
+      "from": null,
+      "to": "en",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/services/cataract-co-management/index.html",
+      "field": "og:title",
+      "from": null,
+      "to": "Cataract Surgery | Treating Cataracts Pre-op & Post-op | Optometrist",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/services/cataract-co-management/index.html",
+      "field": "og:description",
+      "from": null,
+      "to": "Cataract surgery is the removal of the natural lens of the eye that has developed a cataract. Our practice provides pre-op and post-cataract surgery care.",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/services/cataract-co-management/index.html",
+      "field": "og:type",
+      "from": null,
+      "to": "website",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/services/cataract-co-management/index.html",
+      "field": "og:image",
+      "from": null,
+      "to": "https://www.vueeyecare.com/assets/img/b89afceb-shutterstock-1989220913.jpg-w_2000.webp",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/services/cataract-co-management/index.html",
+      "field": "og:url",
+      "from": null,
+      "to": "https://www.vueeyecare.com/services/cataract-co-management/",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/services/comprehensive-eye-exams/index.html",
+      "field": "robots",
+      "from": null,
+      "to": "index, follow",
+      "source": "default:index"
+    },
+    {
+      "page": "https://www.vueeyecare.com/services/comprehensive-eye-exams/index.html",
+      "field": "og:site_name",
+      "from": null,
+      "to": "Vue Eyecare",
+      "source": "derived:site-name"
+    },
+    {
+      "page": "https://www.vueeyecare.com/services/comprehensive-eye-exams/index.html",
+      "field": "twitter:card",
+      "from": null,
+      "to": "summary_large_image",
+      "source": "derived:og-image-present"
+    },
+    {
+      "page": "https://www.vueeyecare.com/services/comprehensive-eye-exams/index.html",
+      "field": "twitter:title",
+      "from": null,
+      "to": "Eye Exam Near You | Optometrist",
+      "source": "derived:title"
+    },
+    {
+      "page": "https://www.vueeyecare.com/services/comprehensive-eye-exams/index.html",
+      "field": "twitter:description",
+      "from": null,
+      "to": "Vue Eyecare",
+      "source": "derived:description"
+    },
+    {
+      "page": "https://www.vueeyecare.com/services/comprehensive-eye-exams/index.html",
+      "field": "twitter:image",
+      "from": null,
+      "to": "https://www.vueeyecare.com/assets/img/c5494c19-a-family-sitting-on-a-couch-reading-a-book.jpg-w_1200.webp",
+      "source": "derived:og-image"
+    },
+    {
+      "page": "https://www.vueeyecare.com/services/comprehensive-eye-exams/index.html",
+      "field": "jsonld:Organization",
+      "from": null,
+      "to": "Vue Eyecare",
+      "source": "client-facts"
+    },
+    {
+      "page": "https://www.vueeyecare.com/services/comprehensive-eye-exams/index.html",
+      "field": "alt",
+      "from": null,
+      "to": "5 images",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/services/comprehensive-eye-exams/index.html",
+      "field": "img-dimensions",
+      "from": null,
+      "to": "5 images",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/services/comprehensive-eye-exams/index.html",
+      "field": "img-lazy",
+      "from": null,
+      "to": "3 images",
+      "source": "derived:below-fold-position"
+    },
+    {
+      "page": "https://www.vueeyecare.com/services/comprehensive-eye-exams/index.html",
+      "field": "title",
+      "from": null,
+      "to": "Eye Exam Near You | Optometrist",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/services/comprehensive-eye-exams/index.html",
+      "field": "description",
+      "from": null,
+      "to": "Vue Eyecare",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/services/comprehensive-eye-exams/index.html",
+      "field": "canonical",
+      "from": null,
+      "to": "https://www.vueeyecare.com/services/comprehensive-eye-exams/",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/services/comprehensive-eye-exams/index.html",
+      "field": "lang",
+      "from": null,
+      "to": "en",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/services/comprehensive-eye-exams/index.html",
+      "field": "og:title",
+      "from": null,
+      "to": "Eye Exam Near You | Optometrist",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/services/comprehensive-eye-exams/index.html",
+      "field": "og:description",
+      "from": null,
+      "to": "Vue Eyecare",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/services/comprehensive-eye-exams/index.html",
+      "field": "og:type",
+      "from": null,
+      "to": "website",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/services/comprehensive-eye-exams/index.html",
+      "field": "og:image",
+      "from": null,
+      "to": "https://www.vueeyecare.com/assets/img/c5494c19-a-family-sitting-on-a-couch-reading-a-book.jpg-w_1200.webp",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/services/comprehensive-eye-exams/index.html",
+      "field": "og:url",
+      "from": null,
+      "to": "https://www.vueeyecare.com/services/comprehensive-eye-exams/",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/services/contact-lens-exams/index.html",
+      "field": "robots",
+      "from": null,
+      "to": "index, follow",
+      "source": "default:index"
+    },
+    {
+      "page": "https://www.vueeyecare.com/services/contact-lens-exams/index.html",
+      "field": "og:site_name",
+      "from": null,
+      "to": "Vue Eyecare",
+      "source": "derived:site-name"
+    },
+    {
+      "page": "https://www.vueeyecare.com/services/contact-lens-exams/index.html",
+      "field": "twitter:card",
+      "from": null,
+      "to": "summary_large_image",
+      "source": "derived:og-image-present"
+    },
+    {
+      "page": "https://www.vueeyecare.com/services/contact-lens-exams/index.html",
+      "field": "twitter:title",
+      "from": null,
+      "to": "Contact Lens Exam | Eye Doctor",
+      "source": "derived:title"
+    },
+    {
+      "page": "https://www.vueeyecare.com/services/contact-lens-exams/index.html",
+      "field": "twitter:description",
+      "from": null,
+      "to": "Vue Eyecare",
+      "source": "derived:description"
+    },
+    {
+      "page": "https://www.vueeyecare.com/services/contact-lens-exams/index.html",
+      "field": "twitter:image",
+      "from": null,
+      "to": "https://www.vueeyecare.com/assets/img/b9d8471e-shutterstock_1654100296.jpg-w_1600.webp",
+      "source": "derived:og-image"
+    },
+    {
+      "page": "https://www.vueeyecare.com/services/contact-lens-exams/index.html",
+      "field": "jsonld:Organization",
+      "from": null,
+      "to": "Vue Eyecare",
+      "source": "client-facts"
+    },
+    {
+      "page": "https://www.vueeyecare.com/services/contact-lens-exams/index.html",
+      "field": "alt",
+      "from": null,
+      "to": "5 images",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/services/contact-lens-exams/index.html",
+      "field": "img-dimensions",
+      "from": null,
+      "to": "5 images",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/services/contact-lens-exams/index.html",
+      "field": "img-lazy",
+      "from": null,
+      "to": "3 images",
+      "source": "derived:below-fold-position"
+    },
+    {
+      "page": "https://www.vueeyecare.com/services/contact-lens-exams/index.html",
+      "field": "title",
+      "from": null,
+      "to": "Contact Lens Exam | Eye Doctor",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/services/contact-lens-exams/index.html",
+      "field": "description",
+      "from": null,
+      "to": "Vue Eyecare",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/services/contact-lens-exams/index.html",
+      "field": "canonical",
+      "from": null,
+      "to": "https://www.vueeyecare.com/services/contact-lens-exams/",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/services/contact-lens-exams/index.html",
+      "field": "lang",
+      "from": null,
+      "to": "en",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/services/contact-lens-exams/index.html",
+      "field": "og:title",
+      "from": null,
+      "to": "Contact Lens Exam | Eye Doctor",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/services/contact-lens-exams/index.html",
+      "field": "og:description",
+      "from": null,
+      "to": "Vue Eyecare",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/services/contact-lens-exams/index.html",
+      "field": "og:type",
+      "from": null,
+      "to": "website",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/services/contact-lens-exams/index.html",
+      "field": "og:image",
+      "from": null,
+      "to": "https://www.vueeyecare.com/assets/img/b9d8471e-shutterstock_1654100296.jpg-w_1600.webp",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/services/contact-lens-exams/index.html",
+      "field": "og:url",
+      "from": null,
+      "to": "https://www.vueeyecare.com/services/contact-lens-exams/",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/services/diabetic-eye-exams/index.html",
+      "field": "robots",
+      "from": null,
+      "to": "index, follow",
+      "source": "default:index"
+    },
+    {
+      "page": "https://www.vueeyecare.com/services/diabetic-eye-exams/index.html",
+      "field": "og:site_name",
+      "from": null,
+      "to": "Vue Eyecare",
+      "source": "derived:site-name"
+    },
+    {
+      "page": "https://www.vueeyecare.com/services/diabetic-eye-exams/index.html",
+      "field": "twitter:card",
+      "from": null,
+      "to": "summary_large_image",
+      "source": "derived:og-image-present"
+    },
+    {
+      "page": "https://www.vueeyecare.com/services/diabetic-eye-exams/index.html",
+      "field": "twitter:title",
+      "from": null,
+      "to": "Diabetic Retinopathy | Diabetic Eye Disease | Diabetes Eye Exam",
+      "source": "derived:title"
+    },
+    {
+      "page": "https://www.vueeyecare.com/services/diabetic-eye-exams/index.html",
+      "field": "twitter:description",
+      "from": null,
+      "to": "If you have diabetes, you need to know that this systemic disease puts you at greater risk for developing vision problems. Be diligent about eye care.",
+      "source": "derived:description"
+    },
+    {
+      "page": "https://www.vueeyecare.com/services/diabetic-eye-exams/index.html",
+      "field": "twitter:image",
+      "from": null,
+      "to": "https://www.vueeyecare.com/assets/img/b89afceb-shutterstock-1989220913.jpg-w_2000.webp",
+      "source": "derived:og-image"
+    },
+    {
+      "page": "https://www.vueeyecare.com/services/diabetic-eye-exams/index.html",
+      "field": "jsonld:Organization",
+      "from": null,
+      "to": "Vue Eyecare",
+      "source": "client-facts"
+    },
+    {
+      "page": "https://www.vueeyecare.com/services/diabetic-eye-exams/index.html",
+      "field": "alt",
+      "from": null,
+      "to": "4 images",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/services/diabetic-eye-exams/index.html",
+      "field": "img-dimensions",
+      "from": null,
+      "to": "4 images",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/services/diabetic-eye-exams/index.html",
+      "field": "img-lazy",
+      "from": null,
+      "to": "2 images",
+      "source": "derived:below-fold-position"
+    },
+    {
+      "page": "https://www.vueeyecare.com/services/diabetic-eye-exams/index.html",
+      "field": "title",
+      "from": null,
+      "to": "Diabetic Retinopathy | Diabetic Eye Disease | Diabetes Eye Exam",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/services/diabetic-eye-exams/index.html",
+      "field": "description",
+      "from": null,
+      "to": "If you have diabetes, you need to know that this systemic disease puts you at greater risk for developing vision problems. Be diligent about eye care.",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/services/diabetic-eye-exams/index.html",
+      "field": "canonical",
+      "from": null,
+      "to": "https://www.vueeyecare.com/services/diabetic-eye-exams/",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/services/diabetic-eye-exams/index.html",
+      "field": "lang",
+      "from": null,
+      "to": "en",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/services/diabetic-eye-exams/index.html",
+      "field": "og:title",
+      "from": null,
+      "to": "Diabetic Retinopathy | Diabetic Eye Disease | Diabetes Eye Exam",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/services/diabetic-eye-exams/index.html",
+      "field": "og:description",
+      "from": null,
+      "to": "If you have diabetes, you need to know that this systemic disease puts you at greater risk for developing vision problems. Be diligent about eye care.",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/services/diabetic-eye-exams/index.html",
+      "field": "og:type",
+      "from": null,
+      "to": "website",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/services/diabetic-eye-exams/index.html",
+      "field": "og:image",
+      "from": null,
+      "to": "https://www.vueeyecare.com/assets/img/b89afceb-shutterstock-1989220913.jpg-w_2000.webp",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/services/diabetic-eye-exams/index.html",
+      "field": "og:url",
+      "from": null,
+      "to": "https://www.vueeyecare.com/services/diabetic-eye-exams/",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/services/dry-eye-treatment/index.html",
+      "field": "robots",
+      "from": null,
+      "to": "index, follow",
+      "source": "default:index"
+    },
+    {
+      "page": "https://www.vueeyecare.com/services/dry-eye-treatment/index.html",
+      "field": "og:site_name",
+      "from": null,
+      "to": "Vue Eyecare",
+      "source": "derived:site-name"
+    },
+    {
+      "page": "https://www.vueeyecare.com/services/dry-eye-treatment/index.html",
+      "field": "twitter:card",
+      "from": null,
+      "to": "summary_large_image",
+      "source": "derived:og-image-present"
+    },
+    {
+      "page": "https://www.vueeyecare.com/services/dry-eye-treatment/index.html",
+      "field": "twitter:title",
+      "from": null,
+      "to": "Dry Eye Treatment | Dry Eye Syndrome | Dry Eyes | Optometrist",
+      "source": "derived:title"
+    },
+    {
+      "page": "https://www.vueeyecare.com/services/dry-eye-treatment/index.html",
+      "field": "twitter:description",
+      "from": null,
+      "to": "Vue Eyecare",
+      "source": "derived:description"
+    },
+    {
+      "page": "https://www.vueeyecare.com/services/dry-eye-treatment/index.html",
+      "field": "twitter:image",
+      "from": null,
+      "to": "https://www.vueeyecare.com/assets/img/1c3e12f3-Man20Smiling20Field201280x480_preview1.jpeg-w_1200.webp",
+      "source": "derived:og-image"
+    },
+    {
+      "page": "https://www.vueeyecare.com/services/dry-eye-treatment/index.html",
+      "field": "jsonld:Organization",
+      "from": null,
+      "to": "Vue Eyecare",
+      "source": "client-facts"
+    },
+    {
+      "page": "https://www.vueeyecare.com/services/dry-eye-treatment/index.html",
+      "field": "alt",
+      "from": null,
+      "to": "4 images",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/services/dry-eye-treatment/index.html",
+      "field": "img-dimensions",
+      "from": null,
+      "to": "4 images",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/services/dry-eye-treatment/index.html",
+      "field": "img-lazy",
+      "from": null,
+      "to": "2 images",
+      "source": "derived:below-fold-position"
+    },
+    {
+      "page": "https://www.vueeyecare.com/services/dry-eye-treatment/index.html",
+      "field": "title",
+      "from": null,
+      "to": "Dry Eye Treatment | Dry Eye Syndrome | Dry Eyes | Optometrist",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/services/dry-eye-treatment/index.html",
+      "field": "description",
+      "from": null,
+      "to": "Vue Eyecare",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/services/dry-eye-treatment/index.html",
+      "field": "canonical",
+      "from": null,
+      "to": "https://www.vueeyecare.com/services/dry-eye-treatment/",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/services/dry-eye-treatment/index.html",
+      "field": "lang",
+      "from": null,
+      "to": "en",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/services/dry-eye-treatment/index.html",
+      "field": "og:title",
+      "from": null,
+      "to": "Dry Eye Treatment | Dry Eye Syndrome | Dry Eyes | Optometrist",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/services/dry-eye-treatment/index.html",
+      "field": "og:description",
+      "from": null,
+      "to": "Vue Eyecare",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/services/dry-eye-treatment/index.html",
+      "field": "og:type",
+      "from": null,
+      "to": "website",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/services/dry-eye-treatment/index.html",
+      "field": "og:image",
+      "from": null,
+      "to": "https://www.vueeyecare.com/assets/img/1c3e12f3-Man20Smiling20Field201280x480_preview1.jpeg-w_1200.webp",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/services/dry-eye-treatment/index.html",
+      "field": "og:url",
+      "from": null,
+      "to": "https://www.vueeyecare.com/services/dry-eye-treatment/",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/services/emergency-eye-care/index.html",
+      "field": "robots",
+      "from": null,
+      "to": "index, follow",
+      "source": "default:index"
+    },
+    {
+      "page": "https://www.vueeyecare.com/services/emergency-eye-care/index.html",
+      "field": "og:site_name",
+      "from": null,
+      "to": "Vue Eyecare",
+      "source": "derived:site-name"
+    },
+    {
+      "page": "https://www.vueeyecare.com/services/emergency-eye-care/index.html",
+      "field": "twitter:card",
+      "from": null,
+      "to": "summary_large_image",
+      "source": "derived:og-image-present"
+    },
+    {
+      "page": "https://www.vueeyecare.com/services/emergency-eye-care/index.html",
+      "field": "twitter:title",
+      "from": null,
+      "to": "Pink Eye | Infection, Injury, Foreign Body Removal | Eye Emergency Doctor",
+      "source": "derived:title"
+    },
+    {
+      "page": "https://www.vueeyecare.com/services/emergency-eye-care/index.html",
+      "field": "twitter:description",
+      "from": null,
+      "to": "Vue Eyecare",
+      "source": "derived:description"
+    },
+    {
+      "page": "https://www.vueeyecare.com/services/emergency-eye-care/index.html",
+      "field": "twitter:image",
+      "from": null,
+      "to": "https://www.vueeyecare.com/assets/img/c07fa539-Woman-Something-in-Eye-1280x480.jpg-w_1200.webp",
+      "source": "derived:og-image"
+    },
+    {
+      "page": "https://www.vueeyecare.com/services/emergency-eye-care/index.html",
+      "field": "jsonld:Organization",
+      "from": null,
+      "to": "Vue Eyecare",
+      "source": "client-facts"
+    },
+    {
+      "page": "https://www.vueeyecare.com/services/emergency-eye-care/index.html",
+      "field": "alt",
+      "from": null,
+      "to": "4 images",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/services/emergency-eye-care/index.html",
+      "field": "img-dimensions",
+      "from": null,
+      "to": "4 images",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/services/emergency-eye-care/index.html",
+      "field": "img-lazy",
+      "from": null,
+      "to": "2 images",
+      "source": "derived:below-fold-position"
+    },
+    {
+      "page": "https://www.vueeyecare.com/services/emergency-eye-care/index.html",
+      "field": "title",
+      "from": null,
+      "to": "Pink Eye | Infection, Injury, Foreign Body Removal | Eye Emergency Doctor",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/services/emergency-eye-care/index.html",
+      "field": "description",
+      "from": null,
+      "to": "Vue Eyecare",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/services/emergency-eye-care/index.html",
+      "field": "canonical",
+      "from": null,
+      "to": "https://www.vueeyecare.com/services/emergency-eye-care/",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/services/emergency-eye-care/index.html",
+      "field": "lang",
+      "from": null,
+      "to": "en",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/services/emergency-eye-care/index.html",
+      "field": "og:title",
+      "from": null,
+      "to": "Pink Eye | Infection, Injury, Foreign Body Removal | Eye Emergency Doctor",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/services/emergency-eye-care/index.html",
+      "field": "og:description",
+      "from": null,
+      "to": "Vue Eyecare",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/services/emergency-eye-care/index.html",
+      "field": "og:type",
+      "from": null,
+      "to": "website",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/services/emergency-eye-care/index.html",
+      "field": "og:image",
+      "from": null,
+      "to": "https://www.vueeyecare.com/assets/img/c07fa539-Woman-Something-in-Eye-1280x480.jpg-w_1200.webp",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/services/emergency-eye-care/index.html",
+      "field": "og:url",
+      "from": null,
+      "to": "https://www.vueeyecare.com/services/emergency-eye-care/",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/services/eye-conditions/index.html",
+      "field": "robots",
+      "from": null,
+      "to": "index, follow",
+      "source": "default:index"
+    },
+    {
+      "page": "https://www.vueeyecare.com/services/eye-conditions/index.html",
+      "field": "og:site_name",
+      "from": null,
+      "to": "Vue Eyecare",
+      "source": "derived:site-name"
+    },
+    {
+      "page": "https://www.vueeyecare.com/services/eye-conditions/index.html",
+      "field": "twitter:card",
+      "from": null,
+      "to": "summary_large_image",
+      "source": "derived:og-image-present"
+    },
+    {
+      "page": "https://www.vueeyecare.com/services/eye-conditions/index.html",
+      "field": "twitter:title",
+      "from": null,
+      "to": "Eye Conditions | Eye Doctor &amp; Eye Exam Near You",
+      "source": "derived:title"
+    },
+    {
+      "page": "https://www.vueeyecare.com/services/eye-conditions/index.html",
+      "field": "twitter:description",
+      "from": null,
+      "to": "Vue Eyecare",
+      "source": "derived:description"
+    },
+    {
+      "page": "https://www.vueeyecare.com/services/eye-conditions/index.html",
+      "field": "twitter:image",
+      "from": null,
+      "to": "https://www.vueeyecare.com/assets/img/f3d18460-Happy20Parents20with20Child201280x480_preview1.jpeg-w_1200.webp",
+      "source": "derived:og-image"
+    },
+    {
+      "page": "https://www.vueeyecare.com/services/eye-conditions/index.html",
+      "field": "jsonld:Organization",
+      "from": null,
+      "to": "Vue Eyecare",
+      "source": "client-facts"
+    },
+    {
+      "page": "https://www.vueeyecare.com/services/eye-conditions/index.html",
+      "field": "alt",
+      "from": null,
+      "to": "4 images",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/services/eye-conditions/index.html",
+      "field": "img-dimensions",
+      "from": null,
+      "to": "4 images",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/services/eye-conditions/index.html",
+      "field": "img-lazy",
+      "from": null,
+      "to": "2 images",
+      "source": "derived:below-fold-position"
+    },
+    {
+      "page": "https://www.vueeyecare.com/services/eye-conditions/index.html",
+      "field": "title",
+      "from": null,
+      "to": "Eye Conditions | Eye Doctor &amp; Eye Exam Near You",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/services/eye-conditions/index.html",
+      "field": "description",
+      "from": null,
+      "to": "Vue Eyecare",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/services/eye-conditions/index.html",
+      "field": "canonical",
+      "from": null,
+      "to": "https://www.vueeyecare.com/services/eye-conditions/",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/services/eye-conditions/index.html",
+      "field": "lang",
+      "from": null,
+      "to": "en",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/services/eye-conditions/index.html",
+      "field": "og:title",
+      "from": null,
+      "to": "Eye Conditions | Eye Doctor & Eye Exam Near You",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/services/eye-conditions/index.html",
+      "field": "og:description",
+      "from": null,
+      "to": "Vue Eyecare",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/services/eye-conditions/index.html",
+      "field": "og:type",
+      "from": null,
+      "to": "website",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/services/eye-conditions/index.html",
+      "field": "og:image",
+      "from": null,
+      "to": "https://www.vueeyecare.com/assets/img/f3d18460-Happy20Parents20with20Child201280x480_preview1.jpeg-w_1200.webp",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/services/eye-conditions/index.html",
+      "field": "og:url",
+      "from": null,
+      "to": "https://www.vueeyecare.com/services/eye-conditions/",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/services/glaucoma-management/index.html",
+      "field": "robots",
+      "from": null,
+      "to": "index, follow",
+      "source": "default:index"
+    },
+    {
+      "page": "https://www.vueeyecare.com/services/glaucoma-management/index.html",
+      "field": "og:site_name",
+      "from": null,
+      "to": "Vue Eyecare",
+      "source": "derived:site-name"
+    },
+    {
+      "page": "https://www.vueeyecare.com/services/glaucoma-management/index.html",
+      "field": "twitter:card",
+      "from": null,
+      "to": "summary_large_image",
+      "source": "derived:og-image-present"
+    },
+    {
+      "page": "https://www.vueeyecare.com/services/glaucoma-management/index.html",
+      "field": "twitter:title",
+      "from": null,
+      "to": "Glaucoma Eye Exam | Early Diagnosis &amp; Treatment | Eye Doctor",
+      "source": "derived:title"
+    },
+    {
+      "page": "https://www.vueeyecare.com/services/glaucoma-management/index.html",
+      "field": "twitter:description",
+      "from": null,
+      "to": "Over time, glaucoma causes permanent loss of vision and, without treatment, total blindness within a few years. Get tested now to preserve your eyesight.",
+      "source": "derived:description"
+    },
+    {
+      "page": "https://www.vueeyecare.com/services/glaucoma-management/index.html",
+      "field": "twitter:image",
+      "from": null,
+      "to": "https://www.vueeyecare.com/assets/img/b89afceb-shutterstock-1989220913.jpg-w_2000.webp",
+      "source": "derived:og-image"
+    },
+    {
+      "page": "https://www.vueeyecare.com/services/glaucoma-management/index.html",
+      "field": "jsonld:Organization",
+      "from": null,
+      "to": "Vue Eyecare",
+      "source": "client-facts"
+    },
+    {
+      "page": "https://www.vueeyecare.com/services/glaucoma-management/index.html",
+      "field": "alt",
+      "from": null,
+      "to": "4 images",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/services/glaucoma-management/index.html",
+      "field": "img-dimensions",
+      "from": null,
+      "to": "4 images",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/services/glaucoma-management/index.html",
+      "field": "img-lazy",
+      "from": null,
+      "to": "2 images",
+      "source": "derived:below-fold-position"
+    },
+    {
+      "page": "https://www.vueeyecare.com/services/glaucoma-management/index.html",
+      "field": "title",
+      "from": null,
+      "to": "Glaucoma Eye Exam | Early Diagnosis &amp; Treatment | Eye Doctor",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/services/glaucoma-management/index.html",
+      "field": "description",
+      "from": null,
+      "to": "Over time, glaucoma causes permanent loss of vision and, without treatment, total blindness within a few years. Get tested now to preserve your eyesight.",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/services/glaucoma-management/index.html",
+      "field": "canonical",
+      "from": null,
+      "to": "https://www.vueeyecare.com/services/glaucoma-management/",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/services/glaucoma-management/index.html",
+      "field": "lang",
+      "from": null,
+      "to": "en",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/services/glaucoma-management/index.html",
+      "field": "og:title",
+      "from": null,
+      "to": "Glaucoma Eye Exam | Early Diagnosis & Treatment | Eye Doctor",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/services/glaucoma-management/index.html",
+      "field": "og:description",
+      "from": null,
+      "to": "Over time, glaucoma causes permanent loss of vision and, without treatment, total blindness within a few years. Get tested now to preserve your eyesight.",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/services/glaucoma-management/index.html",
+      "field": "og:type",
+      "from": null,
+      "to": "website",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/services/glaucoma-management/index.html",
+      "field": "og:image",
+      "from": null,
+      "to": "https://www.vueeyecare.com/assets/img/b89afceb-shutterstock-1989220913.jpg-w_2000.webp",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/services/glaucoma-management/index.html",
+      "field": "og:url",
+      "from": null,
+      "to": "https://www.vueeyecare.com/services/glaucoma-management/",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/services/index.html",
+      "field": "robots",
+      "from": null,
+      "to": "index, follow",
+      "source": "default:index"
+    },
+    {
+      "page": "https://www.vueeyecare.com/services/index.html",
+      "field": "og:site_name",
+      "from": null,
+      "to": "Vue Eyecare",
+      "source": "derived:site-name"
+    },
+    {
+      "page": "https://www.vueeyecare.com/services/index.html",
+      "field": "twitter:card",
+      "from": null,
+      "to": "summary_large_image",
+      "source": "derived:og-image-present"
+    },
+    {
+      "page": "https://www.vueeyecare.com/services/index.html",
+      "field": "twitter:title",
+      "from": null,
+      "to": "Eye Care Services",
+      "source": "derived:title"
+    },
+    {
+      "page": "https://www.vueeyecare.com/services/index.html",
+      "field": "twitter:description",
+      "from": null,
+      "to": "Comprehensive eye exams and so much more. Our eye doctors provide complete family eye care services for clients of all ages. Now accepting new patients!",
+      "source": "derived:description"
+    },
+    {
+      "page": "https://www.vueeyecare.com/services/index.html",
+      "field": "twitter:image",
+      "from": null,
+      "to": "https://www.vueeyecare.com/assets/img/1a7dffef-AdobeStock_768053586.jpeg-w_1600.webp",
+      "source": "derived:og-image"
+    },
+    {
+      "page": "https://www.vueeyecare.com/services/index.html",
+      "field": "jsonld:Organization",
+      "from": null,
+      "to": "Vue Eyecare",
+      "source": "client-facts"
+    },
+    {
+      "page": "https://www.vueeyecare.com/services/index.html",
+      "field": "alt",
+      "from": null,
+      "to": "9 images",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/services/index.html",
+      "field": "img-dimensions",
+      "from": null,
+      "to": "9 images",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/services/index.html",
+      "field": "img-lazy",
+      "from": null,
+      "to": "7 images",
+      "source": "derived:below-fold-position"
+    },
+    {
+      "page": "https://www.vueeyecare.com/services/index.html",
+      "field": "title",
+      "from": null,
+      "to": "Eye Care Services",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/services/index.html",
+      "field": "description",
+      "from": null,
+      "to": "Comprehensive eye exams and so much more. Our eye doctors provide complete family eye care services for clients of all ages. Now accepting new patients!",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/services/index.html",
+      "field": "canonical",
+      "from": null,
+      "to": "https://www.vueeyecare.com/services/",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/services/index.html",
+      "field": "lang",
+      "from": null,
+      "to": "en",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/services/index.html",
+      "field": "og:title",
+      "from": null,
+      "to": "Eye Care Services",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/services/index.html",
+      "field": "og:description",
+      "from": null,
+      "to": "Comprehensive eye exams and so much more. Our eye doctors provide complete family eye care services for clients of all ages. Now accepting new patients!",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/services/index.html",
+      "field": "og:type",
+      "from": null,
+      "to": "website",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/services/index.html",
+      "field": "og:image",
+      "from": null,
+      "to": "https://www.vueeyecare.com/assets/img/1a7dffef-AdobeStock_768053586.jpeg-w_1600.webp",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/services/index.html",
+      "field": "og:url",
+      "from": null,
+      "to": "https://www.vueeyecare.com/services/",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/services/lasik-co-management/index.html",
+      "field": "robots",
+      "from": null,
+      "to": "index, follow",
+      "source": "default:index"
+    },
+    {
+      "page": "https://www.vueeyecare.com/services/lasik-co-management/index.html",
+      "field": "og:site_name",
+      "from": null,
+      "to": "Vue Eyecare",
+      "source": "derived:site-name"
+    },
+    {
+      "page": "https://www.vueeyecare.com/services/lasik-co-management/index.html",
+      "field": "twitter:card",
+      "from": null,
+      "to": "summary_large_image",
+      "source": "derived:og-image-present"
+    },
+    {
+      "page": "https://www.vueeyecare.com/services/lasik-co-management/index.html",
+      "field": "twitter:title",
+      "from": null,
+      "to": "LASIK | Eye Surgery Co-management Pre-Op &amp; Post-Op | Optometrist",
+      "source": "derived:title"
+    },
+    {
+      "page": "https://www.vueeyecare.com/services/lasik-co-management/index.html",
+      "field": "twitter:description",
+      "from": null,
+      "to": "If you are ready for an alternative to glasses and/or contacts look to us for co-management of LASIK, cataract, and other ocular surgery.",
+      "source": "derived:description"
+    },
+    {
+      "page": "https://www.vueeyecare.com/services/lasik-co-management/index.html",
+      "field": "twitter:image",
+      "from": null,
+      "to": "https://www.vueeyecare.com/assets/img/58434654-Gemini_Generated_Image_pi0djtpi0djtpi0d.png-w_1600.webp",
+      "source": "derived:og-image"
+    },
+    {
+      "page": "https://www.vueeyecare.com/services/lasik-co-management/index.html",
+      "field": "jsonld:Organization",
+      "from": null,
+      "to": "Vue Eyecare",
+      "source": "client-facts"
+    },
+    {
+      "page": "https://www.vueeyecare.com/services/lasik-co-management/index.html",
+      "field": "alt",
+      "from": null,
+      "to": "4 images",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/services/lasik-co-management/index.html",
+      "field": "img-dimensions",
+      "from": null,
+      "to": "4 images",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/services/lasik-co-management/index.html",
+      "field": "img-lazy",
+      "from": null,
+      "to": "2 images",
+      "source": "derived:below-fold-position"
+    },
+    {
+      "page": "https://www.vueeyecare.com/services/lasik-co-management/index.html",
+      "field": "title",
+      "from": null,
+      "to": "LASIK | Eye Surgery Co-management Pre-Op &amp; Post-Op | Optometrist",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/services/lasik-co-management/index.html",
+      "field": "description",
+      "from": null,
+      "to": "If you are ready for an alternative to glasses and/or contacts look to us for co-management of LASIK, cataract, and other ocular surgery.",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/services/lasik-co-management/index.html",
+      "field": "canonical",
+      "from": null,
+      "to": "https://www.vueeyecare.com/services/lasik-co-management/",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/services/lasik-co-management/index.html",
+      "field": "lang",
+      "from": null,
+      "to": "en",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/services/lasik-co-management/index.html",
+      "field": "og:title",
+      "from": null,
+      "to": "LASIK | Eye Surgery Co-management Pre-Op & Post-Op | Optometrist",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/services/lasik-co-management/index.html",
+      "field": "og:description",
+      "from": null,
+      "to": "If you are ready for an alternative to glasses and/or contacts look to us for co-management of LASIK, cataract, and other ocular surgery.",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/services/lasik-co-management/index.html",
+      "field": "og:type",
+      "from": null,
+      "to": "website",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/services/lasik-co-management/index.html",
+      "field": "og:image",
+      "from": null,
+      "to": "https://www.vueeyecare.com/assets/img/58434654-Gemini_Generated_Image_pi0djtpi0djtpi0d.png-w_1600.webp",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/services/lasik-co-management/index.html",
+      "field": "og:url",
+      "from": null,
+      "to": "https://www.vueeyecare.com/services/lasik-co-management/",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/services/macular-degeneration/index.html",
+      "field": "robots",
+      "from": null,
+      "to": "index, follow",
+      "source": "default:index"
+    },
+    {
+      "page": "https://www.vueeyecare.com/services/macular-degeneration/index.html",
+      "field": "og:site_name",
+      "from": null,
+      "to": "Vue Eyecare",
+      "source": "derived:site-name"
+    },
+    {
+      "page": "https://www.vueeyecare.com/services/macular-degeneration/index.html",
+      "field": "twitter:card",
+      "from": null,
+      "to": "summary_large_image",
+      "source": "derived:og-image-present"
+    },
+    {
+      "page": "https://www.vueeyecare.com/services/macular-degeneration/index.html",
+      "field": "twitter:title",
+      "from": null,
+      "to": "Macular Degeneration | AMD | Low Vision Treatment | Eye Doctor",
+      "source": "derived:title"
+    },
+    {
+      "page": "https://www.vueeyecare.com/services/macular-degeneration/index.html",
+      "field": "twitter:description",
+      "from": null,
+      "to": "Vue Eyecare",
+      "source": "derived:description"
+    },
+    {
+      "page": "https://www.vueeyecare.com/services/macular-degeneration/index.html",
+      "field": "twitter:image",
+      "from": null,
+      "to": "https://www.vueeyecare.com/assets/img/b89afceb-shutterstock-1989220913.jpg-w_2000.webp",
+      "source": "derived:og-image"
+    },
+    {
+      "page": "https://www.vueeyecare.com/services/macular-degeneration/index.html",
+      "field": "jsonld:Organization",
+      "from": null,
+      "to": "Vue Eyecare",
+      "source": "client-facts"
+    },
+    {
+      "page": "https://www.vueeyecare.com/services/macular-degeneration/index.html",
+      "field": "alt",
+      "from": null,
+      "to": "4 images",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/services/macular-degeneration/index.html",
+      "field": "img-dimensions",
+      "from": null,
+      "to": "4 images",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/services/macular-degeneration/index.html",
+      "field": "img-lazy",
+      "from": null,
+      "to": "2 images",
+      "source": "derived:below-fold-position"
+    },
+    {
+      "page": "https://www.vueeyecare.com/services/macular-degeneration/index.html",
+      "field": "title",
+      "from": null,
+      "to": "Macular Degeneration | AMD | Low Vision Treatment | Eye Doctor",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/services/macular-degeneration/index.html",
+      "field": "description",
+      "from": null,
+      "to": "Vue Eyecare",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/services/macular-degeneration/index.html",
+      "field": "canonical",
+      "from": null,
+      "to": "https://www.vueeyecare.com/services/macular-degeneration/",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/services/macular-degeneration/index.html",
+      "field": "lang",
+      "from": null,
+      "to": "en",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/services/macular-degeneration/index.html",
+      "field": "og:title",
+      "from": null,
+      "to": "Macular Degeneration | AMD | Low Vision Treatment | Eye Doctor",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/services/macular-degeneration/index.html",
+      "field": "og:description",
+      "from": null,
+      "to": "Vue Eyecare",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/services/macular-degeneration/index.html",
+      "field": "og:type",
+      "from": null,
+      "to": "website",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/services/macular-degeneration/index.html",
+      "field": "og:image",
+      "from": null,
+      "to": "https://www.vueeyecare.com/assets/img/b89afceb-shutterstock-1989220913.jpg-w_2000.webp",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/services/macular-degeneration/index.html",
+      "field": "og:url",
+      "from": null,
+      "to": "https://www.vueeyecare.com/services/macular-degeneration/",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/services/medical-eye-care/index.html",
+      "field": "robots",
+      "from": null,
+      "to": "index, follow",
+      "source": "default:index"
+    },
+    {
+      "page": "https://www.vueeyecare.com/services/medical-eye-care/index.html",
+      "field": "og:site_name",
+      "from": null,
+      "to": "Vue Eyecare",
+      "source": "derived:site-name"
+    },
+    {
+      "page": "https://www.vueeyecare.com/services/medical-eye-care/index.html",
+      "field": "twitter:card",
+      "from": null,
+      "to": "summary_large_image",
+      "source": "derived:og-image-present"
+    },
+    {
+      "page": "https://www.vueeyecare.com/services/medical-eye-care/index.html",
+      "field": "twitter:title",
+      "from": null,
+      "to": "Eye Disease Management | Eye Exam | Eye Doctor Near You",
+      "source": "derived:title"
+    },
+    {
+      "page": "https://www.vueeyecare.com/services/medical-eye-care/index.html",
+      "field": "twitter:description",
+      "from": null,
+      "to": "Vue Eyecare",
+      "source": "derived:description"
+    },
+    {
+      "page": "https://www.vueeyecare.com/services/medical-eye-care/index.html",
+      "field": "twitter:image",
+      "from": null,
+      "to": "https://www.vueeyecare.com/assets/img/0241c7c2-shutterstock-2282529567.jpg-w_1600.webp",
+      "source": "derived:og-image"
+    },
+    {
+      "page": "https://www.vueeyecare.com/services/medical-eye-care/index.html",
+      "field": "jsonld:Organization",
+      "from": null,
+      "to": "Vue Eyecare",
+      "source": "client-facts"
+    },
+    {
+      "page": "https://www.vueeyecare.com/services/medical-eye-care/index.html",
+      "field": "alt",
+      "from": null,
+      "to": "4 images",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/services/medical-eye-care/index.html",
+      "field": "img-dimensions",
+      "from": null,
+      "to": "4 images",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/services/medical-eye-care/index.html",
+      "field": "img-lazy",
+      "from": null,
+      "to": "2 images",
+      "source": "derived:below-fold-position"
+    },
+    {
+      "page": "https://www.vueeyecare.com/services/medical-eye-care/index.html",
+      "field": "title",
+      "from": null,
+      "to": "Eye Disease Management | Eye Exam | Eye Doctor Near You",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/services/medical-eye-care/index.html",
+      "field": "description",
+      "from": null,
+      "to": "Vue Eyecare",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/services/medical-eye-care/index.html",
+      "field": "canonical",
+      "from": null,
+      "to": "https://www.vueeyecare.com/services/medical-eye-care/",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/services/medical-eye-care/index.html",
+      "field": "lang",
+      "from": null,
+      "to": "en",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/services/medical-eye-care/index.html",
+      "field": "og:title",
+      "from": null,
+      "to": "Eye Disease Management | Eye Exam | Eye Doctor Near You",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/services/medical-eye-care/index.html",
+      "field": "og:description",
+      "from": null,
+      "to": "Vue Eyecare",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/services/medical-eye-care/index.html",
+      "field": "og:type",
+      "from": null,
+      "to": "website",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/services/medical-eye-care/index.html",
+      "field": "og:image",
+      "from": null,
+      "to": "https://www.vueeyecare.com/assets/img/0241c7c2-shutterstock-2282529567.jpg-w_1600.webp",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/services/medical-eye-care/index.html",
+      "field": "og:url",
+      "from": null,
+      "to": "https://www.vueeyecare.com/services/medical-eye-care/",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/services/myopia-management/index.html",
+      "field": "robots",
+      "from": null,
+      "to": "index, follow",
+      "source": "default:index"
+    },
+    {
+      "page": "https://www.vueeyecare.com/services/myopia-management/index.html",
+      "field": "og:site_name",
+      "from": null,
+      "to": "Vue Eyecare",
+      "source": "derived:site-name"
+    },
+    {
+      "page": "https://www.vueeyecare.com/services/myopia-management/index.html",
+      "field": "twitter:card",
+      "from": null,
+      "to": "summary_large_image",
+      "source": "derived:og-image-present"
+    },
+    {
+      "page": "https://www.vueeyecare.com/services/myopia-management/index.html",
+      "field": "twitter:title",
+      "from": null,
+      "to": "Myopia Management - Vue Eyecare",
+      "source": "derived:title"
+    },
+    {
+      "page": "https://www.vueeyecare.com/services/myopia-management/index.html",
+      "field": "twitter:description",
+      "from": null,
+      "to": "Vue Eyecare",
+      "source": "derived:description"
+    },
+    {
+      "page": "https://www.vueeyecare.com/services/myopia-management/index.html",
+      "field": "twitter:image",
+      "from": null,
+      "to": "https://www.vueeyecare.com/assets/img/5bde9a62-shutterstock-1206730276.jpg-w_1600.webp",
+      "source": "derived:og-image"
+    },
+    {
+      "page": "https://www.vueeyecare.com/services/myopia-management/index.html",
+      "field": "jsonld:Organization",
+      "from": null,
+      "to": "Vue Eyecare",
+      "source": "client-facts"
+    },
+    {
+      "page": "https://www.vueeyecare.com/services/myopia-management/index.html",
+      "field": "alt",
+      "from": null,
+      "to": "5 images",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/services/myopia-management/index.html",
+      "field": "img-dimensions",
+      "from": null,
+      "to": "5 images",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/services/myopia-management/index.html",
+      "field": "img-lazy",
+      "from": null,
+      "to": "3 images",
+      "source": "derived:below-fold-position"
+    },
+    {
+      "page": "https://www.vueeyecare.com/services/myopia-management/index.html",
+      "field": "title",
+      "from": null,
+      "to": "Myopia Management - Vue Eyecare",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/services/myopia-management/index.html",
+      "field": "description",
+      "from": null,
+      "to": "Vue Eyecare",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/services/myopia-management/index.html",
+      "field": "canonical",
+      "from": null,
+      "to": "https://www.vueeyecare.com/services/myopia-management/",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/services/myopia-management/index.html",
+      "field": "lang",
+      "from": null,
+      "to": "en",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/services/myopia-management/index.html",
+      "field": "og:title",
+      "from": null,
+      "to": "Myopia Management - Vue Eyecare",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/services/myopia-management/index.html",
+      "field": "og:description",
+      "from": null,
+      "to": "Vue Eyecare",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/services/myopia-management/index.html",
+      "field": "og:type",
+      "from": null,
+      "to": "website",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/services/myopia-management/index.html",
+      "field": "og:image",
+      "from": null,
+      "to": "https://www.vueeyecare.com/assets/img/5bde9a62-shutterstock-1206730276.jpg-w_1600.webp",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/services/myopia-management/index.html",
+      "field": "og:url",
+      "from": null,
+      "to": "https://www.vueeyecare.com/services/myopia-management/",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/services/specialty-contacts/index.html",
+      "field": "robots",
+      "from": null,
+      "to": "index, follow",
+      "source": "default:index"
+    },
+    {
+      "page": "https://www.vueeyecare.com/services/specialty-contacts/index.html",
+      "field": "og:site_name",
+      "from": null,
+      "to": "Vue Eyecare",
+      "source": "derived:site-name"
+    },
+    {
+      "page": "https://www.vueeyecare.com/services/specialty-contacts/index.html",
+      "field": "twitter:card",
+      "from": null,
+      "to": "summary_large_image",
+      "source": "derived:og-image-present"
+    },
+    {
+      "page": "https://www.vueeyecare.com/services/specialty-contacts/index.html",
+      "field": "twitter:title",
+      "from": null,
+      "to": "Been Told You Can't Wear Contacts? Hard-To-Fit Contact Lenses Are Here",
+      "source": "derived:title"
+    },
+    {
+      "page": "https://www.vueeyecare.com/services/specialty-contacts/index.html",
+      "field": "twitter:description",
+      "from": null,
+      "to": "Vue Eyecare",
+      "source": "derived:description"
+    },
+    {
+      "page": "https://www.vueeyecare.com/services/specialty-contacts/index.html",
+      "field": "twitter:image",
+      "from": null,
+      "to": "https://www.vueeyecare.com/assets/img/a7637103-shutterstock_1565916823.jpg-w_2000.webp",
+      "source": "derived:og-image"
+    },
+    {
+      "page": "https://www.vueeyecare.com/services/specialty-contacts/index.html",
+      "field": "jsonld:Organization",
+      "from": null,
+      "to": "Vue Eyecare",
+      "source": "client-facts"
+    },
+    {
+      "page": "https://www.vueeyecare.com/services/specialty-contacts/index.html",
+      "field": "alt",
+      "from": null,
+      "to": "4 images",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/services/specialty-contacts/index.html",
+      "field": "img-dimensions",
+      "from": null,
+      "to": "4 images",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/services/specialty-contacts/index.html",
+      "field": "img-lazy",
+      "from": null,
+      "to": "2 images",
+      "source": "derived:below-fold-position"
+    },
+    {
+      "page": "https://www.vueeyecare.com/services/specialty-contacts/index.html",
+      "field": "title",
+      "from": null,
+      "to": "Been Told You Can't Wear Contacts? Hard-To-Fit Contact Lenses Are Here",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/services/specialty-contacts/index.html",
+      "field": "description",
+      "from": null,
+      "to": "Vue Eyecare",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/services/specialty-contacts/index.html",
+      "field": "canonical",
+      "from": null,
+      "to": "https://www.vueeyecare.com/services/specialty-contacts/",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/services/specialty-contacts/index.html",
+      "field": "lang",
+      "from": null,
+      "to": "en",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/services/specialty-contacts/index.html",
+      "field": "og:title",
+      "from": null,
+      "to": "Been Told You Can't Wear Contacts? Hard-To-Fit Contact Lenses Are Here",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/services/specialty-contacts/index.html",
+      "field": "og:description",
+      "from": null,
+      "to": "Vue Eyecare",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/services/specialty-contacts/index.html",
+      "field": "og:type",
+      "from": null,
+      "to": "website",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/services/specialty-contacts/index.html",
+      "field": "og:image",
+      "from": null,
+      "to": "https://www.vueeyecare.com/assets/img/a7637103-shutterstock_1565916823.jpg-w_2000.webp",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/services/specialty-contacts/index.html",
+      "field": "og:url",
+      "from": null,
+      "to": "https://www.vueeyecare.com/services/specialty-contacts/",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/services/toric-contacts/index.html",
+      "field": "robots",
+      "from": null,
+      "to": "index, follow",
+      "source": "default:index"
+    },
+    {
+      "page": "https://www.vueeyecare.com/services/toric-contacts/index.html",
+      "field": "og:site_name",
+      "from": null,
+      "to": "Vue Eyecare",
+      "source": "derived:site-name"
+    },
+    {
+      "page": "https://www.vueeyecare.com/services/toric-contacts/index.html",
+      "field": "twitter:card",
+      "from": null,
+      "to": "summary_large_image",
+      "source": "derived:og-image-present"
+    },
+    {
+      "page": "https://www.vueeyecare.com/services/toric-contacts/index.html",
+      "field": "twitter:title",
+      "from": null,
+      "to": "Toric Contact Lenses for Astigmatism - Vue Eyecare",
+      "source": "derived:title"
+    },
+    {
+      "page": "https://www.vueeyecare.com/services/toric-contacts/index.html",
+      "field": "twitter:description",
+      "from": null,
+      "to": "If you were told you could not wear soft contacts because you have astigmatism, you will be happy to hear this once-true statement is now simply a myth.",
+      "source": "derived:description"
+    },
+    {
+      "page": "https://www.vueeyecare.com/services/toric-contacts/index.html",
+      "field": "twitter:image",
+      "from": null,
+      "to": "https://www.vueeyecare.com/assets/img/84d95eb1-shutterstock_2430481643.jpg-w_2000.webp",
+      "source": "derived:og-image"
+    },
+    {
+      "page": "https://www.vueeyecare.com/services/toric-contacts/index.html",
+      "field": "jsonld:Organization",
+      "from": null,
+      "to": "Vue Eyecare",
+      "source": "client-facts"
+    },
+    {
+      "page": "https://www.vueeyecare.com/services/toric-contacts/index.html",
+      "field": "alt",
+      "from": null,
+      "to": "4 images",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/services/toric-contacts/index.html",
+      "field": "img-dimensions",
+      "from": null,
+      "to": "4 images",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/services/toric-contacts/index.html",
+      "field": "img-lazy",
+      "from": null,
+      "to": "2 images",
+      "source": "derived:below-fold-position"
+    },
+    {
+      "page": "https://www.vueeyecare.com/services/toric-contacts/index.html",
+      "field": "title",
+      "from": null,
+      "to": "Toric Contact Lenses for Astigmatism - Vue Eyecare",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/services/toric-contacts/index.html",
+      "field": "description",
+      "from": null,
+      "to": "If you were told you could not wear soft contacts because you have astigmatism, you will be happy to hear this once-true statement is now simply a myth.",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/services/toric-contacts/index.html",
+      "field": "canonical",
+      "from": null,
+      "to": "https://www.vueeyecare.com/services/toric-contacts/",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/services/toric-contacts/index.html",
+      "field": "lang",
+      "from": null,
+      "to": "en",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/services/toric-contacts/index.html",
+      "field": "og:title",
+      "from": null,
+      "to": "Toric Contact Lenses for Astigmatism - Vue Eyecare",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/services/toric-contacts/index.html",
+      "field": "og:description",
+      "from": null,
+      "to": "If you were told you could not wear soft contacts because you have astigmatism, you will be happy to hear this once-true statement is now simply a myth.",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/services/toric-contacts/index.html",
+      "field": "og:type",
+      "from": null,
+      "to": "website",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/services/toric-contacts/index.html",
+      "field": "og:image",
+      "from": null,
+      "to": "https://www.vueeyecare.com/assets/img/84d95eb1-shutterstock_2430481643.jpg-w_2000.webp",
+      "source": "present-from-an-earlier-seo-pass"
+    },
+    {
+      "page": "https://www.vueeyecare.com/services/toric-contacts/index.html",
+      "field": "og:url",
+      "from": null,
+      "to": "https://www.vueeyecare.com/services/toric-contacts/",
+      "source": "present-from-an-earlier-seo-pass"
+    }
+  ]
+}

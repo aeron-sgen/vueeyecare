@@ -1,0 +1,75 @@
+{
+ "title": "Website Accessibility Policy - Vue Eyecare",
+ "description": "Vue Eyecare",
+ "canonical": "https://www.vueeyecare.com/website-accessibility-policy/",
+ "ogImage": "",
+ "blocks": [
+  {
+   "t": "h",
+   "level": 1,
+   "text": "Website Accessibility Policy",
+   "html": "Website Accessibility Policy"
+  },
+  {
+   "t": "p",
+   "html": "Our practice is committed to providing a website that is accessible to the widest possible audience, regardless of technology or ability. We have made every effort to make our website accessible and easy to use by following the available standards and guidelines."
+  },
+  {
+   "t": "p",
+   "html": "Our website seeks to conform with Worldwide Web Consortium (W3C) Web Content Accessibility Guidelines. In that regard, this website seeks to comply with Level AA and Level AAA compliance, as practicable."
+  },
+  {
+   "t": "list",
+   "ordered": false,
+   "items": [
+    "[[b]]Screen readers – [[/b]]To assist our visitors who are visually impaired or blind, our website is compatible with screen reading software.",
+    "[[b]]Code Compliance – [[/b]]This site was built using code compliant with W3C standards for HTML and CSS. Standards compliant code means that the site displays correctly in current browsers and ensures that it will display correctly in future browsers.",
+    "[[b]]Text Alternative – [[/b]]With the exception of decorative imagery, all non-text content presented to the user has a text alternative that serves the equivalent purpose. Screen readers can then present this alternate information to the user in place of the image.",
+    "[[b]]ARIA Landmarks – [[/b]]We use ARIA landmarks to identify regions of the page allowing those with screen readers to jump to different sections of the page.",
+    "[[b]]Skip to Main Content – [[/b]]Our pages all contain a skip to main content link allowing users to jump directly to the page’s main content, avoiding the header content from being read aloud repeatedly.",
+    "[[b]]Accessible Forms – [[/b]]Our forms have the proper markup to associate labels with their form controls making it easier for screen readers to present the form information to the user.",
+    "[[b]]Headings and Lists – [[/b]]We use the proper markup for headings and lists, i.e. h1-h6 and ol, ul and dl for lists. Heading markup will allow assistive technologies to present the heading status of text to a user. A screen reader can recognize the code and announce the text as a heading with its level, beep or provide some other auditory indicator. Some assistive technologies allow users to navigate from list to list or item to item.",
+    "[[b]]CSS – [[/b]]We use CSS to control visual presentation of text. This will allow users to modify, via the user agent, the visual characteristics of the text to meet their requirement. The text characteristics include aspects such as size, color, font family and relative placement.",
+    "[[b]]Resizing Text – [[/b]]Text can be resized without assistive technology up to 200 percent without loss of content or functionality.",
+    "[[b]]Raster Images – [[/b]]We avoid the use of text in raster images, this allows user agents to read aloud any text on the page and apply custom style sheets to make the text more legible.",
+    "[[b]]Keyboard Interface – [[/b]]The site is designed with consideration for people unable to use a mouse. The website can be navigated using your computer’s keyboard or by using other assistive devices. All functionality of the content is operable through a keyboard interface without requiring specific timings for individual keystroked. When all functionality of content can be operated through a keyboard or keyboard interface, it can be operated by those with no vision as well as by those who must use alternate keyboards or input devices that act as keyboard emulators like speech input software or on-screen keyboards.",
+    "[[b]]Flashing Content – [[/b]]Web pages do not contain anything that flashes more than three times in any one second period, or the flash is below the general flash and red flash thresholds. These effects are known to cause seizures if the flashes are bright and large enough.",
+    "[[b]]Page Titles – [[/b]]Our web pages have titles that describe topic or purpose. Descriptive titles help users find content, orient themselves within it, and navigate through it. A descriptive title allows a user to easily identify what Web page they are using and to tell when the Web page has changed. The title can be used to identify the Web page without requiring users to read or interpret page content. Users can more quickly identify the content they need when accurate, descriptive titles appear in site maps or lists of search results. When descriptive titles are used within link text, they help users navigate more precisely to the content they are interested in.",
+    "[[b]]Locating Content – [[/b]]More than one way is available to locate a Web page within a set of Web pages. We provide breadcrumbs, and site maps. This makes it possible for users to locate content in a manner that best meets their needs. Users may find one technique easier or more comprehensible to use than another.",
+    "[[b]]Highlighting – [[/b]]The majority of our web site components allow for highlighting by the user agent when they receive focus.",
+    "[[b]]Default Language – [[/b]]The default human language of each Web page can be programmatically determined. Speech synthesizers that support multiple languages will be able to orient and adapt to the pronunciation and syntax that are specific to the language of the page, speaking the text in the appropriate accent with proper pronunciation.",
+    "[[b]]Component Focus – [[/b]]When any of our components receive focus, they do not initiate a change of context, i.e. forms submitted automatically when a component receives focus, new windows launched when a component receives focus.",
+    "[[b]]Consistent Navigation – [[/b]]We have a consistent navigation across our web pages. This technique makes the placement of navigational components more predictable.",
+    "[[b]]Form Input Errors – [[/b]]In forms, if an input error is automatically detected, the item that is in error is identified and the error is described to the user in text.",
+    "[[b]]Proper Coding – [[/b]]Elements have complete start and end tags, elements are nested according to their specifications, elements do not contain duplicate attributes, and any IDs are unique. These errors that are known to cause problems for assistive technologies when they are trying to parse content which involve having opening and closing tags that are not used according to specification.",
+    "[[b]]Portable Document Format (PDFs)[[/b]] – Some documents on this website are in PDF format. You need Adobe Acrobat to open these files. You can download Acrobat for free. [[a href=\"https://get.adobe.com/reader/otherversions/\"]]Download Adobe Acrobat[[/a]]."
+   ]
+  },
+  {
+   "t": "p",
+   "html": "While we strive to adhere to the accepted guidelines and the highest standards for accessibility and usability, it is not always possible to do so in all areas of the website."
+  },
+  {
+   "t": "p",
+   "html": "We are currently working to achieve Level AA and Level AAA conformance to the Web Content Accessibility Guidelines (WCAG) 2.0, as practicable."
+  },
+  {
+   "t": "p",
+   "html": "We welcome feedback on the accessibility of this website or if, for any reason, you are unable to access any part of this website, please contact us immediately."
+  },
+  {
+   "t": "p",
+   "html": "Email us at:[[br]][[a href=\"mailto:paigedinh@yahoo.com\"]]paigedinh@yahoo.com[[/a]]"
+  },
+  {
+   "t": "p",
+   "html": "Phone us at:[[br]][[a href=\"tel:+12257522419\"]]225-752-2419[[/a]]"
+  },
+  {
+   "t": "p",
+   "html": "Write to us at:[[br]]2515 O'Neal Ln Suite #5[[br]]Baton Rouge LA"
+  }
+ ],
+ "forms": [],
+ "url": "https://www.vueeyecare.com/website-accessibility-policy/"
+}

@@ -1,0 +1,60 @@
+{
+  "schema": "site-reforge/fonts@1",
+  "generated": "2026-10-01T04:34:38.468Z",
+  "discovered": [
+    "https://cdn.patientengage.cloud/global/fonts/google-fonts/raleway/v37/1Ptug8zYS_SKggPNyCAIT5lu.woff2",
+    "https://cdn.patientengage.cloud/global/fonts/google-fonts/raleway/v37/1Ptug8zYS_SKggPNyCkIT5lu.woff2",
+    "https://cdn.patientengage.cloud/global/fonts/google-fonts/raleway/v37/1Ptug8zYS_SKggPNyCIIT5lu.woff2",
+    "https://cdn.patientengage.cloud/global/fonts/google-fonts/raleway/v37/1Ptug8zYS_SKggPNyCMIT5lu.woff2",
+    "https://cdn.patientengage.cloud/global/fonts/google-fonts/raleway/v37/1Ptug8zYS_SKggPNyC0ITw.woff2"
+  ],
+  "saved": [
+    {
+      "url": "https://cdn.patientengage.cloud/global/fonts/google-fonts/raleway/v37/1Ptug8zYS_SKggPNyCAIT5lu.woff2",
+      "savedAs": "1Ptug8zYS_SKggPNyCAIT5lu.woff2",
+      "bytes": 26988,
+      "sha256": "36920a27f3f245302f04e96a331d42b81dceda91b5229dfd757873bf12db4b05"
+    },
+    {
+      "url": "https://cdn.patientengage.cloud/global/fonts/google-fonts/raleway/v37/1Ptug8zYS_SKggPNyCkIT5lu.woff2",
+      "savedAs": "1Ptug8zYS_SKggPNyCkIT5lu.woff2",
+      "bytes": 25864,
+      "sha256": "ac99ad1c437b60ef445a7c13c958d4d574ef98050de2ccf182ba6ccdb3bfbdfd"
+    },
+    {
+      "url": "https://cdn.patientengage.cloud/global/fonts/google-fonts/raleway/v37/1Ptug8zYS_SKggPNyCIIT5lu.woff2",
+      "savedAs": "1Ptug8zYS_SKggPNyCIIT5lu.woff2",
+      "bytes": 11384,
+      "sha256": "49d1df38711652b72cbb3ed91dfda0a981b88f75be4abb02eb6640f74f2a5bee"
+    },
+    {
+      "url": "https://cdn.patientengage.cloud/global/fonts/google-fonts/raleway/v37/1Ptug8zYS_SKggPNyCMIT5lu.woff2",
+      "savedAs": "1Ptug8zYS_SKggPNyCMIT5lu.woff2",
+      "bytes": 31480,
+      "sha256": "2d603982caea60f15b741581c9e7bd88d1a7680fc52978137f9bc67c2dec61e0"
+    },
+    {
+      "url": "https://cdn.patientengage.cloud/global/fonts/google-fonts/raleway/v37/1Ptug8zYS_SKggPNyC0ITw.woff2",
+      "savedAs": "1Ptug8zYS_SKggPNyC0ITw.woff2",
+      "bytes": 48264,
+      "sha256": "b1bef1f03a77a36fc257c5525e32a1dd621bb6f935b743a419da7ed0b18dc8f5"
+    }
+  ],
+  "map": {
+    "https://cdn.patientengage.cloud/global/fonts/google-fonts/raleway/v37/1Ptug8zYS_SKggPNyCAIT5lu.woff2": "/fonts/1Ptug8zYS_SKggPNyCAIT5lu.woff2",
+    "//cdn.patientengage.cloud/global/fonts/google-fonts/raleway/v37/1Ptug8zYS_SKggPNyCAIT5lu.woff2": "/fonts/1Ptug8zYS_SKggPNyCAIT5lu.woff2",
+    "/global/fonts/google-fonts/raleway/v37/1Ptug8zYS_SKggPNyCAIT5lu.woff2": "/fonts/1Ptug8zYS_SKggPNyCAIT5lu.woff2",
+    "https://cdn.patientengage.cloud/global/fonts/google-fonts/raleway/v37/1Ptug8zYS_SKggPNyCkIT5lu.woff2": "/fonts/1Ptug8zYS_SKggPNyCkIT5lu.woff2",
+    "//cdn.patientengage.cloud/global/fonts/google-fonts/raleway/v37/1Ptug8zYS_SKggPNyCkIT5lu.woff2": "/fonts/1Ptug8zYS_SKggPNyCkIT5lu.woff2",
+    "/global/fonts/google-fonts/raleway/v37/1Ptug8zYS_SKggPNyCkIT5lu.woff2": "/fonts/1Ptug8zYS_SKggPNyCkIT5lu.woff2",
+    "https://cdn.patientengage.cloud/global/fonts/google-fonts/raleway/v37/1Ptug8zYS_SKggPNyCIIT5lu.woff2": "/fonts/1Ptug8zYS_SKggPNyCIIT5lu.woff2",
+    "//cdn.patientengage.cloud/global/fonts/google-fonts/raleway/v37/1Ptug8zYS_SKggPNyCIIT5lu.woff2": "/fonts/1Ptug8zYS_SKggPNyCIIT5lu.woff2",
+    "/global/fonts/google-fonts/raleway/v37/1Ptug8zYS_SKggPNyCIIT5lu.woff2": "/fonts/1Ptug8zYS_SKggPNyCIIT5lu.woff2",
+    "https://cdn.patientengage.cloud/global/fonts/google-fonts/raleway/v37/1Ptug8zYS_SKggPNyCMIT5lu.woff2": "/fonts/1Ptug8zYS_SKggPNyCMIT5lu.woff2",
+    "//cdn.patientengage.cloud/global/fonts/google-fonts/raleway/v37/1Ptug8zYS_SKggPNyCMIT5lu.woff2": "/fonts/1Ptug8zYS_SKggPNyCMIT5lu.woff2",
+    "/global/fonts/google-fonts/raleway/v37/1Ptug8zYS_SKggPNyCMIT5lu.woff2": "/fonts/1Ptug8zYS_SKggPNyCMIT5lu.woff2",
+    "https://cdn.patientengage.cloud/global/fonts/google-fonts/raleway/v37/1Ptug8zYS_SKggPNyC0ITw.woff2": "/fonts/1Ptug8zYS_SKggPNyC0ITw.woff2",
+    "//cdn.patientengage.cloud/global/fonts/google-fonts/raleway/v37/1Ptug8zYS_SKggPNyC0ITw.woff2": "/fonts/1Ptug8zYS_SKggPNyC0ITw.woff2",
+    "/global/fonts/google-fonts/raleway/v37/1Ptug8zYS_SKggPNyC0ITw.woff2": "/fonts/1Ptug8zYS_SKggPNyC0ITw.woff2"
+  }
+}

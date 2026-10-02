@@ -1,0 +1,43 @@
+{
+ "title": "Eye Conditions | Eye Doctor & Eye Exam Near You",
+ "description": "Vue Eyecare",
+ "canonical": "https://www.vueeyecare.com/eye-care-services/eye-conditions/",
+ "ogImage": "https://cdn.patientengage.cloud/sites/1ae885ad-ada7-41da-a3f2-c99458a5469b/live/media/019cc11a-8662-766b-a0a4-5fda80e40737/Thumbnail-treatments.jpg",
+ "blocks": [
+  {
+   "t": "h",
+   "level": 1,
+   "text": "Eye Condition Treatment",
+   "html": "Eye Condition Treatment"
+  },
+  {
+   "t": "img",
+   "src": "https://cdn.patientengage.cloud/sites/1ae885ad-ada7-41da-a3f2-c99458a5469b/live/media/019cc11b-9e1c-768b-bfcd-d60b3835dd29/Happy20Parents20with20Child201280x480_preview1.jpeg@w_1200.webp",
+   "alt": "A smiling family of three, including a father, mother, and child, lying down on a bed, with the father looking at the child, the mother looking at the father, and the child looking at the mother.",
+   "w": 0,
+   "h": 0,
+   "shownW": 989
+  },
+  {
+   "t": "p",
+   "html": "Eye problems can range from mild to severe; some are chronic, while others may resolve on their own, never to appear again. The articles below will give you a basic understanding of some of these problems and their implications. The cardinal rule is if your eyes don’t look good, feel good or see well, you should visit your doctor."
+  },
+  {
+   "t": "p",
+   "html": "The following is a short list of common eye conditions we treat, such as astigmatism, dry eye syndrome and presbyopia. For information about cataracts, glaucoma, macular degeneration and diabetic retinopathy please see Eye Disease Management. A more comprehensive list of eye conditions can be found in our Eye Health Library."
+  },
+  {
+   "t": "p",
+   "html": "Please book an appointment with our eye doctor if you have any concerns."
+  },
+  {
+   "t": "list",
+   "ordered": false,
+   "items": [
+    "[[a href=\"/eye-care-services/eye-conditions/dry-eye-disease-and-treatment/\"]]Dry Eyes[[/a]] Dry eye syndrome (DES) is a chronic condition that develops when your eyes do not produce and maintain enough tears to keep the eye’s surface lubricated."
+   ]
+  }
+ ],
+ "forms": [],
+ "url": "https://www.vueeyecare.com/eye-care-services/eye-conditions/"
+}

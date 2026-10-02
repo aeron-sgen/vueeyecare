@@ -1,0 +1,151 @@
+{
+  "schema": "site-reforge/project@1",
+  "name": "vueeyecare-com",
+  "targetUrl": "https://www.vueeyecare.com/",
+  "origin": "https://www.vueeyecare.com",
+  "createdAt": "2026-10-01T04:33:34.111Z",
+  "updatedAt": "2026-10-02T00:14:01.325Z",
+  "config": {
+    "maxPages": 300,
+    "concurrency": 4,
+    "includeSubdomains": false,
+    "breakpoints": [
+      390,
+      768,
+      1024,
+      1440
+    ],
+    "pixelDiffThreshold": 0.02,
+    "contentRecallFloor": 0.95,
+    "requestDelayMs": 150,
+    "requestHeaders": {}
+  },
+  "tooling": {
+    "browser": "unknown",
+    "imageGen": "unknown",
+    "detectedAt": null
+  },
+  "stages": {
+    "intake": {
+      "status": "done",
+      "at": "2026-10-01T04:33:34.112Z",
+      "note": "workspace created"
+    },
+    "crawl": {
+      "status": "done",
+      "at": "2026-10-01T04:34:18.541Z",
+      "note": "34 pages, 1 failed"
+    },
+    "extract": {
+      "status": "done",
+      "at": "2026-10-01T04:34:26.133Z",
+      "note": "33 pages extracted"
+    },
+    "assets": {
+      "status": "done",
+      "at": "2026-10-01T04:41:26.917Z",
+      "note": "956/956 assets on disk"
+    },
+    "capture": {
+      "status": "done",
+      "at": "2026-10-01T04:38:48.222Z",
+      "note": "captures merged"
+    },
+    "tokens": {
+      "status": "done",
+      "at": "2026-10-01T04:38:54.130Z",
+      "note": "computed (browser capture)"
+    },
+    "motion": {
+      "status": "done",
+      "at": "2026-10-01T04:38:54.278Z",
+      "note": "1 keyframes, 68 animated elements"
+    },
+    "presets": {
+      "status": "pending",
+      "at": null,
+      "note": ""
+    },
+    "ux": {
+      "status": "partial",
+      "at": "2026-10-01T04:48:37.622Z",
+      "note": "166 rows, 166 UNSET"
+    },
+    "brand": {
+      "status": "partial",
+      "at": "2026-10-01T04:38:54.130Z",
+      "note": "tokens emitted; brand-system.md still owed"
+    },
+    "implement": {
+      "status": "pending",
+      "at": null,
+      "note": ""
+    },
+    "clone": {
+      "status": "pending",
+      "at": null,
+      "note": ""
+    },
+    "cloneVerify": {
+      "status": "pending",
+      "at": null,
+      "note": ""
+    },
+    "responsive": {
+      "status": "done",
+      "at": "2026-10-02T00:14:00.714Z",
+      "note": "144 sweeps at 1024/1440/390/768"
+    },
+    "seo": {
+      "status": "pending",
+      "at": null,
+      "note": ""
+    },
+    "performance": {
+      "status": "pending",
+      "at": null,
+      "note": ""
+    },
+    "decontaminate": {
+      "status": "done",
+      "at": "2026-10-02T00:10:08.279Z",
+      "note": "CLEAN (0 traces)"
+    },
+    "parity": {
+      "status": "fail",
+      "at": "2026-10-02T00:10:07.803Z",
+      "note": "DRIFT — 68 findings"
+    },
+    "fabrication": {
+      "status": "done",
+      "at": "2026-10-02T00:10:08.051Z",
+      "note": "SOURCED — 0 findings"
+    },
+    "pixeldiff": {
+      "status": "fail",
+      "at": "2026-10-02T00:11:51.089Z",
+      "note": "DRIFT — 32/32 pairs over threshold"
+    },
+    "sweep": {
+      "status": "pending",
+      "at": null,
+      "note": ""
+    },
+    "functional": {
+      "status": "pending",
+      "at": null,
+      "note": ""
+    },
+    "gate": {
+      "status": "fail",
+      "at": "2026-10-02T00:14:01.325Z",
+      "note": "NOT-READY — 24/29 passing"
+    },
+    "package": {
+      "status": "pending",
+      "at": null,
+      "note": ""
+    }
+  },
+  "notes": []
+}

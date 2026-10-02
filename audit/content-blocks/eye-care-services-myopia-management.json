@@ -1,0 +1,185 @@
+{
+ "title": "Myopia Management - Vue Eyecare",
+ "description": "Vue Eyecare",
+ "canonical": "https://www.vueeyecare.com/eye-care-services/myopia-management/",
+ "ogImage": "",
+ "blocks": [
+  {
+   "t": "h",
+   "level": 1,
+   "text": "Myopia Management",
+   "html": "Myopia Management"
+  },
+  {
+   "t": "p",
+   "html": "Is your child short-sighted? Is your child's myopia worsening?"
+  },
+  {
+   "t": "p",
+   "html": "Offer your child a bright future with myopia management."
+  },
+  {
+   "t": "img",
+   "src": "https://cdn.patientengage.cloud/sites/1ae885ad-ada7-41da-a3f2-c99458a5469b/live/media/019dfeb3-4df2-73a9-8d78-86cd42dbe275/shutterstock-1206730276.jpg@w_1600.webp",
+   "alt": "a group of children standing together with their arms around each other smiling",
+   "w": 0,
+   "h": 0,
+   "shownW": 720
+  },
+  {
+   "t": "h",
+   "level": 2,
+   "text": "Myopia: Not Just An Inconvenience",
+   "html": "[[b]]Myopia:[[/b]] Not Just An Inconvenience"
+  },
+  {
+   "t": "p",
+   "html": "Although eyeglasses and standard contact lenses can correct a person’s vision, they do not treat the underlying cause of myopia or slow its progression."
+  },
+  {
+   "t": "p",
+   "html": "Myopia significantly increases the risk of developing sight-threatening eye diseases later in life, such as cataracts, glaucoma, retinal detachment and macular degeneration. The higher your child’s myopia, the greater the risk."
+  },
+  {
+   "t": "p",
+   "html": "If you’re concerned about your child’s long-term eye health and vision, contact in today."
+  },
+  {
+   "t": "h",
+   "level": 3,
+   "text": "Symptoms of Myopia",
+   "html": "[[b]]Symptoms [[/b]]of Myopia"
+  },
+  {
+   "t": "list",
+   "ordered": false,
+   "items": [
+    "Your child struggles to see things clearly at a distance",
+    "Difficulties seeing the board in class",
+    "Your child squints to see far away objects",
+    "They complain of headaches and eyestrain",
+    "Difficulties with sports that involve small balls, such as baseball or tennis"
+   ]
+  },
+  {
+   "t": "h",
+   "level": 3,
+   "text": "Myopia and Eye Diseases",
+   "html": "Myopia and [[b]]Eye Diseases[[/b]]"
+  },
+  {
+   "t": "p",
+   "html": "As your child’s myopia progresses and worsens, they heighten their risk of developing vision-threatening eye diseases later in life."
+  },
+  {
+   "t": "p",
+   "html": "In fact, their odds of developing vision loss due to glaucoma, macular degeneration or retinal disease increase by as much as 10x!"
+  },
+  {
+   "t": "h",
+   "level": 2,
+   "text": "Myopia Treatment",
+   "html": "Myopia [[b]]Treatment[[/b]]"
+  },
+  {
+   "t": "p",
+   "html": "The good news? [[b]]Myopia management[[/b]] and regular eye exams with our optometry team can help your child regain clear vision, and slow down or even stop their vision from worsening."
+  },
+  {
+   "t": "h",
+   "level": 2,
+   "text": "What is Myopia Management?",
+   "html": "What is [[b]]Myopia Management[[/b]]?"
+  },
+  {
+   "t": "p",
+   "html": "Myopia management is an area of eye care that uses custom treatments to prevent or slow your child's myopia progression. Depending upon your child's specific needs, our eye care team in can help your child maintain clearer vision for longer."
+  },
+  {
+   "t": "h",
+   "level": 2,
+   "text": "Orthokeratology",
+   "html": "Orthokeratology"
+  },
+  {
+   "t": "p",
+   "html": "Orthokeratology, commonly called ortho-k, is a method used to correct myopia (nearsightedness) or astigmatism by wearing rigid gas permeable contact lenses overnight, so that no corrective lenses are needed during daytime hours."
+  },
+  {
+   "t": "img",
+   "src": "https://cdn.patientengage.cloud/sites/1ae885ad-ada7-41da-a3f2-c99458a5469b/live/media/019dfebc-87c9-7331-a304-da35d91408e2/shutterstock-2036186198.jpg@w_1600.webp",
+   "alt": "A group of school children are smiling and posing for a picture in a classroom.",
+   "w": 0,
+   "h": 0,
+   "shownW": 720
+  },
+  {
+   "t": "h",
+   "level": 2,
+   "text": "What is Ortho-K?",
+   "html": "What is [[b]]Ortho-K?[[/b]]"
+  },
+  {
+   "t": "p",
+   "html": "Gas permeable (GP) lenses specialized for ortho-k are inserted at bedtime and worn as you sleep. Throughout the night, the lenses reshape your cornea gently so that your vision becomes clear on the following morning. The correction is temporary, and ideally no eyeglasses or contact lenses will be needed on the next day or two. In order to maintain sharp visual acuity on a daily basis, you need to wear the ortho-k reshaping lenses every night."
+  },
+  {
+   "t": "p",
+   "html": "At present, three brands of orthokeratology contact lenses are approved for use by the FDA. Euclid Emerald, usually prescribed for myopia control, Paragon Vision Sciences, who produces “Corneal Refractive Therapy” (CRT), and Bausch and Lomb, who manufactures “Vision Shaping Treatment” (VST)."
+  },
+  {
+   "t": "h",
+   "level": 2,
+   "text": "Candidates for Ortho-K",
+   "html": "[[b]]Candidates[[/b]] for Ortho-K"
+  },
+  {
+   "t": "p",
+   "html": "Ortho-k is very suitable for nearsighted people who are not appropriate candidates for vision correction surgery, such as children. Individuals of all ages with healthy eyes can try ortho-k, namely because it can be discontinued at any point without permanent effects to the eyes."
+  },
+  {
+   "t": "p",
+   "html": "People who require vision correction and engage regularly in sports or work in extremely dusty, dirty environments will also appreciate the convenience of ortho-k."
+  },
+  {
+   "t": "h",
+   "level": 2,
+   "text": "Vision Results from Orthokeratology",
+   "html": "Vision Results from [[b]]Orthokeratology[[/b]]"
+  },
+  {
+   "t": "p",
+   "html": "Success rates for ortho-k are generally higher for more mild vision prescriptions. The ideal goal is to provide 20/20 vision without any need for eyeglasses or contacts during the day."
+  },
+  {
+   "t": "p",
+   "html": "According to FDA trials conducted on both CRT and VST lenses, more than 65% of ortho-k patients achieved 20/20 visual acuity. A whopping number of more than 90% of ortho-k patients achieved 20/40 vision or better (this is the legal requirement for driving without vision correction in most states). Consult with your eye doctor to find out if your vision prescription is within range for successful ortho-k treatment."
+  },
+  {
+   "t": "p",
+   "html": "Note that although improvement in vision is generally reported within a day or two of wearing ortho-k overnight, the full effects may not be experienced until the lenses are worn for a few weeks. During this transition period, your vision will probably not be as crisp as it was with regular contacts or eyeglasses, and glare or halos around lights may be visible. Until ortho-k works fully, a temporary pair of eyeglasses may be required for specific actions, such as driving at night."
+  },
+  {
+   "t": "h",
+   "level": 2,
+   "text": "How Does Ortho-k Feel?",
+   "html": "How Does [[b]]Ortho-k [[/b]]Feel?"
+  },
+  {
+   "t": "p",
+   "html": "Although some people have trouble wearing regular gas permeable contact lenses during the day, ortho-k GP lenses are worn while sleeping – so discomfort and awareness of the lenses in your eyes is generally not an issue."
+  },
+  {
+   "t": "h",
+   "level": 2,
+   "text": "Is Ortho-k Expensive?",
+   "html": "Is [[b]]Ortho-k[[/b]] Expensive?"
+  },
+  {
+   "t": "p",
+   "html": "Professional fitting for ortho-k requires a series of visits to your eye doctor. A number of pairs of contact lenses are also generally needed. GP lenses that are special for ortho-k are more costly than standard contacts. In sum, the fees for ortho-k add up to a higher total than regular contact lenses."
+  }
+ ],
+ "forms": [],
+ "url": "https://www.vueeyecare.com/eye-care-services/myopia-management/"
+}

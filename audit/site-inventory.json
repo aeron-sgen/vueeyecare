@@ -1,0 +1,1898 @@
+{
+  "schema": "site-reforge/site-inventory@1",
+  "target": "https://www.vueeyecare.com/",
+  "origin": "https://www.vueeyecare.com",
+  "generated": "2026-10-01T04:34:18.533Z",
+  "discovery": {
+    "robots": {
+      "status": 200,
+      "sitemaps": [
+        "https://www.vueeyecare.com/sitemap.xml"
+      ],
+      "disallow": [],
+      "allow": [
+        "/"
+      ]
+    },
+    "sitemaps": [
+      "https://www.vueeyecare.com/sitemap.xml",
+      "https://www.vueeyecare.com/sitemap_index.xml",
+      "https://www.vueeyecare.com/wp-sitemap.xml",
+      "https://www.vueeyecare.com/sitemap-index.xml"
+    ],
+    "sitemapUrlCount": 35,
+    "sitemapsFetched": [
+      "https://www.vueeyecare.com/sitemap.xml",
+      "https://www.vueeyecare.com/sitemap_index.xml",
+      "https://www.vueeyecare.com/wp-sitemap.xml",
+      "https://www.vueeyecare.com/sitemap-index.xml"
+    ],
+    "robotsHonoured": false
+  },
+  "counts": {
+    "pages": 34,
+    "html": 33,
+    "nonHtml": 0,
+    "failed": 1,
+    "fetchedThisRun": 33,
+    "skippedResume": 0,
+    "blockedByRobots": 0,
+    "refusedHosts": [],
+    "aliasesCollapsed": 0
+  },
+  "truncated": false,
+  "queueRemaining": 0,
+  "maxPages": 300,
+  "pages": [
+    {
+      "url": "https://www.vueeyecare.com/",
+      "finalUrl": "https://www.vueeyecare.com/",
+      "aliases": [],
+      "status": 200,
+      "ok": true,
+      "contentType": "text/html",
+      "bytes": 202271,
+      "sha256": "9620593ab9e496d0643142be82a2e8c5442f95993f00c1c7ce9ecdd4e4515d38",
+      "savedAs": "index.html",
+      "depth": 0,
+      "discoveredFrom": "seed",
+      "redirectChain": [],
+      "headers": {
+        "content-type": "text/html",
+        "x-powered-by": "",
+        "server": "AmazonS3",
+        "cache-control": "",
+        "link": ""
+      },
+      "internalLinks": [
+        "https://www.vueeyecare.com/",
+        "https://www.vueeyecare.com/hours-location",
+        "https://www.vueeyecare.com/our-eye-doctors",
+        "https://www.vueeyecare.com/eye-care-services",
+        "https://www.vueeyecare.com/eye-care-services/eye-exams",
+        "https://www.vueeyecare.com/eye-care-services/contact-lens-exams",
+        "https://www.vueeyecare.com/eye-care-services/management-of-ocular-diseases",
+        "https://www.vueeyecare.com/eyeglasses",
+        "https://www.vueeyecare.com/contact-lenses",
+        "https://www.vueeyecare.com/insurance",
+        "https://www.vueeyecare.com/promotions",
+        "https://www.vueeyecare.com/eye-care-services/myopia-management",
+        "https://www.vueeyecare.com/eye-care-services/eye-conditions/dry-eye-disease-and-treatment",
+        "https://www.vueeyecare.com/team/pt-dinh-od-ms-iacmm",
+        "https://www.vueeyecare.com/website-accessibility-policy",
+        "https://www.vueeyecare.com/sitemap",
+        "https://www.vueeyecare.com/privacy-policy",
+        "https://www.vueeyecare.com/disclaimer"
+      ],
+      "externalLinks": [
+        "https://p.adit.com/Rx8cZ",
+        "https://www.google.com/search?q=Vue+Eyecare+-+Located+at+2515+O%27Neal+Ln+Suite+%235%2C+Baton+Rouge%2C+LA+70816&sourceid=chrome&ie=UTF-8&sei=TYMDaZnIKeOg5NoP2_vy0Qc",
+        "https://www.google.com/maps/search?api=1&query=Google&query_place_id=ChIJvazbxom7JoYRDPolZoMfoeM",
+        "https://www.facebook.com/pages/Vue-Eyecare/581846528647408?rf=787396314709172",
+        "https://www.yelp.com/biz/vue-eyecare-baton-rouge",
+        "https://www.google.com/search?q=google+vue+eyecare+baton+rouge+la&oq=google+vue+eyecare+baton+rouge+la&aqs=chrome..69i57j69i64.11024j0j4&sourceid=chrome&ie=UTF-8",
+        "https://www.eyecarepro.com/"
+      ],
+      "stylesheetHrefs": [],
+      "inlineStyleBytes": 97391,
+      "fetchedAt": "2026-10-01T04:33:48.547Z"
+    },
+    {
+      "url": "https://www.vueeyecare.com/contact-lenses",
+      "finalUrl": "https://www.vueeyecare.com/contact-lenses/",
+      "aliases": [],
+      "status": 200,
+      "ok": true,
+      "contentType": "text/html",
+      "bytes": 135142,
+      "sha256": "eed816ac54610f38ff10318100980afa8a0d8cb93741664a595b0752f4e02fe9",
+      "savedAs": "contact-lenses.html",
+      "depth": 0,
+      "discoveredFrom": "seed",
+      "redirectChain": [
+        {
+          "from": "https://www.vueeyecare.com/contact-lenses",
+          "status": 301,
+          "to": "https://www.vueeyecare.com/contact-lenses/"
+        }
+      ],
+      "headers": {
+        "content-type": "text/html",
+        "x-powered-by": "",
+        "server": "AmazonS3",
+        "cache-control": "",
+        "link": ""
+      },
+      "internalLinks": [
+        "https://www.vueeyecare.com/",
+        "https://www.vueeyecare.com/hours-location",
+        "https://www.vueeyecare.com/our-eye-doctors",
+        "https://www.vueeyecare.com/eye-care-services",
+        "https://www.vueeyecare.com/eye-care-services/eye-exams",
+        "https://www.vueeyecare.com/eye-care-services/contact-lens-exams",
+        "https://www.vueeyecare.com/eye-care-services/management-of-ocular-diseases",
+        "https://www.vueeyecare.com/eyeglasses",
+        "https://www.vueeyecare.com/contact-lenses",
+        "https://www.vueeyecare.com/insurance",
+        "https://www.vueeyecare.com/promotions",
+        "https://www.vueeyecare.com/eye-care-services/contact-lens-exams/hard-to-fit",
+        "https://www.vueeyecare.com/website-accessibility-policy",
+        "https://www.vueeyecare.com/sitemap",
+        "https://www.vueeyecare.com/privacy-policy",
+        "https://www.vueeyecare.com/disclaimer"
+      ],
+      "externalLinks": [
+        "https://p.adit.com/Rx8cZ",
+        "https://www.google.com/maps/search?api=1&query=Google&query_place_id=ChIJvazbxom7JoYRDPolZoMfoeM",
+        "https://www.facebook.com/pages/Vue-Eyecare/581846528647408?rf=787396314709172",
+        "https://www.yelp.com/biz/vue-eyecare-baton-rouge",
+        "https://www.google.com/search?q=google+vue+eyecare+baton+rouge+la&oq=google+vue+eyecare+baton+rouge+la&aqs=chrome..69i57j69i64.11024j0j4&sourceid=chrome&ie=UTF-8",
+        "https://www.eyecarepro.com/"
+      ],
+      "stylesheetHrefs": [],
+      "inlineStyleBytes": 82019,
+      "fetchedAt": "2026-10-01T04:34:16.624Z"
+    },
+    {
+      "url": "https://www.vueeyecare.com/contact-lenses/contact-lenses-for-the-hard-to-fit-patient",
+      "finalUrl": "https://www.vueeyecare.com/contact-lenses/contact-lenses-for-the-hard-to-fit-patient/",
+      "aliases": [],
+      "status": 200,
+      "ok": true,
+      "contentType": "text/html",
+      "bytes": 73008,
+      "sha256": "6ab1a6cf7101ed76050d8ba3edb3ca9e000666c793c188eeaf243a91c9bdd6d5",
+      "savedAs": "contact-lenses-contact-lenses-for-the-hard-to-fit-patient.html",
+      "depth": 0,
+      "discoveredFrom": "seed",
+      "redirectChain": [
+        {
+          "from": "https://www.vueeyecare.com/contact-lenses/contact-lenses-for-the-hard-to-fit-patient",
+          "status": 301,
+          "to": "https://www.vueeyecare.com/contact-lenses/contact-lenses-for-the-hard-to-fit-patient/"
+        }
+      ],
+      "headers": {
+        "content-type": "text/html",
+        "x-powered-by": "",
+        "server": "AmazonS3",
+        "cache-control": "",
+        "link": ""
+      },
+      "internalLinks": [
+        "https://www.vueeyecare.com/",
+        "https://www.vueeyecare.com/hours-location",
+        "https://www.vueeyecare.com/our-eye-doctors",
+        "https://www.vueeyecare.com/eye-care-services",
+        "https://www.vueeyecare.com/eye-care-services/eye-exams",
+        "https://www.vueeyecare.com/eye-care-services/contact-lens-exams",
+        "https://www.vueeyecare.com/eye-care-services/management-of-ocular-diseases",
+        "https://www.vueeyecare.com/eyeglasses",
+        "https://www.vueeyecare.com/contact-lenses",
+        "https://www.vueeyecare.com/insurance",
+        "https://www.vueeyecare.com/promotions",
+        "https://www.vueeyecare.com/website-accessibility-policy",
+        "https://www.vueeyecare.com/sitemap",
+        "https://www.vueeyecare.com/privacy-policy",
+        "https://www.vueeyecare.com/disclaimer"
+      ],
+      "externalLinks": [
+        "https://p.adit.com/Rx8cZ",
+        "https://www.google.com/maps/search?api=1&query=Google&query_place_id=ChIJvazbxom7JoYRDPolZoMfoeM",
+        "https://www.facebook.com/pages/Vue-Eyecare/581846528647408?rf=787396314709172",
+        "https://www.yelp.com/biz/vue-eyecare-baton-rouge",
+        "https://www.google.com/search?q=google+vue+eyecare+baton+rouge+la&oq=google+vue+eyecare+baton+rouge+la&aqs=chrome..69i57j69i64.11024j0j4&sourceid=chrome&ie=UTF-8",
+        "https://www.eyecarepro.com/"
+      ],
+      "stylesheetHrefs": [],
+      "inlineStyleBytes": 40314,
+      "fetchedAt": "2026-10-01T04:34:01.155Z"
+    },
+    {
+      "url": "https://www.vueeyecare.com/contact-lenses/eye-exams-for-contact-lenses",
+      "finalUrl": "https://www.vueeyecare.com/contact-lenses/eye-exams-for-contact-lenses/",
+      "aliases": [],
+      "status": 200,
+      "ok": true,
+      "contentType": "text/html",
+      "bytes": 72099,
+      "sha256": "5803308b5df72eb0696f96e2785f521af700ee3036754a6eeda07c19f5872bde",
+      "savedAs": "contact-lenses-eye-exams-for-contact-lenses.html",
+      "depth": 0,
+      "discoveredFrom": "seed",
+      "redirectChain": [
+        {
+          "from": "https://www.vueeyecare.com/contact-lenses/eye-exams-for-contact-lenses",
+          "status": 301,
+          "to": "https://www.vueeyecare.com/contact-lenses/eye-exams-for-contact-lenses/"
+        }
+      ],
+      "headers": {
+        "content-type": "text/html",
+        "x-powered-by": "",
+        "server": "AmazonS3",
+        "cache-control": "",
+        "link": ""
+      },
+      "internalLinks": [
+        "https://www.vueeyecare.com/",
+        "https://www.vueeyecare.com/hours-location",
+        "https://www.vueeyecare.com/our-eye-doctors",
+        "https://www.vueeyecare.com/eye-care-services",
+        "https://www.vueeyecare.com/eye-care-services/eye-exams",
+        "https://www.vueeyecare.com/eye-care-services/contact-lens-exams",
+        "https://www.vueeyecare.com/eye-care-services/management-of-ocular-diseases",
+        "https://www.vueeyecare.com/eyeglasses",
+        "https://www.vueeyecare.com/contact-lenses",
+        "https://www.vueeyecare.com/insurance",
+        "https://www.vueeyecare.com/promotions",
+        "https://www.vueeyecare.com/website-accessibility-policy",
+        "https://www.vueeyecare.com/sitemap",
+        "https://www.vueeyecare.com/privacy-policy",
+        "https://www.vueeyecare.com/disclaimer"
+      ],
+      "externalLinks": [
+        "https://p.adit.com/Rx8cZ",
+        "https://www.google.com/maps/search?api=1&query=Google&query_place_id=ChIJvazbxom7JoYRDPolZoMfoeM",
+        "https://www.facebook.com/pages/Vue-Eyecare/581846528647408?rf=787396314709172",
+        "https://www.yelp.com/biz/vue-eyecare-baton-rouge",
+        "https://www.google.com/search?q=google+vue+eyecare+baton+rouge+la&oq=google+vue+eyecare+baton+rouge+la&aqs=chrome..69i57j69i64.11024j0j4&sourceid=chrome&ie=UTF-8",
+        "https://www.eyecarepro.com/"
+      ],
+      "stylesheetHrefs": [],
+      "inlineStyleBytes": 40374,
+      "fetchedAt": "2026-10-01T04:34:18.533Z"
+    },
+    {
+      "url": "https://www.vueeyecare.com/contact-lenses/toric-contact-lenses-for-astigmatism",
+      "finalUrl": "https://www.vueeyecare.com/contact-lenses/toric-contact-lenses-for-astigmatism/",
+      "aliases": [],
+      "status": 200,
+      "ok": true,
+      "contentType": "text/html",
+      "bytes": 67583,
+      "sha256": "429cd6db6016e8509972d67d1fb6ce7ea6c64f2d80823ef4b93a696674a0833b",
+      "savedAs": "contact-lenses-toric-contact-lenses-for-astigmatism.html",
+      "depth": 0,
+      "discoveredFrom": "seed",
+      "redirectChain": [
+        {
+          "from": "https://www.vueeyecare.com/contact-lenses/toric-contact-lenses-for-astigmatism",
+          "status": 301,
+          "to": "https://www.vueeyecare.com/contact-lenses/toric-contact-lenses-for-astigmatism/"
+        }
+      ],
+      "headers": {
+        "content-type": "text/html",
+        "x-powered-by": "",
+        "server": "AmazonS3",
+        "cache-control": "",
+        "link": ""
+      },
+      "internalLinks": [
+        "https://www.vueeyecare.com/",
+        "https://www.vueeyecare.com/hours-location",
+        "https://www.vueeyecare.com/our-eye-doctors",
+        "https://www.vueeyecare.com/eye-care-services",
+        "https://www.vueeyecare.com/eye-care-services/eye-exams",
+        "https://www.vueeyecare.com/eye-care-services/contact-lens-exams",
+        "https://www.vueeyecare.com/eye-care-services/management-of-ocular-diseases",
+        "https://www.vueeyecare.com/eyeglasses",
+        "https://www.vueeyecare.com/contact-lenses",
+        "https://www.vueeyecare.com/insurance",
+        "https://www.vueeyecare.com/promotions",
+        "https://www.vueeyecare.com/website-accessibility-policy",
+        "https://www.vueeyecare.com/sitemap",
+        "https://www.vueeyecare.com/privacy-policy",
+        "https://www.vueeyecare.com/disclaimer"
+      ],
+      "externalLinks": [
+        "https://p.adit.com/Rx8cZ",
+        "https://www.google.com/maps/search?api=1&query=Google&query_place_id=ChIJvazbxom7JoYRDPolZoMfoeM",
+        "https://www.facebook.com/pages/Vue-Eyecare/581846528647408?rf=787396314709172",
+        "https://www.yelp.com/biz/vue-eyecare-baton-rouge",
+        "https://www.google.com/search?q=google+vue+eyecare+baton+rouge+la&oq=google+vue+eyecare+baton+rouge+la&aqs=chrome..69i57j69i64.11024j0j4&sourceid=chrome&ie=UTF-8",
+        "https://www.eyecarepro.com/"
+      ],
+      "stylesheetHrefs": [],
+      "inlineStyleBytes": 39601,
+      "fetchedAt": "2026-10-01T04:34:13.443Z"
+    },
+    {
+      "url": "https://www.vueeyecare.com/contact-us",
+      "finalUrl": "https://www.vueeyecare.com/contact-us/",
+      "aliases": [],
+      "status": 200,
+      "ok": true,
+      "contentType": "text/html",
+      "bytes": 72077,
+      "sha256": "6eaca624bc2dd37a4862865c377bf5a17ce6898a109b1aaca4a1b704739b8406",
+      "savedAs": "contact-us.html",
+      "depth": 0,
+      "discoveredFrom": "seed",
+      "redirectChain": [
+        {
+          "from": "https://www.vueeyecare.com/contact-us",
+          "status": 301,
+          "to": "https://www.vueeyecare.com/contact-us/"
+        }
+      ],
+      "headers": {
+        "content-type": "text/html",
+        "x-powered-by": "",
+        "server": "AmazonS3",
+        "cache-control": "",
+        "link": ""
+      },
+      "internalLinks": [
+        "https://www.vueeyecare.com/",
+        "https://www.vueeyecare.com/hours-location",
+        "https://www.vueeyecare.com/our-eye-doctors",
+        "https://www.vueeyecare.com/eye-care-services",
+        "https://www.vueeyecare.com/eye-care-services/eye-exams",
+        "https://www.vueeyecare.com/eye-care-services/contact-lens-exams",
+        "https://www.vueeyecare.com/eye-care-services/management-of-ocular-diseases",
+        "https://www.vueeyecare.com/eyeglasses",
+        "https://www.vueeyecare.com/contact-lenses",
+        "https://www.vueeyecare.com/insurance",
+        "https://www.vueeyecare.com/promotions",
+        "https://www.vueeyecare.com/website-accessibility-policy",
+        "https://www.vueeyecare.com/sitemap",
+        "https://www.vueeyecare.com/privacy-policy",
+        "https://www.vueeyecare.com/disclaimer"
+      ],
+      "externalLinks": [
+        "https://p.adit.com/Rx8cZ",
+        "https://www.google.com/maps/search?api=1&query=Google&query_place_id=ChIJvazbxom7JoYRDPolZoMfoeM",
+        "https://www.facebook.com/pages/Vue-Eyecare/581846528647408?rf=787396314709172",
+        "https://www.yelp.com/biz/vue-eyecare-baton-rouge",
+        "https://www.google.com/search?q=google+vue+eyecare+baton+rouge+la&oq=google+vue+eyecare+baton+rouge+la&aqs=chrome..69i57j69i64.11024j0j4&sourceid=chrome&ie=UTF-8",
+        "https://www.eyecarepro.com/"
+      ],
+      "stylesheetHrefs": [],
+      "inlineStyleBytes": 43489,
+      "fetchedAt": "2026-10-01T04:33:48.550Z"
+    },
+    {
+      "url": "https://www.vueeyecare.com/disclaimer",
+      "finalUrl": "https://www.vueeyecare.com/disclaimer/",
+      "aliases": [],
+      "status": 200,
+      "ok": true,
+      "contentType": "text/html",
+      "bytes": 67922,
+      "sha256": "1c669cb7cb958962f72e7b71f770c05f0da9313e7afd1c52fb3a178a5c67a4df",
+      "savedAs": "disclaimer.html",
+      "depth": 0,
+      "discoveredFrom": "seed",
+      "redirectChain": [
+        {
+          "from": "https://www.vueeyecare.com/disclaimer",
+          "status": 301,
+          "to": "https://www.vueeyecare.com/disclaimer/"
+        }
+      ],
+      "headers": {
+        "content-type": "text/html",
+        "x-powered-by": "",
+        "server": "AmazonS3",
+        "cache-control": "",
+        "link": ""
+      },
+      "internalLinks": [
+        "https://www.vueeyecare.com/",
+        "https://www.vueeyecare.com/hours-location",
+        "https://www.vueeyecare.com/our-eye-doctors",
+        "https://www.vueeyecare.com/eye-care-services",
+        "https://www.vueeyecare.com/eye-care-services/eye-exams",
+        "https://www.vueeyecare.com/eye-care-services/contact-lens-exams",
+        "https://www.vueeyecare.com/eye-care-services/management-of-ocular-diseases",
+        "https://www.vueeyecare.com/eyeglasses",
+        "https://www.vueeyecare.com/contact-lenses",
+        "https://www.vueeyecare.com/insurance",
+        "https://www.vueeyecare.com/promotions",
+        "https://www.vueeyecare.com/website-accessibility-policy",
+        "https://www.vueeyecare.com/sitemap",
+        "https://www.vueeyecare.com/privacy-policy",
+        "https://www.vueeyecare.com/disclaimer"
+      ],
+      "externalLinks": [
+        "https://p.adit.com/Rx8cZ",
+        "https://www.google.com/maps/search?api=1&query=Google&query_place_id=ChIJvazbxom7JoYRDPolZoMfoeM",
+        "https://www.facebook.com/pages/Vue-Eyecare/581846528647408?rf=787396314709172",
+        "https://www.yelp.com/biz/vue-eyecare-baton-rouge",
+        "https://www.google.com/search?q=google+vue+eyecare+baton+rouge+la&oq=google+vue+eyecare+baton+rouge+la&aqs=chrome..69i57j69i64.11024j0j4&sourceid=chrome&ie=UTF-8",
+        "https://www.eyecarepro.com/"
+      ],
+      "stylesheetHrefs": [],
+      "inlineStyleBytes": 40306,
+      "fetchedAt": "2026-10-01T04:33:51.863Z"
+    },
+    {
+      "url": "https://www.vueeyecare.com/eye-care-services",
+      "finalUrl": "https://www.vueeyecare.com/eye-care-services/",
+      "aliases": [],
+      "status": 200,
+      "ok": true,
+      "contentType": "text/html",
+      "bytes": 127132,
+      "sha256": "080e64f27d2370076690969217db7e47d2301c1d5841378fcb9eef5bd6c03082",
+      "savedAs": "eye-care-services.html",
+      "depth": 0,
+      "discoveredFrom": "seed",
+      "redirectChain": [
+        {
+          "from": "https://www.vueeyecare.com/eye-care-services",
+          "status": 301,
+          "to": "https://www.vueeyecare.com/eye-care-services/"
+        }
+      ],
+      "headers": {
+        "content-type": "text/html",
+        "x-powered-by": "",
+        "server": "AmazonS3",
+        "cache-control": "",
+        "link": ""
+      },
+      "internalLinks": [
+        "https://www.vueeyecare.com/",
+        "https://www.vueeyecare.com/hours-location",
+        "https://www.vueeyecare.com/our-eye-doctors",
+        "https://www.vueeyecare.com/eye-care-services",
+        "https://www.vueeyecare.com/eye-care-services/eye-exams",
+        "https://www.vueeyecare.com/eye-care-services/contact-lens-exams",
+        "https://www.vueeyecare.com/eye-care-services/management-of-ocular-diseases",
+        "https://www.vueeyecare.com/eyeglasses",
+        "https://www.vueeyecare.com/contact-lenses",
+        "https://www.vueeyecare.com/insurance",
+        "https://www.vueeyecare.com/promotions",
+        "https://www.vueeyecare.com/eye-care-services/myopia-management",
+        "https://www.vueeyecare.com/eye-care-services/lasik-refractive-surgery-co-management",
+        "https://www.vueeyecare.com/eye-care-services/eye-conditions/dry-eye-disease-and-treatment",
+        "https://www.vueeyecare.com/website-accessibility-policy",
+        "https://www.vueeyecare.com/sitemap",
+        "https://www.vueeyecare.com/privacy-policy",
+        "https://www.vueeyecare.com/disclaimer"
+      ],
+      "externalLinks": [
+        "https://p.adit.com/Rx8cZ",
+        "https://www.google.com/maps/search?api=1&query=Google&query_place_id=ChIJvazbxom7JoYRDPolZoMfoeM",
+        "https://www.facebook.com/pages/Vue-Eyecare/581846528647408?rf=787396314709172",
+        "https://www.yelp.com/biz/vue-eyecare-baton-rouge",
+        "https://www.google.com/search?q=google+vue+eyecare+baton+rouge+la&oq=google+vue+eyecare+baton+rouge+la&aqs=chrome..69i57j69i64.11024j0j4&sourceid=chrome&ie=UTF-8",
+        "https://www.eyecarepro.com/"
+      ],
+      "stylesheetHrefs": [],
+      "inlineStyleBytes": 78859,
+      "fetchedAt": "2026-10-01T04:34:01.159Z"
+    },
+    {
+      "url": "https://www.vueeyecare.com/eye-care-services/contact-lens-exams",
+      "finalUrl": "https://www.vueeyecare.com/eye-care-services/contact-lens-exams/",
+      "aliases": [],
+      "status": 200,
+      "ok": true,
+      "contentType": "text/html",
+      "bytes": 115017,
+      "sha256": "6edce4a4f09b034027431b4da84ee9d83c5fb2d4b246b827e8f7bcfa219dfedd",
+      "savedAs": "eye-care-services-contact-lens-exams.html",
+      "depth": 0,
+      "discoveredFrom": "seed",
+      "redirectChain": [
+        {
+          "from": "https://www.vueeyecare.com/eye-care-services/contact-lens-exams",
+          "status": 301,
+          "to": "https://www.vueeyecare.com/eye-care-services/contact-lens-exams/"
+        }
+      ],
+      "headers": {
+        "content-type": "text/html",
+        "x-powered-by": "",
+        "server": "AmazonS3",
+        "cache-control": "",
+        "link": ""
+      },
+      "internalLinks": [
+        "https://www.vueeyecare.com/",
+        "https://www.vueeyecare.com/hours-location",
+        "https://www.vueeyecare.com/our-eye-doctors",
+        "https://www.vueeyecare.com/eye-care-services",
+        "https://www.vueeyecare.com/eye-care-services/eye-exams",
+        "https://www.vueeyecare.com/eye-care-services/contact-lens-exams",
+        "https://www.vueeyecare.com/eye-care-services/management-of-ocular-diseases",
+        "https://www.vueeyecare.com/eyeglasses",
+        "https://www.vueeyecare.com/contact-lenses",
+        "https://www.vueeyecare.com/insurance",
+        "https://www.vueeyecare.com/promotions",
+        "https://www.vueeyecare.com/eye-care-services/contact-lens-exams/hard-to-fit",
+        "https://www.vueeyecare.com/website-accessibility-policy",
+        "https://www.vueeyecare.com/sitemap",
+        "https://www.vueeyecare.com/privacy-policy",
+        "https://www.vueeyecare.com/disclaimer"
+      ],
+      "externalLinks": [
+        "https://p.adit.com/Rx8cZ",
+        "https://www.google.com/maps/search?api=1&query=Google&query_place_id=ChIJvazbxom7JoYRDPolZoMfoeM",
+        "https://www.facebook.com/pages/Vue-Eyecare/581846528647408?rf=787396314709172",
+        "https://www.yelp.com/biz/vue-eyecare-baton-rouge",
+        "https://www.google.com/search?q=google+vue+eyecare+baton+rouge+la&oq=google+vue+eyecare+baton+rouge+la&aqs=chrome..69i57j69i64.11024j0j4&sourceid=chrome&ie=UTF-8",
+        "https://www.eyecarepro.com/"
+      ],
+      "stylesheetHrefs": [],
+      "inlineStyleBytes": 72904,
+      "fetchedAt": "2026-10-01T04:34:13.440Z"
+    },
+    {
+      "url": "https://www.vueeyecare.com/eye-care-services/contact-lens-exams/hard-to-fit",
+      "finalUrl": "https://www.vueeyecare.com/eye-care-services/contact-lens-exams/hard-to-fit/",
+      "aliases": [],
+      "status": 200,
+      "ok": true,
+      "contentType": "text/html",
+      "bytes": 96775,
+      "sha256": "4b09f9e5a1e3e6097d581a0bfb1390ee650c48bdd954cd6788139e3a76e454ff",
+      "savedAs": "eye-care-services-contact-lens-exams-hard-to-fit.html",
+      "depth": 0,
+      "discoveredFrom": "seed",
+      "redirectChain": [
+        {
+          "from": "https://www.vueeyecare.com/eye-care-services/contact-lens-exams/hard-to-fit",
+          "status": 301,
+          "to": "https://www.vueeyecare.com/eye-care-services/contact-lens-exams/hard-to-fit/"
+        }
+      ],
+      "headers": {
+        "content-type": "text/html",
+        "x-powered-by": "",
+        "server": "AmazonS3",
+        "cache-control": "",
+        "link": ""
+      },
+      "internalLinks": [
+        "https://www.vueeyecare.com/",
+        "https://www.vueeyecare.com/hours-location",
+        "https://www.vueeyecare.com/our-eye-doctors",
+        "https://www.vueeyecare.com/eye-care-services",
+        "https://www.vueeyecare.com/eye-care-services/eye-exams",
+        "https://www.vueeyecare.com/eye-care-services/contact-lens-exams",
+        "https://www.vueeyecare.com/eye-care-services/management-of-ocular-diseases",
+        "https://www.vueeyecare.com/eyeglasses",
+        "https://www.vueeyecare.com/contact-lenses",
+        "https://www.vueeyecare.com/insurance",
+        "https://www.vueeyecare.com/promotions",
+        "https://www.vueeyecare.com/website-accessibility-policy",
+        "https://www.vueeyecare.com/sitemap",
+        "https://www.vueeyecare.com/privacy-policy",
+        "https://www.vueeyecare.com/disclaimer"
+      ],
+      "externalLinks": [
+        "https://p.adit.com/Rx8cZ",
+        "https://www.google.com/maps/search?api=1&query=Google&query_place_id=ChIJvazbxom7JoYRDPolZoMfoeM",
+        "https://www.facebook.com/pages/Vue-Eyecare/581846528647408?rf=787396314709172",
+        "https://www.yelp.com/biz/vue-eyecare-baton-rouge",
+        "https://www.google.com/search?q=google+vue+eyecare+baton+rouge+la&oq=google+vue+eyecare+baton+rouge+la&aqs=chrome..69i57j69i64.11024j0j4&sourceid=chrome&ie=UTF-8",
+        "https://www.eyecarepro.com/"
+      ],
+      "stylesheetHrefs": [],
+      "inlineStyleBytes": 59053,
+      "fetchedAt": "2026-10-01T04:34:06.974Z"
+    },
+    {
+      "url": "https://www.vueeyecare.com/eye-care-services/eye-conditions",
+      "finalUrl": "https://www.vueeyecare.com/eye-care-services/eye-conditions/",
+      "aliases": [],
+      "status": 200,
+      "ok": true,
+      "contentType": "text/html",
+      "bytes": 72477,
+      "sha256": "71416df90c693ccecfbab37e28ed34b527f89871afa223c4a28cefc3f55002ca",
+      "savedAs": "eye-care-services-eye-conditions.html",
+      "depth": 0,
+      "discoveredFrom": "seed",
+      "redirectChain": [
+        {
+          "from": "https://www.vueeyecare.com/eye-care-services/eye-conditions",
+          "status": 301,
+          "to": "https://www.vueeyecare.com/eye-care-services/eye-conditions/"
+        }
+      ],
+      "headers": {
+        "content-type": "text/html",
+        "x-powered-by": "",
+        "server": "AmazonS3",
+        "cache-control": "",
+        "link": ""
+      },
+      "internalLinks": [
+        "https://www.vueeyecare.com/",
+        "https://www.vueeyecare.com/hours-location",
+        "https://www.vueeyecare.com/our-eye-doctors",
+        "https://www.vueeyecare.com/eye-care-services",
+        "https://www.vueeyecare.com/eye-care-services/eye-exams",
+        "https://www.vueeyecare.com/eye-care-services/contact-lens-exams",
+        "https://www.vueeyecare.com/eye-care-services/management-of-ocular-diseases",
+        "https://www.vueeyecare.com/eyeglasses",
+        "https://www.vueeyecare.com/contact-lenses",
+        "https://www.vueeyecare.com/insurance",
+        "https://www.vueeyecare.com/promotions",
+        "https://www.vueeyecare.com/eye-care-services/eye-conditions/dry-eye-disease-and-treatment",
+        "https://www.vueeyecare.com/website-accessibility-policy",
+        "https://www.vueeyecare.com/sitemap",
+        "https://www.vueeyecare.com/privacy-policy",
+        "https://www.vueeyecare.com/disclaimer"
+      ],
+      "externalLinks": [
+        "https://p.adit.com/Rx8cZ",
+        "https://www.google.com/maps/search?api=1&query=Google&query_place_id=ChIJvazbxom7JoYRDPolZoMfoeM",
+        "https://www.facebook.com/pages/Vue-Eyecare/581846528647408?rf=787396314709172",
+        "https://www.yelp.com/biz/vue-eyecare-baton-rouge",
+        "https://www.google.com/search?q=google+vue+eyecare+baton+rouge+la&oq=google+vue+eyecare+baton+rouge+la&aqs=chrome..69i57j69i64.11024j0j4&sourceid=chrome&ie=UTF-8",
+        "https://www.eyecarepro.com/"
+      ],
+      "stylesheetHrefs": [],
+      "inlineStyleBytes": 43399,
+      "fetchedAt": "2026-10-01T04:34:16.622Z"
+    },
+    {
+      "url": "https://www.vueeyecare.com/eye-care-services/eye-conditions/dry-eye-disease-and-treatment",
+      "finalUrl": "https://www.vueeyecare.com/eye-care-services/eye-conditions/dry-eye-disease-and-treatment/",
+      "aliases": [],
+      "status": 200,
+      "ok": true,
+      "contentType": "text/html",
+      "bytes": 92486,
+      "sha256": "1509f4ac2ead5fe3eb8ea600b60f18f81f352d283d9bb0b3d8044cd803b37248",
+      "savedAs": "eye-care-services-eye-conditions-dry-eye-disease-and-treatment.html",
+      "depth": 0,
+      "discoveredFrom": "seed",
+      "redirectChain": [
+        {
+          "from": "https://www.vueeyecare.com/eye-care-services/eye-conditions/dry-eye-disease-and-treatment",
+          "status": 301,
+          "to": "https://www.vueeyecare.com/eye-care-services/eye-conditions/dry-eye-disease-and-treatment/"
+        }
+      ],
+      "headers": {
+        "content-type": "text/html",
+        "x-powered-by": "",
+        "server": "AmazonS3",
+        "cache-control": "",
+        "link": ""
+      },
+      "internalLinks": [
+        "https://www.vueeyecare.com/",
+        "https://www.vueeyecare.com/hours-location",
+        "https://www.vueeyecare.com/our-eye-doctors",
+        "https://www.vueeyecare.com/eye-care-services",
+        "https://www.vueeyecare.com/eye-care-services/eye-exams",
+        "https://www.vueeyecare.com/eye-care-services/contact-lens-exams",
+        "https://www.vueeyecare.com/eye-care-services/management-of-ocular-diseases",
+        "https://www.vueeyecare.com/eyeglasses",
+        "https://www.vueeyecare.com/contact-lenses",
+        "https://www.vueeyecare.com/insurance",
+        "https://www.vueeyecare.com/promotions",
+        "https://www.vueeyecare.com/website-accessibility-policy",
+        "https://www.vueeyecare.com/sitemap",
+        "https://www.vueeyecare.com/privacy-policy",
+        "https://www.vueeyecare.com/disclaimer"
+      ],
+      "externalLinks": [
+        "https://p.adit.com/Rx8cZ",
+        "https://www.google.com/maps/search?api=1&query=Google&query_place_id=ChIJvazbxom7JoYRDPolZoMfoeM",
+        "https://www.facebook.com/pages/Vue-Eyecare/581846528647408?rf=787396314709172",
+        "https://www.yelp.com/biz/vue-eyecare-baton-rouge",
+        "https://www.google.com/search?q=google+vue+eyecare+baton+rouge+la&oq=google+vue+eyecare+baton+rouge+la&aqs=chrome..69i57j69i64.11024j0j4&sourceid=chrome&ie=UTF-8",
+        "https://www.eyecarepro.com/"
+      ],
+      "stylesheetHrefs": [],
+      "inlineStyleBytes": 55989,
+      "fetchedAt": "2026-10-01T04:34:10.212Z"
+    },
+    {
+      "url": "https://www.vueeyecare.com/eye-care-services/eye-emergencies-pinkred-eyes",
+      "finalUrl": "https://www.vueeyecare.com/eye-care-services/eye-emergencies-pinkred-eyes/",
+      "aliases": [],
+      "status": 200,
+      "ok": true,
+      "contentType": "text/html",
+      "bytes": 78652,
+      "sha256": "b6e53da1a3fc29fc91f5f90c616649d10461945320bcdc297c3916b3ca368395",
+      "savedAs": "eye-care-services-eye-emergencies-pinkred-eyes.html",
+      "depth": 0,
+      "discoveredFrom": "seed",
+      "redirectChain": [
+        {
+          "from": "https://www.vueeyecare.com/eye-care-services/eye-emergencies-pinkred-eyes",
+          "status": 301,
+          "to": "https://www.vueeyecare.com/eye-care-services/eye-emergencies-pinkred-eyes/"
+        }
+      ],
+      "headers": {
+        "content-type": "text/html",
+        "x-powered-by": "",
+        "server": "AmazonS3",
+        "cache-control": "",
+        "link": ""
+      },
+      "internalLinks": [
+        "https://www.vueeyecare.com/",
+        "https://www.vueeyecare.com/hours-location",
+        "https://www.vueeyecare.com/our-eye-doctors",
+        "https://www.vueeyecare.com/eye-care-services",
+        "https://www.vueeyecare.com/eye-care-services/eye-exams",
+        "https://www.vueeyecare.com/eye-care-services/contact-lens-exams",
+        "https://www.vueeyecare.com/eye-care-services/management-of-ocular-diseases",
+        "https://www.vueeyecare.com/eyeglasses",
+        "https://www.vueeyecare.com/contact-lenses",
+        "https://www.vueeyecare.com/insurance",
+        "https://www.vueeyecare.com/promotions",
+        "https://www.vueeyecare.com/website-accessibility-policy",
+        "https://www.vueeyecare.com/sitemap",
+        "https://www.vueeyecare.com/privacy-policy",
+        "https://www.vueeyecare.com/disclaimer"
+      ],
+      "externalLinks": [
+        "https://p.adit.com/Rx8cZ",
+        "https://www.google.com/maps/search?api=1&query=Google&query_place_id=ChIJvazbxom7JoYRDPolZoMfoeM",
+        "https://www.facebook.com/pages/Vue-Eyecare/581846528647408?rf=787396314709172",
+        "https://www.yelp.com/biz/vue-eyecare-baton-rouge",
+        "https://www.google.com/search?q=google+vue+eyecare+baton+rouge+la&oq=google+vue+eyecare+baton+rouge+la&aqs=chrome..69i57j69i64.11024j0j4&sourceid=chrome&ie=UTF-8",
+        "https://www.eyecarepro.com/"
+      ],
+      "stylesheetHrefs": [],
+      "inlineStyleBytes": 45737,
+      "fetchedAt": "2026-10-01T04:34:10.215Z"
+    },
+    {
+      "url": "https://www.vueeyecare.com/eye-care-services/eye-exams",
+      "finalUrl": "https://www.vueeyecare.com/eye-care-services/eye-exams/",
+      "aliases": [],
+      "status": 200,
+      "ok": true,
+      "contentType": "text/html",
+      "bytes": 91244,
+      "sha256": "240f054c9bf62c3fb56e080bb9493484399cf39b31522d7012c7aa2bfbb55c2a",
+      "savedAs": "eye-care-services-eye-exams.html",
+      "depth": 0,
+      "discoveredFrom": "seed",
+      "redirectChain": [
+        {
+          "from": "https://www.vueeyecare.com/eye-care-services/eye-exams",
+          "status": 301,
+          "to": "https://www.vueeyecare.com/eye-care-services/eye-exams/"
+        }
+      ],
+      "headers": {
+        "content-type": "text/html",
+        "x-powered-by": "",
+        "server": "AmazonS3",
+        "cache-control": "",
+        "link": ""
+      },
+      "internalLinks": [
+        "https://www.vueeyecare.com/",
+        "https://www.vueeyecare.com/hours-location",
+        "https://www.vueeyecare.com/our-eye-doctors",
+        "https://www.vueeyecare.com/eye-care-services",
+        "https://www.vueeyecare.com/eye-care-services/eye-exams",
+        "https://www.vueeyecare.com/eye-care-services/contact-lens-exams",
+        "https://www.vueeyecare.com/eye-care-services/management-of-ocular-diseases",
+        "https://www.vueeyecare.com/eyeglasses",
+        "https://www.vueeyecare.com/contact-lenses",
+        "https://www.vueeyecare.com/insurance",
+        "https://www.vueeyecare.com/promotions",
+        "https://www.vueeyecare.com/website-accessibility-policy",
+        "https://www.vueeyecare.com/sitemap",
+        "https://www.vueeyecare.com/privacy-policy",
+        "https://www.vueeyecare.com/disclaimer"
+      ],
+      "externalLinks": [
+        "https://p.adit.com/Rx8cZ",
+        "https://www.google.com/maps/search?api=1&query=Google&query_place_id=ChIJvazbxom7JoYRDPolZoMfoeM",
+        "https://www.facebook.com/pages/Vue-Eyecare/581846528647408?rf=787396314709172",
+        "https://www.yelp.com/biz/vue-eyecare-baton-rouge",
+        "https://www.google.com/search?q=google+vue+eyecare+baton+rouge+la&oq=google+vue+eyecare+baton+rouge+la&aqs=chrome..69i57j69i64.11024j0j4&sourceid=chrome&ie=UTF-8",
+        "https://www.eyecarepro.com/"
+      ],
+      "stylesheetHrefs": [],
+      "inlineStyleBytes": 56341,
+      "fetchedAt": "2026-10-01T04:34:10.216Z"
+    },
+    {
+      "url": "https://www.vueeyecare.com/eye-care-services/lasik-refractive-surgery-co-management",
+      "finalUrl": "https://www.vueeyecare.com/eye-care-services/lasik-refractive-surgery-co-management/",
+      "aliases": [],
+      "status": 200,
+      "ok": true,
+      "contentType": "text/html",
+      "bytes": 110392,
+      "sha256": "fa42bd972f51c131ea17422ca41c09eb30944baa3adb4c7b53692ce735df96e4",
+      "savedAs": "eye-care-services-lasik-refractive-surgery-co-management.html",
+      "depth": 0,
+      "discoveredFrom": "seed",
+      "redirectChain": [
+        {
+          "from": "https://www.vueeyecare.com/eye-care-services/lasik-refractive-surgery-co-management",
+          "status": 301,
+          "to": "https://www.vueeyecare.com/eye-care-services/lasik-refractive-surgery-co-management/"
+        }
+      ],
+      "headers": {
+        "content-type": "text/html",
+        "x-powered-by": "",
+        "server": "AmazonS3",
+        "cache-control": "",
+        "link": ""
+      },
+      "internalLinks": [
+        "https://www.vueeyecare.com/",
+        "https://www.vueeyecare.com/hours-location",
+        "https://www.vueeyecare.com/our-eye-doctors",
+        "https://www.vueeyecare.com/eye-care-services",
+        "https://www.vueeyecare.com/eye-care-services/eye-exams",
+        "https://www.vueeyecare.com/eye-care-services/contact-lens-exams",
+        "https://www.vueeyecare.com/eye-care-services/management-of-ocular-diseases",
+        "https://www.vueeyecare.com/eyeglasses",
+        "https://www.vueeyecare.com/contact-lenses",
+        "https://www.vueeyecare.com/insurance",
+        "https://www.vueeyecare.com/promotions",
+        "https://www.vueeyecare.com/website-accessibility-policy",
+        "https://www.vueeyecare.com/sitemap",
+        "https://www.vueeyecare.com/privacy-policy",
+        "https://www.vueeyecare.com/disclaimer"
+      ],
+      "externalLinks": [
+        "https://p.adit.com/Rx8cZ",
+        "https://www.google.com/maps/search?api=1&query=Google&query_place_id=ChIJvazbxom7JoYRDPolZoMfoeM",
+        "https://www.facebook.com/pages/Vue-Eyecare/581846528647408?rf=787396314709172",
+        "https://www.yelp.com/biz/vue-eyecare-baton-rouge",
+        "https://www.google.com/search?q=google+vue+eyecare+baton+rouge+la&oq=google+vue+eyecare+baton+rouge+la&aqs=chrome..69i57j69i64.11024j0j4&sourceid=chrome&ie=UTF-8",
+        "https://www.eyecarepro.com/"
+      ],
+      "stylesheetHrefs": [],
+      "inlineStyleBytes": 68482,
+      "fetchedAt": "2026-10-01T04:33:56.495Z"
+    },
+    {
+      "url": "https://www.vueeyecare.com/eye-care-services/management-of-ocular-diseases",
+      "finalUrl": "https://www.vueeyecare.com/eye-care-services/management-of-ocular-diseases/",
+      "aliases": [],
+      "status": 200,
+      "ok": true,
+      "contentType": "text/html",
+      "bytes": 87244,
+      "sha256": "8febdd948d02ceb65e713370b4c0c90e81b9a43fdd8c6a56561edc88d169930f",
+      "savedAs": "eye-care-services-management-of-ocular-diseases.html",
+      "depth": 0,
+      "discoveredFrom": "seed",
+      "redirectChain": [
+        {
+          "from": "https://www.vueeyecare.com/eye-care-services/management-of-ocular-diseases",
+          "status": 301,
+          "to": "https://www.vueeyecare.com/eye-care-services/management-of-ocular-diseases/"
+        }
+      ],
+      "headers": {
+        "content-type": "text/html",
+        "x-powered-by": "",
+        "server": "AmazonS3",
+        "cache-control": "",
+        "link": ""
+      },
+      "internalLinks": [
+        "https://www.vueeyecare.com/",
+        "https://www.vueeyecare.com/hours-location",
+        "https://www.vueeyecare.com/our-eye-doctors",
+        "https://www.vueeyecare.com/eye-care-services",
+        "https://www.vueeyecare.com/eye-care-services/eye-exams",
+        "https://www.vueeyecare.com/eye-care-services/contact-lens-exams",
+        "https://www.vueeyecare.com/eye-care-services/management-of-ocular-diseases",
+        "https://www.vueeyecare.com/eyeglasses",
+        "https://www.vueeyecare.com/contact-lenses",
+        "https://www.vueeyecare.com/insurance",
+        "https://www.vueeyecare.com/promotions",
+        "https://www.vueeyecare.com/eye-care-services/management-of-ocular-diseases/cataract-surgery-co-management",
+        "https://www.vueeyecare.com/eye-care-services/management-of-ocular-diseases/treating-diabetic-retinopathy",
+        "https://www.vueeyecare.com/eye-care-services/management-of-ocular-diseases/glaucoma-testing-treatment",
+        "https://www.vueeyecare.com/eye-care-services/management-of-ocular-diseases/treating-macular-degeneration",
+        "https://www.vueeyecare.com/website-accessibility-policy",
+        "https://www.vueeyecare.com/sitemap",
+        "https://www.vueeyecare.com/privacy-policy",
+        "https://www.vueeyecare.com/disclaimer"
+      ],
+      "externalLinks": [
+        "https://p.adit.com/Rx8cZ",
+        "https://www.google.com/maps/search?api=1&query=Google&query_place_id=ChIJvazbxom7JoYRDPolZoMfoeM",
+        "https://www.facebook.com/pages/Vue-Eyecare/581846528647408?rf=787396314709172",
+        "https://www.yelp.com/biz/vue-eyecare-baton-rouge",
+        "https://www.google.com/search?q=google+vue+eyecare+baton+rouge+la&oq=google+vue+eyecare+baton+rouge+la&aqs=chrome..69i57j69i64.11024j0j4&sourceid=chrome&ie=UTF-8",
+        "https://www.eyecarepro.com/"
+      ],
+      "stylesheetHrefs": [],
+      "inlineStyleBytes": 54393,
+      "fetchedAt": "2026-10-01T04:33:56.497Z"
+    },
+    {
+      "url": "https://www.vueeyecare.com/eye-care-services/management-of-ocular-diseases/cataract-surgery-co-management",
+      "finalUrl": "https://www.vueeyecare.com/eye-care-services/management-of-ocular-diseases/cataract-surgery-co-management/",
+      "aliases": [],
+      "status": 200,
+      "ok": true,
+      "contentType": "text/html",
+      "bytes": 72708,
+      "sha256": "d103bcb606a60065ce256db3c57b3ff02793da8ec98d064afa27fa4437366a72",
+      "savedAs": "eye-care-services-management-of-ocular-diseases-cataract-surgery-co-management.html",
+      "depth": 0,
+      "discoveredFrom": "seed",
+      "redirectChain": [
+        {
+          "from": "https://www.vueeyecare.com/eye-care-services/management-of-ocular-diseases/cataract-surgery-co-management",
+          "status": 301,
+          "to": "https://www.vueeyecare.com/eye-care-services/management-of-ocular-diseases/cataract-surgery-co-management/"
+        }
+      ],
+      "headers": {
+        "content-type": "text/html",
+        "x-powered-by": "",
+        "server": "AmazonS3",
+        "cache-control": "",
+        "link": ""
+      },
+      "internalLinks": [
+        "https://www.vueeyecare.com/",
+        "https://www.vueeyecare.com/hours-location",
+        "https://www.vueeyecare.com/our-eye-doctors",
+        "https://www.vueeyecare.com/eye-care-services",
+        "https://www.vueeyecare.com/eye-care-services/eye-exams",
+        "https://www.vueeyecare.com/eye-care-services/contact-lens-exams",
+        "https://www.vueeyecare.com/eye-care-services/management-of-ocular-diseases",
+        "https://www.vueeyecare.com/eyeglasses",
+        "https://www.vueeyecare.com/contact-lenses",
+        "https://www.vueeyecare.com/insurance",
+        "https://www.vueeyecare.com/promotions",
+        "https://www.vueeyecare.com/eye-care-services/management-of-ocular-diseases/treating-diabetic-retinopathy",
+        "https://www.vueeyecare.com/website-accessibility-policy",
+        "https://www.vueeyecare.com/sitemap",
+        "https://www.vueeyecare.com/privacy-policy",
+        "https://www.vueeyecare.com/disclaimer"
+      ],
+      "externalLinks": [
+        "https://p.adit.com/Rx8cZ",
+        "https://www.google.com/maps/search?api=1&query=Google&query_place_id=ChIJvazbxom7JoYRDPolZoMfoeM",
+        "https://www.facebook.com/pages/Vue-Eyecare/581846528647408?rf=787396314709172",
+        "https://www.yelp.com/biz/vue-eyecare-baton-rouge",
+        "https://www.google.com/search?q=google+vue+eyecare+baton+rouge+la&oq=google+vue+eyecare+baton+rouge+la&aqs=chrome..69i57j69i64.11024j0j4&sourceid=chrome&ie=UTF-8",
+        "https://www.eyecarepro.com/"
+      ],
+      "stylesheetHrefs": [],
+      "inlineStyleBytes": 43880,
+      "fetchedAt": "2026-10-01T04:34:13.452Z"
+    },
+    {
+      "url": "https://www.vueeyecare.com/eye-care-services/management-of-ocular-diseases/glaucoma-testing-treatment",
+      "finalUrl": "https://www.vueeyecare.com/eye-care-services/management-of-ocular-diseases/glaucoma-testing-treatment/",
+      "aliases": [],
+      "status": 200,
+      "ok": true,
+      "contentType": "text/html",
+      "bytes": 116529,
+      "sha256": "88c4da3d854ef3f98711743b3ba65f7dd13be20f73a39ed9d7580333015388f9",
+      "savedAs": "eye-care-services-management-of-ocular-diseases-glaucoma-testing-treatment.html",
+      "depth": 0,
+      "discoveredFrom": "seed",
+      "redirectChain": [
+        {
+          "from": "https://www.vueeyecare.com/eye-care-services/management-of-ocular-diseases/glaucoma-testing-treatment",
+          "status": 301,
+          "to": "https://www.vueeyecare.com/eye-care-services/management-of-ocular-diseases/glaucoma-testing-treatment/"
+        }
+      ],
+      "headers": {
+        "content-type": "text/html",
+        "x-powered-by": "",
+        "server": "AmazonS3",
+        "cache-control": "",
+        "link": ""
+      },
+      "internalLinks": [
+        "https://www.vueeyecare.com/",
+        "https://www.vueeyecare.com/hours-location",
+        "https://www.vueeyecare.com/our-eye-doctors",
+        "https://www.vueeyecare.com/eye-care-services",
+        "https://www.vueeyecare.com/eye-care-services/eye-exams",
+        "https://www.vueeyecare.com/eye-care-services/contact-lens-exams",
+        "https://www.vueeyecare.com/eye-care-services/management-of-ocular-diseases",
+        "https://www.vueeyecare.com/eyeglasses",
+        "https://www.vueeyecare.com/contact-lenses",
+        "https://www.vueeyecare.com/insurance",
+        "https://www.vueeyecare.com/promotions",
+        "https://www.vueeyecare.com/eye-care-services/management-of-ocular-diseases/treating-macular-degeneration",
+        "https://www.vueeyecare.com/website-accessibility-policy",
+        "https://www.vueeyecare.com/sitemap",
+        "https://www.vueeyecare.com/privacy-policy",
+        "https://www.vueeyecare.com/disclaimer"
+      ],
+      "externalLinks": [
+        "https://p.adit.com/Rx8cZ",
+        "https://www.google.com/maps/search?api=1&query=Google&query_place_id=ChIJvazbxom7JoYRDPolZoMfoeM",
+        "https://www.facebook.com/pages/Vue-Eyecare/581846528647408?rf=787396314709172",
+        "https://www.yelp.com/biz/vue-eyecare-baton-rouge",
+        "https://www.google.com/search?q=google+vue+eyecare+baton+rouge+la&oq=google+vue+eyecare+baton+rouge+la&aqs=chrome..69i57j69i64.11024j0j4&sourceid=chrome&ie=UTF-8",
+        "https://www.eyecarepro.com/"
+      ],
+      "stylesheetHrefs": [],
+      "inlineStyleBytes": 73158,
+      "fetchedAt": "2026-10-01T04:34:13.450Z"
+    },
+    {
+      "url": "https://www.vueeyecare.com/eye-care-services/management-of-ocular-diseases/treating-diabetic-retinopathy",
+      "finalUrl": "https://www.vueeyecare.com/eye-care-services/management-of-ocular-diseases/treating-diabetic-retinopathy/",
+      "aliases": [],
+      "status": 200,
+      "ok": true,
+      "contentType": "text/html",
+      "bytes": 71850,
+      "sha256": "35637b60cbf9ea48171405f65e9fe9345ae9f76f7a05e7d34f0669ce077900d0",
+      "savedAs": "eye-care-services-management-of-ocular-diseases-treating-diabetic-retinopathy.html",
+      "depth": 0,
+      "discoveredFrom": "seed",
+      "redirectChain": [
+        {
+          "from": "https://www.vueeyecare.com/eye-care-services/management-of-ocular-diseases/treating-diabetic-retinopathy",
+          "status": 301,
+          "to": "https://www.vueeyecare.com/eye-care-services/management-of-ocular-diseases/treating-diabetic-retinopathy/"
+        }
+      ],
+      "headers": {
+        "content-type": "text/html",
+        "x-powered-by": "",
+        "server": "AmazonS3",
+        "cache-control": "",
+        "link": ""
+      },
+      "internalLinks": [
+        "https://www.vueeyecare.com/",
+        "https://www.vueeyecare.com/hours-location",
+        "https://www.vueeyecare.com/our-eye-doctors",
+        "https://www.vueeyecare.com/eye-care-services",
+        "https://www.vueeyecare.com/eye-care-services/eye-exams",
+        "https://www.vueeyecare.com/eye-care-services/contact-lens-exams",
+        "https://www.vueeyecare.com/eye-care-services/management-of-ocular-diseases",
+        "https://www.vueeyecare.com/eyeglasses",
+        "https://www.vueeyecare.com/contact-lenses",
+        "https://www.vueeyecare.com/insurance",
+        "https://www.vueeyecare.com/promotions",
+        "https://www.vueeyecare.com/eye-care-services/management-of-ocular-diseases/glaucoma-testing-treatment",
+        "https://www.vueeyecare.com/website-accessibility-policy",
+        "https://www.vueeyecare.com/sitemap",
+        "https://www.vueeyecare.com/privacy-policy",
+        "https://www.vueeyecare.com/disclaimer"
+      ],
+      "externalLinks": [
+        "https://p.adit.com/Rx8cZ",
+        "https://www.google.com/maps/search?api=1&query=Google&query_place_id=ChIJvazbxom7JoYRDPolZoMfoeM",
+        "https://www.facebook.com/pages/Vue-Eyecare/581846528647408?rf=787396314709172",
+        "https://www.yelp.com/biz/vue-eyecare-baton-rouge",
+        "https://www.google.com/search?q=google+vue+eyecare+baton+rouge+la&oq=google+vue+eyecare+baton+rouge+la&aqs=chrome..69i57j69i64.11024j0j4&sourceid=chrome&ie=UTF-8",
+        "https://www.eyecarepro.com/"
+      ],
+      "stylesheetHrefs": [],
+      "inlineStyleBytes": 43811,
+      "fetchedAt": "2026-10-01T04:33:48.558Z"
+    },
+    {
+      "url": "https://www.vueeyecare.com/eye-care-services/management-of-ocular-diseases/treating-macular-degeneration",
+      "finalUrl": "https://www.vueeyecare.com/eye-care-services/management-of-ocular-diseases/treating-macular-degeneration/",
+      "aliases": [],
+      "status": 200,
+      "ok": true,
+      "contentType": "text/html",
+      "bytes": 72793,
+      "sha256": "4d4c03ae2140e8c22140fee28d3035ae57ef8d5023e9ed289eac889176969456",
+      "savedAs": "eye-care-services-management-of-ocular-diseases-treating-macular-degeneration.html",
+      "depth": 0,
+      "discoveredFrom": "seed",
+      "redirectChain": [
+        {
+          "from": "https://www.vueeyecare.com/eye-care-services/management-of-ocular-diseases/treating-macular-degeneration",
+          "status": 301,
+          "to": "https://www.vueeyecare.com/eye-care-services/management-of-ocular-diseases/treating-macular-degeneration/"
+        }
+      ],
+      "headers": {
+        "content-type": "text/html",
+        "x-powered-by": "",
+        "server": "AmazonS3",
+        "cache-control": "",
+        "link": ""
+      },
+      "internalLinks": [
+        "https://www.vueeyecare.com/",
+        "https://www.vueeyecare.com/hours-location",
+        "https://www.vueeyecare.com/our-eye-doctors",
+        "https://www.vueeyecare.com/eye-care-services",
+        "https://www.vueeyecare.com/eye-care-services/eye-exams",
+        "https://www.vueeyecare.com/eye-care-services/contact-lens-exams",
+        "https://www.vueeyecare.com/eye-care-services/management-of-ocular-diseases",
+        "https://www.vueeyecare.com/eyeglasses",
+        "https://www.vueeyecare.com/contact-lenses",
+        "https://www.vueeyecare.com/insurance",
+        "https://www.vueeyecare.com/promotions",
+        "https://www.vueeyecare.com/eye-care-services/eye-emergencies-pinkred-eyes",
+        "https://www.vueeyecare.com/website-accessibility-policy",
+        "https://www.vueeyecare.com/sitemap",
+        "https://www.vueeyecare.com/privacy-policy",
+        "https://www.vueeyecare.com/disclaimer"
+      ],
+      "externalLinks": [
+        "https://p.adit.com/Rx8cZ",
+        "https://www.google.com/maps/search?api=1&query=Google&query_place_id=ChIJvazbxom7JoYRDPolZoMfoeM",
+        "https://www.facebook.com/pages/Vue-Eyecare/581846528647408?rf=787396314709172",
+        "https://www.yelp.com/biz/vue-eyecare-baton-rouge",
+        "https://www.google.com/search?q=google+vue+eyecare+baton+rouge+la&oq=google+vue+eyecare+baton+rouge+la&aqs=chrome..69i57j69i64.11024j0j4&sourceid=chrome&ie=UTF-8",
+        "https://www.eyecarepro.com/"
+      ],
+      "stylesheetHrefs": [],
+      "inlineStyleBytes": 44357,
+      "fetchedAt": "2026-10-01T04:33:48.560Z"
+    },
+    {
+      "url": "https://www.vueeyecare.com/eye-care-services/myopia-management",
+      "finalUrl": "https://www.vueeyecare.com/eye-care-services/myopia-management/",
+      "aliases": [],
+      "status": 200,
+      "ok": true,
+      "contentType": "text/html",
+      "bytes": 121080,
+      "sha256": "09e2a985111797a31da1e1fe2dd593d66f3cc5eda135c72ad1c6b98a0ec00d68",
+      "savedAs": "eye-care-services-myopia-management.html",
+      "depth": 0,
+      "discoveredFrom": "seed",
+      "redirectChain": [
+        {
+          "from": "https://www.vueeyecare.com/eye-care-services/myopia-management",
+          "status": 301,
+          "to": "https://www.vueeyecare.com/eye-care-services/myopia-management/"
+        }
+      ],
+      "headers": {
+        "content-type": "text/html",
+        "x-powered-by": "",
+        "server": "AmazonS3",
+        "cache-control": "",
+        "link": ""
+      },
+      "internalLinks": [
+        "https://www.vueeyecare.com/",
+        "https://www.vueeyecare.com/hours-location",
+        "https://www.vueeyecare.com/our-eye-doctors",
+        "https://www.vueeyecare.com/eye-care-services",
+        "https://www.vueeyecare.com/eye-care-services/eye-exams",
+        "https://www.vueeyecare.com/eye-care-services/contact-lens-exams",
+        "https://www.vueeyecare.com/eye-care-services/management-of-ocular-diseases",
+        "https://www.vueeyecare.com/eyeglasses",
+        "https://www.vueeyecare.com/contact-lenses",
+        "https://www.vueeyecare.com/insurance",
+        "https://www.vueeyecare.com/promotions",
+        "https://www.vueeyecare.com/website-accessibility-policy",
+        "https://www.vueeyecare.com/sitemap",
+        "https://www.vueeyecare.com/privacy-policy",
+        "https://www.vueeyecare.com/disclaimer"
+      ],
+      "externalLinks": [
+        "https://p.adit.com/Rx8cZ",
+        "https://www.google.com/maps/search?api=1&query=Google&query_place_id=ChIJvazbxom7JoYRDPolZoMfoeM",
+        "https://www.facebook.com/pages/Vue-Eyecare/581846528647408?rf=787396314709172",
+        "https://www.yelp.com/biz/vue-eyecare-baton-rouge",
+        "https://www.google.com/search?q=google+vue+eyecare+baton+rouge+la&oq=google+vue+eyecare+baton+rouge+la&aqs=chrome..69i57j69i64.11024j0j4&sourceid=chrome&ie=UTF-8",
+        "https://www.eyecarepro.com/"
+      ],
+      "stylesheetHrefs": [],
+      "inlineStyleBytes": 78493,
+      "fetchedAt": "2026-10-01T04:34:10.213Z"
+    },
+    {
+      "url": "https://www.vueeyecare.com/eyeglasses",
+      "finalUrl": "https://www.vueeyecare.com/eyeglasses/",
+      "aliases": [],
+      "status": 200,
+      "ok": true,
+      "contentType": "text/html",
+      "bytes": 172312,
+      "sha256": "4e5afbfc62c961911828bec176a8ff18c67f63620dc517cee293ed97c5aefca5",
+      "savedAs": "eyeglasses.html",
+      "depth": 0,
+      "discoveredFrom": "seed",
+      "redirectChain": [
+        {
+          "from": "https://www.vueeyecare.com/eyeglasses",
+          "status": 301,
+          "to": "https://www.vueeyecare.com/eyeglasses/"
+        }
+      ],
+      "headers": {
+        "content-type": "text/html",
+        "x-powered-by": "",
+        "server": "AmazonS3",
+        "cache-control": "",
+        "link": ""
+      },
+      "internalLinks": [
+        "https://www.vueeyecare.com/",
+        "https://www.vueeyecare.com/hours-location",
+        "https://www.vueeyecare.com/our-eye-doctors",
+        "https://www.vueeyecare.com/eye-care-services",
+        "https://www.vueeyecare.com/eye-care-services/eye-exams",
+        "https://www.vueeyecare.com/eye-care-services/contact-lens-exams",
+        "https://www.vueeyecare.com/eye-care-services/management-of-ocular-diseases",
+        "https://www.vueeyecare.com/eyeglasses",
+        "https://www.vueeyecare.com/contact-lenses",
+        "https://www.vueeyecare.com/insurance",
+        "https://www.vueeyecare.com/promotions",
+        "https://www.vueeyecare.com/website-accessibility-policy",
+        "https://www.vueeyecare.com/sitemap",
+        "https://www.vueeyecare.com/privacy-policy",
+        "https://www.vueeyecare.com/disclaimer"
+      ],
+      "externalLinks": [
+        "https://p.adit.com/Rx8cZ",
+        "https://www.google.com/maps/search?api=1&query=Google&query_place_id=ChIJvazbxom7JoYRDPolZoMfoeM",
+        "https://www.facebook.com/pages/Vue-Eyecare/581846528647408?rf=787396314709172",
+        "https://www.yelp.com/biz/vue-eyecare-baton-rouge",
+        "https://www.google.com/search?q=google+vue+eyecare+baton+rouge+la&oq=google+vue+eyecare+baton+rouge+la&aqs=chrome..69i57j69i64.11024j0j4&sourceid=chrome&ie=UTF-8",
+        "https://www.eyecarepro.com/"
+      ],
+      "stylesheetHrefs": [],
+      "inlineStyleBytes": 82172,
+      "fetchedAt": "2026-10-01T04:34:06.971Z"
+    },
+    {
+      "url": "https://www.vueeyecare.com/hours-location",
+      "finalUrl": "https://www.vueeyecare.com/hours-location/",
+      "aliases": [],
+      "status": 200,
+      "ok": true,
+      "contentType": "text/html",
+      "bytes": 91205,
+      "sha256": "cff4347f6fcaf63c605c239c9b3fd283796f9a02aa5e1de0a4d537a977aef8fe",
+      "savedAs": "hours-location.html",
+      "depth": 0,
+      "discoveredFrom": "seed",
+      "redirectChain": [
+        {
+          "from": "https://www.vueeyecare.com/hours-location",
+          "status": 301,
+          "to": "https://www.vueeyecare.com/hours-location/"
+        }
+      ],
+      "headers": {
+        "content-type": "text/html",
+        "x-powered-by": "",
+        "server": "AmazonS3",
+        "cache-control": "",
+        "link": ""
+      },
+      "internalLinks": [
+        "https://www.vueeyecare.com/",
+        "https://www.vueeyecare.com/hours-location",
+        "https://www.vueeyecare.com/our-eye-doctors",
+        "https://www.vueeyecare.com/eye-care-services",
+        "https://www.vueeyecare.com/eye-care-services/eye-exams",
+        "https://www.vueeyecare.com/eye-care-services/contact-lens-exams",
+        "https://www.vueeyecare.com/eye-care-services/management-of-ocular-diseases",
+        "https://www.vueeyecare.com/eyeglasses",
+        "https://www.vueeyecare.com/contact-lenses",
+        "https://www.vueeyecare.com/insurance",
+        "https://www.vueeyecare.com/promotions",
+        "https://www.vueeyecare.com/website-accessibility-policy",
+        "https://www.vueeyecare.com/sitemap",
+        "https://www.vueeyecare.com/privacy-policy",
+        "https://www.vueeyecare.com/disclaimer"
+      ],
+      "externalLinks": [
+        "https://p.adit.com/Rx8cZ",
+        "https://www.google.com/maps/search?api=1&query=Google&query_place_id=ChIJvazbxom7JoYRDPolZoMfoeM",
+        "https://www.facebook.com/pages/Vue-Eyecare/581846528647408?rf=787396314709172",
+        "https://www.yelp.com/biz/vue-eyecare-baton-rouge",
+        "https://www.google.com/search?q=google+vue+eyecare+baton+rouge+la&oq=google+vue+eyecare+baton+rouge+la&aqs=chrome..69i57j69i64.11024j0j4&sourceid=chrome&ie=UTF-8",
+        "https://www.eyecarepro.com/"
+      ],
+      "stylesheetHrefs": [],
+      "inlineStyleBytes": 57803,
+      "fetchedAt": "2026-10-01T04:34:01.153Z"
+    },
+    {
+      "url": "https://www.vueeyecare.com/insurance",
+      "finalUrl": "https://www.vueeyecare.com/insurance/",
+      "aliases": [],
+      "status": 200,
+      "ok": true,
+      "contentType": "text/html",
+      "bytes": 128344,
+      "sha256": "b4f98be724fff3d42b1dc44f036820485310f6684dc09d2385370b07125e0028",
+      "savedAs": "insurance.html",
+      "depth": 0,
+      "discoveredFrom": "seed",
+      "redirectChain": [
+        {
+          "from": "https://www.vueeyecare.com/insurance",
+          "status": 301,
+          "to": "https://www.vueeyecare.com/insurance/"
+        }
+      ],
+      "headers": {
+        "content-type": "text/html",
+        "x-powered-by": "",
+        "server": "AmazonS3",
+        "cache-control": "",
+        "link": ""
+      },
+      "internalLinks": [
+        "https://www.vueeyecare.com/",
+        "https://www.vueeyecare.com/hours-location",
+        "https://www.vueeyecare.com/our-eye-doctors",
+        "https://www.vueeyecare.com/eye-care-services",
+        "https://www.vueeyecare.com/eye-care-services/eye-exams",
+        "https://www.vueeyecare.com/eye-care-services/contact-lens-exams",
+        "https://www.vueeyecare.com/eye-care-services/management-of-ocular-diseases",
+        "https://www.vueeyecare.com/eyeglasses",
+        "https://www.vueeyecare.com/contact-lenses",
+        "https://www.vueeyecare.com/insurance",
+        "https://www.vueeyecare.com/promotions",
+        "https://www.vueeyecare.com/insurance/faqs-of-vision-insurance-plans",
+        "https://www.vueeyecare.com/insurance/whats-in-your-vision-insurance-plan",
+        "https://www.vueeyecare.com/insurance/carecredit",
+        "https://www.vueeyecare.com/website-accessibility-policy",
+        "https://www.vueeyecare.com/sitemap",
+        "https://www.vueeyecare.com/privacy-policy",
+        "https://www.vueeyecare.com/disclaimer"
+      ],
+      "externalLinks": [
+        "https://p.adit.com/Rx8cZ",
+        "https://www.google.com/maps/search?api=1&query=Google&query_place_id=ChIJvazbxom7JoYRDPolZoMfoeM",
+        "https://www.facebook.com/pages/Vue-Eyecare/581846528647408?rf=787396314709172",
+        "https://www.yelp.com/biz/vue-eyecare-baton-rouge",
+        "https://www.google.com/search?q=google+vue+eyecare+baton+rouge+la&oq=google+vue+eyecare+baton+rouge+la&aqs=chrome..69i57j69i64.11024j0j4&sourceid=chrome&ie=UTF-8",
+        "https://www.eyecarepro.com/"
+      ],
+      "stylesheetHrefs": [],
+      "inlineStyleBytes": 64677,
+      "fetchedAt": "2026-10-01T04:34:06.977Z"
+    },
+    {
+      "url": "https://www.vueeyecare.com/insurance/carecredit",
+      "finalUrl": "https://www.vueeyecare.com/insurance/carecredit/",
+      "aliases": [],
+      "status": 200,
+      "ok": true,
+      "contentType": "text/html",
+      "bytes": 69838,
+      "sha256": "76ca86a971b88040e0d60e10a1a40ee7fd9117cd19ce6e1ea2f54f75bec990f1",
+      "savedAs": "insurance-carecredit.html",
+      "depth": 0,
+      "discoveredFrom": "seed",
+      "redirectChain": [
+        {
+          "from": "https://www.vueeyecare.com/insurance/carecredit",
+          "status": 301,
+          "to": "https://www.vueeyecare.com/insurance/carecredit/"
+        }
+      ],
+      "headers": {
+        "content-type": "text/html",
+        "x-powered-by": "",
+        "server": "AmazonS3",
+        "cache-control": "",
+        "link": ""
+      },
+      "internalLinks": [
+        "https://www.vueeyecare.com/",
+        "https://www.vueeyecare.com/hours-location",
+        "https://www.vueeyecare.com/our-eye-doctors",
+        "https://www.vueeyecare.com/eye-care-services",
+        "https://www.vueeyecare.com/eye-care-services/eye-exams",
+        "https://www.vueeyecare.com/eye-care-services/contact-lens-exams",
+        "https://www.vueeyecare.com/eye-care-services/management-of-ocular-diseases",
+        "https://www.vueeyecare.com/eyeglasses",
+        "https://www.vueeyecare.com/contact-lenses",
+        "https://www.vueeyecare.com/insurance",
+        "https://www.vueeyecare.com/promotions",
+        "https://www.vueeyecare.com/website-accessibility-policy",
+        "https://www.vueeyecare.com/sitemap",
+        "https://www.vueeyecare.com/privacy-policy",
+        "https://www.vueeyecare.com/disclaimer"
+      ],
+      "externalLinks": [
+        "https://p.adit.com/Rx8cZ",
+        "http://www.carecredit.com/apply?dtc=DS5V",
+        "https://www.google.com/maps/search?api=1&query=Google&query_place_id=ChIJvazbxom7JoYRDPolZoMfoeM",
+        "https://www.facebook.com/pages/Vue-Eyecare/581846528647408?rf=787396314709172",
+        "https://www.yelp.com/biz/vue-eyecare-baton-rouge",
+        "https://www.google.com/search?q=google+vue+eyecare+baton+rouge+la&oq=google+vue+eyecare+baton+rouge+la&aqs=chrome..69i57j69i64.11024j0j4&sourceid=chrome&ie=UTF-8",
+        "https://www.eyecarepro.com/"
+      ],
+      "stylesheetHrefs": [],
+      "inlineStyleBytes": 41976,
+      "fetchedAt": "2026-10-01T04:34:01.161Z"
+    },
+    {
+      "url": "https://www.vueeyecare.com/insurance/faqs-of-vision-insurance-plans",
+      "finalUrl": "https://www.vueeyecare.com/insurance/faqs-of-vision-insurance-plans/",
+      "aliases": [],
+      "status": 200,
+      "ok": true,
+      "contentType": "text/html",
+      "bytes": 70097,
+      "sha256": "aae65fecaf3cefcdbfeaecbf6794b186a986ddae4f75240ad7b3cd94ba7c61bd",
+      "savedAs": "insurance-faqs-of-vision-insurance-plans.html",
+      "depth": 0,
+      "discoveredFrom": "seed",
+      "redirectChain": [
+        {
+          "from": "https://www.vueeyecare.com/insurance/faqs-of-vision-insurance-plans",
+          "status": 301,
+          "to": "https://www.vueeyecare.com/insurance/faqs-of-vision-insurance-plans/"
+        }
+      ],
+      "headers": {
+        "content-type": "text/html",
+        "x-powered-by": "",
+        "server": "AmazonS3",
+        "cache-control": "",
+        "link": ""
+      },
+      "internalLinks": [
+        "https://www.vueeyecare.com/",
+        "https://www.vueeyecare.com/hours-location",
+        "https://www.vueeyecare.com/our-eye-doctors",
+        "https://www.vueeyecare.com/eye-care-services",
+        "https://www.vueeyecare.com/eye-care-services/eye-exams",
+        "https://www.vueeyecare.com/eye-care-services/contact-lens-exams",
+        "https://www.vueeyecare.com/eye-care-services/management-of-ocular-diseases",
+        "https://www.vueeyecare.com/eyeglasses",
+        "https://www.vueeyecare.com/contact-lenses",
+        "https://www.vueeyecare.com/insurance",
+        "https://www.vueeyecare.com/promotions",
+        "https://www.vueeyecare.com/website-accessibility-policy",
+        "https://www.vueeyecare.com/sitemap",
+        "https://www.vueeyecare.com/privacy-policy",
+        "https://www.vueeyecare.com/disclaimer"
+      ],
+      "externalLinks": [
+        "https://p.adit.com/Rx8cZ",
+        "https://www.google.com/maps/search?api=1&query=Google&query_place_id=ChIJvazbxom7JoYRDPolZoMfoeM",
+        "https://www.facebook.com/pages/Vue-Eyecare/581846528647408?rf=787396314709172",
+        "https://www.yelp.com/biz/vue-eyecare-baton-rouge",
+        "https://www.google.com/search?q=google+vue+eyecare+baton+rouge+la&oq=google+vue+eyecare+baton+rouge+la&aqs=chrome..69i57j69i64.11024j0j4&sourceid=chrome&ie=UTF-8",
+        "https://www.eyecarepro.com/"
+      ],
+      "stylesheetHrefs": [],
+      "inlineStyleBytes": 41322,
+      "fetchedAt": "2026-10-01T04:34:16.628Z"
+    },
+    {
+      "url": "https://www.vueeyecare.com/insurance/whats-in-your-vision-insurance-plan",
+      "finalUrl": "https://www.vueeyecare.com/insurance/whats-in-your-vision-insurance-plan/",
+      "aliases": [],
+      "status": 200,
+      "ok": true,
+      "contentType": "text/html",
+      "bytes": 70556,
+      "sha256": "6b3a1b93b22567d1f9c29a495e05012ec28f6cf75ee9adddcd37d6c8f900f991",
+      "savedAs": "insurance-whats-in-your-vision-insurance-plan.html",
+      "depth": 0,
+      "discoveredFrom": "seed",
+      "redirectChain": [
+        {
+          "from": "https://www.vueeyecare.com/insurance/whats-in-your-vision-insurance-plan",
+          "status": 301,
+          "to": "https://www.vueeyecare.com/insurance/whats-in-your-vision-insurance-plan/"
+        }
+      ],
+      "headers": {
+        "content-type": "text/html",
+        "x-powered-by": "",
+        "server": "AmazonS3",
+        "cache-control": "",
+        "link": ""
+      },
+      "internalLinks": [
+        "https://www.vueeyecare.com/",
+        "https://www.vueeyecare.com/hours-location",
+        "https://www.vueeyecare.com/our-eye-doctors",
+        "https://www.vueeyecare.com/eye-care-services",
+        "https://www.vueeyecare.com/eye-care-services/eye-exams",
+        "https://www.vueeyecare.com/eye-care-services/contact-lens-exams",
+        "https://www.vueeyecare.com/eye-care-services/management-of-ocular-diseases",
+        "https://www.vueeyecare.com/eyeglasses",
+        "https://www.vueeyecare.com/contact-lenses",
+        "https://www.vueeyecare.com/insurance",
+        "https://www.vueeyecare.com/promotions",
+        "https://www.vueeyecare.com/website-accessibility-policy",
+        "https://www.vueeyecare.com/sitemap",
+        "https://www.vueeyecare.com/privacy-policy",
+        "https://www.vueeyecare.com/disclaimer"
+      ],
+      "externalLinks": [
+        "https://p.adit.com/Rx8cZ",
+        "https://www.google.com/maps/search?api=1&query=Google&query_place_id=ChIJvazbxom7JoYRDPolZoMfoeM",
+        "https://www.facebook.com/pages/Vue-Eyecare/581846528647408?rf=787396314709172",
+        "https://www.yelp.com/biz/vue-eyecare-baton-rouge",
+        "https://www.google.com/search?q=google+vue+eyecare+baton+rouge+la&oq=google+vue+eyecare+baton+rouge+la&aqs=chrome..69i57j69i64.11024j0j4&sourceid=chrome&ie=UTF-8",
+        "https://www.eyecarepro.com/"
+      ],
+      "stylesheetHrefs": [],
+      "inlineStyleBytes": 40310,
+      "fetchedAt": "2026-10-01T04:33:56.490Z"
+    },
+    {
+      "url": "https://www.vueeyecare.com/location/vue-eyecare",
+      "finalUrl": "https://www.vueeyecare.com/location/vue-eyecare/",
+      "aliases": [],
+      "status": 200,
+      "ok": true,
+      "contentType": "text/html",
+      "bytes": 129539,
+      "sha256": "9aef464c623afd1a47c1033c7fd738836627b0bd83fb38ffb2c1c0d19cf6b7d3",
+      "savedAs": "location-vue-eyecare.html",
+      "depth": 0,
+      "discoveredFrom": "seed",
+      "redirectChain": [
+        {
+          "from": "https://www.vueeyecare.com/location/vue-eyecare",
+          "status": 301,
+          "to": "https://www.vueeyecare.com/location/vue-eyecare/"
+        }
+      ],
+      "headers": {
+        "content-type": "text/html",
+        "x-powered-by": "",
+        "server": "AmazonS3",
+        "cache-control": "",
+        "link": ""
+      },
+      "internalLinks": [
+        "https://www.vueeyecare.com/",
+        "https://www.vueeyecare.com/hours-location",
+        "https://www.vueeyecare.com/our-eye-doctors",
+        "https://www.vueeyecare.com/eye-care-services",
+        "https://www.vueeyecare.com/eye-care-services/eye-exams",
+        "https://www.vueeyecare.com/eye-care-services/contact-lens-exams",
+        "https://www.vueeyecare.com/eye-care-services/management-of-ocular-diseases",
+        "https://www.vueeyecare.com/eyeglasses",
+        "https://www.vueeyecare.com/contact-lenses",
+        "https://www.vueeyecare.com/insurance",
+        "https://www.vueeyecare.com/promotions",
+        "https://www.vueeyecare.com/website-accessibility-policy",
+        "https://www.vueeyecare.com/sitemap",
+        "https://www.vueeyecare.com/privacy-policy",
+        "https://www.vueeyecare.com/disclaimer"
+      ],
+      "externalLinks": [
+        "https://p.adit.com/Rx8cZ",
+        "https://www.google.com/maps/search?api=1&query=Google&query_place_id=ChIJvazbxom7JoYRDPolZoMfoeM",
+        "https://www.facebook.com/pages/Vue-Eyecare/581846528647408?rf=787396314709172",
+        "https://www.yelp.com/biz/vue-eyecare-baton-rouge",
+        "https://www.google.com/search?q=google+vue+eyecare+baton+rouge+la&oq=google+vue+eyecare+baton+rouge+la&aqs=chrome..69i57j69i64.11024j0j4&sourceid=chrome&ie=UTF-8",
+        "https://www.eyecarepro.com/"
+      ],
+      "stylesheetHrefs": [],
+      "inlineStyleBytes": 53769,
+      "fetchedAt": "2026-10-01T04:33:56.493Z"
+    },
+    {
+      "url": "https://www.vueeyecare.com/our-eye-doctors",
+      "finalUrl": "https://www.vueeyecare.com/our-eye-doctors/",
+      "aliases": [],
+      "status": 200,
+      "ok": true,
+      "contentType": "text/html",
+      "bytes": 94542,
+      "sha256": "6bac2494f48a2d7b2074173c4a84d9bfb0255454e399038780f91d4ad37d66b6",
+      "savedAs": "our-eye-doctors.html",
+      "depth": 0,
+      "discoveredFrom": "seed",
+      "redirectChain": [
+        {
+          "from": "https://www.vueeyecare.com/our-eye-doctors",
+          "status": 301,
+          "to": "https://www.vueeyecare.com/our-eye-doctors/"
+        }
+      ],
+      "headers": {
+        "content-type": "text/html",
+        "x-powered-by": "",
+        "server": "AmazonS3",
+        "cache-control": "",
+        "link": ""
+      },
+      "internalLinks": [
+        "https://www.vueeyecare.com/",
+        "https://www.vueeyecare.com/hours-location",
+        "https://www.vueeyecare.com/our-eye-doctors",
+        "https://www.vueeyecare.com/eye-care-services",
+        "https://www.vueeyecare.com/eye-care-services/eye-exams",
+        "https://www.vueeyecare.com/eye-care-services/contact-lens-exams",
+        "https://www.vueeyecare.com/eye-care-services/management-of-ocular-diseases",
+        "https://www.vueeyecare.com/eyeglasses",
+        "https://www.vueeyecare.com/contact-lenses",
+        "https://www.vueeyecare.com/insurance",
+        "https://www.vueeyecare.com/promotions",
+        "https://www.vueeyecare.com/team/pt-dinh-od-ms-iacmm",
+        "https://www.vueeyecare.com/eye-care-services/eye-emergencies-pinkred-eyes",
+        "https://www.vueeyecare.com/website-accessibility-policy",
+        "https://www.vueeyecare.com/sitemap",
+        "https://www.vueeyecare.com/privacy-policy",
+        "https://www.vueeyecare.com/disclaimer"
+      ],
+      "externalLinks": [
+        "https://p.adit.com/Rx8cZ",
+        "https://www.google.com/maps/search?api=1&query=Google&query_place_id=ChIJvazbxom7JoYRDPolZoMfoeM",
+        "https://www.facebook.com/pages/Vue-Eyecare/581846528647408?rf=787396314709172",
+        "https://www.yelp.com/biz/vue-eyecare-baton-rouge",
+        "https://www.google.com/search?q=google+vue+eyecare+baton+rouge+la&oq=google+vue+eyecare+baton+rouge+la&aqs=chrome..69i57j69i64.11024j0j4&sourceid=chrome&ie=UTF-8",
+        "https://www.eyecarepro.com/"
+      ],
+      "stylesheetHrefs": [],
+      "inlineStyleBytes": 57285,
+      "fetchedAt": "2026-10-01T04:33:51.865Z"
+    },
+    {
+      "url": "https://www.vueeyecare.com/privacy-policy",
+      "finalUrl": "https://www.vueeyecare.com/privacy-policy/",
+      "aliases": [],
+      "status": 200,
+      "ok": true,
+      "contentType": "text/html",
+      "bytes": 79704,
+      "sha256": "0eac43891601d71166d89160fb9ae677cb1e369c1e42d96ffa20b569912a5e68",
+      "savedAs": "privacy-policy.html",
+      "depth": 0,
+      "discoveredFrom": "seed",
+      "redirectChain": [
+        {
+          "from": "https://www.vueeyecare.com/privacy-policy",
+          "status": 301,
+          "to": "https://www.vueeyecare.com/privacy-policy/"
+        }
+      ],
+      "headers": {
+        "content-type": "text/html",
+        "x-powered-by": "",
+        "server": "AmazonS3",
+        "cache-control": "",
+        "link": ""
+      },
+      "internalLinks": [
+        "https://www.vueeyecare.com/",
+        "https://www.vueeyecare.com/hours-location",
+        "https://www.vueeyecare.com/our-eye-doctors",
+        "https://www.vueeyecare.com/eye-care-services",
+        "https://www.vueeyecare.com/eye-care-services/eye-exams",
+        "https://www.vueeyecare.com/eye-care-services/contact-lens-exams",
+        "https://www.vueeyecare.com/eye-care-services/management-of-ocular-diseases",
+        "https://www.vueeyecare.com/eyeglasses",
+        "https://www.vueeyecare.com/contact-lenses",
+        "https://www.vueeyecare.com/insurance",
+        "https://www.vueeyecare.com/promotions",
+        "https://www.vueeyecare.com/website-accessibility-policy",
+        "https://www.vueeyecare.com/sitemap",
+        "https://www.vueeyecare.com/privacy-policy",
+        "https://www.vueeyecare.com/disclaimer"
+      ],
+      "externalLinks": [
+        "https://p.adit.com/Rx8cZ",
+        "https://www.google.com/maps/search?api=1&query=Google&query_place_id=ChIJvazbxom7JoYRDPolZoMfoeM",
+        "https://www.facebook.com/pages/Vue-Eyecare/581846528647408?rf=787396314709172",
+        "https://www.yelp.com/biz/vue-eyecare-baton-rouge",
+        "https://www.google.com/search?q=google+vue+eyecare+baton+rouge+la&oq=google+vue+eyecare+baton+rouge+la&aqs=chrome..69i57j69i64.11024j0j4&sourceid=chrome&ie=UTF-8",
+        "https://www.eyecarepro.com/"
+      ],
+      "stylesheetHrefs": [],
+      "inlineStyleBytes": 40310,
+      "fetchedAt": "2026-10-01T04:34:06.975Z"
+    },
+    {
+      "url": "https://www.vueeyecare.com/promotions",
+      "finalUrl": "https://www.vueeyecare.com/promotions/",
+      "aliases": [],
+      "status": 200,
+      "ok": true,
+      "contentType": "text/html",
+      "bytes": 83068,
+      "sha256": "4438594ca47f4c61f5507d7a1bb0d3c9590420534c91962cf85b5e5d6d720247",
+      "savedAs": "promotions.html",
+      "depth": 0,
+      "discoveredFrom": "seed",
+      "redirectChain": [
+        {
+          "from": "https://www.vueeyecare.com/promotions",
+          "status": 301,
+          "to": "https://www.vueeyecare.com/promotions/"
+        }
+      ],
+      "headers": {
+        "content-type": "text/html",
+        "x-powered-by": "",
+        "server": "AmazonS3",
+        "cache-control": "",
+        "link": ""
+      },
+      "internalLinks": [
+        "https://www.vueeyecare.com/",
+        "https://www.vueeyecare.com/hours-location",
+        "https://www.vueeyecare.com/our-eye-doctors",
+        "https://www.vueeyecare.com/eye-care-services",
+        "https://www.vueeyecare.com/eye-care-services/eye-exams",
+        "https://www.vueeyecare.com/eye-care-services/contact-lens-exams",
+        "https://www.vueeyecare.com/eye-care-services/management-of-ocular-diseases",
+        "https://www.vueeyecare.com/eyeglasses",
+        "https://www.vueeyecare.com/contact-lenses",
+        "https://www.vueeyecare.com/insurance",
+        "https://www.vueeyecare.com/promotions",
+        "https://www.vueeyecare.com/website-accessibility-policy",
+        "https://www.vueeyecare.com/sitemap",
+        "https://www.vueeyecare.com/privacy-policy",
+        "https://www.vueeyecare.com/disclaimer"
+      ],
+      "externalLinks": [
+        "https://p.adit.com/Rx8cZ",
+        "https://www.google.com/maps/search?api=1&query=Google&query_place_id=ChIJvazbxom7JoYRDPolZoMfoeM",
+        "https://www.facebook.com/pages/Vue-Eyecare/581846528647408?rf=787396314709172",
+        "https://www.yelp.com/biz/vue-eyecare-baton-rouge",
+        "https://www.google.com/search?q=google+vue+eyecare+baton+rouge+la&oq=google+vue+eyecare+baton+rouge+la&aqs=chrome..69i57j69i64.11024j0j4&sourceid=chrome&ie=UTF-8",
+        "https://www.eyecarepro.com/"
+      ],
+      "stylesheetHrefs": [],
+      "inlineStyleBytes": 54888,
+      "fetchedAt": "2026-10-01T04:33:51.867Z"
+    },
+    {
+      "url": "https://www.vueeyecare.com/sitemap",
+      "status": 404,
+      "ok": false,
+      "error": null,
+      "depth": 1,
+      "discoveredFrom": "https://www.vueeyecare.com/",
+      "redirectChain": [
+        {
+          "from": "https://www.vueeyecare.com/sitemap",
+          "status": 301,
+          "to": "https://www.vueeyecare.com/sitemap/"
+        }
+      ],
+      "fetchedAt": "2026-10-01T04:34:18.533Z"
+    },
+    {
+      "url": "https://www.vueeyecare.com/team/pt-dinh-od-ms-iacmm",
+      "finalUrl": "https://www.vueeyecare.com/team/pt-dinh-od-ms-iacmm/",
+      "aliases": [],
+      "status": 200,
+      "ok": true,
+      "contentType": "text/html",
+      "bytes": 75134,
+      "sha256": "3bf9d966eab59e9be4438d138353dbd1d69c4f2a7ca82b9404e28a2fc2ff8288",
+      "savedAs": "team-pt-dinh-od-ms-iacmm.html",
+      "depth": 0,
+      "discoveredFrom": "seed",
+      "redirectChain": [
+        {
+          "from": "https://www.vueeyecare.com/team/pt-dinh-od-ms-iacmm",
+          "status": 301,
+          "to": "https://www.vueeyecare.com/team/pt-dinh-od-ms-iacmm/"
+        }
+      ],
+      "headers": {
+        "content-type": "text/html",
+        "x-powered-by": "",
+        "server": "AmazonS3",
+        "cache-control": "",
+        "link": ""
+      },
+      "internalLinks": [
+        "https://www.vueeyecare.com/",
+        "https://www.vueeyecare.com/hours-location",
+        "https://www.vueeyecare.com/our-eye-doctors",
+        "https://www.vueeyecare.com/eye-care-services",
+        "https://www.vueeyecare.com/eye-care-services/eye-exams",
+        "https://www.vueeyecare.com/eye-care-services/contact-lens-exams",
+        "https://www.vueeyecare.com/eye-care-services/management-of-ocular-diseases",
+        "https://www.vueeyecare.com/eyeglasses",
+        "https://www.vueeyecare.com/contact-lenses",
+        "https://www.vueeyecare.com/insurance",
+        "https://www.vueeyecare.com/promotions",
+        "https://www.vueeyecare.com/website-accessibility-policy",
+        "https://www.vueeyecare.com/sitemap",
+        "https://www.vueeyecare.com/privacy-policy",
+        "https://www.vueeyecare.com/disclaimer"
+      ],
+      "externalLinks": [
+        "https://p.adit.com/Rx8cZ",
+        "https://www.google.com/maps/search?api=1&query=Google&query_place_id=ChIJvazbxom7JoYRDPolZoMfoeM",
+        "https://www.facebook.com/pages/Vue-Eyecare/581846528647408?rf=787396314709172",
+        "https://www.yelp.com/biz/vue-eyecare-baton-rouge",
+        "https://www.google.com/search?q=google+vue+eyecare+baton+rouge+la&oq=google+vue+eyecare+baton+rouge+la&aqs=chrome..69i57j69i64.11024j0j4&sourceid=chrome&ie=UTF-8",
+        "https://www.eyecarepro.com/"
+      ],
+      "stylesheetHrefs": [],
+      "inlineStyleBytes": 43712,
+      "fetchedAt": "2026-10-01T04:33:51.860Z"
+    },
+    {
+      "url": "https://www.vueeyecare.com/website-accessibility-policy",
+      "finalUrl": "https://www.vueeyecare.com/website-accessibility-policy/",
+      "aliases": [],
+      "status": 200,
+      "ok": true,
+      "contentType": "text/html",
+      "bytes": 74372,
+      "sha256": "78023bab0860480fab92315c1d97a95d34bb793f31828c583722daa2a9ffc1c1",
+      "savedAs": "website-accessibility-policy.html",
+      "depth": 0,
+      "discoveredFrom": "seed",
+      "redirectChain": [
+        {
+          "from": "https://www.vueeyecare.com/website-accessibility-policy",
+          "status": 301,
+          "to": "https://www.vueeyecare.com/website-accessibility-policy/"
+        }
+      ],
+      "headers": {
+        "content-type": "text/html",
+        "x-powered-by": "",
+        "server": "AmazonS3",
+        "cache-control": "",
+        "link": ""
+      },
+      "internalLinks": [
+        "https://www.vueeyecare.com/",
+        "https://www.vueeyecare.com/hours-location",
+        "https://www.vueeyecare.com/our-eye-doctors",
+        "https://www.vueeyecare.com/eye-care-services",
+        "https://www.vueeyecare.com/eye-care-services/eye-exams",
+        "https://www.vueeyecare.com/eye-care-services/contact-lens-exams",
+        "https://www.vueeyecare.com/eye-care-services/management-of-ocular-diseases",
+        "https://www.vueeyecare.com/eyeglasses",
+        "https://www.vueeyecare.com/contact-lenses",
+        "https://www.vueeyecare.com/insurance",
+        "https://www.vueeyecare.com/promotions",
+        "https://www.vueeyecare.com/website-accessibility-policy",
+        "https://www.vueeyecare.com/sitemap",
+        "https://www.vueeyecare.com/privacy-policy",
+        "https://www.vueeyecare.com/disclaimer"
+      ],
+      "externalLinks": [
+        "https://p.adit.com/Rx8cZ",
+        "https://get.adobe.com/reader/otherversions",
+        "https://www.google.com/maps/search?api=1&query=Google&query_place_id=ChIJvazbxom7JoYRDPolZoMfoeM",
+        "https://www.facebook.com/pages/Vue-Eyecare/581846528647408?rf=787396314709172",
+        "https://www.yelp.com/biz/vue-eyecare-baton-rouge",
+        "https://www.google.com/search?q=google+vue+eyecare+baton+rouge+la&oq=google+vue+eyecare+baton+rouge+la&aqs=chrome..69i57j69i64.11024j0j4&sourceid=chrome&ie=UTF-8",
+        "https://www.eyecarepro.com/"
+      ],
+      "stylesheetHrefs": [],
+      "inlineStyleBytes": 41122,
+      "fetchedAt": "2026-10-01T04:34:16.626Z"
+    }
+  ]
+}
